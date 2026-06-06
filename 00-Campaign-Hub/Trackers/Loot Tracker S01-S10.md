@@ -7,7 +7,7 @@
 | Owner | Item | State / Context |
 |---|---|---|
 | [[Flux]] | **Flux's Fantabulous Flipside Frock** | Graduation magic item; worn immediately |
-| [[Vega Bloodroot]] | **Masquerade Tattoo** | Graduation magic item; applied to her arm at the ceremony |
+| [[Vega Bloodroot]] | **Eldritch Claw Tattoo** *(granted in-fiction as "Masquerade Tattoo"; Taylor finalized the item as Eldritch Claw, 06/06/2026 — see S02)* | Graduation magic item; applied to her arm at the ceremony |
 | [[Deanna Smith-Wesson]] | **Notebook/paper item** ("handy dandy notebook") | Graduation magic item; properties not yet shown |
 | [[Samothy Smith-Wesson]] | **The "Power Pole"** (stick) | Graduation magic item; named on the spot |
 | [[Valerian Hellebore]] | **Cloak of Fashion** — the witch Florence's cloak | Graduation magic item; "aggressively too thin to offer any real protection" |
@@ -22,3 +22,19 @@
 | [[Valerian Hellebore]] | Quarterstaff · pistol | Armory picks (staff/sickle inventory cleanup) |
 | [[Barrett Grimmskar]] | Revolver ("TGC") + 30 extra rounds | Existing kit; rounds granted by DM |
 | Party (future) | Bag of Holding via Replicate Magic Item (needs any bag) · Returning Weapon infusion promised for Vega's axe | Planned during level-up |
+
+## S02 — Ashes of the Living (02/17/2026)
+
+| Owner | Item | State / Context |
+|---|---|---|
+| Party (whole) | **Silvered weapons & ammo** (silver stops vampire self-healing) | [[Bobby]] — free, in exchange for the book commission |
+| [[Flux]] | 20 silver-tipped arrows; silvered longbow | Bobby |
+| [[Deanna Smith-Wesson]] / [[Samothy Smith-Wesson]] / [[Barrett Grimmskar]] | 24 silver bullets each ("SMJ — silver metal jacket") | Bobby |
+| Party | 4 wooden stakes (4 charges each) + 7 well-done meat steaks | Bobby |
+| Party | **BAG OF HOLDING** (the group bag — his only one) | Bobby |
+| Party | **6 Superior Healing Potions** ("the blue level") + real Elvish rope | [[Abigail]] |
+| [[Flux]] | 50 gold pieces | Looted from [[Hampshire]] |
+| Party (held) | **Locket with a picture of two children** | Off a Hampshire victim — ties to the missing-children thread |
+| [[Vega Bloodroot]] | **Eldritch Claw Tattoo** — FINALIZED (replaces S01 "Masquerade Tattoo"; Taylor's decision) | Activated in combat: +1d6 damage rider (rolled 2 and 4) |
+| [[Vega Bloodroot]] | Brass knuckles + greataxe + rapier — **silvered** | Bobby |
+| [[Barrett Grimmskar]] | "Magnum" revolver (2d8+4), silvered | ⚑ "TGC" (S01) vs "Magnum" — same gun? |
