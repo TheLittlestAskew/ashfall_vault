@@ -150,3 +150,38 @@
 
 **Chase (above-table, on dice) · [Banter]**
 > "They're pretty, but girl, that's all they are. They're real mean girl at school. They're really pretty, but they fucking hate you."
+
+## S04 — A Gust of Wind (03/04/2026)
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Chance! Hooray! I did it! … I killed somebody."
+
+**Madi (substitute DM) · [Funny]**
+> "Right, sorry, I'm only the substitute DM. I don't have all of the teacher's notes."
+
+**Madi (substitute DM) · [Funny]**
+> "I added Taylor husband. I added, um, an extra Beast dude."
+
+**Christie (Zelda) · [Funny]**
+> "Oh, a slutty 20."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Just a bullet to the head does it every time."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Everybody's fucking stealing my kills, so I'm just gonna do this again. Moving it. There, make a fucking save."
+
+**Taylor (DM, from the car) · [DM Quip]**
+> "Radiant damage is double because it's technically the sun."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Sorry, is there a window in this room that I can throw my horrible druid ass self out of?"
+
+**Taylor (DM) · [DM Quip]**
+> "So, Sammy, you look— you get handed the dagger, you give it a quick one over, and you're like, yep, that's a dagger."
+
+**[[Barrett Grimmskar]] (Doug) · [Banter]**
+> "Barrett just looks at Z — really? You're closer to the ground, you still didn't see them?"
+
+**Madi → table · [Poignant]**
+> "I want to point out his dedication, guys. He hopped on to be here before he even texted me, his wife, that he was on his way home."

@@ -22,6 +22,10 @@ Behind a barred door, "away from prying ears": there's a **book rumored to still
 
 Silvered weapons/ammo across the board · 20 silver-tipped arrows · 24 silver bullets per gunner ("SMJ — silver metal jacket") · 4 wooden stakes (4 charges each) · meat steaks ×7 · **Bag of Holding** (his only one) · a couple of health potions.
 
+## Status of the Commission (S04)
+
+A gust-of-wind **book was found** in the hospital's second floor (Samothy, barrel of medical texts) — presumed his. Not yet delivered. The party also holds ~7 emeralds and assorted jewels for his infusion work, plus **two ritual daggers** of unknown metal that need a smithy's eye.
+
 ## Relationships
 
 - [[Abigail]] — she's been "trying to ride that mustache for years"; he threw her out of his shop for touching his stuff. The party coached her (bring alcohol, compliment the craftsmanship).

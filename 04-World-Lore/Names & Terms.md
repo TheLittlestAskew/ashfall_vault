@@ -70,6 +70,19 @@
 | Eldritch Maul | Item label ⚑ | DDB name on Vega's tattoo damage die (vs "Eldritch Claw Tattoo") |
 | "Orphe" / "Kira" | Garbled | Unknown — S03 audio |
 
+## Provisional ⚑ (S04)
+
+| Term | Type | Notes |
+|---|---|---|
+| Gary | Name (pre-ash) | Embalmer(?) — the photo + love letter, hospital 2F |
+| The Obscure Book | Item | Gust-of-wind book; presumed Bobby's commission |
+| Ritual daggers (fire / water-deity) | Items | Dead-language engravings; unknown woods + metals |
+| Spellfire Flare | Spell ⚑ | Flux's radiant nat-20 one-shot — unknown source |
+| Gut Shot / Deck Shot | Feature ⚑ | Barrett's 19-crit rider — two conflicting hearings (S02/S04) |
+| Maverick Spirit | Feature | Barrett: Risk Die on failed mental checks |
+| Sailor's Rite | Lore | Sailors buried at sea by boat (pre-ash Britain) |
+| Taylorito / Taylorita | (confirmed in use) | — |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

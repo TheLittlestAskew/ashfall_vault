@@ -40,6 +40,15 @@
 | **Mock the tank** | "The only one that it sucks for to get a 1 is the tank. If the tank gets a 1, you have to mock them" | S03 |
 | **2014 Totem Warrior resistances** | In play for Vega (all damage but psychic while raging) — "I homebrew a lot of everything" | S03 |
 
+## Standing Rules Added S04
+
+| Rule | Detail | Source |
+|---|---|---|
+| **Mid-encounter spell recovery** | In multi-session encounters, each caster rolls 2d6+1d4 at the rest point; result determines slots recovered (observed outcomes: all / half / 3). Bardic Inspiration: half back. DM testing a colleague's suggestion — table loved it | S04 |
+| **Substitute DM protocol** | Madi may run combat with open shared rolls (and may add monsters); DM-by-phone rulings honored from the car | S04 |
+| **+XP for table work** | 50 bonus XP awarded for the party doing the XP math | S04 |
+| **Maverick Spirit (Barrett)** | On a failed INT/WIS/CHA check or save, spend a Risk Die: +d8, can convert to success | S04 |
+
 ## One-Off Rulings
 
 - Magic Missile damage is **rolled** (per-dart d4+1), not fixed. *(S01)*

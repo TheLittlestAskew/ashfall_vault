@@ -20,7 +20,9 @@
 | 12 | Flora/Fauna | ✅ | ✅ (Beast Thrall created) | ➖ (no new creatures) |
 | 13 | House Rules & Rulings | ✅ | ✅ (+7 standing) | ✅ (+6 standing) |
 
-**Last fully synced session:** S03 — Mr. Cat, Esquire (02/24/2026) — ⚔️ combat carries into S04
+**S04 — A Gust of Wind:** all 13 items ✅/➖ (no new NPC/location/creature pages needed; Bobby + Hospital pages updated; cliffhanger resolved across Dashboard/threads).
+
+**Last fully synced session:** S04 — A Gust of Wind (03/04/2026)
 
 ## Catch-Up Queue (chronological)
 
@@ -29,7 +31,7 @@
 | 021326 | ✅ **S01 — Graduation Day** — fully synced 06/06/2026 |
 | 021726 | ✅ **S02 — Ashes of the Living** — fully synced 06/06/2026 |
 | 022426 (1+2) | ✅ **S03 — Mr. Cat, Esquire** — unified, fully synced 06/06/2026 |
-| 030426 | ⬜ not transcribed |
+| 030426 | ✅ **S04 — A Gust of Wind** — fully synced 06/06/2026 |
 | 032426 | ⬜ not transcribed |
 | 040126 | ⬜ not transcribed |
 | 040226 | ⬜ not transcribed |
@@ -63,6 +65,7 @@ Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Hallowe
 
 | Date | Session | Action |
 |---|---|---|
+| 06/06/2026 | S04 | Full propagation (auto-advance mode): session note created; trackers, journal, 7 PCs, Dashboard (threads 13–20), House Rules (+4), Spell Usage, glossary, Bobby, Old Hospital updated. Title "A Gust of Wind" auto-selected ⚑. New flags: Gut/Deck Shot, Spellfire Flare, Gary, Zelda's Moon light. |
 | 06/06/2026 | S03 | Full propagation: 2 created (session note, Mr. Cat), 14 updated (trackers, journal, 7 PCs, Old Hospital, Dashboard, House Rules, Spell Usage, glossary). Cliffhanger status threaded through Dashboard/Hospital/session note. "What are arms?" attribution corrected to Madi (archive-verified). |
 | 06/06/2026 | S02 | Full propagation: 6 created (session note, Bobby, Abigail, Hampshire, Old Hospital, Beast Thrall), 16 updated (4 trackers, journal, 7 PCs, Hargraven, Beast Binder, Primer, glossary, Dashboard, House Rules, Spell Usage). **Eldritch Claw Tattoo finalized** — S01 records corrected with provenance. Vega's sheet backstory (Taylor-added) indexed into glossary. |
 | 06/06/2026 | S01 | Founding propagation: 14 files created (session note, format reference, 4 trackers, journal, 4 NPCs, primer, glossary, 2 locations, creature), 13 files filled/updated (7 PCs, Hargraven, Dashboard, House Rules, Spell Usage, 4 pointer stubs). Player-name correction applied: Deanna=Madi, Zelda=Christie. |

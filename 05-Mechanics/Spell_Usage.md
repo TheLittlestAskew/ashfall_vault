@@ -57,3 +57,15 @@
 | [[Deanna Smith-Wesson]] | Perforating Shot ⚑ | homebrew | 1 | 18-damage final round |
 | [[Barrett Grimmskar]] / [[Flux]] | Finger Guns ⚑ | cantrip | many | Barrett's Risk Die rolled a 1 |
 | [[Flux]] | Fire Bolt ⚑ | cantrip | 1 (archive-only) | 10:53 PM — no transcript counterpart; Flux knows Fire Bolt? |
+
+## S04 — A Gust of Wind (03/04/2026)
+
+| Caster | Spell | Notes |
+|---|---|---|
+| [[Flux]] | **Spellfire Flare** ⚑ (radiant) | Nat-20 one-shot kill; unknown spell — homebrew? Possibly the S03 Fire Bolt mystery |
+| [[Valerian Hellebore]] | Moonbeam (sustained) | 30-dmg double-tick + the 38-dmg crit-fail kill (transcript-only) |
+| [[Valerian Hellebore]] | Healing Word (Magic Initiate) | Self-heal 13 — DDB bonus-action display bug ruled past |
+| [[Valerian Hellebore]] | Druidcraft | Rain-cloud cleaning + light banter |
+| [[Zelda Z Whipper]] | Starry Wisp ×2 + "her Moonbeam" light ⚑ | 14→28 ("technically the sun"); blue-tinted light feature, name unknown |
+| [[Samothy Smith-Wesson]] / [[Deanna Smith-Wesson]] | Pistol kit (Vex/Sap) | One-shot kills each |
+| All casters | **Spell-recovery mechanic** (2d6+1d4) | Val & Deanna all · Zelda & Flux half · Samothy & Barrett 3 |

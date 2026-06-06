@@ -46,3 +46,15 @@
 | All 7 PCs | **Hookshot Arm Bracers** — homebrew card formalized by [[Samothy Smith-Wesson]]: **+1 AC (attunement required ⚑)**, bonus action, 4 charges @ lvl 5 + reload period, tri-hook broadhead anchor | First combat workout: Zelda's wall-walk (high-ground advantage), Samothy's lethal cable-ride |
 | [[Vega Bloodroot]] | **Double-Bladed Scimitar** — homebrew by [[Flux\|Jill]], built mid-session: 2d4+4, finesse → enables Sneak Attack | Debut hit: 18 damage. DDB logs her tattoo die as "Eldritch Maul" ⚑ |
 | Party | *(no new loot — rooms unsearched; combat unresolved)* | Pharmacy/admin/book still pending |
+
+## S04 — A Gust of Wind (03/04/2026)
+
+| Owner | Item | State / Context |
+|---|---|---|
+| Party (bag of holding) | **THE OBSCURE BOOK** — gust of wind on opening | Presumed [[Bobby]]'s commission ⚑; found by Samothy in a barrel of medical books |
+| Party | ~7 **emeralds** · ~6 rubies · 1 **diamond** · 4 amethysts · ~25 gp | Emeralds = anti-Beastmaster ammo; jewels for castle protection |
+| Party | **Ritual dagger #1** — sweet-wood hilt, ancient arcane FIRE engravings | Flux's find; smithy + Comprehend Languages planned ⚑ |
+| Party | **Ritual dagger #2** — smoky-wood hilt, religious WATER-deity text | Deanna's find ⚑ |
+| [[Flux]] | **Watermark paper** — blank; candle reveals faint unreadable lettering | Unread mystery ⚑ |
+| Party | Medical supplies: bandages, burn cream, syringes, alcohol pads | Found by Valerian (nature check 25); main stock in basement |
+| — | Photo of woman + child + love letter to "Gary" | **Left in place** (not looted) |

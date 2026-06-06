@@ -26,4 +26,5 @@ Nurses' dormitory: meteor-era bloodstains, cobwebs, dust, overturned gurneys, ba
 ## Events
 
 - **S02:** Floor 1 cleared; party short-rested in the ER. Floor 2 + basement unexplored; book, nirnroot, and medical supplies still to find.
-- **S03:** Floor 2 multi-wave brawl — **UNRESOLVED** (paused mid-combat, 1 wounded beast thrall standing, ~6 slain). Rooms unsearched; pharmacy/admin/basement still pending.
+- **S03:** Floor 2 multi-wave brawl — paused mid-combat (cliffhanger).
+- **S04:** Combat **RESOLVED** (12 enemies total across S03–S04). Floor 2 fully looted: THE BOOK (gust of wind), gems incl. ~7 emeralds + a diamond, two ritual daggers, the watermark paper, the Gary photo, medical supplies. Shipping orders confirm the medicine stock is in the **basement** — next session ("a whole session"). Sailor's-Rite ward identified.

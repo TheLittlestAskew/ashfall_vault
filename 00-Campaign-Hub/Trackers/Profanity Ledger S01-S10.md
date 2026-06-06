@@ -49,15 +49,27 @@
 
 **Session champion:** Chase, 20 — three sessions running.
 
-## Running Totals (through S03, attributed only)
+## S04 — A Gust of Wind (03/04/2026)
+
+| Speaker | Session Total |
+|---|---|
+| Chase (Valerian) | **13** (+13 in the Chase/DM-car blob) |
+| Taylor (Vega) | 7 |
+| Josh (Samothy) | 7 |
+| Doug · Madi · Taylor (DM) | 3 each |
+| Christie · Jill | 1 each |
+
+**Champion:** Chase — four sessions running.
+
+## Running Totals (through S04, attributed only)
 
 | Speaker | Total |
 |---|---|
-| Chase | 64 |
-| Taylor (DM) | 38 |
-| Taylor | 33 |
-| Josh | 21 |
-| Madi | 8 |
-| Christie | 7 |
-| Doug | 5 |
-| *Unattributed pool* | *30* |
+| Chase | 77 |
+| Taylor (DM) | 41 |
+| Taylor | 40 |
+| Josh | 28 |
+| Madi | 11 |
+| Christie | 8 |
+| Doug | 8 |
+| *Unattributed pool* | *43* |

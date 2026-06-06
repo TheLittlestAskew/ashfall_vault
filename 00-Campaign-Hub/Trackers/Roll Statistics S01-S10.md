@@ -89,3 +89,20 @@
 - **Mystery pre-recording group Wisdom save** vs unknown — Samothy 4, Flux 3 (nat 1) FAILED ⚑
 - Kill contest standings at pause: Samothy 2 · Flux 2 · Valerian 1+ · Barrett 1 · rest 0
 - Initiative rolled twice (VTT auto-roller mutiny) — both volleys archived
+
+## S04 — A Gust of Wind (rolls keyed 2026-03-03)
+
+**Total archived: 81** — first-ever **DM (3) + creature-tagged rolls** (Beast A, Feral Vampire Thrall); Valerian 0 again ⚑ (sync gap, 2nd session)
+
+| Character | Rolls | Highlights |
+|---|---|---|
+| [[Vega Bloodroot]] | 19 | **FIRST KILL** (DBS 21→17); nat-20 investigation (the Gary photo) ⚑ roller ambiguity |
+| [[Samothy Smith-Wesson]] | 15 | One-shot feral kill; the book discovery (inspiration-rerolled 7→23); Arcana 24 on the daggers |
+| [[Flux]] | 13 | nat-20 Spellfire Flare ⚑ one-shot; the watermark paper |
+| [[Deanna Smith-Wesson]] | 11 | One-shot on Beast A (run by substitute-DM Madi); dagger Religion 18 |
+| [[Barrett Grimmskar]] | 9 | 19-crit "Gut Shot" kill ⚑ name; **Maverick Spirit revealed** (Risk Die on failed mental checks → found the gem room) |
+| [[Zelda Z Whipper]] | 9 | "Slutty 20" perception; sailor-ward loot |
+| DM (Taylor) | 3 + creatures | First archived DM combat rolls |
+| [[Valerian Hellebore]] | 0 ⚑ | Transcript-only: Moonbeam 38 kill (target crit-failed), Healing Word self-heal 13, nature 25 |
+
+**Records:** Vega's first kill (S04) · party-calculated XP +50 bonus · new spell-recovery mechanic rolls (2d6+1d4 per caster)

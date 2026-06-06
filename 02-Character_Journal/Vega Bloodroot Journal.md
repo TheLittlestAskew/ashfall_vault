@@ -62,3 +62,18 @@
 > It's late. The big one is still up — we hurt it, it's hurt bad, but it's still standing in the dark with its sniffing and its patience, and we stopped mid-swing because even hunters have to sleep. Tomorrow we finish it, find the pharmacy, find the book with a presence, and get out of this corpse of a building.
 >
 > We are not done with the second floor. It is not done with us.
+
+---
+
+> [!note]- S04 — The hospital. After. (A Gust of Wind)
+> **The hospital. After.**
+>
+> We finished it. The big one and everything that came after — twelve of them by the end, between the two nights. The last one died on my blade. Mine. I have been swinging since the gate and tonight the count finally says one, and I don't care that it says one, it says MINE.
+>
+> Then we tore the floor apart looking for anything worth carrying. Stones — green ones, red ones, one clear one big enough to choke on. The green ones kill Beast Masters, the dwarf says, so every one of them is a weapon. Two old daggers with writing nobody alive can read — one smells sweet, one smells like smoke; one speaks of fire, the other of a water god. A paper that's blank until you hold it over flame, and even then it keeps its secrets.
+>
+> And the book. Samothy pulled it out of a barrel of medical books like it was nothing, opened it, and the whole floor EXHALED. Wind, indoors, in a dead building. That's the dwarf's book, the one with a presence. We have it. I don't know if it has us.
+>
+> There was a photograph in the embalmer's room. A woman and a child, two weeks before the sky went dark. Someone named Gary kept it where he could see it while he worked. I put it back the way I found it. Some things you don't loot.
+>
+> Tomorrow: the basement. The medicine is down there. The morgue is down there. Whatever has been breathing in this building is probably down there too. We rest light.

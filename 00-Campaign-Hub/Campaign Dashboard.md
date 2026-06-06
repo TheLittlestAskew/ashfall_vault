@@ -6,12 +6,13 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
-| 03 | [[Session 03 — Mr. Cat, Esquire]] | 02/24/2026 | Same night (post-short-rest) | 5 (XP in Discord ⚑) | Hospital 2F brawl — **PAUSED MID-COMBAT** ⚔️; Mr. Cat named; kill contest; Beast Master boots on 2F |
+| 04 | [[Session 04 — A Gust of Wind]] | 03/04/2026 | Same night | **6** (21,700 XP) | Cliffhanger resolved (Madi substitute-DM'd); Vega's first kill; **THE BOOK found**; gems + ritual daggers; basement next |
+| 03 | [[Session 03 — Mr. Cat, Esquire]] | 02/24/2026 | Same night (post-short-rest) | 5 (XP in Discord ⚑) | Hospital 2F brawl — ~~PAUSED MID-COMBAT~~ resolved in S04; Mr. Cat named; kill contest; Beast Master boots on 2F |
 | 02 | [[Session 02 — Ashes of the Living]] | 02/17/2026 | Dawn after S01 | 5 (+3,300 XP) | Hampshire swept — Valerian's parents dead, children taken; Beast Master lore; Bobby's book commission; hospital floor 1 cleared |
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 030426 · 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
+**Not yet processed (catch-up queue, chronological):** 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
 
 ## Active Threads
 
@@ -27,9 +28,14 @@
 10. 💎 **Emeralds** — the only way to kill a Beastmaster; jewels for castle protection. (S02)
 11. 🐾 **The Hampshire Beast Master** — light-blue aura, vanishing footprints. Who? (⚑ Beast Binder relation pending DM.) (S02)
 12. 🏥 **The hospital, floors 2 + basement** — something was breathing in another wing. Rendezvous due in 2 in-game days. (S02)
-13. ⚔️ **CLIFFHANGER: hospital 2F combat UNRESOLVED** — 1 wounded beast thrall standing; S04 opens mid-initiative. (S03)
-14. 🏆 **Kill contest** — prize TBD (⚑ wording garbled): Samothy 2 · Flux 2 · Valerian 1+ · Barrett 1. (S03)
+13. ~~⚔️ CLIFFHANGER: hospital 2F combat~~ — ✅ RESOLVED S04 (12 enemies total; Vega's first kill closed it).
+14. 🏆 **Kill contest** — prize still unstated/unawarded ⚑; final-ish standings incl. Samothy 4. (S03–S04)
 15. ❓ **Pre-recording group Wisdom save vs unknown** — Samothy & Flux FAILED; effect unknown. (S03 ⚑ ask DM)
+16. 📕 **THE BOOK IS FOUND** (gust of wind) — presumed Bobby's; deliver + "don't tell the boss" fallout. (S04)
+17. 🗡️ **The ritual daggers** — fire-arcana + water-deity, dead language, unknown woods/metals → Bobby + Comprehend Languages. (S04)
+18. 📄 **The watermark paper** — candle-revealed, unread. (S04)
+19. 🖼️ **"Gary"** — the embalmer's photo/love letter (~2 wks pre-ash). Who was he? (S04)
+20. 🏥 **THE BASEMENT** — medicine stock confirmed there; morgue; "a whole session"; level-up after. (S04)
 
 ## Resolved Threads
 
@@ -66,9 +72,9 @@
 
 Post-meteor **Britain** — "medieval England with a steampunk vibe" (S02). See [[Setting Primer]].
 
-## Party Snapshot (as of S01)
+## Party Snapshot (as of S04)
 
-All 7 PCs — **Level 5** · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] (+ Steel Defender "kitty-taur")
+All 7 PCs — **Level 6** (21,700 XP) · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] (+ Steel Defender "kitty-taur")
 
 ## Reference
 
