@@ -11,6 +11,26 @@
 | **AC** | 14 (+1 bracers = 15) as of S01 |
 | **Appearance note** | "Your character looks like a half-orc Indiana Jones" — DM, S01 |
 
+## Backstory
+
+> From Vega's character sheet (pre-campaign). Names are kept as plain text until/unless these people and places appear in play.
+
+Born beneath the towering trees of the **Thornshade Forest**, in a moss-roofed wooden cottage with smoke forever curling from its stone chimney. Twin sister of **Varro**; the two were raised by their father **Harkon Bloodroot**, a quiet, steady man who bore his grief with stoic resolve, after their mother **Graza** — a fierce half-orc hunter — was devoured by a forest-dwelling monstrosity when the twins were barely old enough to walk.
+
+Despite that shadow, her childhood in the small, tightly-knit village of **Mossmere** was a happy one: friends, scraped knees, warm fires, and Vega always the bold one — climbing trees, leading games, testing limits. Though small for a half-orc, she never lacked courage, and she learned early to turn her stature into a weapon, playing the underestimated "helpless" role to bait bandits, slavers, and raiders before showing them the fury they never saw coming.
+
+When she came of age she joined the Mossmere militia — not for pride, but to protect: the children, the hearths, the land where her mother fell. In battle she fought like a storm, wild and unrelenting; the village elders said her love for her people was what fueled her strength.
+
+**The Siege of Hollowbarrow.** A horde of aberrant creatures spilled from the rotted heart of the forest. Vega fought day and night beside Varro and the militia, and they won — but at great cost. She survived; the images did not leave her. Eyes like black pits, screams, the ease with which her axe sank into flesh, the smell of burning blood. The nightmares still come.
+
+In the aftermath, blame circled. During a joint effort with an adventuring party, Vega made a call she believed would save more lives; it cost the life of a party member. The party's leader, **Kael Virethorn**, named her an enemy for it and still hunts her, convinced she is reckless and dangerous.
+
+Around the same time, an estranged great-uncle from a distant clan died and bequeathed her the **greataxe** she still carries — worn but enchanted, it felt as though it had always belonged in her hands. It is her legacy, a tie to her ancestors and to a destiny beyond herself.
+
+And then, in a glade where moonlight pooled like water, she met a **demigod**: a being of radiant presence and unknowable intent. It tested her in spirit, not in combat. She emerged changed, and never speaks of what passed between them.
+
+**Personality:** small but mighty; a dry sense of humor and a deep love for underdogs and outcasts. **True Neutral**, raised to a modest life. **Bonds:** her ties to Mossmere and to Varro are unshakable; the greataxe binds her to her ancestors. **Flaws:** guilt from the siege makes her question her own judgment, and her pride can goad her into fights when she's underestimated.
+
 ## Inner Life & Evolution
 
 - **S01 — persona crystallized:** *"the Regina George of Barbarians"* — sarcastic alpha confidence, declared at the table after she flipped off [[The Beast Binder]] with both hands (he flipped her off back). Player: "This is my personality now as a character. I hope you guys are ready."
