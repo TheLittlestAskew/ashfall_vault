@@ -37,7 +37,7 @@ Dawn after the gate attack. [[Lt. Hargraven]] ordered a sweep of [[Hampshire]] �
 
 **[[Valerian Hellebore]] found his parents mauled in his childhood home.** His scream carried across the village; [[Zelda Z Whipper]] hauled him out by the finger, [[Deanna Smith-Wesson]] covered the bodies. He spent the session swinging between gallows humor ("More alive than my parents") and channeled rage.
 
-[[Samothy Smith-Wesson]]'s Detect Magic found a single set of magically-auraed footprints — pointed shoes, slight heel, large — touring the village and vanishing mid-step. His nat-20 History (27) recalled the aura as **light blue**; Hargraven identified the signature: a **Beast Master** (Vampire Masters read dark red; theory — Beast Masters are closer to human). ⚑ Relation to [[The Beast Binder]] pending DM.
+[[Samothy Smith-Wesson]]'s Detect Magic found a single set of magically-auraed footprints — pointed shoes, slight heel, large — touring the village and vanishing mid-step. His nat-20 History (27) recalled the aura as **light blue**; Hargraven identified the signature: a **Beast Master** (Vampire Masters read dark red; theory — Beast Masters are closer to human). ⚑ Relation to [[The Beast Tamer]] pending DM.
 
 War room: supplies dangerously low, northern farms gone, watchtowers empty, unnatural night fog. Three sorties: the party → **the old hospital** (medical supplies); others → eastern merchant district and northern farms; rendezvous in 2 days. Backstory drop: **Vega and Flux jumped three training classes** to graduate with this group — Vega set the physical records, Flux the stealth record.
 

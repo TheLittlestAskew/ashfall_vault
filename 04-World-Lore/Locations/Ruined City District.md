@@ -10,4 +10,4 @@ Snowfall, eerie silence "like when it's snowing and it's just quiet." Smoke curl
 
 ## Events
 
-- **S01:** [[Feral Vampire Thrall]] attack (two waves fought, third recalled); [[The Beast Binder]]'s first appearance at the far edge of the ruined plaza; civilian rescue and gate-lever retrieval.
+- **S01:** [[Feral Vampire Thrall]] attack (two waves fought, third recalled); [[The Beast Tamer]]'s first appearance at the far edge of the ruined plaza; civilian rescue and gate-lever retrieval.

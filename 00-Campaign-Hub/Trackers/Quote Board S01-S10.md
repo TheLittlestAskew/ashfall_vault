@@ -4,10 +4,10 @@
 
 ## S01 — Graduation Day (02/13/2026)
 
-**[[The Beast Binder]] (DM) · [Serious]**
+**[[The Beast Tamer]] (DM) · [Serious]**
 > "You fight well for cattle, but your hearts will beat louder when they're offered to the Mistress of Hunger."
 
-**[[The Beast Binder]] (DM) · [Serious]**
+**[[The Beast Tamer]] (DM) · [Serious]**
 > "Oh, you want to know a secret? We got in because someone let us in."
 
 **[[Commander Thornfall]] (DM) · [Serious]**
@@ -40,10 +40,10 @@
 **[[Samothy Smith-Wesson]] (Josh) · [Serious]**
 > "If you can bleed, you can die."
 
-**[[The Beast Binder]] (DM) · [DM Quip]**
+**[[The Beast Tamer]] (DM) · [DM Quip]**
 > "Oh, you can't make me bleed with as weak as you are currently. Come back to me when you grow up."
 
-**[[The Beast Binder]] (DM) · [DM Quip]**
+**[[The Beast Tamer]] (DM) · [DM Quip]**
 > "If you live through this, I may take you into my harem."
 
 **Taylor (above-table) · [Banter]**

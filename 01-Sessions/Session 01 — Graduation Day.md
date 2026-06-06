@@ -20,7 +20,7 @@ tags: [session-notes, ashfall]
 | **Start Location** | Banquet hall, [[The Walled Base (Museum-Castle)]] — Ashwarden boot-camp graduation |
 | **End Location** | Inside the base main gate — dismissed to barracks for a long rest |
 | **Party Present** | [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] (all 7) |
-| **Key NPCs** | [[Commander Thornfall]] · [[Lt. Hargraven]] · [[Inspector Meridia Vale]] · [[Commander Varan]] · [[The Beast Binder]] |
+| **Key NPCs** | [[Commander Thornfall]] · [[Lt. Hargraven]] · [[Inspector Meridia Vale]] · [[Commander Varan]] · [[The Beast Tamer]] |
 | **Total Rolls Logged** | 93 (92 in-session + 1 pre-session); DM rolls transcript-only (not synced) |
 | **Party Level** | 4 → 5 (level-up at session end) |
 | **Spelling Checked** | Yes — `021326_Spell_Check_Log.md` |
@@ -37,7 +37,7 @@ The party graduated from [[Ashwardens|Ashwarden]] boot camp at a banquet in [[Th
 
 Mid-dessert, alarm bells rang: vampires inside the city. The recruits were issued paired grappling-hook arm bracers (attunement; +1 AC; built for vertical escape from wall-climbing vampires), then armed and armored from the Ashwarden armory. At the main gate, civilians were trapped outside pounding on the iron — [[Commander Varan]] had ordered the gates closed and fled through the back gate, and the gate lever was missing. [[Lt. Hargraven]] briefed the party; [[Commander Thornfall]] sent them through a crack in the gate to rescue civilians, do recon, and retrieve the spare lever from the far guard shack.
 
-In the fog-choked [[Ruined City District]], the party fought two waves of [[Feral Vampire Thrall|feral vampire thralls]] (run at-table as reskinned "gnolls") — eight slain in the first wave, seven in the second. Between waves, a vampire captain revealed himself: [[The Beast Binder]], trainer of the clan's vampire beasts, servant of the "Mistress of Hunger." He shrugged off nearly everything (blackening Valerian's Moonbeam mid-beam, catching Deanna's bullet), took a total of 8 unavoidable damage, and ultimately halted a third wave — sparing the party because they "entertained" him. He revealed that the vampires got in because **someone let them in: a spy among the recruits**. He whispered his name into Deanna's ear, then magically blocked the memory, and vanished.
+In the fog-choked [[Ruined City District]], the party fought two waves of [[Feral Vampire Thrall|feral vampire thralls]] (run at-table as reskinned "gnolls") — eight slain in the first wave, seven in the second. Between waves, a vampire captain revealed himself: [[The Beast Tamer]], trainer of the clan's vampire beasts, servant of the "Mistress of Hunger." He shrugged off nearly everything (blackening Valerian's Moonbeam mid-beam, catching Deanna's bullet), took a total of 8 unavoidable damage, and ultimately halted a third wave — sparing the party because they "entertained" him. He revealed that the vampires got in because **someone let them in: a spy among the recruits**. He whispered his name into Deanna's ear, then magically blocked the memory, and vanished.
 
 The party escorted every civilian safely inside, retrieved the lever, and was debriefed by [[Lt. Hargraven]], who turned ghostly pale at news of a vampire captain this far south — the last scouting report placed the Beast Binder far north. He ran to find the commander. The party reached **level 5**, planned Artificer infusions (Returning Weapon for Vega's axe, future Bag of Holding), and the DM announced a downtime-tasks system (new Discord channel). Vega's player crystallized her character voice: *"the Regina George of Barbarians."*
 
@@ -108,14 +108,14 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 | [[Lt. Hargraven\|Capt./Lt. Bron Hargraven]] ⚑ | [Unknown] | Ashwardens / base command | Debrief: "you didn't run"; ran to find commander | Base gate → searching | Alive |
 | [[Inspector Meridia Vale]] (f) | [Unknown] | Base command | Graduation speech; ran toward the alarms | [Unknown] | Alive |
 | [[Commander Varan]] | [Unknown] | Base command | None direct — closed gates, fled (per Hargraven) | [Unknown — fled] | Alive (deserted) |
-| [[The Beast Binder]] | Vampire (captain) | Vampire clan; serves the Mistress of Hunger | Spared party; revealed spy; memory-blocked his name (Deanna) | Vanished | Active threat |
+| [[The Beast Tamer]] | Vampire (captain) | Vampire clan; serves the Mistress of Hunger | Spared party; revealed spy; memory-blocked his name (Deanna) | Vanished | Active threat |
 | [[Feral Vampire Thrall]]s | Vampire beasts | Beast Binder's stock | Two waves fought; third recalled | City district | 15 slain |
 
 ### Reputation & Relationships
 
 - Party formally inducted into the **Ashwardens** — top-of-class standing implied by the item ceremony.
 - [[Lt. Hargraven]] — strongly favorable: "You saved lives today, more than you know."
-- [[The Beast Binder]] — marked the party as entertainment; wants a future personal duel; "harem" offers toward Deanna (and Samothy); memory-blocked name with Deanna.
+- [[The Beast Tamer]] — marked the party as entertainment; wants a future personal duel; "harem" offers toward Deanna (and Samothy); memory-blocked name with Deanna.
 - [[Commander Varan]] — publicly branded a coward by Hargraven; fallout pending.
 - Intraparty: Smith-Wesson twins' rivalry; Barrett protective of Zelda ("help his friend Z"); Vega's alpha-sass persona welcomed by the table.
 
@@ -130,7 +130,7 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 | Enemies | Location | Party / Allies | Trigger | Outcome |
 |---|---|---|---|---|
 | 8 feral vampire thralls (wave 1) | [[Ruined City District]] | All 7 PCs | Fog ambush during rescue sortie | Victory — 8 slain, 0 party deaths |
-| 7 thralls (wave 2) + [[The Beast Binder]] (observing) | Same plaza | All 7 PCs + Steel Defender | Beast Binder's reveal | Victory — 7 slain; BB took 8 unavoidable damage, withdrew |
+| 7 thralls (wave 2) + [[The Beast Tamer]] (observing) | Same plaza | All 7 PCs + Steel Defender | Beast Binder's reveal | Victory — 7 slain; BB took 8 unavoidable damage, withdrew |
 
 ### Initiative (archive-verified)
 

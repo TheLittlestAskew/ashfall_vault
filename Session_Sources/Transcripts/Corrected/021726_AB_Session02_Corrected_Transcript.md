@@ -523,7 +523,7 @@
 
 [00:42:19] Taylor (DM): Big like ma'am.
 
-[00:42:21] Josh (Samothy Smith-Wesson): Big like ma'am. So the feet are a little wide on the inside. Okay, so, well, only thing I can conclude is this was, this was not a beast like the others. Mm-mm. This one was probably controlling the Beast Binder. Either controlling or in charge of said beast.
+[00:42:21] Josh (Samothy Smith-Wesson): Big like ma'am. So the feet are a little wide on the inside. Okay, so, well, only thing I can conclude is this was, this was not a beast like the others. Mm-mm. This one was probably controlling the beast tamer. Either controlling or in charge of said beast.
 
 [00:42:53] Madi (Deanna Smith-Wesson): I don't like it.
 
@@ -2129,7 +2129,7 @@
 
 [02:59:19] Taylor (DM): Yeah, yeah, but we can pick that up later. It's already like—
 
-[02:59:25] Unattributed (D — see log): I'm just gonna— 11 something. Yeah, I'll end in this room. Killed the Beast Binder.
+[02:59:25] Unattributed (D — see log): I'm just gonna— 11 something. Yeah, I'll end in this room. Killed the beast tamer.
 
 [02:59:34] Taylor (Vega Bloodroot): I want to go look in this hole.
 

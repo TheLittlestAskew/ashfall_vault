@@ -11,7 +11,7 @@
 - **Hunt by sound** — "their hearing is so fine-tuned they can literally hear your heartbeat"
 - Multiattack: two claw/bite attacks per turn (2d6-class damage observed)
 - Pack behavior; emerge from fog; climb and leap between buildings
-- Fully obedient to [[The Beast Binder]] — froze mid-charge at his "Halt"
+- Fully obedient to [[The Beast Tamer]] — froze mid-charge at his "Halt"
 
 ## Weaknesses Observed (S01)
 

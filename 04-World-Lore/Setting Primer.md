@@ -25,13 +25,13 @@
 
 ## The Vampires (known facts only)
 
-- Organized into at least one **clan** with ranks — "captains" exist; [[The Beast Binder]] is one. *(S01)*
+- Organized into at least one **clan** with ranks — "captains" exist; [[The Beast Tamer]] is one. *(S01)*
 - The clan maintains **vampire beasts** ([[Feral Vampire Thrall]]s and "better" — "they don't just stop with these small ones here. Oh, we have better."). *(S01)*
 - A **"Mistress of Hunger"** is invoked as the recipient of offered hearts — hierarchy/deity status unknown. *(S01)*
 - Some vampires have **increased speed, climbing, and long jumps** — the reason Ashwardens carry grappling bracers. *(S01)*
 - Vampire captains were believed to operate **far north**; one appearing this far south alarmed base command. *(S01)*
 - Weaknesses observed: **radiant damage** is devastating (table rule: doubled); thralls' hypersensitive hearing makes **loud sound** a weapon. *(S01)*
-- **Aura taxonomy** *(S02, Hargraven)*: **Beast Masters** carry light-blue magical auras (control the beasts; theory — closer to human); **Vampire Masters** carry dark-red auras. ⚑ [[The Beast Binder]]'s place in this taxonomy pending.
+- **Aura taxonomy** *(S02, Hargraven)*: **Beast Masters** carry light-blue magical auras (control the beasts; theory — closer to human); **Vampire Masters** carry dark-red auras. ⚑ [[The Beast Tamer]]'s place in this taxonomy pending.
 - **Silver** stops vampire self-healing; **emeralds** are the only way to kill a Beastmaster; **direct sunlight** imposes disadvantage. *(S02, Bobby/DM)*
 - Thrall classes: [[Feral Vampire Thrall]] (human-shaped, drains) vs. [[Beast Thrall]] (massive, mauls; sighted and **blind** variants — blind ones hunt sound/heat). *(S02)*
 - **They take children alive.** No children among Hampshire's dead; carried out. Purpose unknown. *(S02)*

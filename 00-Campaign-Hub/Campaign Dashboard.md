@@ -15,7 +15,7 @@
 | 04 | [[Session 04 — A Gust of Wind]] | 03/04/2026 | Same night | **6** (21,700 XP) | Cliffhanger resolved (Madi substitute-DM'd); Vega's first kill; **THE BOOK found**; gems + ritual daggers; basement next |
 | 03 | [[Session 03 — Mr. Cat, Esquire]] | 02/24/2026 | Same night (post-short-rest) | 5 (XP in Discord ⚑) | Hospital 2F brawl — ~~PAUSED MID-COMBAT~~ resolved in S04; Mr. Cat named; kill contest; Beast Master boots on 2F |
 | 02 | [[Session 02 — Ashes of the Living]] | 02/17/2026 | Dawn after S01 | 5 (+3,300 XP) | Hampshire swept — Valerian's parents dead, children taken; Beast Master lore; Bobby's book commission; hospital floor 1 cleared |
-| 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
+| 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Tamer]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
 **🎉 CATCH-UP QUEUE EMPTY** — every recording through 2026-05-11 is processed; the vault is current with the roll archive. *(040226 = misfiled, different campaign — excluded, still needs re-homing ⚑.)*
@@ -23,7 +23,7 @@
 ## Active Threads
 
 1. 🕵️ **The spy among the recruits** — someone let the vampires in (S01, Beast Binder's reveal). Hargraven alerted.
-2. 🧛 **[[The Beast Binder]]** — promised duel "in the near future"; cryptic "I'll need your assistance"; his true name memory-blocked inside [[Deanna Smith-Wesson]]'s head.
+2. 🧛 **[[The Beast Tamer]]** — promised duel "in the near future"; cryptic "I'll need your assistance"; his true name memory-blocked inside [[Deanna Smith-Wesson]]'s head.
 3. 🧭 **Why is a vampire captain this far south?** Last scouting: far north. [[Lt. Hargraven]] investigating (S01).
 4. ⚖️ **[[Commander Varan]]'s desertion** — closed the gates on civilians and fled (S01). Fallout pending.
 5. ⚔️ **"War is coming"** — party expected on the front lines (Hargraven, S01).
@@ -80,7 +80,7 @@
 | [[Lt. Hargraven]] (⚑ Capt./Lt.) | 🟢 | Base command ally | S01 — ran to find commander |
 | [[Inspector Meridia Vale]] | 🟢 | Base command | S01 — ran toward alarms |
 | [[Commander Varan]] | ⚪ | Deserted commander | S01 — fled (never seen) |
-| [[The Beast Binder]] | 🔴 | Vampire captain (Beast Master? ⚑) | S01 — vanished from plaza |
+| [[The Beast Tamer]] | 🔴 | Vampire captain (Beast Master? ⚑) | S01 — vanished from plaza |
 | [[Bobby]] | 🟢 | Dwarf master armorer | S02 — his shop |
 | [[Abigail]] | 🟢 | Elf alchemist | S02 — her shop |
 | Hampshire Beast Master | 🔴 | Unseen — footprints only | S02 — departed Hampshire |

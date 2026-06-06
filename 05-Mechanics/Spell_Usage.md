@@ -10,7 +10,7 @@
 | [[Zelda Z Whipper]] | Thunderwave | 1st | 1 | Both targets failed; sound doubled; 1 kill |
 | [[Zelda Z Whipper]] | Starry Wisp | cantrip | 3 | 1 nat-20 crit; 3 kills total via radiant doubling |
 | [[Valerian Hellebore]] | Starry Wisp | cantrip | 1 | First radiant kill setup ("I'm fucking radiant") |
-| [[Valerian Hellebore]] | Moonbeam | 2nd | 1 (moved 2×, 3 damage ticks) | 2 kills; nullified by [[The Beast Binder]] |
+| [[Valerian Hellebore]] | Moonbeam | 2nd | 1 (moved 2×, 3 damage ticks) | 2 kills; nullified by [[The Beast Tamer]] |
 | [[Valerian Hellebore]] | Spiny Shield ⚑ | reaction (homebrew?) | 1 | 2d4 reduce + reflect |
 | [[Barrett Grimmskar]] | Finger Guns ⚑ | cantrip | 4 | 19-crit kill; Risk Die rider once |
 | [[Barrett Grimmskar]] | Magic Missile | 1st | 1 | Cast by fanning revolver hammer; 5/4/3 |

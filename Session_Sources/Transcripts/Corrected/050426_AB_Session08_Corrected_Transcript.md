@@ -708,7 +708,7 @@
 
 [00:40:57] Taylor (DM): Yeah, he's just a priest, he's the lowest in the religious order. So, and then there's, there's— so there's him, and then there's Al the Bishop. And then, uh, we know— you know there's a cardinal that oversees the whole area, but you do not know his name or what he looks like. Um, you just— you know he's in the area based on reports of very, very gruesome religious murders.
 
-[00:41:39] Jill (Flux): The Beast Binder that we came across wasn't Aloysius, was it?
+[00:41:39] Jill (Flux): The beast tamer that we came across wasn't Aloysius, was it?
 
 [00:41:44] Taylor (DM): No, it was not. So are you going up to the entrance? Are you sneaking in, or—
 

@@ -1694,9 +1694,9 @@
 
 [02:21:06] Chase (Valerian Hellebore): do you have a title we can refer to you by, or are you just that Dickhead vampire.
 
-[02:21:12] Taylor (DM): Look, I'm right now, so he takes a bow and he goes, I'm referred to as the Beast Binder in my clan. See, I'm the one who trains and maintains all the vampire beasts we have, and they don't just stop with these small ones here. Oh, we have better.
+[02:21:12] Taylor (DM): Look, I'm right now, so he takes a bow and he goes, I'm referred to as the beast tamer in my clan. See, I'm the one who trains and maintains all the vampire beasts we have, and they don't just stop with these small ones here. Oh, we have better.
 
-[02:21:37] Taylor (Vega Bloodroot): The 2000s kid in me just want— when he said Beast Binder, the 2000s kid in me who I suppressed wanted to go gay.
+[02:21:37] Taylor (Vega Bloodroot): The 2000s kid in me just want— when he said beast tamer, the 2000s kid in me who I suppressed wanted to go gay.
 
 [02:21:49] Taylor (DM): Yo, same.
 
@@ -1846,11 +1846,11 @@
 
 [02:30:17] Jill (Flux): He wouldn't tell us his name.
 
-[02:30:20] Taylor (Vega Bloodroot): He said his name was Beast Binder.
+[02:30:20] Taylor (Vega Bloodroot): He said his name was beast tamer.
 
-[02:30:22] Doug (Barrett Grimmskar): He called himself a Beast Binder.
+[02:30:22] Doug (Barrett Grimmskar): He called himself a beast tamer.
 
-[02:30:26] Taylor (DM): Beast Binder, man. Uh, why is he this far down south? And he runs over to over by the gate where there's a map, and he starts tracing it up, and he goes, the last scouting report we had of the Beast Binder, he was, he was way north. I don't understand why he'd be this far south. Uh, I, I have to go. I have to go find— I have to go find a commander. You guys go get some rest. And he runs off hurriedly.
+[02:30:26] Taylor (DM): beast tamer, man. Uh, why is he this far down south? And he runs over to over by the gate where there's a map, and he starts tracing it up, and he goes, the last scouting report we had of the beast tamer, he was, he was way north. I don't understand why he'd be this far south. Uh, I, I have to go. I have to go find— I have to go find a commander. You guys go get some rest. And he runs off hurriedly.
 
 [02:31:01] Jill (Flux): And who was it we were talking to?
 

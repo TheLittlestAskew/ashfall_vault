@@ -488,7 +488,7 @@
 
 [00:38:56] Madi (Deanna Smith-Wesson / substitute DM): Okay, it is Beast B's turn. Beast B, let's see, roll a d8.
 
-[00:39:17] Jill (Flux): Uh, all right, Barrett, does the, um, sorry, the Beast Binder, the one that I hit, they are slowed and reduced— its speed is reduced by 10 feet until the start of my next turn.
+[00:39:17] Jill (Flux): Uh, all right, Barrett, does the, um, sorry, the beast tamer, the one that I hit, they are slowed and reduced— its speed is reduced by 10 feet until the start of my next turn.
 
 [00:39:43] Madi (Deanna Smith-Wesson / substitute DM): Okay, all right, Barrett, does an 18 hit?
 
@@ -502,7 +502,7 @@
 
 [00:40:56] Taylor (Vega Bloodroot): No, it's very close though.
 
-[00:40:59] Madi (Deanna Smith-Wesson / substitute DM): All right, well, so then that is Beast B's turn, and then that is Deanna's turn. Okay, Deanna's gonna run between Flux and Cat. Mr. Cat. And get in front of Mr. Cat to try to shoot that Beast Binder. Hang on, let me switch over to that character page. All right, 18 hits. Hell yeah! 12 damage. Okay, over here. And then she's gonna try to shoot Beast A. 17, that hits. 13 damage. Oh, okay, so she kills Beast A in one shot. Nice. Boom. All right, leaving Beast be, and it is Valerian's turn.
+[00:40:59] Madi (Deanna Smith-Wesson / substitute DM): All right, well, so then that is Beast B's turn, and then that is Deanna's turn. Okay, Deanna's gonna run between Flux and Cat. Mr. Cat. And get in front of Mr. Cat to try to shoot that beast tamer. Hang on, let me switch over to that character page. All right, 18 hits. Hell yeah! 12 damage. Okay, over here. And then she's gonna try to shoot Beast A. 17, that hits. 13 damage. Oh, okay, so she kills Beast A in one shot. Nice. Boom. All right, leaving Beast be, and it is Valerian's turn.
 
 [00:42:55] Chase (Valerian Hellebore): Everybody's fucking stealing my kills, so I'm just gonna do this again. Moving it. There, make a fucking save, and the save is— I should have remembered—
 
@@ -550,7 +550,7 @@
 
 [00:47:50] Madi (Deanna Smith-Wesson / substitute DM): Corey Vega Bloodroot.
 
-[00:47:53] Taylor (Vega Bloodroot): Oh yeah, uh, Beast Binder gonna get these hands.
+[00:47:53] Taylor (Vega Bloodroot): Oh yeah, uh, beast tamer gonna get these hands.
 
 [00:48:04] Madi (Deanna Smith-Wesson / substitute DM): I cast Catch These Hands.
 

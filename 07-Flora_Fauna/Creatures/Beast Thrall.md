@@ -20,7 +20,7 @@ Large creatures ("much bigger than Zelda" — popping them with a toothpick, per
 
 ## Handlers
 
-Controlled by **Beast Masters** (light-blue magical auras; emerald-vulnerable). [[The Beast Binder]] "trains and maintains all the vampire beasts" — relationship to the Beast Master class ⚑ pending DM.
+Controlled by **Beast Masters** (light-blue magical auras; emerald-vulnerable). [[The Beast Tamer]] "trains and maintains all the vampire beasts" — relationship to the Beast Master class ⚑ pending DM.
 
 ## Record
 

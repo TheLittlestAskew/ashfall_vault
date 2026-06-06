@@ -568,7 +568,7 @@
 
 [00:34:40] Taylor (Vega Bloodroot): Okay, good, because I would have felt bad if I just had like not changed the stuff. Okay, that should— oh wait, I have Savage Attacker in this one, don't I? I do. Let's— for— let's just check and see since I don't have any other options if I can get better. I do not get better. Okay, so that's 11 points of damage and that will be my turn.
 
-[00:35:08] Taylor (DM): All right, it is the Beast Binder's turn and he's just gonna attack Vega because you're there now.
+[00:35:08] Taylor (DM): All right, it is the beast tamer's turn and he's just gonna attack Vega because you're there now.
 
 [00:35:15] Taylor (Vega Bloodroot): Yeah, I'm just kind of standing there. Um, so this would be a time where it would be nice to be a little bit of a Fighter because then I could riposte or something. Riposte, however you pronounce it.
 
@@ -774,7 +774,7 @@
 
 [00:50:08] Christie (Zelda Whipper): So that's my turn.
 
-[00:50:13] Taylor (DM): Uh, you're up, but real quick, everybody keep track of your kills. There's a reward for the person who ends up with the most. The Beast Binder, the risk to you.
+[00:50:13] Taylor (DM): Uh, you're up, but real quick, everybody keep track of your kills. There's a reward for the person who ends up with the most. The beast tamer, the risk to you.
 
 [00:50:23] Chase (Valerian Hellebore): Of this, like, each session, or—
 
@@ -952,7 +952,7 @@
 
 [01:03:37] Unattributed (A — Doug/DM blob): That hits.
 
-[01:03:40] Jill (Flux): And is anybody within 5 feet of the Beast Binder? Or no, I mean, that— but that's with the other— do I get a Sneak Attack if the Finger Guns hit, or only if my bow hits.
+[01:03:40] Jill (Flux): And is anybody within 5 feet of the beast tamer? Or no, I mean, that— but that's with the other— do I get a Sneak Attack if the Finger Guns hit, or only if my bow hits.
 
 [01:03:49] Taylor (DM): That would have been for the first attack.
 
@@ -1662,7 +1662,7 @@
 
 [02:02:39] Taylor (DM): Zelda, it is your turn.
 
-[02:02:51] Christie (Zelda Whipper): Okey-dokey. I'm gonna do what I do best, or attempt it. 15 to hit. That hit. That's 3 points of radiant damage to Beast Binder. Beast Binder. Yeah, I'm just gonna redo exactly what I did last time. I'm gonna roll Healing Word to you, to Barrett. 8 points, just to kind of make sure you stay up. And that ends my turn.
+[02:02:51] Christie (Zelda Whipper): Okey-dokey. I'm gonna do what I do best, or attempt it. 15 to hit. That hit. That's 3 points of radiant damage to beast tamer. beast tamer. Yeah, I'm just gonna redo exactly what I did last time. I'm gonna roll Healing Word to you, to Barrett. 8 points, just to kind of make sure you stay up. And that ends my turn.
 
 [02:04:28] Jill (Flux): Yep. All right, I'm going to move up here out of the doorway just here so that I have a line of sight on that beast, the sea, and, um, I'm going to shoot it with my bow. 26 to hit.
 

@@ -33,7 +33,7 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 
 ## Inner Life & Evolution
 
-- **S01 — persona crystallized:** *"the Regina George of Barbarians"* — sarcastic alpha confidence, declared at the table after she flipped off [[The Beast Binder]] with both hands (he flipped her off back). Player: "This is my personality now as a character. I hope you guys are ready."
+- **S01 — persona crystallized:** *"the Regina George of Barbarians"* — sarcastic alpha confidence, declared at the table after she flipped off [[The Beast Tamer]] with both hands (he flipped her off back). Player: "This is my personality now as a character. I hope you guys are ready."
 - **S01 — line in the sand:** offered the "deal with the devil" house rule and refused: "I'm not dealing with the devil until it becomes entirely necessary." The DM is "so excited because someone's gonna have to at some point." Watch this.
 - First blood taken in stride — quipped through her first kill ("Not today, Satan") but registered being drenched in vampire blood ("Oh gross, can't wait to take a shower").
 - **S02 — the quiet caretaker under the sass:** took over Hampshire's body-disposal unprompted — staked the dead, piled them for the pyre, no speeches ("It needed doing"). Said nothing to Valerian in his parents' doorway; some things don't need the Regina George voice.
@@ -67,5 +67,5 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 
 ## Relationships
 
-- [[The Beast Binder]] — mutual flip-off; he wants to fight her when she's stronger.
+- [[The Beast Tamer]] — mutual flip-off; he wants to fight her when she's stronger.
 - Party — settling into front-line anchor + sass lead.
