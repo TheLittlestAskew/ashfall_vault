@@ -6,6 +6,7 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 06 | [[Session 06 — Protect the Light]] | 04/01/2026 | Next day(s) | 7 (23,480) | Saint Ardas explored; **Hargraven joins the party**; the orb (Vampire-Lord phone); Sun Shard named; bell mercy-kill; crypt ladder found |
 | 05 | [[Session 05 — The Bell of Saint Ardas]] | 03/24/2026 | Day(s) after the hospital | **7** (23,000) | The map revealed: tunnels → **Saint Ardas**; the bell rings; book bound to Samothy; Bobby forging custom gear; Verilith named |
 | 04.5 | [[Session 04.5 — The Basement (UNRECORDED)]] ⚠ | ~03/11/2026 | — | 6→7 | **LOST SESSION** — basement cleared, book vision, Verilith photos, nirnroot (28 archived rolls only) |
 | 04 | [[Session 04 — A Gust of Wind]] | 03/04/2026 | Same night | **6** (21,700 XP) | Cliffhanger resolved (Madi substitute-DM'd); Vega's first kill; **THE BOOK found**; gems + ritual daggers; basement next |
@@ -14,7 +15,7 @@
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 040126+040226 (likely one session) · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
+**Not yet processed (catch-up queue, chronological):** 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster. *(040226 = misfiled, different campaign — excluded.)*
 
 ## Active Threads
 
@@ -44,6 +45,13 @@
 24. ⚒️ **Bobby's custom enchanted gear ×7** — ready next session. (S05)
 25. 🧪 **Anne's 2 random-effect potions** — unidentified. (S05)
 26. 🔴 **THE LOST SESSION (04.5)** — 5 open questions for Taylor in the stub. (meta)
+27. 🔦 **THE CRYPT** — ladder open beneath Saint Ardas; the sealed evil + (probably) the Sun Shard below. NEXT. (S06)
+28. ☀️ **The Sun Shard** — divine anti-vampire relic the church guarded. "Protect the light." (S06)
+29. 👁 **THE VAMPIRE LORD** — silent commander of all thralls; relic-hunter; **the party holds his moonlight phone** (the obsidian orb). To call or not to call? (S06)
+30. 🕳 **Holes in the sky** — sunlight breaking through over the Dead Zone; vampires hunting detection methods. Hope, weaponized? (S06, Sister Aria)
+31. 📚 **The old library + occult museum** — holds the relic map (banned-books section). (S06)
+32. 🗿 **Saint Arda & the Tyrant King** ⚑ — who were they? The sealed tomb ("nothing in, nothing out"). (S06)
+33. ⚠ **Misfiled recording** — 040226 belongs to another campaign; re-home it. (meta)
 
 ## Resolved Threads
 

@@ -201,6 +201,8 @@ For raw access: `ddb_rolls` filtered by **`campaign_id = 3`** (or `game_id = 717
 
 ## STEP 5 — `.docx` OUTPUT & NAMING
 
+> **⚠ RETIRED (Taylor, 06/06/2026):** Do **not** generate `.docx` session notes for Ashfall anymore. The full 8-section notes live in the markdown session note (`01-Sessions/Session ## — Title.md`, written in Convo 2). Steps below kept for the historical record (S01–S05 used them).
+
 **File naming:** ⟦FILL: session date format + file prefix⟧ — default to the SITL pattern:
 `AB_[##]_[MMddyy]_[Title].docx` (e.g. `AB_16_051126_The_Ashen_Road.docx`).
 

@@ -94,3 +94,28 @@
 > The metal cat doesn't need summoning anymore. He's just… with us now. Bronze, about bobcat-sized, dignified as ever. Samothy is talking about getting him a bird to wear as a hat. This is the family I have chosen, and I'd choose it again.
 >
 > Tomorrow, the church. Whatever has been ringing that bell either needs help or is the kind of thing that knows bait when it sets it.
+
+---
+
+> [!note]- S06 — The church of the ringing bell. (Protect the Light)
+> **The church of the ringing bell.**
+>
+> The Lieutenant came with us this time. Said everyone else was busy, but I think the war room was eating him alive and he needed to hit something. Fine by me. He's good in a fight and easy to look at, and I said neither of those things out loud.
+>
+> The graveyard outside the church — the graves were dug open from the inside. Some of those people were buried after the sky fell. Think about that as long as you can stand to.
+>
+> Inside: broken pews, holy books on the floor, blood on the walls, and a dying monk on the altar who used his last breath to give us everything. There is a lord over these vampires. He doesn't speak to command them — they simply know his will. He's hunting for relics under the city, and there's a map to the forgotten places in the old library, behind the banned books. The monk's last words were "protect the light." Then the glow-druid's healing couldn't outrun the blood, and he was gone.
+>
+> The light has a name now. The Sun Shard — a piece of divine fire the church kept, meant for burning ancient things. It's below us somewhere. So is whatever they sealed under the crypts a few centuries ago. Same staircase. Of course.
+>
+> The fight in the nave was short and stupid — the changeling's fire spell came back wrong and put a comet into Valerian instead of the enemy, and then Valerian stood up, drank a potion, and put LIGHTNING through three of them at once like an angry god. I understand him better every day.
+>
+> The bell. I want to write this part down properly because someone should. The ringing was a man — half a man — chained to the bell, swinging, turning into one of them an inch at a time. He asked us to kill him while he was still mostly himself. Flux cut the chain. The druid and the little one burned what landed before it could get up. It was the kindest thing I've seen in this war.
+>
+> A woman came out of the confessional swinging — Sister Aria, hiding for days. She says there are holes opening in the sky. Sunlight, in pockets, coming through over the dead zone — and the vampires are afraid of it. She gave us a silver knife blessed by somebody who believed hard enough to make it matter. I caught it. It's mine now.
+>
+> Barrett found a black glass ball that talks to their lord when the moon is up. We can call him. The thing that's been moving under our feet since the gate — we have his number now. I don't know yet if that's a weapon or a door we shouldn't have opened.
+>
+> The quiet twin found the way down — lit the right candles and the floor opened on a ladder going into the dark. We stopped there. Tomorrow we go down, and somewhere below is the light we're supposed to protect, and the thing they sealed, and probably the answer to where all those children went.
+>
+> I almost broke into a saint's tomb today because my blood was up and the count is still low. I didn't. Put that in the ledger as growth.

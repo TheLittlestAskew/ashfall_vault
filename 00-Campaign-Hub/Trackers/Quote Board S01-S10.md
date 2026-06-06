@@ -214,3 +214,41 @@
 
 **Taylor (DM) · [Banter]**
 > "The Discord was a little quieter when Chase was missing."
+
+## S06 — Protect the Light (04/01/2026)
+
+**Brother Halren (DM) · [Serious]**
+> "They came at night, but not the monsters outside, something worse. Something wearing a human face."
+
+**Brother Halren (DM) · [Poignant]**
+> "You have to get to the crypt. Protect the light."
+
+**The half-turned bell-ringer (DM) · [Poignant]**
+> "Please, before I become one of them, kill me."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Bro, why is it always me?"
+
+**Taylor (Vega) · [Banter]**
+> "Well, fuck that DM." *(on the crit-fail mechanic — to its author's face)*
+
+**Taylor (DM) · [DM Quip]**
+> "Hargraven's a permanent character now. I got bored of not being a player, so I threw myself in there."
+
+**Taylor (DM, as Hargraven) · [DM Quip]**
+> "Got to protect my sexy body — sorry, no, Lieutenant Hargraven's pretty cool."
+
+**[[Vega Bloodroot]] (Taylor) · [Banter]**
+> "Real quick, the fuck is Lt. Hargraven doing? …Internally, really wondering what the fuck's going on with the hot guy in the room."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]**
+> "I found another one! Guys, I don't know this symbol. I'm smart, but I'm not that smart."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "So it's kind of like a cell phone, but like a 25-pound orb."
+
+**Taylor (DM) · [DM Quip]**
+> "He just said, fuck it, we're futon-ing it." *(the priest's furniture choices)*
+
+**Taylor (DM) · [Banter]**
+> "Surprised someone didn't violate a saint's grave." / Doug: "Yeah, there's still time." / Vega: "Still thinking about it."

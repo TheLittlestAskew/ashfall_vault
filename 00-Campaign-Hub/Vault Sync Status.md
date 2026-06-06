@@ -24,7 +24,9 @@
 
 **S05 — The Bell of Saint Ardas:** ✅ all applicable (roleplay session: Dr. Wilson, Anne ⚑, Verilith, Saint Ardas pages created; no combat logs). **S04.5 lost-session stub** created.
 
-**Last fully synced session:** S05 — The Bell of Saint Ardas (03/24/2026)
+**S06 — Protect the Light:** ✅ all applicable (Hargraven page updated to party member; Saint Ardas explored-state; new lore names in glossary; House Rules +4; **first no-docx session**).
+
+**Last fully synced session:** S06 — Protect the Light (04/01/2026)
 
 ## Catch-Up Queue (chronological)
 
@@ -36,8 +38,8 @@
 | 030426 | ✅ **S04 — A Gust of Wind** — fully synced 06/06/2026 |
 | *(no recording)* | ⚠ **S04.5 — The Basement (UNRECORDED, ~03/11)** — stub created from 28 archived rolls; 5 open questions for Taylor |
 | 032426 | ✅ **S05 — The Bell of Saint Ardas** — fully synced 06/06/2026 |
-| 040126 | ⬜ not transcribed |
-| 040226 | ⬜ not transcribed |
+| 040126 | ✅ **S06 — Protect the Light** — fully synced 06/06/2026 (no docx — new convention) |
+| 040226 | ⚠ **MISFILED — different campaign** ("Inspired" program; player Alec). Excluded from Ashfall; re-home the mp3 + transcript ⚑ |
 | 042026 | ⬜ not transcribed |
 | 050426 | ⬜ not transcribed |
 | 051126 | ⬜ not transcribed |

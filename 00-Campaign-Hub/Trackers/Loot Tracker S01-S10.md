@@ -68,3 +68,14 @@
 | Party | **2 random-effect potions** (Anne, from the nirnroot) | Effects unknown ⚑ |
 | Each PC (incoming) | **Bobby's custom enchanted weapon/armor** (attunement) | Ready next session |
 | [[Mr. Cat]] | **Permanence** — no more summoning; bronze, bobcat-sized | Madi's archived d20 = 19 |
+
+## S06 — Protect the Light (04/01/2026)
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Barrett Grimmskar]] / [[Samothy Smith-Wesson]] (users) | **THE OBSIDIAN ORB** — 25-lb sphere, silver veins; two-way moonlight comms with THE VAMPIRE LORD (phase = signal; burns moon-aligned clerics) | "New user recognized" — spoke to both; DM making an item card |
+| [[Vega Bloodroot]] | **Blessed silver dagger** (Sister Aria's) | Caught mid-throw: "this is mine" |
+| Party | Gold **bedazzled vestment** (emeralds, ruby, diamond?) · warm **magical holy book** ⚑ · **fire + ice goddess scrolls** ⚑ | Vestry haul (Barrett) |
+| Party | Father Renwald's letters (Sun Shard lore) · prayer cards + pocket Bible (Valerian) · priest's shoes & collar (Flux) | — |
+| [[Barrett Grimmskar]] | 50 gp + a **rolled paper** ⚑ (contents pending — DM to send) | Looted from a thrall |
+| Party | 2 healing potions · 2 holy water · barrels of fresh food | — |

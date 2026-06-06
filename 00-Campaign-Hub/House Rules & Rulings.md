@@ -49,6 +49,15 @@
 | **+XP for table work** | 50 bonus XP awarded for the party doing the XP math | S04 |
 | **Maverick Spirit (Barrett)** | On a failed INT/WIS/CHA check or save, spend a Risk Die: +d8, can convert to success | S04 |
 
+## Standing Rules Added S06
+
+| Rule | Detail | Source |
+|---|---|---|
+| **Crit-fail friendly fire** | On a nat-1 attack, roll a die (d6 → now d8 with Hargraven) against numbered party members; the rolled member takes the attack's damage. Rolling above the party count = no one hurt. Table verdict: "Well, fuck that DM" (the suggesting DM, not Taylor) | S06 |
+| **Vampire-turning rules** | Drinking vampire blood = turned. Scratch/bite = *rumored* chance of "the virus" (unconfirmed) | S06 (Hargraven) |
+| **Hargraven in the party** | DM-run permanent eighth member; included in the crit-fail pool | S06 |
+| **Mr. Cat rests with Samothy** | Short/long rests restore the Steel Defender ("when you rest, the cat rests"); at 0 HP he waits dramatically for repairs | S06 |
+
 ## One-Off Rulings
 
 - Magic Missile damage is **rolled** (per-dart d4+1), not fixed. *(S01)*

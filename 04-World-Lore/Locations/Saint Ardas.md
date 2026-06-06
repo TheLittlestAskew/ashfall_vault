@@ -16,6 +16,16 @@ The watermark-paper map shows a **vast tunnel network under the old downtown** �
 
 As the party left the war room (S05), the church's bell **began to toll — slow, heavy, desperate — for the first time in centuries**. "Something inside is still alive."
 
+## Explored (S06)
+
+- **Graveyard:** graves dug open *from the inside*; half-buried vampires; post-meteor burials rising. Carmelite abbey (vow of silence; nuns spoke for the monks; sanctuary tradition).
+- **Nave:** 4 thralls slain; Brother Halren died on the altar — Vampire Lord testimony, "Protect the light."
+- **Vestry/office:** the **obsidian orb** (Vampire-Lord comms), gold bedazzled vestment, fire + ice goddess scrolls, the warm holy book.
+- **Priest's chamber:** Father Renwald's mad letters → **the SUN SHARD** ("a fragment of divine light used to harm ancient vampires") was guarded here.
+- **Saint Arda's tomb:** the saint herself, **cast into stone by the Tyrant King** ⚑; glass + votive candles + fruit mural; sealing magic ("nothing in, nothing out"); possible "uncorruptible."
+- **Bell tower:** the ringing = a **half-turned thrall chained to the bell** — mercy-killed (Flux + twin Starry Wisps).
+- **Confessional:** Sister Aria's hideout; the candle puzzle → **a hidden ladder down to the crypt** (S07).
+
 ## Status
 
-Party assigned to investigate (S06). No one who has entered the Dead Zone has returned.
+Crypt entrance OPEN — party descends next session. The sealed ancient evil and (per Renwald/Halren) the Sun Shard wait below.

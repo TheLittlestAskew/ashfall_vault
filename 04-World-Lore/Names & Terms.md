@@ -97,6 +97,21 @@
 | Witch Bolt | Spell | Flux — lost session, archive-only |
 | Back Alley Orphans | Party name (candidate) | Unofficial |
 
+## Provisional ⚑ (S06)
+
+| Term | Type | Notes |
+|---|---|---|
+| The Vampire Lord | NPC (role) | Silent commander of thralls; relic-hunter; reachable via the orb |
+| The Sun Shard | Relic | "Fragment of divine light used to harm ancient vampires" — below Saint Ardas? |
+| Saint Arda | Historical figure | Cast into stone by **the Tyrant King**; sealed tomb; "uncorruptible" candidate |
+| The Tyrant King | Historical figure | Unknown — petrified Saint Arda |
+| Brother Halren | NPC | Carmelite monk — died on the altar |
+| Sister Aria | NPC | Confessional survivor; fled |
+| Father Renwald | NPC (dead) | The mad letter-writing priest (DM spelled it: R-E-N-W-A-L-D) |
+| The obsidian orb | Item | Moonlight comms with the Vampire Lord |
+| Holes in the sky | Phenomenon | Sunlight pockets over the Dead Zone |
+| Fire/Ice goddesses | Deities | Scroll symbols (vs. fire/water dagger deities — pantheon ⚑) |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

@@ -7,7 +7,7 @@
 |---|---|
 | **Full name** | Bron Hargraven (⚑ provisional) |
 | **Race / Class** | Human Fighter (Champion) — Lvl 15 |
-| **Role** | Ashwardens / base command — DM-controlled ally, not a PC |
+| **Role** | Ashwardens / base command — **PERMANENT PARTY MEMBER as of S06** (DM-run: "I got bored of not being a player, so I threw myself in there") |
 | **Status** | Alive |
 | **Last Known Location** | [[The Walled Base (Museum-Castle)]] — ran off to find the commander |
 
@@ -17,12 +17,15 @@
 
 - **S02:** Issued the dawn orders for the [[Hampshire]] sweep ("If you find anyone alive, bring them home"). Ran the war-room briefing: supplies dangerously low, northern farms gone, watchtowers empty, unnatural night fog; dispatched three sorties (party → hospital). Delivered the **aura taxonomy**: light blue = Beast Master, dark red = Vampire Master, with the closer-to-human theory. Praised the party as "the ones we can trust the most"; revealed Vega and Flux's jumped-three-classes record history.
 
+- **S06: JOINED THE PARTY.** "Well, it looks like we're all going. I'll be joining you on this quest today." Combat debut at [[Saint Ardas]] (longbow 26→9; Action Surge miss — "I swear to God, take another short rest"). Lore engine all session: vampire-turning rules (blood-share = turned; scratch/bite = rumored virus — hence his custom-fitted armor, "got to protect my sexy body"), library locations, orb mythology. Vega's player, on the record: "really wondering what the fuck's going on with the hot guy in the room."
+
 ## Quotes
 
 > "You saved lives today, more than you know. And unlike our commander, you didn't run." *(S01)*
 > "War is coming, and you'll likely be on the front lines for it." *(S01)*
 > "Magic footprints, that can only mean a Beast Master." *(S02)*
 > "If you find anyone alive, bring them home." *(S02)*
+> "Got to protect my sexy body." *(S06 — DM editorializing, immediately retracted)*
 
 ## Relationships
 
