@@ -1,0 +1,26 @@
+# Lt. Hargraven
+
+> DM-voiced ally (handle on sheet: `SickOpossum`). Roster: Human Fighter (Champion), Lvl 15.
+> ⚑ **Rank inconsistency (S01):** introduced as "**Captain** Bron Hargraven" at the graduation ceremony (00:10:00) but "**Lieutenant** Hargraven" at the gate and debrief (02:28:07+). Pending DM ruling.
+
+| | |
+|---|---|
+| **Full name** | Bron Hargraven (⚑ provisional) |
+| **Race / Class** | Human Fighter (Champion) — Lvl 15 |
+| **Role** | Ashwardens / base command — DM-controlled ally, not a PC |
+| **Status** | Alive |
+| **Last Known Location** | [[The Walled Base (Museum-Castle)]] — ran off to find the commander |
+
+## History
+
+- **S01:** One of the three presiding officers at the Ashwarden graduation. When the alarm rang, took the other recruits to battle stations. At the main gate, furious at [[Commander Varan]]'s desertion ("What a fucking coward"), briefed [[Commander Thornfall]] and the party on the trapped civilians and the missing lever. Post-battle, delivered the debrief: *"You saved lives today, more than you know. And unlike our commander, you didn't run."* On hearing [[Flux]]'s report of [[The Beast Binder]], **turned ghostly pale**, traced the wall map — last scouting report had the Beast Binder far north — and ran off hurriedly to find the commander.
+
+## Quotes
+
+> "You saved lives today, more than you know. And unlike our commander, you didn't run." *(S01)*
+> "War is coming, and you'll likely be on the front lines for it." *(S01)*
+
+## Relationships
+
+- Strongly favorable to the party after the gate rescue.
+- Open thread: his alarm at a vampire captain "this far south."
