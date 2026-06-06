@@ -79,3 +79,12 @@
 | Party | Father Renwald's letters (Sun Shard lore) · prayer cards + pocket Bible (Valerian) · priest's shoes & collar (Flux) | — |
 | [[Barrett Grimmskar]] | 50 gp + a **rolled paper** ⚑ (contents pending — DM to send) | Looted from a thrall |
 | Party | 2 healing potions · 2 holy water · barrels of fresh food | — |
+
+## S07 — The Sun Shard (04/20/2026)
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Vega Bloodroot]] (designated) | **THE SUN SHARD** — 10-ft dim aura; stops vampire regen in 10 ft; 1/day 2d6 radiant burst; activation word; *pulses with its own desire* | Claimed from the crypt pedestal; **knuckle-mount by Samothy pending** (quality roll: tiers +1/+2/+4) |
+| Party | 3 unlabeled potions (pink / green / blue) | Prefect's office — alchemy station "recently used" ⚑ |
+| Party | 300 gp (chest) + 50 gp (S06 thrall) | — |
+| — | The V-branded skeleton's welded armor | Left in place; vampire-slave lore |

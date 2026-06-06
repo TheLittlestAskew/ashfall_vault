@@ -26,7 +26,9 @@
 
 **S06 — Protect the Light:** ✅ all applicable (Hargraven page updated to party member; Saint Ardas explored-state; new lore names in glossary; House Rules +4; **first no-docx session**).
 
-**Last fully synced session:** S06 — Protect the Light (04/01/2026)
+**S07 — The Sun Shard:** ✅ all applicable (Moonbeam/College-of-Moon flag closed; Sun Shard + vampire-slave lore propagated; library-heist threads opened).
+
+**Last fully synced session:** S07 — The Sun Shard (04/20/2026)
 
 ## Catch-Up Queue (chronological)
 
@@ -40,7 +42,7 @@
 | 032426 | ✅ **S05 — The Bell of Saint Ardas** — fully synced 06/06/2026 |
 | 040126 | ✅ **S06 — Protect the Light** — fully synced 06/06/2026 (no docx — new convention) |
 | 040226 | ⚠ **MISFILED — different campaign** ("Inspired" program; player Alec). Excluded from Ashfall; re-home the mp3 + transcript ⚑ |
-| 042026 | ⬜ not transcribed |
+| 042026 | ✅ **S07 — The Sun Shard** — fully synced 06/06/2026 |
 | 050426 | ⬜ not transcribed |
 | 051126 | ⬜ not transcribed |
 

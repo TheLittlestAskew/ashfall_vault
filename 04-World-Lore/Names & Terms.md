@@ -112,6 +112,16 @@
 | Holes in the sky | Phenomenon | Sunlight pockets over the Dead Zone |
 | Fire/Ice goddesses | Deities | Scroll symbols (vs. fire/water dagger deities — pantheon ⚑) |
 
+## Provisional ⚑ (S07)
+
+| Term | Type | Notes |
+|---|---|---|
+| The Sun Shard | Relic (claimed!) | Anti-regen aura; 1/day radiant burst; has "its own desire" |
+| Vampire slaves | Faction/lore | V-branded day-walking human collaborators |
+| Silent sniffing thralls | Creature variant | No footfalls; gill-flap scent organs |
+| The curator | NPC (unmet) | South Tower library/museum keeper |
+| Cora ("Corey"-the-kid?) ⚑ | Household | Madi's daughter — spelling unconfirmed; distinct from Corey (Taylor's husband) |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

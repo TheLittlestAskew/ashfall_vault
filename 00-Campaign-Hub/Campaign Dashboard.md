@@ -6,6 +6,7 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 07 | [[Session 07 — The Sun Shard]] | 04/20/2026 | Same expedition | 7 | **SUN SHARD CLAIMED**; vampire slaves (V-brand) revealed; silent sniffing thralls; library heist planned |
 | 06 | [[Session 06 — Protect the Light]] | 04/01/2026 | Next day(s) | 7 (23,480) | Saint Ardas explored; **Hargraven joins the party**; the orb (Vampire-Lord phone); Sun Shard named; bell mercy-kill; crypt ladder found |
 | 05 | [[Session 05 — The Bell of Saint Ardas]] | 03/24/2026 | Day(s) after the hospital | **7** (23,000) | The map revealed: tunnels → **Saint Ardas**; the bell rings; book bound to Samothy; Bobby forging custom gear; Verilith named |
 | 04.5 | [[Session 04.5 — The Basement (UNRECORDED)]] ⚠ | ~03/11/2026 | — | 6→7 | **LOST SESSION** — basement cleared, book vision, Verilith photos, nirnroot (28 archived rolls only) |
@@ -15,7 +16,7 @@
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster. *(040226 = misfiled, different campaign — excluded.)*
+**Not yet processed (catch-up queue, chronological):** 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster. *(040226 = misfiled, different campaign — excluded.)*
 
 ## Active Threads
 
@@ -52,6 +53,10 @@
 31. 📚 **The old library + occult museum** — holds the relic map (banned-books section). (S06)
 32. 🗿 **Saint Arda & the Tyrant King** ⚑ — who were they? The sealed tomb ("nothing in, nothing out"). (S06)
 33. ⚠ **Misfiled recording** — 040226 belongs to another campaign; re-home it. (meta)
+34. ~~☀️ The Sun Shard~~ — ✅ **CLAIMED** (S07); knuckle-mount quality roll pending ⚑; it pulses with its own desire.
+35. 🏛️ **THE LIBRARY HEIST** — South Tower restricted section; curator impersonation (changeling); disguise-scanners; Hargraven's sketchy insider. NEXT. (S07)
+36. 🅥 **Vampire slaves** — V-branded day-walking human collaborators. Recontextualizes the SPY thread. (S07)
+37. 🧪 **Who used the crypt alchemy station "recently"?** + 3 mystery potions (pink/green/blue). (S07)
 
 ## Resolved Threads
 

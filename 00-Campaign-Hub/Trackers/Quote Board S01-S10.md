@@ -252,3 +252,32 @@
 
 **Taylor (DM) · [Banter]**
 > "Surprised someone didn't violate a saint's grave." / Doug: "Yeah, there's still time." / Vega: "Still thinking about it."
+
+## S07 — The Sun Shard (04/20/2026)
+
+**[[Valerian Hellebore]] (Chase) · [Banter]**
+> "I have yet to meet a hill I would not die on, so this is just another hill in the hill range of Hills I'm Gonna Die On."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Scooty scooty scooter boop." *(Wild Shape spider reconnaissance)*
+
+**Taylor (DM) · [DM Quip]**
+> "He's just chilling on the wall thinking about vampires and stuff."
+
+**[[Deanna Smith-Wesson]] (Madi) · [Funny]**
+> "I want to run up and Spartan kick vampire thrall B." *(DM: "I'm going to let it happen without a roll because it's just a genius idea.")*
+
+**Taylor (DM, as Hargraven) · [Serious]**
+> "He's a vampire slave. A servant for the vampires as human… They're vampire sympathizers. Worst of the worst of humans, in my opinion."
+
+**Taylor (DM) · [DM Quip]**
+> "That chapter isn't next. I can't do it out of order. It would bug me." *(on Samothy's book)*
+
+**Taylor (DM, as Hargraven) · [DM Quip]**
+> "As far as I know, he's not married, nor do I think he will ever get married, because only a mother could love that man."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "All I'm saying is, mid-battle, I better hear a 'Hello, Logan.'" / Taylor: "No, what you're gonna hear is, 'I am inevitable.' *Snap.*"
+
+**Josh (above-table) · [Poignant]**
+> "I didn't tell you guys because I didn't want you to reschedule the session, but my grandmother died earlier today. … I needed the game, so thanks for playing."

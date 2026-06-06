@@ -119,3 +119,20 @@
 > The quiet twin found the way down — lit the right candles and the floor opened on a ladder going into the dark. We stopped there. Tomorrow we go down, and somewhere below is the light we're supposed to protect, and the thing they sealed, and probably the answer to where all those children went.
 >
 > I almost broke into a saint's tomb today because my blood was up and the count is still low. I didn't. Put that in the ledger as growth.
+
+---
+
+> [!note]- S07 — Below the church. (The Sun Shard)
+> **Below the church.**
+>
+> We found it. The light the monk died telling us to protect — it's real, and it's small enough to hold. A shard of something like bottled sunrise, sitting on a pedestal in a crypt under a church under a dead city. It hums against your palm like it's deciding things about you. Near it, the vampires can't knit themselves back together. Once a day it can burn like the sun used to. We're mounting it on my knuckles. I want them to see daylight coming when I swing.
+>
+> The crypt also taught us a new word for traitor. There was a man welded inside his own armor, cooked shut, with a V burned into his skull. A vampire slave — a person who chose them, who walks in the day doing their errands. The spy at the fort has a category now. When we find them, I want to remember this room.
+>
+> The things guarding the shard were quiet. New kind — no footsteps at all, slits like gills where a nose should be, tasting the air for us. They didn't taste me fast enough. I put the silvered knuckles to work and Deanna kicked one of them flat like a door she was done arguing with. The little one called down her moonlight. The druid spent the fight as a spider, which I will not let him forget.
+>
+> Someone used the alchemy bench down there recently. Recently. In a sealed crypt under a dead church. We took their potions and I am choosing not to think about the rest of that sentence until I have to.
+>
+> Next we rob a library. Our own library. There's a locked room in the South Tower where they keep the truth, and the man with the key has a face only a mother could love and guards that sniff for magic. The changeling's going to wear his face. The Lieutenant can't come — too recognizable — and he said it like it cost him something.
+>
+> The shard pulses like it wants something. So do I. We're going to get along.
