@@ -30,7 +30,9 @@
 
 **S08 — Silence in the Library:** ✅ all applicable (3 pages created: Grand Library, Watch Captain, Aloysius; Bobby's-gear thread CLOSED; 15-enemy cliffhanger flagged for S09; **backfilled Profanity Ledger S05–S07 + Roll Statistics S06–S07**, which had been skipped despite earlier ✅ marks).
 
-**Last fully synced session:** S08 — Silence in the Library (05/04/2026)
+**S09 — The Battle of the Veiled Dawn (⚠ PARTIAL):** synced to the limit of the evidence. The 051126 recording captured **Taylor's mic only** — no Discord audio; 79% of the track is a Transformers reaction video + ads. Reconstructed from her side + 104 archived rolls (S04.5-method). Salvaged transcript replaces the corrected one; 8 open questions for the table in the session note. **⚑ FIX THE RECORDING SETUP before S10.**
+
+**Last synced session:** S09 — The Battle of the Veiled Dawn (05/11/2026, partial) · **CATCH-UP QUEUE EMPTY 🎉**
 
 ## Catch-Up Queue (chronological)
 
@@ -46,7 +48,7 @@
 | 040226 | ⚠ **MISFILED — different campaign** ("Inspired" program; player Alec). Excluded from Ashfall; re-home the mp3 + transcript ⚑ |
 | 042026 | ✅ **S07 — The Sun Shard** — fully synced 06/06/2026 |
 | 050426 | ✅ **S08 — Silence in the Library** — fully synced 06/06/2026 |
-| 051126 | 🔄 transcribed (145 min, 85.3%, 10,619 words) — Convo 1 in progress |
+| 051126 | ⚠ **S09 — The Battle of the Veiled Dawn (PARTIAL)** — mic-only recording; salvage-synced 06/06/2026 |
 
 Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Halloween one-shot / intro session?) ⚑ confirm with Taylor.
 
@@ -76,6 +78,7 @@ Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Hallowe
 
 | Date | Session | Action |
 |---|---|---|
+| 06/06/2026 | S09 | **SALVAGE sync** (partial recording — Taylor's mic only): salvaged transcript (141/681 lines), reconstruction-style session note with 8 table questions, journal, 4 trackers, 7 PCs, Dashboard (threads 43–45, queue EMPTY, party → LEVEL 8), glossary, House Rules +3, Spell Usage, Grand Library status. Title "The Battle of the Veiled Dawn" auto-selected ⚑. Resolved: Spellfire Flare = Barrett's; Vega = pure Barbarian; Call Lightning debut. ⚠ Recording-rig flag raised. |
 | 06/06/2026 | S08 | Full propagation (auto-advance, no docx): 4 created (session note, Grand Library, Watch Captain, Aloysius); 18 updated (Dashboard threads 38–42, 4 trackers, journal, 7 PCs, Hargraven, Mr. Cat, Bobby, Saint Ardas, glossary, House Rules +4, Spell Usage). Title "Silence in the Library" auto-selected ⚑. **Backfilled Profanity Ledger S05–S07 (Chase's 40 = new record) + Roll Statistics S06–S07.** Bobby's-gear thread closed; cliffhanger (~15 enemies) carried to S09. |
 | 06/06/2026 | S04 | Full propagation (auto-advance mode): session note created; trackers, journal, 7 PCs, Dashboard (threads 13–20), House Rules (+4), Spell Usage, glossary, Bobby, Old Hospital updated. Title "A Gust of Wind" auto-selected ⚑. New flags: Gut/Deck Shot, Spellfire Flare, Gary, Zelda's Moon light. |
 | 06/06/2026 | S03 | Full propagation: 2 created (session note, Mr. Cat), 14 updated (trackers, journal, 7 PCs, Old Hospital, Dashboard, House Rules, Spell Usage, glossary). Cliffhanger status threaded through Dashboard/Hospital/session note. "What are arms?" attribution corrected to Madi (archive-verified). |

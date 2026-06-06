@@ -21,6 +21,7 @@ Mood ring (graduation item — "Ooh, my mood ring!") · grappling-hook bracers �
 
 ## Key Events
 
+- **S09 (⚠ partial recording):** **Won initiative (24)** — first to act against the library cult. Zero archived attack rolls; her actual turns (support? Moonbeam? whip debut?) are lost to the mic-only recording ⚑. One pre-combat nat 1 on the mystery group d20s.
 - **S08:** Custom **whip** delivered (Bobby ⚑ element unstated). A homebrew-data-entry night — **zero archived rolls** — but her spell list drove the planning: **Knock** prepared (vetoed: audible 300 ft), Detect Magic on standby. "Size doesn't matter." Joined ~1 minute late (kiddo escaped their room).
 - **S04:** "Oh, a **slutty 20**" (perception). Starry Wisp 14→28 under the DM's from-the-car sun ruling. Looted the sailor ward (3 emeralds, ruby, 10 gp — Sailor's Rite lore). Opened "her Moonbeam" as a blue-tinted light source ⚑ (College of the Moon feature, name unknown). Co-victim of the empty-room comedy.
 - **S03:** Hookshot pioneer — Acrobatics 15 onto a wall, fighting from the high ground ("more like Attack on Titan"); goat-jumped onto prone Deanna to Thunderwave (2nd-level, 3d8); **Lucky feat confirmed** (rerolled a nat 1 — still missed, the Lego skeleton animation twice); kept Barrett alive with two Healing Words + Lunar Vitality. Dad called mid-turn; stepped out and back like a pro.

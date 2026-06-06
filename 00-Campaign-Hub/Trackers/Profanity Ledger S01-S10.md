@@ -120,12 +120,21 @@
 
 **Session champion: Chase, 40 — NEW SINGLE-SESSION CAMPAIGN RECORD** (previous: DM's 25, S01). A library demanded silence; Chase answered. Signature: "Hi God, it's me, ya bitch."
 
-## Running Totals (through S08, attributed only)
+## S09 — The Battle of the Veiled Dawn (05/11/2026) ⚠ TAYLOR'S MIC ONLY
+
+> The recording captured only player Taylor — six players + DM uncounted. Not a fair fight; not entered in running totals as a champion session.
+
+| Speaker | fuck | shit | bitch | damn/goddamn | motherfucker | Session Total |
+|---|---|---|---|---|---|---|
+| Taylor (Vega) | 9 | 9 | 1 | 1 | 0 | **20** |
+| *everyone else* | — | — | — | — | — | *unrecorded* |
+
+## Running Totals (through S09, attributed only — S09 adds Taylor's 20)
 
 | Speaker | Total |
 |---|---|
 | Chase | **166** |
-| Taylor (Vega) | 128 |
+| Taylor (Vega) | 148 |
 | Taylor (DM) | 83 |
 | Josh | 43 |
 | Madi | 21 |

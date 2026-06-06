@@ -328,3 +328,35 @@
 
 **Taylor (DM) · [DM Quip]**
 > "Everybody make sure you have your second characters ready." *(the 15-enemy cliffhanger)*
+
+## S09 — The Battle of the Veiled Dawn (05/11/2026) ⚠ Taylor's mic only
+
+**Taylor (Vega) · [Funny]**
+> "Did somebody else say Carl? No way, now we have to have a Carl A and a Carl B twins. Okay, who is— who named theirs penis? Because I named one balls."
+
+**Taylor (Vega) · [Funny]**
+> "Listen, we named all of these guys. We're all children."
+
+**[[Vega Bloodroot]] (Taylor) · [In-Character]**
+> "We're taking your whole fucking library, bro."
+
+**Taylor (Vega) · [Banter]**
+> "See, we were never getting through that door. I'm glad I kicked it down. Here I was worrying that everybody was gonna be mad at me."
+
+**Taylor (Vega) · [Funny]**
+> "Does a 17 hit your mom?"
+
+**Taylor (Vega) · [Funny]**
+> "Oh no, it's just combat. I didn't know that rules would matter." *(mid-grapple rules excavation)*
+
+**[[Vega Bloodroot]] (Taylor) · [In-Character]**
+> "And that's 20, so I'm not grappled. And Vega will— she's gonna be like, 'Get off of me!' …and then I'mma hit him again because fuck you."
+
+**Taylor (Vega) · [Banter]**
+> "I'm down 20, but I have 70, so I'm at 49 out of 69." / *(bleed-through, probably the table, in unison spirit)*: "69, nice!" / Taylor: "It's so appropriate for this session considering the names of the people that are fighting."
+
+**Taylor (Vega) · [Banter]**
+> "I'm gonna need DM to start rolling in front of the table."
+
+**Taylor (Vega) · [Meta]**
+> "I would like to point out that no matter what we do, the session always ends with: well, you guys better make new characters next time."

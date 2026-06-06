@@ -141,6 +141,16 @@
 | Starry Wisp | Spell | Valerian's cantrip (confirmed in heavy use since S01) |
 | "Tails" | Nickname ⚑ | Madi's name for player Taylor — heard twice; "Tay"? confirm spelling |
 
+## Provisional ⚑ (S09 — partial recording)
+
+| Term | Type | Notes |
+|---|---|---|
+| Spellfire Flare | Spell — **BARRETT'S** | Archive-confirmed S09 (2d10, +6 to hit). The S04 "Flux nat-20 one-shot" attribution needs re-examination ⚑ |
+| Menacing attack (Vega) | Maneuver ⚑ | Superiority die, DC 15 Wis or frightened — source unknown ("a new Barbarian feature called Vega Bloodroot") |
+| The radiant gloves | Item ⚑ | "Adds radiant damage… to what?" — identified mid-battle; owner unknown |
+| Carl A & Carl B, Frankie, Lieutenant Dan, Kletoris, STD, Penis, Balls, Vegeta, Charlie | Token renames | The S09 enemy roster, as christened by the table ("We're all children") — not canon NPC names |
+| 2024 grapple escape | Rule | Save vs DC 8+prof+str (replaces opposed checks) — adopted at-table S09 |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

@@ -86,3 +86,14 @@ S05 was a roleplay session (no archived casts). S06–S07 casts live in their se
 | [[Deanna Smith-Wesson]] | *(prepared, uncast)* Find Traps · Silence | Silence's missed moment: "If only I would have gotten a heads up" |
 | [[Zelda Z Whipper]] | *(prepared, uncast)* Knock · Detect Magic | Knock vetoed — audible 300 ft |
 | [[Samothy Smith-Wesson]] | *(infusion work)* Sun Shard gauntlet-mount + replica key fabrication | Artificer features, not spells — both rolled dirty 20s upstream |
+
+## S09 — The Battle of the Veiled Dawn (05/11/2026) ⚠ archive-reconstructed (partial recording)
+
+| Caster | Spell | Notes |
+|---|---|---|
+| [[Valerian Hellebore]] | **CALL LIGHTNING ×2** (21, 16 dmg) | ⚡ The S01 promise kept: "Do you know what happens to a vampire when it''s hit by lightning? The same thing that happens to everything else." Cast INDOORS ⚑ ruling unknown |
+| [[Barrett Grimmskar]] | **Spellfire Flare ×2** (22 hit → 2d10=8) | The S04 mystery spell is HIS (Spellslinger) ⚑ update the S04 attribution |
+| [[Samothy Smith-Wesson]] | **Ray of Frost** (NEW) ×2 | 23→6, 15→12 |
+| [[Flux]] | **Witch Bolt** (18→7) + Finger Guns (18→9) | Witch Bolt''s first appearance on a recorded session (previously S04.5 archive-only) |
+| [[Vega Bloodroot]] | Eldritch Claw Tattoo (d6 riders ×4 archived) | Pure-Barbarian debut |
+| [[Zelda Z Whipper]] / [[Deanna Smith-Wesson]] | ⚑ unknown | Zelda''s support + "Did you heal me or something?" — caster unidentified (recording gap) |

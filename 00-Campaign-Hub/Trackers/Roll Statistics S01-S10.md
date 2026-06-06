@@ -174,3 +174,25 @@ Per-roll color in [[Session 08 — Silence in the Library]]'s predecessor note (
 - Group History volley fixed an attribution: the "21" was **Flux**, not Samothy (transcript reassigned).
 - Vega's "I thought it landed on a 10" — archive: [8]+1=9. The roll log was right.
 - Zero DM rolls again (S08); the S04/S07 DM-account rolls remain the only ones.
+
+## S09 — The Battle of the Veiled Dawn (rolls keyed 2026-05-11) ⚠ PARTIAL RECORDING
+
+**Total archived: 104** — the archive carried this session: with only Taylor's mic recorded, these rolls ARE the combat record. ~22 pre-combat group d20s (purpose inaudible ⚑) + initiative + ~90 min of battle.
+
+| Character | Rolls | Nat 20s | Nat 1s | Highlights |
+|---|---|---|---|---|
+| [[Vega Bloodroot]] | 31 | 0 | 1 (adv-eaten [1,5]) | **Level 8, pure Barbarian debut**: Savage Attacks rerolls, menacing attack ⚑, the STD grapple saga (2 failed checks → 2024-rules save 20: "Get off of me!") |
+| [[Samothy Smith-Wesson]] | 14 | 0 | 0 | **Ray of Frost debut** (23→6, 15→12); pistol + the new +2d6 elemental riders (first archived) |
+| [[Deanna Smith-Wesson]] | 14 | 1 (pre-combat d20) | 1 (pistol) | Pistol volleys all night; initiative rerolled 3→18 |
+| [[Flux]] | 12 | **1 (Investigation 28)** | **2 (Performance, Persuasion)** | The 0-for-2-then-jackpot solo scene ⚑; **Witch Bolt's first recorded-session appearance** (18→7); dex save 26 |
+| [[Zelda Z Whipper]] | 9 | 0 | 1 (pre-combat d20) | **Initiative 24 — first place**; zero archived attacks (support inaudible ⚑) |
+| [[Valerian Hellebore]] | 9 | 0 | 0 | ⚡ **CALL LIGHTNING ×2 (21, 16)** — the S01 promise, kept |
+| [[Barrett Grimmskar]] | 9 | 0 | 1 (Magnum) | **Spellfire Flare ×2 — the S04 mystery spell is HIS** ⚑ update attribution; **initiative dethroned** (adv [2,6] = 11) |
+| DM | 0 | — | — | "I'm gonna need DM to start rolling in front of the table" — Taylor, on mic |
+
+### Session Records
+
+- **Initiative order:** Zelda 24 → Valerian 19 → Samothy 19 → Deanna 18 → Flux 14 → Vega 12 → Barrett 11.
+- **Biggest archived hit:** Vega 26-to-hit chain (17+9+5 + tattoo d6) — and the post-grapple 19/25 spite combo.
+- **Most dramatic line of dice:** Flux's Performance nat 1 → Persuasion nat 1 → Investigation NAT 20 (28).
+- Party reached **LEVEL 8** (Vega max HP 69 on mic).

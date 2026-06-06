@@ -67,6 +67,14 @@
 | **Maverick Spirit stacks** | Barrett's d8 rider applies after Bardic Inspiration on the same failed check (11+1+8 = dirty 20, passed) | S08 |
 | **Reckless Attack vs. objects** | Allowed ("this door isn't gonna attack me back") — but warded objects CAN attack back (Con save, half damage on success) | S08 |
 
+## Standing Rules Added S09 ⚠ (partial recording — Taylor's side only)
+
+| Rule | Detail | Source |
+|---|---|---|
+| **2024 grapple escape** | Escaping a grapple = saving throw vs DC 8 + prof + Str mod (not an opposed check); grapple sets speed to 0 | S09 (excavated at-table, mid-grapple) |
+| **Rage persists across the session seam** | Vega entered S09 still Raging from S08's door demolition | S09 |
+| **Simultaneous-roll tie** | "If I'm the one being attacked, if we rolled the same thing, then I win" (defender wins ties ⚑ context partial) | S09 |
+
 ## One-Off Rulings (S08)
 
 - **Magic detection by ear:** the library's no-magic rule is enforced via **verbal components** — whisper-casting + a covering noise (the cough) beats it. *(S08)*

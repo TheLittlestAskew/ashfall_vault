@@ -2,7 +2,7 @@
 const fs = require("fs");
 const path = require("path");
 const DIR = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Transcripts\Corrected`;
-const FILES = ["032426_AB_Session05_Corrected_Transcript.md"];
+const FILES = ["051126_AB_Session09_SALVAGED_Transcript.md"];
 const CATS = {
   fuck: /\bfuck\w*/gi, shit: /\bshit\w*/gi, bitch: /\bbitch\w*/gi,
   damn: /\b(?:god)?damn\w*/gi, motherfucker: /\bmotherfuck\w*/gi,

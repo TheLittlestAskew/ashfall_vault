@@ -155,3 +155,22 @@
 > So I introduced the restricted section to my axe. It fought back. I hit it again. The stars-and-moonlight boy put one through the gap and the doors came open like they'd decided to cooperate, and then every bell, monk, and crawling thing in that building knew we were there. Fifteen of them, give or take whatever the dark is holding.
 >
 > Good. I brought sunlight on my knuckles, and the count is still low.
+
+---
+
+> [!note]- S09 — Get off of me. (The Battle of the Veiled Dawn) ⚠ partial record
+> **Get off of me.**
+>
+> *(Archivist: this entry reconstructed from Vega''s side of a half-captured recording + the roll ledger. Details thin; rage authentic.)*
+>
+> The doors were open because I opened them, and everything in that library with a pulse or a grudge came to discuss it. Fifteen of them, give or take. We named them, because if a man is going to die in a library he should at least die with a name like Lieutenant Dan or Carl. There were two Carls. Twins, we decided. The world takes all kinds.
+>
+> I was still angry from the door, so I stayed angry. The little one called the order of battle first — fastest hands in the family — and somewhere in the noise the druid finally did the thing he''s been promising since boot camp: he called the lightning down INDOORS, twice, and I felt every hair on my arms agree with it. Barrett''s gun spat fire that wasn''t fire. The twins'' boy threw cold. The changeling put a leash of lightning on someone. Everyone got to use their new toys. Bobby would have wept.
+>
+> One of them grabbed me. The one we named STD, because of course it was. I am not proud of how long it took — two honest tries, one wasted favor from the universe — and then the rules themselves changed shape and I was loose. I told him to get off of me and then I hit him twice more on principle. Nineteen and twenty-five principles, roughly.
+>
+> Somebody patched me up mid-fight without being asked. I'm at forty-nine of sixty-nine and yes, I heard it too, and yes, it was appropriate for this battlefield.
+>
+> Housekeeping: I dropped the sneaking lessons. I was never going to be subtle. I am all Barbarian now, the way a river is all water. Also there are gloves now, something about burning light, and I want them near my knuckles if nobody claims them first.
+>
+> Did we find what we came for? I genuinely don''t know. I know we knocked, the hard way, and the library answered. The rest is for the next telling — and SOMEBODY should make sure the magic ear that records these nights is actually pointed at all of us next time.

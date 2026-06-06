@@ -106,3 +106,10 @@
 | [[Valerian Hellebore]] | **Green book** — humming faintly | Puzzle key + presumed lore |
 | [[Barrett Grimmskar]] | **Blue book** — whispers faintly in an unknown language · **the human-skin-bound book** (nose indentation, inside-out) | From the 3rd-floor study |
 | — | Replica restricted-section key | **DESTROYED** — disintegrated in the lock ("Mr. Stark, I don't feel so good") |
+
+## S09 — The Battle of the Veiled Dawn (05/11/2026) ⚠ partial recording
+
+| Owner | Item | State / Context |
+|---|---|---|
+| ⚑ unknown | **Mystery gloves — radiant damage** ("To radiant damage? …it adds it to what?") | Identified mid-battle; presumably restricted-section loot; owner + properties unconfirmed — ask the table |
+| ⚑ | **Restricted-section haul — UNKNOWN** | Flux's nat-20 Investigation (28) found *something*; Vega on mic: "Did we find the things?" — unanswered. Ask the table |

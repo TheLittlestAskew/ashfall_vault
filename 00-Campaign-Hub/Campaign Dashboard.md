@@ -6,6 +6,7 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 09 | [[Session 09 — The Battle of the Veiled Dawn (PARTIAL RECORDING)]] ⚠ | 05/11/2026 | Immediately after S08 | 7→**8** | The library battle (Carl A & B, Lieutenant Dan, STD…); **Call Lightning debut**; Vega goes pure Barbarian; radiant gloves ⚑; outcome implied-won, unconfirmed ⚑ — **mic-only recording** |
 | 08 | [[Session 08 — Silence in the Library]] | 05/04/2026 | Days later ("weeks" real-time) | 7 | **Bobby's gear delivered + Sun Shard mounted**; soul-trap seal broken; Grand Library infiltrated (Cult of the Pale World); doors axed open → **15-enemy CLIFFHANGER** |
 | 07 | [[Session 07 — The Sun Shard]] | 04/20/2026 | Same expedition | 7 | **SUN SHARD CLAIMED**; vampire slaves (V-brand) revealed; silent sniffing thralls; library heist planned |
 | 06 | [[Session 06 — Protect the Light]] | 04/01/2026 | Next day(s) | 7 (23,480) | Saint Ardas explored; **Hargraven joins the party**; the orb (Vampire-Lord phone); Sun Shard named; bell mercy-kill; crypt ladder found |
@@ -17,7 +18,7 @@
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster. *(040226 = misfiled, different campaign — excluded.)*
+**🎉 CATCH-UP QUEUE EMPTY** — every recording through 2026-05-11 is processed; the vault is current with the roll archive. *(040226 = misfiled, different campaign — excluded, still needs re-homing ⚑.)*
 
 ## Active Threads
 
@@ -58,11 +59,14 @@
 35. ~~🏛️ THE LIBRARY HEIST (South Tower plan)~~ — superseded: executed S08 at the **Grand Library of the Veiled Dawn** (DM retconned the target; curator/scanner plan dropped ⚑).
 36. 🅥 **Vampire slaves** — V-branded day-walking human collaborators. Recontextualizes the SPY thread. (S07)
 37. 🧪 **Who used the crypt alchemy station "recently"?** + 3 mystery potions (pink/green/blue). (S07)
-38. ⚔️ **CLIFFHANGER: THE LIBRARY BATTLE** — restricted section breached (axe + nat-20 Starry Wisp); ~15 cultists (+ unconfirmed thralls) converging; "have your second characters ready." Flux loots while the rest fight. NEXT. (S08)
+38. ~~⚔️ CLIFFHANGER: THE LIBRARY BATTLE~~ — **FOUGHT in S09** (Carl A & B, Frankie, Lieutenant Dan, STD…). Victory strongly implied but **unconfirmed on the partial recording** ⚑ — ask the table how it ended. (S08→S09)
 39. 🫥 **The rooftop figure** — pale, long coat, smiled, vanished into thin air outside Saint Ardas. The murder-cardinal? [[The Vampire Lord]]? (S08)
 40. 📕 **The five library books** — red (*Broken Shards* — plural ⚑), "sun," "vampire," green (humming), blue (whispering, unknown language) + the human-skin book. All unread. (S08)
 41. ⛪ **The Cult of the Pale World** — [[Aloysius]] the psychopath bishop; **Gregory missing 2 days, destination secret** ⚑; an unnamed cardinal tracked by gruesome religious murders ⚑. The party used Al's forged signature. (S08)
 42. 🩸 **The soul-trap seal is BROKEN** — the welded armor held a soul; it's out. Whose? Where? Deanna holds the partial mark. (S08)
+43. 🧤 **The radiant gloves** ⚑ — identified mid-battle ("it adds radiant damage… to what?"); restricted-section loot?; owner unknown. (S09)
+44. 📚 **"Did we find the things?"** — whether the restricted section yielded the relic lore is UNKNOWN (Flux's nat-20 Investigation found *something*). (S09 ⚑ partial recording)
+45. 🎙 **META: recording rig** — 051126 captured Taylor's mic only (no Discord). Fix before the next session or S10 will be another reconstruction. ⚑
 
 ## Resolved Threads
 
@@ -111,9 +115,9 @@
 
 Post-meteor **Britain** — "medieval England with a steampunk vibe" (S02). See [[Setting Primer]].
 
-## Party Snapshot (as of S05)
+## Party Snapshot (as of S09)
 
-All 7 PCs — **Level 7** (23,000/34,000 XP; milestone leveling after 10) · [[Mr. Cat]] now PERMANENT · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] (+ Steel Defender "kitty-taur")
+All 7 PCs — **LEVEL 8** (confirmed S09: Vega max HP 69; level-up on mic) · **Vega now PURE BARBARIAN** (Rogue dip dropped) · [[Mr. Cat]] PERMANENT · +[[Lt. Hargraven]] (DM-run 8th) · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] — all carrying Bobby's elemental customs + level-8 picks unknown ⚑
 
 ## Reference
 

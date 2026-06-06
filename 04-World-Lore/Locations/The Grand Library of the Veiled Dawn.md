@@ -21,6 +21,6 @@ Human devotees of the vampire overlords. Purpose: **guard forbidden knowledge, d
 
 **NO MAGIC** — enforced by ear (verbal components draw an instant "*shh, no magic*"). No coughing either. Guards: ~15 cultists, door guard (Josh), roaming patrols on a 2.5-minute circuit — "not counting any vampire thralls or beast thralls, and now that I've said something, I won't tell you if there are."
 
-## Status (end of S08)
+## Status (after S09 ⚠ partial recording)
 
-Restricted-section doors **smashed open** (Vega's greataxe + Valerian's nat-20 Starry Wisp); **entire library alerted**; ~15 combatants converging. Five books taken (red/Broken Shards, "sun," "vampire," green humming, blue whispering) + the human-skin book. S09 opens here, mid-alarm.
+S08: restricted-section doors **smashed open** (Vega's greataxe + Valerian's nat-20 Starry Wisp); library alerted; five books taken + the human-skin book. S09: **the battle was fought here** — cultists (Carl A & B, Frankie, Lieutenant Dan, STD…) vs. the party; Call Lightning indoors; ~90 minutes of combat. **Outcome strongly implied won but unconfirmed** ⚑ (mic-only recording) — restricted-section haul unknown beyond the radiant gloves ⚑ and Vega's unanswered "Did we find the things?"

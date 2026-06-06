@@ -23,6 +23,7 @@ Barrett's Directional Doohickey (graduation item — weather-vane compass, finds
 
 ## Key Events
 
+- **S09 (⚠ partial recording):** **Spellfire Flare is HIS** — two archived casts (22 hit, 2d10=8) settle the S04 mystery-spell attribution ⚑ (S04 logged it as Flux's). Magnum: nat-1, then 20→12, 14→11. **Initiative dethroned at last** — advantage rolled [2,6] for an 11, dead last, after owning first place S01–S03.
 - **S08:** Took delivery of his **custom revolver** (Bobby; 2d6 elemental rider ⚑ element unstated). Found the **blue book** and the **human-skin-bound book** in the 3rd-floor study ("hopefully-not-people-leather" — it was people). The play of the night: **covered Valerian's secret nat-1 spellcast with a cough** — Deception 11 + Flux's Bardic (1) + Maverick Spirit (8) = dirty 20. "Sorry, it's super fucking dusty out here."
 - **S04:** Opened the session with a 19-crit "**Gut Shot**" kill (⚑ feature heard as "Deck Shot" in S02 — same thing?). Revealed **Maverick Spirit**: spend a Risk Die to add d8 to a failed INT/WIS/CHA check — used it to turn a 10 into 15 and find the gem room everyone else missed ("really? You're closer to the ground, you still didn't see them?").
 - **S03:** Third straight **first place in initiative** (24, adv). Took the session's scariest hit — a 21-damage chest wound — and kept double-tapping Finger Guns through it ("after receiving this deeping chest wound, Barrett is gonna blast the fucker"). Poached a kill — "**Kill steal!**" Risk Die rolled a 1: "all of that for one more damage." Healed twice by Zelda.
