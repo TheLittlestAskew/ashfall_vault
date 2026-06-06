@@ -1,2 +1,38 @@
+# Valerian Hellebore
 
-Played by: Chase
+**Played by:** Chase
+
+| | |
+|---|---|
+| **Race** | Elf |
+| **Class** | Druid (Circle of the Land) |
+| **Level** | 5 as of S01 (gained Wild Resurgence + 3rd-level spells) |
+| **Signature magic** | Starry Wisp · Moonbeam · Spiny Shield (⚑ homebrew reaction) |
+| **Languages** | Common, Druidic, Elvish, Goblin |
+
+## Build Notes
+
+- **Radiant specialist** — and radiant is doubled vs. vampires (house rule): every Moonbeam/Starry Wisp hit this session killed.
+- **Spiny Shield** (⚑ spelling/source unconfirmed): reaction; ethereal spike barrier; reduces incoming damage by 2d4 and reflects the same to the attacker.
+- Won the boot-camp **Perma Inspiration** ("teacher's pet" — seated alone at graduation); spent it S01 on a DM-prompted d20 (rerolled a 2 into a 4 — "missed the vital organs").
+- Already teasing **Call Lightning** at level 5: "Do you know what happens to a vampire when it's hit by lightning? The same thing that happens to everything else."
+
+## Items
+
+Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-hook bracers · quarterstaff, pistol — see [[Loot Tracker S01-S10]].
+
+## Key Events
+
+- **S01:** Killed 2 thralls with Moonbeam (22 and 20 effective). Tried Moonbeam on [[The Beast Binder]] — the beam **turned black and cut off** at his height; took it in stride ("Can't blame a guy for trying"). Tanked two thrall hits behind Spiny Shield. Named the party's shared enemy: "we have a common enemy now."
+
+## Quotes
+
+> "Uh, okay, fuck it, we ball." *(S01)*
+> "I'm fucking radiant." *(S01)*
+> "Who needs big sticks when you have bear arms?" *(S01)*
+> "Love that we pissed off somebody that powerful. Kind of terrified, but he could have killed us if he wanted to, so we'll see." *(S01)*
+
+## Relationships
+
+- Table's profanity co-champion and chaos agent (sticker wars with the DM).
+- Clear-eyed about the Beast Binder threat despite the jokes.

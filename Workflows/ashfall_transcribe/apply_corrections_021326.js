@@ -39,15 +39,15 @@ replaceOnce("Hi kitty tar,", "Hi kitty-taur,", "c10b kitty-taur");
 replaceOnce("Okay, so wait, within Snaring Strike", "Okay, so wait, with Ensnaring Strike", "c11 Ensnaring");
 
 // ── 2. Speaker reassignments (diarization fixes) ────────────
-replaceOnce("[00:47:38] SPEAKER D: Hey, husband Taylor.", "[00:47:38] SPEAKER E: Hey, husband Taylor.", "s1 husband Taylor -> Maddie");
+replaceOnce("[00:47:38] SPEAKER D: Hey, husband Taylor.", "[00:47:38] SPEAKER E: Hey, husband Taylor.", "s1 husband Taylor -> Madi");
 replaceOnce("[00:47:44] SPEAKER D: Yep.", "[00:47:44] SPEAKER A: Yep.", "s2 Yep -> DM");
-replaceOnce("[01:02:36] SPEAKER D: That's 6 damage.", "[01:02:36] SPEAKER E: That's 6 damage.", "s3 HM dmg -> Maddie");
-replaceOnce("[01:06:14] SPEAKER D: Yeah, that hits.", "[01:06:14] SPEAKER E: Yeah, that hits.", "s4 Deanna hit -> Maddie");
+replaceOnce("[01:02:36] SPEAKER D: That's 6 damage.", "[01:02:36] SPEAKER E: That's 6 damage.", "s3 HM dmg -> Madi");
+replaceOnce("[01:06:14] SPEAKER D: Yeah, that hits.", "[01:06:14] SPEAKER E: Yeah, that hits.", "s4 Deanna hit -> Madi");
 replaceOnce("[01:31:30] SPEAKER D: 14.", "[01:31:30] SPEAKER G: 14.", "s5 Flux roll -> Jill");
 replaceOnce("[01:44:13] SPEAKER C: Uh, Deanna, you're up.", "[01:44:13] SPEAKER A: Uh, Deanna, you're up.", "s6 turn call -> DM");
-replaceOnce("[01:47:15] SPEAKER D: 7 is the number I got.", "[01:47:15] SPEAKER E: 7 is the number I got.", "s7 Perf Shot dmg -> Maddie");
-replaceOnce("[02:00:40] SPEAKER D: Sorry, one more time.", "[02:00:40] SPEAKER E: Sorry, one more time.", "s8 -> Maddie");
-replaceOnce("[02:05:43] SPEAKER D: Okay. 13.", "[02:05:43] SPEAKER E: Okay. 13.", "s9 dagger roll -> Maddie");
+replaceOnce("[01:47:15] SPEAKER D: 7 is the number I got.", "[01:47:15] SPEAKER E: 7 is the number I got.", "s7 Perf Shot dmg -> Madi");
+replaceOnce("[02:00:40] SPEAKER D: Sorry, one more time.", "[02:00:40] SPEAKER E: Sorry, one more time.", "s8 -> Madi");
+replaceOnce("[02:05:43] SPEAKER D: Okay. 13.", "[02:05:43] SPEAKER E: Okay. 13.", "s9 dagger roll -> Madi");
 // line splits (merged utterances)
 replaceOnce("[00:32:50] SPEAKER F: Answer. So, and this will be a one-use",
   "[00:32:50] SPEAKER A: Answer.\n\n[00:32:50] SPEAKER F: So, and this will be a one-use", "s10 split Answer");
@@ -72,7 +72,7 @@ const RANGES = [
   { s: "00:37:11", e: "00:37:40", d: "Taylor Swift / Jack Antonoff tangent" },
   { s: "00:38:53", e: "00:40:42", d: "weather / climate / Taylor's health update (vertigo, kidney stones)" },
   { s: "02:15:24", e: "02:16:38", d: "Gus (DM's son) Minecraft cameo + 'dragons and shit' one-liner reminiscing [flagged quote-worthy in log]" },
-  { s: "02:41:02", e: "02:47:31", d: "end-of-session life chat (Maddie's Aflac news, DM's job interview, Taylor's shelter ops manual) and goodnights — session ends" },
+  { s: "02:41:02", e: "02:47:31", d: "end-of-session life chat (Madi's Aflac news, DM's job interview, Taylor's shelter ops manual) and goodnights — session ends" },
 ];
 const toSec = t => { const [h, m, s] = t.split(":").map(Number); return h * 3600 + m * 60 + s; };
 
@@ -106,7 +106,7 @@ const SPEAKERS = {
   B: "Taylor (Vega Bloodroot)",
   C: "Chase (Valerian Hellebore)",
   D: "Christie (Zelda Whipper)",
-  E: "Maddie (Deanna Smith-Wesson)",
+  E: "Madi (Deanna Smith-Wesson)",
   F: "Josh (Samothy Smith-Wesson)",
   G: "Jill (Flux)",
   H: "Doug (Barrett Grimmskar)",
@@ -122,7 +122,7 @@ text = text.replace(
   `# Ashfall Britannia — Session 1 — Corrected Transcript
 # Session date: 02/13/2026
 # Corrected: 2026-06-06 (spell-check cycle, Taylor-approved)
-# Speaker map: A=Taylor (DM), B=Taylor/Vega, C=Chase/Valerian, D=Christie/Zelda, E=Maddie/Deanna, F=Josh/Samothy, G=Jill/Flux, H=Doug/Barrett
+# Speaker map: A=Taylor (DM), B=Taylor/Vega, C=Chase/Valerian, D=Christie/Zelda, E=Madi/Deanna, F=Josh/Samothy, G=Jill/Flux, H=Doug/Barrett
 # Corrections log: Session_Sources/Transcripts/Spell_Check_Logs/021326_Spell_Check_Log.md
 # Unresolved flags remain verbatim in-text — see log.`
 );

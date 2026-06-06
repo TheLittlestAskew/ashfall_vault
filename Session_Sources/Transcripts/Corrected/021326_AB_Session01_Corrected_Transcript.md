@@ -1,7 +1,7 @@
 # Ashfall Britannia — Session 1 — Corrected Transcript
 # Session date: 02/13/2026
 # Corrected: 2026-06-06 (spell-check cycle, Taylor-approved)
-# Speaker map: A=Taylor (DM), B=Taylor/Vega, C=Chase/Valerian, D=Christie/Zelda, E=Maddie/Deanna, F=Josh/Samothy, G=Jill/Flux, H=Doug/Barrett
+# Speaker map: A=Taylor (DM), B=Taylor/Vega, C=Chase/Valerian, D=Christie/Zelda, E=Madi/Deanna, F=Josh/Samothy, G=Jill/Flux, H=Doug/Barrett
 # Corrections log: Session_Sources/Transcripts/Spell_Check_Logs/021326_Spell_Check_Log.md
 # Unresolved flags remain verbatim in-text — see log.
 # Source: 021326 Ashfall Brittania Recording.mp3
@@ -76,15 +76,15 @@
 
 [00:15:07] Taylor (DM): Exactly. Can we get the Wesson twins up here?
 
-[00:15:17] Maddie (Deanna Smith-Wesson): Deanna is gonna run up in front of Samothy and like kind of shove him out of the way so she gets up there first.
+[00:15:17] Madi (Deanna Smith-Wesson): Deanna is gonna run up in front of Samothy and like kind of shove him out of the way so she gets up there first.
 
 [00:15:26] Josh (Samothy Smith-Wesson): I will look at you like, you rapscallion.
 
-[00:15:30] Maddie (Deanna Smith-Wesson): She's gonna stick her tongue out like a little sister.
+[00:15:30] Madi (Deanna Smith-Wesson): She's gonna stick her tongue out like a little sister.
 
 [00:15:33] Taylor (DM): So Commander Thornfall, she grabs this piece of paper and hands it to you, Deanna, and says, this one is gonna come most in handy for you.
 
-[00:15:48] Maddie (Deanna Smith-Wesson): Handy dandy notebook.
+[00:15:48] Madi (Deanna Smith-Wesson): Handy dandy notebook.
 
 [00:15:51] Taylor (DM): And then she's gonna pick up the next item, hand it to you, goes, here, Samothy, here's a stick.
 
@@ -220,7 +220,7 @@
 
 [00:29:07] Taylor (DM): Yes.
 
-[00:29:07] Maddie (Deanna Smith-Wesson): Can I have a double barrel shotgun? That was my next question.
+[00:29:07] Madi (Deanna Smith-Wesson): Can I have a double barrel shotgun? That was my next question.
 
 [00:29:11] Doug (Barrett Grimmskar): I hope they do. That's what my whole character is based around.
 
@@ -270,7 +270,7 @@
 
 [00:31:20] Taylor (DM): Just as long as it's a common one, that's fine.
 
-[00:31:24] Maddie (Deanna Smith-Wesson): How many weapons One.
+[00:31:24] Madi (Deanna Smith-Wesson): How many weapons One.
 
 [00:31:31] Taylor (DM): How many are you trying to take?
 
@@ -278,7 +278,7 @@
 
 [00:31:35] Taylor (DM): Oh yeah, you can take a short sword. You and Josh have guns, so yeah.
 
-[00:31:40] Maddie (Deanna Smith-Wesson): So I was gonna do like a short sword, a dagger, and the shotgun. I thought that would make sense.
+[00:31:40] Madi (Deanna Smith-Wesson): So I was gonna do like a short sword, a dagger, and the shotgun. I thought that would make sense.
 
 [00:31:44] Taylor (DM): Okay, that's fine.
 
@@ -302,7 +302,7 @@
 
 [00:33:17] Taylor (DM): Yeah, that's, that's fine, but you got to give it a name, and it's got to be a sexy name.
 
-[00:33:25] Maddie (Deanna Smith-Wesson): Okay, Tanya.
+[00:33:25] Madi (Deanna Smith-Wesson): Okay, Tanya.
 
 [00:33:26] Josh (Samothy Smith-Wesson): Tanya.
 
@@ -312,7 +312,7 @@
 
 [00:33:31] Taylor (DM): Peter Pistol.
 
-[00:33:35] Maddie (Deanna Smith-Wesson): Oh, that's better.
+[00:33:35] Madi (Deanna Smith-Wesson): Oh, that's better.
 
 [00:33:37] Taylor (DM): That's a good one, Chase.
 
@@ -352,7 +352,7 @@
 
 [00:38:13] Taylor (Vega Bloodroot): I saw that table move earlier and I was like, is this a— is this gonna be a thing? Sorry, let's redecorate, guys.
 
-[00:38:22] Maddie (Deanna Smith-Wesson): I was waiting for everybody to know. I was like, man, I've been moving my crap.
+[00:38:22] Madi (Deanna Smith-Wesson): I was waiting for everybody to know. I was like, man, I've been moving my crap.
 
 [00:38:26] Taylor (DM): I had it placed where I needed it, now it's all uneven.
 
@@ -372,7 +372,7 @@
 
 > *[OOC life chat removed (00:38:53–00:40:42): weather / climate / Taylor's health update (vertigo, kidney stones)]*
 
-[00:41:20] Maddie (Deanna Smith-Wesson): I saw every single one of those bad guys.
+[00:41:20] Madi (Deanna Smith-Wesson): I saw every single one of those bad guys.
 
 [00:41:23] Taylor (DM): No, yeah, I know.
 
@@ -464,15 +464,15 @@
 
 [00:46:44] Taylor (DM): Yeah, that was my bad, sorry.
 
-[00:46:50] Maddie (Deanna Smith-Wesson): Wouldn't canonically—
+[00:46:50] Madi (Deanna Smith-Wesson): Wouldn't canonically—
 
 [00:46:51] Taylor (DM): updated it—
 
-[00:46:54] Maddie (Deanna Smith-Wesson): would canonically Sam and Deanna not be kind of like side by side?
+[00:46:54] Madi (Deanna Smith-Wesson): would canonically Sam and Deanna not be kind of like side by side?
 
 [00:46:57] Taylor (DM): Like, I just moved you guys, you guys can put yourselves whatever order you want.
 
-[00:47:04] Maddie (Deanna Smith-Wesson): I didn't know if we were allowed to move them or not.
+[00:47:04] Madi (Deanna Smith-Wesson): I didn't know if we were allowed to move them or not.
 
 [00:47:09] Taylor (DM): So one here, one here, one over here, one over here. God, it's like they're playing chicken.
 
@@ -482,11 +482,11 @@
 
 [00:47:37] Taylor (Vega Bloodroot): Okay.
 
-[00:47:38] Maddie (Deanna Smith-Wesson): Hey, husband Taylor.
+[00:47:38] Madi (Deanna Smith-Wesson): Hey, husband Taylor.
 
 [00:47:39] Taylor (DM): Yes?
 
-[00:47:40] Maddie (Deanna Smith-Wesson): Can you have the kids feed the dogs real quick before it gets too late?
+[00:47:40] Madi (Deanna Smith-Wesson): Can you have the kids feed the dogs real quick before it gets too late?
 
 [00:47:44] Taylor (DM): Yep.
 
@@ -494,7 +494,7 @@
 
 [00:48:01] Taylor (DM): Yes.
 
-[00:48:02] Maddie (Deanna Smith-Wesson): Okay, I can hit him with the Mr. Williams.
+[00:48:02] Madi (Deanna Smith-Wesson): Okay, I can hit him with the Mr. Williams.
 
 [00:48:05] Taylor (DM): No, that's my dad.
 
@@ -532,7 +532,7 @@
 
 [00:51:39] Taylor (Vega Bloodroot): Okay, I do not have the same access to the things that I need.
 
-[00:51:46] Maddie (Deanna Smith-Wesson): Or is this it?
+[00:51:46] Madi (Deanna Smith-Wesson): Or is this it?
 
 [00:51:48] Taylor (Vega Bloodroot): No.
 
@@ -600,7 +600,7 @@
 
 [00:58:16] Taylor (DM): Probably the ones you're, the ones you're fighting now, think more like really big, huge, rabid dog monsters, but they're more built like the things from that movie that has Jim from The Office and the deaf girl.
 
-[00:58:38] Maddie (Deanna Smith-Wesson): The Quiet Place.
+[00:58:38] Madi (Deanna Smith-Wesson): The Quiet Place.
 
 [00:58:39] Chase (Valerian Hellebore): A Quiet Place.
 
@@ -638,13 +638,13 @@
 
 [01:01:46] Taylor (DM): All right, Deanna, it's your turn.
 
-[01:01:50] Maddie (Deanna Smith-Wesson): Um, okay, real quick, um, above table I switched from a double barrel shotgun to just a pistol. I forgot that I have mastery on it, so I swapped that. Um, so that being said, I'm going to aim with my pistol at the one that Sammy just tried to get. I'm gonna aim with my pistol and try to hit it.
+[01:01:50] Madi (Deanna Smith-Wesson): Um, okay, real quick, um, above table I switched from a double barrel shotgun to just a pistol. I forgot that I have mastery on it, so I swapped that. Um, so that being said, I'm going to aim with my pistol at the one that Sammy just tried to get. I'm gonna aim with my pistol and try to hit it.
 
 [01:02:18] Taylor (DM): Alrighty, roll the hit. 11. Oof, that does not hit.
 
-[01:02:26] Maddie (Deanna Smith-Wesson): Um, as a bonus action, I want to do, uh, Hunter's Mark as well.
+[01:02:26] Madi (Deanna Smith-Wesson): Um, as a bonus action, I want to do, uh, Hunter's Mark as well.
 
-[01:02:36] Maddie (Deanna Smith-Wesson): That's 6 damage.
+[01:02:36] Madi (Deanna Smith-Wesson): That's 6 damage.
 
 [01:02:42] Taylor (DM): Just got to one-up your brother, don't you? Always.
 
@@ -690,7 +690,7 @@
 
 [01:05:50] Taylor (DM): Does a 7 hit? No, that's his turn. This one's turn. Uh, Chase, I'm gonna guess a 2 doesn't hit. No. And then for the Nova Twins over there, that's a 5. And Deanna, an 18.
 
-[01:06:14] Maddie (Deanna Smith-Wesson): Yeah, that hits.
+[01:06:14] Madi (Deanna Smith-Wesson): Yeah, that hits.
 
 [01:06:19] Taylor (DM): All right, and that was a— oh, okay, 2d6 for 6 points of damage. And then 2, 3, 4, 5, that was all of them. So now back to the top of the order with Duggaboo.
 
@@ -784,11 +784,11 @@
 
 [01:14:13] Taylor (DM): I'm so excited because someone's gonna have to at some point.
 
-[01:14:21] Maddie (Deanna Smith-Wesson): I feel like it's gonna be Deanna. I feel like it's gonna be Deanna because, you know, Dean.
+[01:14:21] Madi (Deanna Smith-Wesson): I feel like it's gonna be Deanna. I feel like it's gonna be Deanna because, you know, Dean.
 
 [01:14:30] Taylor (DM): If that was Vega turn, then it's Nova Twin number one, Samothy Smith-Wesson. Oh, sorry, you'd be the younger one.
 
-[01:14:41] Maddie (Deanna Smith-Wesson): So he's actually in this one, he's the older one.
+[01:14:41] Madi (Deanna Smith-Wesson): So he's actually in this one, he's the older one.
 
 [01:14:45] Taylor (DM): Oh, gotcha, gotcha.
 
@@ -818,13 +818,13 @@
 
 [01:16:17] Christie (Zelda Whipper): Okay.
 
-[01:16:19] Maddie (Deanna Smith-Wesson): I'm going to, uh, I'm gonna shoot this one right here. I'm gonna try and aim for this one. I'm gonna try to shoot it. Does a 22 hit?
+[01:16:19] Madi (Deanna Smith-Wesson): I'm going to, uh, I'm gonna shoot this one right here. I'm gonna try and aim for this one. I'm gonna try to shoot it. Does a 22 hit?
 
 [01:16:45] Taylor (DM): Yes, it does. Damn, Naruto, how long are you gonna sit there drinking water for?
 
 [01:16:54] Christie (Zelda Whipper): 7 damage.
 
-[01:16:56] Maddie (Deanna Smith-Wesson): All right, and with my pistol, if I hit it and deal damage to it, I get advantage on my next attack roll against that creature before the end of my next turn.
+[01:16:56] Madi (Deanna Smith-Wesson): All right, and with my pistol, if I hit it and deal damage to it, I get advantage on my next attack roll against that creature before the end of my next turn.
 
 [01:17:09] Chase (Valerian Hellebore): Okey-dokey.
 
@@ -962,7 +962,7 @@
 
 [01:26:55] Taylor (DM): So you pew pew your little finger guns at him, and the force damage hits him in the head, and it concaves his skull in and pushes the other side out a bit more, and he falls down dead.
 
-[01:27:12] Maddie (Deanna Smith-Wesson): Deanna's gonna see that happen.
+[01:27:12] Madi (Deanna Smith-Wesson): Deanna's gonna see that happen.
 
 [01:27:14] Taylor (Vega Bloodroot): She's gonna be like, you have got to teach me how to do that.
 
@@ -1090,7 +1090,7 @@
 
 [01:34:02] Taylor (Vega Bloodroot): It's not great.
 
-[01:34:04] Maddie (Deanna Smith-Wesson): It's an 11.
+[01:34:04] Madi (Deanna Smith-Wesson): It's an 11.
 
 [01:34:06] Taylor (DM): 11 does not hit. So I'll let you take— wait, wait— another swing. Okay, but it'll cost you an exhaustion point.
 
@@ -1206,11 +1206,11 @@
 
 [01:44:15] Taylor (DM): Chase, you're last. Correct. Uh, Deanna, you're up.
 
-[01:44:24] Maddie (Deanna Smith-Wesson): Okay, I am going to Um, as a bonus action, I want to cast Ensnaring Strike. Can I do that?
+[01:44:24] Madi (Deanna Smith-Wesson): Okay, I am going to Um, as a bonus action, I want to cast Ensnaring Strike. Can I do that?
 
 [01:44:39] Taylor (DM): Yeah.
 
-[01:44:40] Maddie (Deanna Smith-Wesson): Okay, I want to cast Ensnaring Strike on the vampire captain.
+[01:44:40] Madi (Deanna Smith-Wesson): Okay, I want to cast Ensnaring Strike on the vampire captain.
 
 [01:44:47] Taylor (DM): Okay.
 
@@ -1218,7 +1218,7 @@
 
 [01:45:07] Chase (Valerian Hellebore): Hang on.
 
-[01:45:27] Maddie (Deanna Smith-Wesson): Okay, so wait, with Ensnaring Strike, I take— I do this after hitting it with a weapon. My bad. Okay, I'm gonna, I'm gonna shoot first and then I'm gonna use Ensnaring Strike.
+[01:45:27] Madi (Deanna Smith-Wesson): Okay, so wait, with Ensnaring Strike, I take— I do this after hitting it with a weapon. My bad. Okay, I'm gonna, I'm gonna shoot first and then I'm gonna use Ensnaring Strike.
 
 [01:45:38] Taylor (DM): Okay, my bad.
 
@@ -1226,19 +1226,19 @@
 
 [01:45:49] Taylor (DM): 8 to hit. That does not hit. I think you need to change your dice, buddy.
 
-[01:45:56] Maddie (Deanna Smith-Wesson): Well, since I missed, I'm— instead of Ensnaring Strike, I'm going to cast Perforating Shot, which is: as my attack hits or misses the target, the weapon or ammunition transforms into a 5-foot wide line of magical energy that extends out to the weapon's normal range. The line includes the attack's original target. Each creature within the line makes a Dex saving throw, taking Force damage equal to the weapon's normal damage on a failed save, or half as much on a successful one.
+[01:45:56] Madi (Deanna Smith-Wesson): Well, since I missed, I'm— instead of Ensnaring Strike, I'm going to cast Perforating Shot, which is: as my attack hits or misses the target, the weapon or ammunition transforms into a 5-foot wide line of magical energy that extends out to the weapon's normal range. The line includes the attack's original target. Each creature within the line makes a Dex saving throw, taking Force damage equal to the weapon's normal damage on a failed save, or half as much on a successful one.
 
 [01:46:36] Taylor (DM): Okay, he got a 17. Um, yeah, that, that's successful.
 
-[01:46:54] Maddie (Deanna Smith-Wesson): Half as much damage equal to weapon's normal damage. So do you want me to roll for damage and then half it, or how do you want me to do it?
+[01:46:54] Madi (Deanna Smith-Wesson): Half as much damage equal to weapon's normal damage. So do you want me to roll for damage and then half it, or how do you want me to do it?
 
 [01:47:09] Taylor (DM): Yeah, that's fine.
 
-[01:47:15] Maddie (Deanna Smith-Wesson): 7 is the number I got.
+[01:47:15] Madi (Deanna Smith-Wesson): 7 is the number I got.
 
 [01:47:19] Taylor (DM): Okay, so 4. So as you attack him, he just kind of chuckles and brushes the dust off his shoulder, and then he just smiles at you.
 
-[01:47:46] Maddie (Deanna Smith-Wesson): Uh-oh, I think I might have pissed him off, Sammy.
+[01:47:46] Madi (Deanna Smith-Wesson): Uh-oh, I think I might have pissed him off, Sammy.
 
 [01:47:52] Josh (Samothy Smith-Wesson): Like always.
 
@@ -1410,13 +1410,13 @@
 
 [02:00:14] Taylor (Vega Bloodroot): No, they do not.
 
-[02:00:16] Taylor (DM): Next one is gonna jump over here, say fuck you, Deanna. A 14 and an 8. Maddie, Maddie, Maddie, Maddie.
+[02:00:16] Taylor (DM): Next one is gonna jump over here, say fuck you, Deanna. A 14 and an 8. Madi, Madi, Madi, Madi.
 
-[02:00:40] Maddie (Deanna Smith-Wesson): Sorry, one more time.
+[02:00:40] Madi (Deanna Smith-Wesson): Sorry, one more time.
 
 [02:00:43] Taylor (DM): You're being attacked of 14 and an 8.
 
-[02:00:47] Maddie (Deanna Smith-Wesson): Oh, uh, neither of those hit.
+[02:00:47] Madi (Deanna Smith-Wesson): Oh, uh, neither of those hit.
 
 [02:00:50] Taylor (DM): All right, top of the order, Barrett.
 
@@ -1470,23 +1470,23 @@
 
 [02:05:27] Taylor (DM): Deanna, you're up.
 
-[02:05:29] Maddie (Deanna Smith-Wesson): Okay, um, I'm gonna aim for the Vampire Captain again and This time I'm gonna try to throw my dagger.
+[02:05:29] Madi (Deanna Smith-Wesson): Okay, um, I'm gonna aim for the Vampire Captain again and This time I'm gonna try to throw my dagger.
 
-[02:05:43] Maddie (Deanna Smith-Wesson): Okay. 13.
+[02:05:43] Madi (Deanna Smith-Wesson): Okay. 13.
 
 [02:05:49] Taylor (DM): Does not hit.
 
 [02:05:51] Taylor (Vega Bloodroot): Damn it.
 
-[02:05:53] Maddie (Deanna Smith-Wesson): Um, I'm gonna cast— cast Ensnaring Strike as a bonus action.
+[02:05:53] Madi (Deanna Smith-Wesson): Um, I'm gonna cast— cast Ensnaring Strike as a bonus action.
 
 [02:05:58] Taylor (DM): Okay.
 
-[02:06:04] Maddie (Deanna Smith-Wesson): Okay, and that does— it says 1d6, so 4 damage.
+[02:06:04] Madi (Deanna Smith-Wesson): Okay, and that does— it says 1d6, so 4 damage.
 
 [02:06:13] Taylor (DM): Okay, uh, he looks at you and he goes, if you live through this, I may take you into my harem.
 
-[02:06:27] Maddie (Deanna Smith-Wesson): Whoa, hey buddy, Sammy, are you gonna let him talk to me like that?
+[02:06:27] Madi (Deanna Smith-Wesson): Whoa, hey buddy, Sammy, are you gonna let him talk to me like that?
 
 [02:06:32] Taylor (DM): Oh, your brother's welcome too.
 
@@ -1516,11 +1516,11 @@
 
 [02:08:12] Josh (Samothy Smith-Wesson): Damn, doesn't hit. That's wild. Okay, bonus action.
 
-[02:08:18] Maddie (Deanna Smith-Wesson): A 19 didn't hit.
+[02:08:18] Madi (Deanna Smith-Wesson): A 19 didn't hit.
 
 [02:08:21] Josh (Samothy Smith-Wesson): Yep, 19 didn't hit. This man's a demon.
 
-[02:08:27] Maddie (Deanna Smith-Wesson): Uh, I'm gonna change my dice real quick.
+[02:08:27] Madi (Deanna Smith-Wesson): Uh, I'm gonna change my dice real quick.
 
 [02:08:31] Taylor (DM): Yeah, I didn't change mine. I'm still getting fucked over over here.
 
@@ -1570,7 +1570,7 @@
 
 [02:13:22] Taylor (DM): Very, very nice. Okay, so after the final Thrall is defeated— oops— these guys pop up.
 
-[02:13:41] Maddie (Deanna Smith-Wesson): Oh my God.
+[02:13:41] Madi (Deanna Smith-Wesson): Oh my God.
 
 [02:13:46] Taylor (DM): Oh my God, save a thumb.
 
@@ -1600,7 +1600,7 @@
 
 [02:17:14] Taylor (DM): Sure.
 
-[02:17:17] Maddie (Deanna Smith-Wesson): Just because I'm mad that he won't tell us.
+[02:17:17] Madi (Deanna Smith-Wesson): Just because I'm mad that he won't tell us.
 
 [02:17:22] Taylor (Vega Bloodroot): 20 gets taken down by finger guns.
 
@@ -1610,7 +1610,7 @@
 
 [02:17:38] Taylor (DM): He stands there all smug with a shit-eating grin.
 
-[02:17:45] Maddie (Deanna Smith-Wesson): Oh, you're on my shit list now, buddy.
+[02:17:45] Madi (Deanna Smith-Wesson): Oh, you're on my shit list now, buddy.
 
 [02:17:52] Josh (Samothy Smith-Wesson): Now I'm gonna make my build so I can torture him when we find him again.
 
@@ -1620,7 +1620,7 @@
 
 [02:18:09] Taylor (Vega Bloodroot): Let's just— let's Come up with a nickname that will annoy him because it's like not his name, but it's just like close to his name. And so it'll be like, hey, what's your name? Tyler, except somebody that I actually feel threatened by.
 
-[02:18:27] Maddie (Deanna Smith-Wesson): Yo, short, dead, and ugly, what's your name?
+[02:18:27] Madi (Deanna Smith-Wesson): Yo, short, dead, and ugly, what's your name?
 
 [02:18:36] Taylor (DM): So he teleports real quick, moves real quick, gets real close to you. He whispers his name in your ear and then utters a spell that says, "You're gonna forget it," and then back over there.
 
@@ -1650,11 +1650,11 @@
 
 [02:19:33] Chase (Valerian Hellebore): Wouldn't Samothy have been right next to her?
 
-[02:19:37] Maddie (Deanna Smith-Wesson): Opportunity.
+[02:19:37] Madi (Deanna Smith-Wesson): Opportunity.
 
 [02:19:38] Taylor (Vega Bloodroot): And I also— what, what is—
 
-[02:19:40] Maddie (Deanna Smith-Wesson): yeah, I was gonna say I should get an attack of opportunity.
+[02:19:40] Madi (Deanna Smith-Wesson): yeah, I was gonna say I should get an attack of opportunity.
 
 [02:19:44] Josh (Samothy Smith-Wesson): Yeah, attack of opportunity.
 
@@ -1668,7 +1668,7 @@
 
 [02:19:59] Taylor (DM): I'm just kidding.
 
-[02:20:00] Maddie (Deanna Smith-Wesson): Do I just have to roll?
+[02:20:00] Madi (Deanna Smith-Wesson): Do I just have to roll?
 
 [02:20:02] Josh (Samothy Smith-Wesson): Hey, since it's point-blank, don't we get advantage?
 
@@ -1700,7 +1700,7 @@
 
 [02:21:49] Taylor (DM): Yo, same.
 
-[02:21:52] Maddie (Deanna Smith-Wesson): I almost went, that's okay, you carry that out between classes, fucking nerd.
+[02:21:52] Madi (Deanna Smith-Wesson): I almost went, that's okay, you carry that out between classes, fucking nerd.
 
 [02:22:00] Taylor (Vega Bloodroot): Fucking nerd. What are you gonna—
 
@@ -1724,7 +1724,7 @@
 
 [02:22:31] Taylor (Vega Bloodroot): Disappearing and leaving cryptic note. I mean, like, seriously, man, have you ever, ever read a book that's so trite? Go home and come back with better material. For real, I don't even know.
 
-[02:22:57] Maddie (Deanna Smith-Wesson): So Deanna's gonna be like, do you want to get to know me better?
+[02:22:57] Madi (Deanna Smith-Wesson): So Deanna's gonna be like, do you want to get to know me better?
 
 [02:23:04] Taylor (DM): Not currently, but don't worry, there will be a time where I'll need your assistance.
 
@@ -1732,7 +1732,7 @@
 
 [02:23:24] Taylor (DM): I wouldn't say you're helping me.
 
-[02:23:28] Maddie (Deanna Smith-Wesson): The Lion, the Witch, and the Audacity of This Bitch to ask for help after this, right?
+[02:23:28] Madi (Deanna Smith-Wesson): The Lion, the Witch, and the Audacity of This Bitch to ask for help after this, right?
 
 [02:23:34] Chase (Valerian Hellebore): The Lion— I won't ask.
 
@@ -1746,7 +1746,7 @@
 
 [02:24:09] Taylor (Vega Bloodroot): What is it? Whoa, Deanna's gonna call out for him.
 
-[02:24:11] Maddie (Deanna Smith-Wesson): Fuck you, Teep Finder!
+[02:24:11] Madi (Deanna Smith-Wesson): Fuck you, Teep Finder!
 
 [02:24:13] Taylor (Vega Bloodroot): Why are you so obsessed with us, man? I've never met you before.
 
@@ -1762,7 +1762,7 @@
 
 [02:24:47] Taylor (DM): I'm looking forward to it.
 
-[02:24:51] Josh (Samothy Smith-Wesson): You know, just because I'm gonna give you the Maddie treatment.
+[02:24:51] Josh (Samothy Smith-Wesson): You know, just because I'm gonna give you the Madi treatment.
 
 [02:24:57] Taylor (DM): XP. Before we do XP, I wanted to—
 
@@ -1774,7 +1774,7 @@
 
 [02:25:17] Josh (Samothy Smith-Wesson): Hey, good, they're gonna need it.
 
-[02:25:20] Maddie (Deanna Smith-Wesson): Someone call an ambulance. But not for me.
+[02:25:20] Madi (Deanna Smith-Wesson): Someone call an ambulance. But not for me.
 
 [02:25:25] Taylor (Vega Bloodroot): But not for me.
 
@@ -1794,7 +1794,7 @@
 
 [02:27:19] Taylor (Vega Bloodroot): I feel like, uh, uh, Vega is gonna turn around to everybody because she's still like in the front, and it may be the first time that she's realized since it happened that she's covered in vampire blood. She's gonna be like, you guys think this was a test, or was that guy for real? Oh, that guy was real.
 
-[02:27:41] Maddie (Deanna Smith-Wesson): There's There's no chance he wasn't like that for fun.
+[02:27:41] Madi (Deanna Smith-Wesson): There's There's no chance he wasn't like that for fun.
 
 [02:27:48] Chase (Valerian Hellebore): He full-on did some loud shit to a Moonbeam spell. Still not sure what the fuck that was. Love that we pissed off somebody that powerful. Kind of terrified, but he could have killed us if he wanted to, so we'll see.
 
@@ -1868,7 +1868,7 @@
 
 [02:31:48] Taylor (DM): XP.
 
-[02:31:49] Maddie (Deanna Smith-Wesson): Let me see.
+[02:31:49] Madi (Deanna Smith-Wesson): Let me see.
 
 [02:31:50] Taylor (DM): Let me do the math. You earn enough to level up.
 
@@ -1960,7 +1960,7 @@
 
 [02:37:09] Taylor (Vega Bloodroot): Look at my Rogue stuff, and I have Thieves' Cant, and I feel like I want a t-shirt that says thieves can.
 
-[02:37:22] Maddie (Deanna Smith-Wesson): There's now a downtime tasks Discord.
+[02:37:22] Madi (Deanna Smith-Wesson): There's now a downtime tasks Discord.
 
 [02:37:25] Chase (Valerian Hellebore): It's like the South Dakota meth ad. Meth, we're on it.
 
@@ -2034,4 +2034,4 @@
 
 [02:40:54] Josh (Samothy Smith-Wesson): Just any bag. Get one that looks cool if you want. I don't care, it doesn't matter. A bag, I could turn into a bag of holding.
 
-> *[OOC life chat removed (02:41:02–02:47:31): end-of-session life chat (Maddie's Aflac news, DM's job interview, Taylor's shelter ops manual) and goodnights — session ends]*
+> *[OOC life chat removed (02:41:02–02:47:31): end-of-session life chat (Madi's Aflac news, DM's job interview, Taylor's shelter ops manual) and goodnights — session ends]*

@@ -15,12 +15,12 @@
 | B | Taylor | Vega Bloodroot |
 | C | Chase | Valerian Hellebore |
 | D | Christie | Zelda "Z" Whipper |
-| E | Maddie | Deanna Smith-Wesson |
+| E | Madi | Deanna Smith-Wesson |
 | F | Josh | Samothy Smith-Wesson |
 | G | Jill | Flux |
 | H | Doug | Barrett Grimmskar |
 
-Notes: Maddie is the DM's wife (Gus = their son; pets Naruto + dogs at their house). Doug is the DM's brother ("Dugaboo"/"Dougie Poo"). **Corey** is Taylor's (Vega's player's) husband — not in the game, OOC mentions only. Taylor and Jill missed the prior (uncounted, unrecorded) mini-session.
+Notes: Madi is the DM's wife (Gus = their son; pets Naruto + dogs at their house). Doug is the DM's brother ("Dugaboo"/"Dougie Poo"). **Corey** is Taylor's (Vega's player's) husband — not in the game, OOC mentions only. Taylor and Jill missed the prior (uncounted, unrecorded) mini-session.
 
 ## Corrections Applied (approved, ≥85% confidence)
 
@@ -37,14 +37,14 @@ Notes: Maddie is the DM's wife (Gus = their son; pets Naruto + dogs at their hou
 | 9 | 02:03:13 | Christie | shot at the mole | shot at the gnoll | 90% | Same |
 | 10 | 01:55:43 | Vega | go to the no next to the little kitty | the gnoll next to | 90% | Same |
 | 11 | 01:55:43/46 | DM/Taylor | kitty tar | kitty-taur | 85% | Centaur-cat coinage |
-| 12 | 01:45:27 | Maddie | within Snaring Strike | with Ensnaring Strike | 90% | Spell name |
+| 12 | 01:45:27 | Madi | within Snaring Strike | with Ensnaring Strike | 90% | Spell name |
 
 ## Speaker Reassignments / Line Splits (diarization fixes)
 
 | Time | Was | Now | Reason |
 |---|---|---|---|
 | 00:32:50 | F (merged) | split: A "Answer." / F rest | DM's call-response pattern |
-| 00:47:38 | D | E (Maddie) | "Hey, husband Taylor" — DM's wife |
+| 00:47:38 | D | E (Madi) | "Hey, husband Taylor" — DM's wife |
 | 00:47:44 | D | A (DM) | "Yep" reply to feed-the-dogs request |
 | 01:02:36 | D | E | Deanna's Hunter's Mark damage |
 | 01:06:14 | D | E | Deanna confirming she's hit |
@@ -68,7 +68,7 @@ Notes: Maddie is the DM's wife (Gus = their son; pets Naruto + dogs at their hou
 | 01:26:06 | Doug | "Risk die" | Spellslinger homebrew resource — term unconfirmed |
 | 02:10:04 | Josh | "the Noldam" | Garbled (likely "the gnoll, damn") — 70%, below threshold |
 | 02:11:05 | Taylor | "another nat 24, 26" | Likely "nat 20 for 26" — left verbatim, math flag |
-| 02:24:11 | Maddie | "Fuck you, Teep Finder!" | Possibly intentional mock-nickname for Beast Binder |
+| 02:24:11 | Madi | "Fuck you, Teep Finder!" | Possibly intentional mock-nickname for Beast Binder |
 | 02:25:28 | Taylor | "That DM Exogery" | Garbled — `[Unknown/Ambiguous]` |
 
 ## NPC / Proper-Noun Spellings — PROVISIONAL (Taylor to confirm with DM)
