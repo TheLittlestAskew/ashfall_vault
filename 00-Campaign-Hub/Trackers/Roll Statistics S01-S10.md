@@ -106,3 +106,11 @@
 | [[Valerian Hellebore]] | 0 ⚑ | Transcript-only: Moonbeam 38 kill (target crit-failed), Healing Word self-heal 13, nature 25 |
 
 **Records:** Vega's first kill (S04) · party-calculated XP +50 bonus · new spell-recovery mechanic rolls (2d6+1d4 per caster)
+
+## S04.5 — THE LOST SESSION (2026-03-11, UNRECORDED) ⚠
+
+**28 archived rolls, no transcript.** Highlights: Flux **Witch Bolt 22** (never seen on a recording); Deanna **nat-20 Perception (28)**; group Nature volley (the nirnroot hunt: Barrett 17, Val 15, Samothy 13, Deanna 11, Flux 8); Samothy custom ×7 (the book vision?); Barrett dagger nat-1; **Valerian's rolls synced fine here** — his S03/S04 gap was session-specific. No Zelda rolls (Christie absent? ⚑). Full list in [[Session 04.5 — The Basement (UNRECORDED)]].
+
+## S05 — The Bell of Saint Ardas (2026-03-24) — roleplay session
+
+**3 archived rolls:** Deanna initiative 4 (stray), Deanna custom 15, custom 19 = **the Mr. Cat permanence roll**. (2026-04-15's 15 DM-only rolls = prep, not play.)

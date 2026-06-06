@@ -185,3 +185,32 @@
 
 **Madi → table · [Poignant]**
 > "I want to point out his dedication, guys. He hopped on to be here before he even texted me, his wife, that he was on his way home."
+
+## S05 — The Bell of Saint Ardas (03/24/2026)
+
+**[[Lt. Hargraven]] (DM) · [Serious]**
+> "That place should not appear on any living map."
+
+**[[Lt. Hargraven]] (DM) · [Serious]**
+> "This is why they've been one step ahead of us. They've been moving under our feet."
+
+**[[Bobby]] (DM) · [DM Quip]**
+> "I would have to kill you to take it. Don't feel like doing that today. Maybe tomorrow."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Banter]**
+> "You could always try your hand at it anytime, old man."
+
+**Taylor (DM) · [DM Quip]**
+> "Oh, you found Crazy Myrna. … Well, she smokes about a pack a day. It's not just cigarettes she's smoking either."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "The fucking mental image of this batshit crazy lady, fucking horse in one hand, bong in the other. During a fucking vampire apocalypse."
+
+**Madi (Deanna) · [Funny]**
+> "We could name our troupe the Back Alley Orphans, even though we're not all orphans. Yeah, that's what makes it funny."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "I don't have to be like, I choose you, Mr. Cat."
+
+**Taylor (DM) · [Banter]**
+> "The Discord was a little quieter when Chase was missing."

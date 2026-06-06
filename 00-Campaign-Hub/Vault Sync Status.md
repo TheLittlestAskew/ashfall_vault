@@ -22,7 +22,9 @@
 
 **S04 — A Gust of Wind:** all 13 items ✅/➖ (no new NPC/location/creature pages needed; Bobby + Hospital pages updated; cliffhanger resolved across Dashboard/threads).
 
-**Last fully synced session:** S04 — A Gust of Wind (03/04/2026)
+**S05 — The Bell of Saint Ardas:** ✅ all applicable (roleplay session: Dr. Wilson, Anne ⚑, Verilith, Saint Ardas pages created; no combat logs). **S04.5 lost-session stub** created.
+
+**Last fully synced session:** S05 — The Bell of Saint Ardas (03/24/2026)
 
 ## Catch-Up Queue (chronological)
 
@@ -32,7 +34,8 @@
 | 021726 | ✅ **S02 — Ashes of the Living** — fully synced 06/06/2026 |
 | 022426 (1+2) | ✅ **S03 — Mr. Cat, Esquire** — unified, fully synced 06/06/2026 |
 | 030426 | ✅ **S04 — A Gust of Wind** — fully synced 06/06/2026 |
-| 032426 | ⬜ not transcribed |
+| *(no recording)* | ⚠ **S04.5 — The Basement (UNRECORDED, ~03/11)** — stub created from 28 archived rolls; 5 open questions for Taylor |
+| 032426 | ✅ **S05 — The Bell of Saint Ardas** — fully synced 06/06/2026 |
 | 040126 | ⬜ not transcribed |
 | 040226 | ⬜ not transcribed |
 | 042026 | ⬜ not transcribed |

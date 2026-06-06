@@ -6,13 +6,15 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 05 | [[Session 05 — The Bell of Saint Ardas]] | 03/24/2026 | Day(s) after the hospital | **7** (23,000) | The map revealed: tunnels → **Saint Ardas**; the bell rings; book bound to Samothy; Bobby forging custom gear; Verilith named |
+| 04.5 | [[Session 04.5 — The Basement (UNRECORDED)]] ⚠ | ~03/11/2026 | — | 6→7 | **LOST SESSION** — basement cleared, book vision, Verilith photos, nirnroot (28 archived rolls only) |
 | 04 | [[Session 04 — A Gust of Wind]] | 03/04/2026 | Same night | **6** (21,700 XP) | Cliffhanger resolved (Madi substitute-DM'd); Vega's first kill; **THE BOOK found**; gems + ritual daggers; basement next |
 | 03 | [[Session 03 — Mr. Cat, Esquire]] | 02/24/2026 | Same night (post-short-rest) | 5 (XP in Discord ⚑) | Hospital 2F brawl — ~~PAUSED MID-COMBAT~~ resolved in S04; Mr. Cat named; kill contest; Beast Master boots on 2F |
 | 02 | [[Session 02 — Ashes of the Living]] | 02/17/2026 | Dawn after S01 | 5 (+3,300 XP) | Hampshire swept — Valerian's parents dead, children taken; Beast Master lore; Bobby's book commission; hospital floor 1 cleared |
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
+**Not yet processed (catch-up queue, chronological):** 040126+040226 (likely one session) · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
 
 ## Active Threads
 
@@ -35,7 +37,13 @@
 17. 🗡️ **The ritual daggers** — fire-arcana + water-deity, dead language, unknown woods/metals → Bobby + Comprehend Languages. (S04)
 18. 📄 **The watermark paper** — candle-revealed, unread. (S04)
 19. 🖼️ **"Gary"** — the embalmer's photo/love letter (~2 wks pre-ash). Who was he? (S04)
-20. 🏥 **THE BASEMENT** — medicine stock confirmed there; morgue; "a whole session"; level-up after. (S04)
+20. ~~🏥 THE BASEMENT~~ — ✅ cleared in the LOST session (04.5) ⚑ details unrecorded.
+21. ⛪ **SAINT ARDAS** — tunnels under every district converge on the cursed church; sealed ancient evil; **the bell is ringing**. Party assigned — S06. (S05)
+22. 🩸 **[[Verilith, the First Blood]]** — "the woman with the daggers," from the missing-person photos ⚑. (S04.5/S05)
+23. 📖 **Samothy must READ the book** — one-owner vampire-history artifact, bound to him; his vision unrecorded ⚑. (S05)
+24. ⚒️ **Bobby's custom enchanted gear ×7** — ready next session. (S05)
+25. 🧪 **Anne's 2 random-effect potions** — unidentified. (S05)
+26. 🔴 **THE LOST SESSION (04.5)** — 5 open questions for Taylor in the stub. (meta)
 
 ## Resolved Threads
 
@@ -53,6 +61,11 @@
 | [[Bobby]] | 🟢 | Dwarf master armorer | S02 — his shop |
 | [[Abigail]] | 🟢 | Elf alchemist | S02 — her shop |
 | Hampshire Beast Master | 🔴 | Unseen — footprints only | S02 — departed Hampshire |
+| [[Dr. Wilson]] | 🟢 | Castle surgeon | S05 — medical ward |
+| [[Anne]] ⚑ (= Abigail?) | 🟢 | The (real) apothecary | S05 — her shop |
+| Crazy Myrna | 🟢 | Comedy hazard | S05 — the wrong shop |
+| [[Verilith, the First Blood]] | 🔴 ⚑ | "The woman with the daggers" | Photo only |
+| Gregor ("Greg the Gory") ⚑ | ⚪ | 6'8" soldier (mentioned) | Unmet |
 
 ## Locations
 
@@ -72,9 +85,9 @@
 
 Post-meteor **Britain** — "medieval England with a steampunk vibe" (S02). See [[Setting Primer]].
 
-## Party Snapshot (as of S04)
+## Party Snapshot (as of S05)
 
-All 7 PCs — **Level 6** (21,700 XP) · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] (+ Steel Defender "kitty-taur")
+All 7 PCs — **Level 7** (23,000/34,000 XP; milestone leveling after 10) · [[Mr. Cat]] now PERMANENT · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] (+ Steel Defender "kitty-taur")
 
 ## Reference
 

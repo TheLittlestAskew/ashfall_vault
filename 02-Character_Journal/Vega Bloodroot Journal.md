@@ -77,3 +77,20 @@
 > There was a photograph in the embalmer's room. A woman and a child, two weeks before the sky went dark. Someone named Gary kept it where he could see it while he worked. I put it back the way I found it. Some things you don't loot.
 >
 > Tomorrow: the basement. The medicine is down there. The morgue is down there. Whatever has been breathing in this building is probably down there too. We rest light.
+
+---
+
+> [!note]- S05 — The castle. A breath between. (The Bell of Saint Ardas)
+> **The castle. A breath between.**
+>
+> Home, for a breath. We handed the medicine to a surgeon who looked like he hadn't slept since the meteor, and he held those crates like they were children. Three hundred gold and potions for the trouble. Worth more than the gold: the look on his face.
+>
+> Then the war room, and the paper that wasn't blank. Hargraven passed his hand over it and said one word, and a city grew out of the page — the old downtown, and under it, tunnels. Arteries. All of them running to a church called Saint Ardas, a place he says shouldn't be on any living map. Congregations vanished there. Bodies drained. Something sealed beneath it that should have slept forever. And the tunnels touch every district. That's how they've always been ahead of us. They've been underneath us the whole time.
+>
+> And then, while we stood outside, the bell rang. A church that hasn't rung in centuries, ringing slow through the ash. So of course we're the ones being sent.
+>
+> The dwarf's book turned out to be a trick of fate — it only opens for one owner, and it chose Samothy when he cracked it in that barrel. Bobby took it about as well as a man can take losing the thing he's hunted for years: he called it a journal and told the quiet twin to keep it. The history of the vampires, maybe, sitting in Samothy's coat. He needs to read it. Soon.
+>
+> The metal cat doesn't need summoning anymore. He's just… with us now. Bronze, about bobcat-sized, dignified as ever. Samothy is talking about getting him a bird to wear as a hat. This is the family I have chosen, and I'd choose it again.
+>
+> Tomorrow, the church. Whatever has been ringing that bell either needs help or is the kind of thing that knows bait when it sets it.

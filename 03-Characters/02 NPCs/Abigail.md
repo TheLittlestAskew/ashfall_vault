@@ -1,6 +1,6 @@
-# Abigail
+# Abigail (a.k.a. "Anne" ⚑)
 
-> First seen: [[Session 02 — Ashes of the Living]]. ⚑ Spelling provisional.
+> First seen: [[Session 02 — Ashes of the Living]]. ⚑ NAME CONFLICT: S02 named her **Abigail**; in [[Session 05 — The Bell of Saint Ardas]] the DM called the apothecary **"Anne"** — same shop, same role, same brewing job. Presumed the same NPC (DM rename/slip) — ask DM which name is canon.
 
 | | |
 |---|---|
@@ -20,6 +20,10 @@ First met mid-tantrum — throwing furniture and **swearing in Elvish** about "a
 ## The Nirnroot Commission (S02)
 
 Out of ingredients for more potions. Wants **nirnroot** — a humming herb (grows on riverbanks; **hospital pharmacies stock it**). Bring it back and she can brew again.
+
+## S05 — the nirnroot delivered
+
+Brewed the party's nirnroot into **2 random-effect potions** ("Now I'm not exactly sure what they're going to do, but here you go") + paid **300 gp** (the usual mercenary rate). Brewing style: "what feels right." Not to be confused with **Crazy Myrna** in the wrong shop.
 
 ## Quotes
 

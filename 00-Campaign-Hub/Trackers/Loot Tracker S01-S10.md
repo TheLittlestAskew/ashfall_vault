@@ -58,3 +58,13 @@
 | [[Flux]] | **Watermark paper** — blank; candle reveals faint unreadable lettering | Unread mystery ⚑ |
 | Party | Medical supplies: bandages, burn cream, syringes, alcohol pads | Found by Valerian (nature check 25); main stock in basement |
 | — | Photo of woman + child + love letter to "Gary" | **Left in place** (not looted) |
+
+## S04.5 (UNRECORDED) + S05 — The Bell of Saint Ardas
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Samothy Smith-Wesson]] | **THE BOOK** — one-owner artifact, bound to him; vampire history; grants visions | Bobby conceded it; unread ⚑ |
+| Party | 300 gp ([[Dr. Wilson]]) + 300 gp ([[Anne]]) + 5 healing potions (+300 gp & 5 greater-healing from the lost session) | — |
+| Party | **2 random-effect potions** (Anne, from the nirnroot) | Effects unknown ⚑ |
+| Each PC (incoming) | **Bobby's custom enchanted weapon/armor** (attunement) | Ready next session |
+| [[Mr. Cat]] | **Permanence** — no more summoning; bronze, bobcat-sized | Madi's archived d20 = 19 |

@@ -83,6 +83,20 @@
 | Sailor's Rite | Lore | Sailors buried at sea by boat (pre-ash Britain) |
 | Taylorito / Taylorita | (confirmed in use) | — |
 
+## Provisional ⚑ (S04.5 lost session + S05)
+
+| Term | Type | Notes |
+|---|---|---|
+| Saint Ardas | Location | The cursed church (also heard "Saint Arta's") |
+| Verilith, the First Blood | NPC | "The woman with the daggers" — photo only; lost-session origin |
+| Dr. Wilson | NPC | Castle surgeon |
+| Anne | NPC ⚑ | The apothecary — S02 called her "Abigail"; same person? ask DM |
+| Crazy Myrna | NPC | The wrong apothecary; horse; never again |
+| Gregor / "Greg the Gory" / Haffengore(?) | NPC | 6'8" soldier, mentioned only |
+| The Dead Zone | Region | Where Saint Ardas stands; no one returns |
+| Witch Bolt | Spell | Flux — lost session, archive-only |
+| Back Alley Orphans | Party name (candidate) | Unofficial |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter
