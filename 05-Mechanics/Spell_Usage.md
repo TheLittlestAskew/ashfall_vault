@@ -41,3 +41,19 @@
 | [[Vega Bloodroot]] | — (Rage + Eldritch Claw Tattoo) | — | — | Tattoo d6 rider ×4 archived |
 
 **Notable not-cast:** Valerian name-checked Sacred Flame and Shillelagh (neither resolved); Vega's Intimidation liquefaction-display idea (mooted — the beasts are blind).
+
+## S03 — Mr. Cat, Esquire (02/24/2026) ⚠ mid-combat pause
+
+| Caster | Spell | Level | Casts | Notes |
+|---|---|---|---|---|
+| [[Valerian Hellebore]] | Starry Wisp | cantrip | 4+ | Opening kill (head-shot); "Bitch, I'm fucking glowing" (all transcript-only — sync gap ⚑) |
+| [[Valerian Hellebore]] | Moonbeam | 2nd | 1 (moved repeatedly) | DC 16; battlefield control + door-block |
+| [[Zelda Z Whipper]] | Thunderwave | 2nd (3d8) | 1 | Cast from atop prone Deanna |
+| [[Zelda Z Whipper]] | Starry Wisp | cantrip | 4 | Incl. the Lucky-rerolled double miss |
+| [[Zelda Z Whipper]] | Healing Word (+Lunar Vitality once) | 1st | 2 | Barrett triage: 9+4, then 8 |
+| [[Samothy Smith-Wesson]] | **Catapult** (NEW) | 2nd | 1 | Barrel, 4d8=15, save → 8 |
+| [[Samothy Smith-Wesson]] | Hunter's Mark | 1st | 2 | Once at max (6) |
+| [[Deanna Smith-Wesson]] | **Hail of Thorns** (NEW) | 1st | 1 | +5 rider |
+| [[Deanna Smith-Wesson]] | Perforating Shot ⚑ | homebrew | 1 | 18-damage final round |
+| [[Barrett Grimmskar]] / [[Flux]] | Finger Guns ⚑ | cantrip | many | Barrett's Risk Die rolled a 1 |
+| [[Flux]] | Fire Bolt ⚑ | cantrip | 1 (archive-only) | 10:53 PM — no transcript counterpart; Flux knows Fire Bolt? |

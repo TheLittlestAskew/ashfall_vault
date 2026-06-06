@@ -58,6 +58,18 @@
 | Eldritch Claw Tattoo | Item | Vega's — FINAL (replaces "Masquerade Tattoo") |
 | Magnum | Item | Barrett's revolver per archive ⚑ vs S01 "TGC" |
 
+## Provisional ⚑ (S03)
+
+| Term | Type | Notes |
+|---|---|---|
+| Mr. Cat, Esquire | Companion | The Steel Defender's name (tuxedo + monocle cosmetics planned) |
+| Hookshot Arm Bracers | Item | Samothy's homebrew card — canonical name for the S01 bracers |
+| Taylorito / Taylorita | Nicknames | DM Taylor / player Taylor (coined by Madi) |
+| Hail of Thorns | Spell | Deanna's new 1st-level rider |
+| Catapult | Spell | Samothy's 2nd-level (barrel projectile) |
+| Eldritch Maul | Item label ⚑ | DDB name on Vega's tattoo damage die (vs "Eldritch Claw Tattoo") |
+| "Orphe" / "Kira" | Garbled | Unknown — S03 audio |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

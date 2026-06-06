@@ -19,6 +19,11 @@ Two hours east of the fort. The party visited as children (pre-collapse). Two st
 - **3 blind [[Beast Thrall]]s** — slain S02 (first floor)
 - Heavy footsteps, bed-scraping, and *breathing in another wing* heard on arrival — **something else is still here**
 
+## Second Floor (S03)
+
+Nurses' dormitory: meteor-era bloodstains, cobwebs, dust, overturned gurneys, barrels. **The Beast Master's boot-prints appear here too** — he toured the hospital as well as Hampshire. Inhabited by feral + beast thralls (wall-jumpers, including blind-variant behavior unconfirmed).
+
 ## Events
 
 - **S02:** Floor 1 cleared; party short-rested in the ER. Floor 2 + basement unexplored; book, nirnroot, and medical supplies still to find.
+- **S03:** Floor 2 multi-wave brawl — **UNRESOLVED** (paused mid-combat, 1 wounded beast thrall standing, ~6 slain). Rooms unsearched; pharmacy/admin/basement still pending.

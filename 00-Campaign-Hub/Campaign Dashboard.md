@@ -6,11 +6,12 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 03 | [[Session 03 — Mr. Cat, Esquire]] | 02/24/2026 | Same night (post-short-rest) | 5 (XP in Discord ⚑) | Hospital 2F brawl — **PAUSED MID-COMBAT** ⚔️; Mr. Cat named; kill contest; Beast Master boots on 2F |
 | 02 | [[Session 02 — Ashes of the Living]] | 02/17/2026 | Dawn after S01 | 5 (+3,300 XP) | Hampshire swept — Valerian's parents dead, children taken; Beast Master lore; Bobby's book commission; hospital floor 1 cleared |
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 022426 (×2) · 030426 · 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
+**Not yet processed (catch-up queue, chronological):** 030426 · 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
 
 ## Active Threads
 
@@ -26,6 +27,9 @@
 10. 💎 **Emeralds** — the only way to kill a Beastmaster; jewels for castle protection. (S02)
 11. 🐾 **The Hampshire Beast Master** — light-blue aura, vanishing footprints. Who? (⚑ Beast Binder relation pending DM.) (S02)
 12. 🏥 **The hospital, floors 2 + basement** — something was breathing in another wing. Rendezvous due in 2 in-game days. (S02)
+13. ⚔️ **CLIFFHANGER: hospital 2F combat UNRESOLVED** — 1 wounded beast thrall standing; S04 opens mid-initiative. (S03)
+14. 🏆 **Kill contest** — prize TBD (⚑ wording garbled): Samothy 2 · Flux 2 · Valerian 1+ · Barrett 1. (S03)
+15. ❓ **Pre-recording group Wisdom save vs unknown** — Samothy & Flux FAILED; effect unknown. (S03 ⚑ ask DM)
 
 ## Resolved Threads
 

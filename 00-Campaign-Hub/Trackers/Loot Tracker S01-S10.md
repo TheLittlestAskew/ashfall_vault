@@ -38,3 +38,11 @@
 | [[Vega Bloodroot]] | **Eldritch Claw Tattoo** — FINALIZED (replaces S01 "Masquerade Tattoo"; Taylor's decision) | Activated in combat: +1d6 damage rider (rolled 2 and 4) |
 | [[Vega Bloodroot]] | Brass knuckles + greataxe + rapier — **silvered** | Bobby |
 | [[Barrett Grimmskar]] | "Magnum" revolver (2d8+4), silvered | ⚑ "TGC" (S01) vs "Magnum" — same gun? |
+
+## S03 — Mr. Cat, Esquire (02/24/2026)
+
+| Owner | Item | State / Context |
+|---|---|---|
+| All 7 PCs | **Hookshot Arm Bracers** — homebrew card formalized by [[Samothy Smith-Wesson]]: **+1 AC (attunement required ⚑)**, bonus action, 4 charges @ lvl 5 + reload period, tri-hook broadhead anchor | First combat workout: Zelda's wall-walk (high-ground advantage), Samothy's lethal cable-ride |
+| [[Vega Bloodroot]] | **Double-Bladed Scimitar** — homebrew by [[Flux\|Jill]], built mid-session: 2d4+4, finesse → enables Sneak Attack | Debut hit: 18 damage. DDB logs her tattoo die as "Eldritch Maul" ⚑ |
+| Party | *(no new loot — rooms unsearched; combat unresolved)* | Pharmacy/admin/book still pending |

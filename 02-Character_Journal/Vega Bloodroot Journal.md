@@ -41,3 +41,24 @@
 > The hospital was already a corpse. The things inside it were blind — they hunt the sound of you, the heat of you. Valerian called down sunlight onto a rock, mid-grief, and made the dark flinch. When my turn came I opened one of them up so completely there was nothing left to threaten. The last one died with his hand on it — lightning from his palm, for his mother and father.
 >
 > We rest in the wreck of the emergency room tonight. There's a second floor, and a basement, and somewhere in this building a book with a presence. The dead are quiet. We've made sure of it.
+
+---
+
+> [!note]- S03 — The hospital, still. Night. (Mr. Cat, Esquire)
+> **The hospital, still. Night.**
+>
+> Still in the hospital. The second floor used to be where the nurses slept; now it's old blood and dust thick enough to read footprints in. Beast tracks. And boots again — the same fine boots from the village. He was up here too.
+>
+> Deanna went to peek around a corner and fell through a door instead, which is one way to start a fight. They came out of the walls after that — the screaming kind and the big kind, more of them than I liked, fast enough to jump wall to wall like the hooks we wear on our wrists. Valerian put a comet through the first one's skull and blew the dust off his fingers. He's been glowing all night. I think the grief has to go somewhere, and he's decided it goes through his hands.
+>
+> The metal cat has a name now. Mr. Cat. Distinguished gentleman, monocle pending. He blocked a claw meant for me and I'd take a bullet for him already.
+>
+> Samothy did the maddest thing I've seen since the gate — fired his wrist-hook clean through a runner, anchored it in the wall behind, and rode the cable into him so hard the wall finished the job. He stood up out of the wreckage covered in blood and just shook out his hands. Then later he put a bullet straight through another one's skull like it was nothing. The quiet twin is keeping count, because we're all keeping count now. There's a prize for whoever puts down the most. I'm behind. I don't intend to stay behind.
+>
+> The new blade arrived mid-fight — two-headed, quick, made for the way I fight when the axe is too slow. First swing opened a thrall's ribs. It'll do.
+>
+> Zelda walked on a wall tonight like the hooks were made for her, missed her shot, laughed, healed Barrett twice anyway. He took a claw to the chest deep enough to matter and kept firing through it.
+>
+> It's late. The big one is still up — we hurt it, it's hurt bad, but it's still standing in the dark with its sniffing and its patience, and we stopped mid-swing because even hunters have to sleep. Tomorrow we finish it, find the pharmacy, find the book with a presence, and get out of this corpse of a building.
+>
+> We are not done with the second floor. It is not done with us.

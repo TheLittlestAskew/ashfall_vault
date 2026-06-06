@@ -29,6 +29,17 @@
 | **Inspiration definition** | "It just lets you reroll your d20"; multiple inspirations may be held | S02 |
 | **Changeling beast forms** | Flux may learn beast shapes by **studying** the creature (not a glance) | S02 |
 
+## Standing Rules Added S03
+
+| Rule | Detail | Source |
+|---|---|---|
+| **Hookshot Arm Bracers (formalized)** | Bonus action; 4 charges @ lvl 5 + reload period; tri-hook broadhead anchor; +1 AC **requires attunement**; wall-perch grants high-ground attack advantage; offensive cable-grapple via Strength check (DM calculates impact damage) | S03 (Samothy's card) |
+| **Kill contests** | Occasional per-session kill tallies with a prize for most kills — "not an every session thing" | S03 |
+| **Stunts → inspiration** | Exceptional rule-of-cool plays earn next-session inspiration (e.g., the cable-kill) | S03 |
+| **Monsters scale** | "As you level up, so do the monsters" — explicit response to AC/to-hit cheese | S03 |
+| **Mock the tank** | "The only one that it sucks for to get a 1 is the tank. If the tank gets a 1, you have to mock them" | S03 |
+| **2014 Totem Warrior resistances** | In play for Vega (all damage but psychic while raging) — "I homebrew a lot of everything" | S03 |
+
 ## One-Off Rulings
 
 - Magic Missile damage is **rolled** (per-dart d4+1), not fixed. *(S01)*

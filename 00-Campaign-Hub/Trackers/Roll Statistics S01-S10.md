@@ -65,3 +65,27 @@
 - Zero DM rolls synced — 2nd consecutive session
 - "Does a 26 hit?" opportunity attack (02:18:45) not in archive — transcript-only
 - Deanna Perforating Shot damage rolls not archived (physical/manual)
+
+## S03 — Mr. Cat, Esquire (rolls keyed 2026-02-24) ⚠ MID-COMBAT PAUSE
+
+**Total archived: 163** (+8 next-morning Flux rolls on 02/25, archive-only) — **Valerian's rolls MISSING all session (sync gap ⚑)**
+
+### Per-Character
+
+| Character | Rolls | Highlights |
+|---|---|---|
+| [[Vega Bloodroot]] | 31 | DBS debut (18 dmg); full turn in the recording gap (archive-reconstructed); "10 with advantage" low point |
+| [[Deanna Smith-Wesson]] | 31 | Bardic-rerolled Stealth got WORSE (8→6) → the door-fall; nat-1 Athletics ("What are arms?"); 0 kills |
+| [[Flux]] | 31 | 2 kills; built 2 homebrew items mid-session; archive-only Fire Bolt ⚑ |
+| [[Zelda Z Whipper]] | 26 | Wall-walk Acrobatics 15; Lucky-rerolled a nat 1 (still missed); Healing Word ×2 + Lunar Vitality |
+| [[Barrett Grimmskar]] | 26 | Initiative 24 (3rd straight first place); Risk Die rolled a 1; "Kill steal!" kill |
+| [[Samothy Smith-Wesson]] | 16 | "Dirty 20" Str-check CABLE-KILL (inspiration awarded); 29 [19] "It's high noon" headshot; accidental Unarmed Strike 22 |
+| [[Valerian Hellebore]] | **0 archived ⚑** | Transcript-only: Starry Wisp kill (22→11), Moonbeam control, nat-20 Dex save corpse-dodge |
+| DM (Taylor) | **2** (first ever) | d20=14 + 2d20=23 — both pre-recording |
+
+### Session Records
+
+- **First DM-account archive rolls** (pre-recording)
+- **Mystery pre-recording group Wisdom save** vs unknown — Samothy 4, Flux 3 (nat 1) FAILED ⚑
+- Kill contest standings at pause: Samothy 2 · Flux 2 · Valerian 1+ · Barrett 1 · rest 0
+- Initiative rolled twice (VTT auto-roller mutiny) — both volleys archived

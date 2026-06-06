@@ -4,23 +4,23 @@
 
 ## Completion Matrix
 
-| # | Item | S01 | S02 |
+| # | Item | S01 | S02 | S03 |
 |---|---|---|---|
-| 1 | Session Note (`01-Sessions/`) | ✅ | ✅ |
-| 2 | Corrected Transcript | ✅ | ✅ |
-| 3 | Campaign Dashboard | ✅ | ✅ |
-| 4 | Loot Tracker | ✅ | ✅ |
-| 5 | Quote Board | ✅ | ✅ |
-| 6 | Profanity Ledger | ✅ | ✅ (D-blob caveat) |
-| 7 | Roll Stats | ✅ | ✅ |
-| 8 | POV Journal | ✅ | ✅ |
-| 9 | PC Pages (×7) | ✅ | ✅ (Vega backstory added by Taylor preserved) |
-| 10 | NPC Pages | ✅ | ✅ (Bobby, Abigail created; Hargraven, Beast Binder updated) |
-| 11 | Locations | ✅ | ✅ (Hampshire, The Old Hospital created) |
-| 12 | Flora/Fauna | ✅ | ✅ (Beast Thrall created) |
-| 13 | House Rules & Rulings | ✅ | ✅ (+7 standing) |
+| 1 | Session Note (`01-Sessions/`) | ✅ | ✅ | ✅ (cliffhanger flagged) |
+| 2 | Corrected Transcript | ✅ | ✅ | ✅ (unified 2-part) |
+| 3 | Campaign Dashboard | ✅ | ✅ | ✅ |
+| 4 | Loot Tracker | ✅ | ✅ | ✅ |
+| 5 | Quote Board | ✅ | ✅ | ✅ |
+| 6 | Profanity Ledger | ✅ | ✅ (D-blob caveat) | ✅ (A-blob caveat) |
+| 7 | Roll Stats | ✅ | ✅ | ✅ (Valerian sync gap ⚑) |
+| 8 | POV Journal | ✅ | ✅ | ✅ |
+| 9 | PC Pages (×7) | ✅ | ✅ (Vega backstory added by Taylor preserved) | ✅ |
+| 10 | NPC Pages | ✅ | ✅ (Bobby, Abigail created; Hargraven, Beast Binder updated) | ✅ (Mr. Cat created) |
+| 11 | Locations | ✅ | ✅ (Hampshire, The Old Hospital created) | ✅ (Hospital 2F updated) |
+| 12 | Flora/Fauna | ✅ | ✅ (Beast Thrall created) | ➖ (no new creatures) |
+| 13 | House Rules & Rulings | ✅ | ✅ (+7 standing) | ✅ (+6 standing) |
 
-**Last fully synced session:** S02 — Ashes of the Living (02/17/2026)
+**Last fully synced session:** S03 — Mr. Cat, Esquire (02/24/2026) — ⚔️ combat carries into S04
 
 ## Catch-Up Queue (chronological)
 
@@ -28,8 +28,7 @@
 |---|---|
 | 021326 | ✅ **S01 — Graduation Day** — fully synced 06/06/2026 |
 | 021726 | ✅ **S02 — Ashes of the Living** — fully synced 06/06/2026 |
-| 022426 (1) | ⬜ not transcribed |
-| 022426 (2) | ⬜ not transcribed |
+| 022426 (1+2) | ✅ **S03 — Mr. Cat, Esquire** — unified, fully synced 06/06/2026 |
 | 030426 | ⬜ not transcribed |
 | 032426 | ⬜ not transcribed |
 | 040126 | ⬜ not transcribed |
@@ -42,6 +41,11 @@ Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Hallowe
 
 ## Open Items Carried Forward
 
+- ⚔️ **S04 must resolve the S03 cliffhanger** (1 wounded beast thrall, mid-initiative)
+- **Valerian/Chase DDB sync gap** — zero archived rolls S03 despite digital-dice play; investigate before next sync
+- **Pre-recording group Wisdom save vs ???** (S03) — Samothy & Flux failed; ask DM
+- **Kill-contest reward** — wording garbled (S03); Taylor asking DM
+- **S03 XP amount** — in Discord
 - **Beast Master vs Beast Binder** — same role? Taylor asking DM (S02)
 - "TGC" vs "Magnum" — Barrett's revolver naming (S01/S02)
 - Inspiration economy — sources of Doug's/Zelda's inspiration unclear (S02)
@@ -59,5 +63,6 @@ Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Hallowe
 
 | Date | Session | Action |
 |---|---|---|
+| 06/06/2026 | S03 | Full propagation: 2 created (session note, Mr. Cat), 14 updated (trackers, journal, 7 PCs, Old Hospital, Dashboard, House Rules, Spell Usage, glossary). Cliffhanger status threaded through Dashboard/Hospital/session note. "What are arms?" attribution corrected to Madi (archive-verified). |
 | 06/06/2026 | S02 | Full propagation: 6 created (session note, Bobby, Abigail, Hampshire, Old Hospital, Beast Thrall), 16 updated (4 trackers, journal, 7 PCs, Hargraven, Beast Binder, Primer, glossary, Dashboard, House Rules, Spell Usage). **Eldritch Claw Tattoo finalized** — S01 records corrected with provenance. Vega's sheet backstory (Taylor-added) indexed into glossary. |
 | 06/06/2026 | S01 | Founding propagation: 14 files created (session note, format reference, 4 trackers, journal, 4 NPCs, primer, glossary, 2 locations, creature), 13 files filled/updated (7 PCs, Hargraven, Dashboard, House Rules, Spell Usage, 4 pointer stubs). Player-name correction applied: Deanna=Madi, Zelda=Christie. |

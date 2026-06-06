@@ -34,15 +34,30 @@
 
 **Session champion:** Chase, 20 attributed — grief-fueled ("Starry Wisp straight to his fucking dome").
 
-## Running Totals (through S02, attributed only)
+## S03 — Mr. Cat, Esquire (02/24/2026)
+
+| Speaker | fuck | shit | bitch | damn/goddamn | motherfucker | Session Total |
+|---|---|---|---|---|---|---|
+| Chase (Valerian) | 10 | 4 | 3 | 2 | 1 | **20** |
+| Taylor (Vega) | 2 | 3 | 0 | 3 | 0 | **8** |
+| Josh (Samothy) | 1 | 2 | 0 | 3 | 0 | **6** |
+| Taylor (DM) | 2 | 0 | 1 | 1 | 0 | **4** |
+| Christie (Zelda) | 2 | 1 | 0 | 0 | 0 | **3** |
+| Doug (Barrett) | 1 | 0 | 1 | 1 | 0 | **3** |
+| Madi (Deanna) | 0 | 0 | 0 | 2 | 0 | **2** |
+| *Unattributed (A-blob)* | *2* | *0* | *0* | *2* | *0* | *(4)* |
+
+**Session champion:** Chase, 20 — three sessions running.
+
+## Running Totals (through S03, attributed only)
 
 | Speaker | Total |
 |---|---|
-| Chase | 44 |
-| Taylor (DM) | 34 |
-| Taylor | 25 |
-| Josh | 15 |
-| Madi | 6 |
-| Christie | 4 |
-| Doug | 2 |
-| *Unattributed pool* | *26* |
+| Chase | 64 |
+| Taylor (DM) | 38 |
+| Taylor | 33 |
+| Josh | 21 |
+| Madi | 8 |
+| Christie | 7 |
+| Doug | 5 |
+| *Unattributed pool* | *30* |
