@@ -122,6 +122,25 @@
 | The curator | NPC (unmet) | South Tower library/museum keeper |
 | Cora ("Corey"-the-kid?) ⚑ | Household | Madi's daughter — spelling unconfirmed; distinct from Corey (Taylor's husband) |
 
+## Provisional ⚑ (S08)
+
+| Term | Type | Notes |
+|---|---|---|
+| The Grand Library of the Veiled Dawn | Location | 3-floor cult-run knowledge vault; 10,000-year scroll collections |
+| Cult of the Pale World | Faction | Human vampire-worshipers; suppress sun/origin lore. Hierarchy: priest → bishop → cardinal (shapeshifting vampires) → Pope |
+| Aloysius / "Al" | NPC | Area bishop; psychopath; unmet |
+| Gregory | NPC | Restricted-section priest; away 2 days, destination secret; unmet |
+| The Watch Captain | NPC | Key-keeper enforcer ("Keegan" — table joke, not canon) |
+| Josh (cultist) | NPC | Door guard; "you're a G"; gets no bitches (canon) |
+| Beast Tamer | Vampire class ⚑ | DM's THIRD variant (vs Beast Binder S01, Beast Master S02) — used for bishop-tier; consolidate with DM |
+| The rooftop figure | NPC ⚑ | Pale, long coat, smiled, vanished into thin air — outside Saint Ardas |
+| Soul-trap alchemy seal | Lore | Dried-blood mark inside the V-brand armor; religious symbology; BROKEN — soul escaped. Partial copy in Deanna's notebook |
+| Green Longbow of the Earth | Item | Flux's custom weapon (DDB-archive-confirmed name); 2d6 wind rider + 5–10 ft knockback |
+| "Solar Fist" | Item (informal) | The Sun Shard mounted on Vega's gauntlets/knuckles (Samothy's infusion) |
+| Broken Shards | Lore ⚑ | Phrase in the dusty red book — plural? More shards than the Sun Shard? |
+| Starry Wisp | Spell | Valerian's cantrip (confirmed in heavy use since S01) |
+| "Tails" | Nickname ⚑ | Madi's name for player Taylor — heard twice; "Tay"? confirm spelling |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

@@ -26,6 +26,13 @@ As the party left the war room (S05), the church's bell **began to toll — slow
 - **Bell tower:** the ringing = a **half-turned thrall chained to the bell** — mercy-killed (Flux + twin Starry Wisps).
 - **Confessional:** Sister Aria's hideout; the candle puzzle → **a hidden ladder down to the crypt** (S07).
 
+## The Crypt (S07–S08)
+
+- **THE SUN SHARD** — found on the pedestal by the baptismal well; **CLAIMED** (S07), now mounted on Vega's knuckles (S08).
+- The **V-branded skeleton** welded inside its armor — a vampire slave. S08 addendum: inside the neck, a **dried-blood soul-trap alchemy seal, damaged** — the soul it held is **gone** ⚑. Deanna holds a partial copy of the mark.
+- Alchemy station "recently used" ⚑; 3 unlabeled potions taken.
+- Leaving the church (S08): **a tall pale figure in a long coat watched from a rooftop, smiled, and vanished into thin air** ⚑.
+
 ## Status
 
-Crypt entrance OPEN — party descends next session. The sealed ancient evil and (per Renwald/Halren) the Sun Shard wait below.
+Crypt cleared and looted; the Shard secured. Open: whose soul left the armor, who used the alchemy bench, and who was on the roof.

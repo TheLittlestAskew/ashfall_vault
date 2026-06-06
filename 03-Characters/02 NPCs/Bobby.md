@@ -22,9 +22,13 @@ Behind a barred door, "away from prying ears": there's a **book rumored to still
 
 Silvered weapons/ammo across the board · 20 silver-tipped arrows · 24 silver bullets per gunner ("SMJ — silver metal jacket") · 4 wooden stakes (4 charges each) · meat steaks ×7 · **Bag of Holding** (his only one) · a couple of health potions.
 
-## Status of the Commission (S04)
+## Status of the Commission (S04–S05)
 
-A gust-of-wind **book was found** in the hospital's second floor (Samothy, barrel of medical texts) — presumed his. Not yet delivered. The party also holds ~7 emeralds and assorted jewels for his infusion work, plus **two ritual daggers** of unknown metal that need a smithy's eye.
+A gust-of-wind **book was found** in the hospital's second floor (Samothy, barrel of medical texts) — his. **Delivered S05 — and conceded:** the book is a one-owner artifact bound to Samothy ("I would have to kill you to take it. Don't feel like doing that today. Maybe tomorrow."). The party also gave him jewels/emeralds for infusion work and showed him the **two ritual daggers**.
+
+## The Custom Gear (S05 promise → S08 DELIVERED ✅)
+
+One enchanted weapon per PC, **+2d6 elemental rider** (scales to 4d6 at level 12), **no attunement**: Vega — second brass knuckles (purple/psychic; now also the **Sun Shard mount**) · Flux — **Green Longbow of the Earth** (wind/knockback) · Deanna — dagger · Barrett — revolver · Christie/Zelda — whip · Samothy — dagger (+ his own Returning Weapon) · Valerian — quarterstaff. Elements partially unstated ⚑ (purple=psychic, green=wind confirmed; rest pending).
 
 ## Relationships
 

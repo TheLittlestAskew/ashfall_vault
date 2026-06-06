@@ -28,7 +28,9 @@
 
 **S07 — The Sun Shard:** ✅ all applicable (Moonbeam/College-of-Moon flag closed; Sun Shard + vampire-slave lore propagated; library-heist threads opened).
 
-**Last fully synced session:** S07 — The Sun Shard (04/20/2026)
+**S08 — Silence in the Library:** ✅ all applicable (3 pages created: Grand Library, Watch Captain, Aloysius; Bobby's-gear thread CLOSED; 15-enemy cliffhanger flagged for S09; **backfilled Profanity Ledger S05–S07 + Roll Statistics S06–S07**, which had been skipped despite earlier ✅ marks).
+
+**Last fully synced session:** S08 — Silence in the Library (05/04/2026)
 
 ## Catch-Up Queue (chronological)
 
@@ -43,8 +45,8 @@
 | 040126 | ✅ **S06 — Protect the Light** — fully synced 06/06/2026 (no docx — new convention) |
 | 040226 | ⚠ **MISFILED — different campaign** ("Inspired" program; player Alec). Excluded from Ashfall; re-home the mp3 + transcript ⚑ |
 | 042026 | ✅ **S07 — The Sun Shard** — fully synced 06/06/2026 |
-| 050426 | ⬜ not transcribed |
-| 051126 | ⬜ not transcribed |
+| 050426 | ✅ **S08 — Silence in the Library** — fully synced 06/06/2026 |
+| 051126 | 🔄 transcribed (145 min, 85.3%, 10,619 words) — Convo 1 in progress |
 
 Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Halloween one-shot / intro session?) ⚑ confirm with Taylor.
 
@@ -67,11 +69,14 @@ Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Hallowe
 - Vega memoir title + POV voice guide (one-time setup)
 - Bracers item card + brass-knuckles homebrew — DM owes
 - Base/city proper names — unknown in-fiction so far
+- **S08 new flags:** "Tails" (Madi's name for player Taylor — "Tay"?) · custom-weapon elements for Deanna/Barrett/Zelda/Valerian · Sun Shard mount quality tier · "Beast Tamer" (3rd name variant) · the rooftop figure · Gregory's whereabouts · the S07 South-Tower/curator plan dropped (retcon — confirm with DM)
+- **Backfill candidates:** PC-page Key Events for S05–S07 (pages currently jump S04→S08) · Spell Usage tables for S06–S07 · no on-screen XP award in S08 (Madi: "I just wait till you guys tell me it's time to level up")
 
 ## Change Log
 
 | Date | Session | Action |
 |---|---|---|
+| 06/06/2026 | S08 | Full propagation (auto-advance, no docx): 4 created (session note, Grand Library, Watch Captain, Aloysius); 18 updated (Dashboard threads 38–42, 4 trackers, journal, 7 PCs, Hargraven, Mr. Cat, Bobby, Saint Ardas, glossary, House Rules +4, Spell Usage). Title "Silence in the Library" auto-selected ⚑. **Backfilled Profanity Ledger S05–S07 (Chase's 40 = new record) + Roll Statistics S06–S07.** Bobby's-gear thread closed; cliffhanger (~15 enemies) carried to S09. |
 | 06/06/2026 | S04 | Full propagation (auto-advance mode): session note created; trackers, journal, 7 PCs, Dashboard (threads 13–20), House Rules (+4), Spell Usage, glossary, Bobby, Old Hospital updated. Title "A Gust of Wind" auto-selected ⚑. New flags: Gut/Deck Shot, Spellfire Flare, Gary, Zelda's Moon light. |
 | 06/06/2026 | S03 | Full propagation: 2 created (session note, Mr. Cat), 14 updated (trackers, journal, 7 PCs, Old Hospital, Dashboard, House Rules, Spell Usage, glossary). Cliffhanger status threaded through Dashboard/Hospital/session note. "What are arms?" attribution corrected to Madi (archive-verified). |
 | 06/06/2026 | S02 | Full propagation: 6 created (session note, Bobby, Abigail, Hampshire, Old Hospital, Beast Thrall), 16 updated (4 trackers, journal, 7 PCs, Hargraven, Beast Binder, Primer, glossary, Dashboard, House Rules, Spell Usage). **Eldritch Claw Tattoo finalized** — S01 records corrected with provenance. Vega's sheet backstory (Taylor-added) indexed into glossary. |

@@ -58,6 +58,23 @@
 | **Hargraven in the party** | DM-run permanent eighth member; included in the crit-fail pool | S06 |
 | **Mr. Cat rests with Samothy** | Short/long rests restore the Steel Defender ("when you rest, the cat rests"); at 0 HP he waits dramatically for repairs | S06 |
 
+## Standing Rules Added S08
+
+| Rule | Detail | Source |
+|---|---|---|
+| **Bobby's custom weapons** | +2d6 elemental rider on top of base damage; **no attunement**; rider scales to 4d6 at level 12 | S08 |
+| **Bardic Inspiration in lieu of Help** | Flux swapped a declared Help action for a Bardic die on Barrett's check — allowed | S08 |
+| **Maverick Spirit stacks** | Barrett's d8 rider applies after Bardic Inspiration on the same failed check (11+1+8 = dirty 20, passed) | S08 |
+| **Reckless Attack vs. objects** | Allowed ("this door isn't gonna attack me back") — but warded objects CAN attack back (Con save, half damage on success) | S08 |
+
+## One-Off Rulings (S08)
+
+- **Magic detection by ear:** the library's no-magic rule is enforced via **verbal components** — whisper-casting + a covering noise (the cough) beats it. *(S08)*
+- Deanna's magic paper produces a **renewable** forgery (not one-and-done). *(S08)*
+- A "death save" called for narrative flavor on a trap escape — rolled as a Dex save in practice (Flux, 24). *(S08)*
+- Mr. Cat has hidden HP (26) + an internal repair mechanism (2d8+3, 3/day) — surfaced when the bars electrocuted him. *(S08)*
+- A genius mundane idea is still free: Vega's hour-long Watch-Captain decoy ran on pure roleplay + one Dex check. *(S08)*
+
 ## One-Off Rulings
 
 - Magic Missile damage is **rolled** (per-dart d4+1), not fixed. *(S01)*

@@ -88,3 +88,21 @@
 | Party | 3 unlabeled potions (pink / green / blue) | Prefect's office — alchemy station "recently used" ⚑ |
 | Party | 300 gp (chest) + 50 gp (S06 thrall) | — |
 | — | The V-branded skeleton's welded armor | Left in place; vampire-slave lore |
+
+## S08 — Silence in the Library (05/04/2026)
+
+| Owner | Item | State / Context |
+|---|---|---|
+| All 7 PCs | **BOBBY'S CUSTOM GEAR — DELIVERED** (S05 thread ✅): +2d6 elemental rider each (→4d6 @ lvl 12), **no attunement** | Entered in D&DB this session |
+| [[Vega Bloodroot]] | **Second brass knuckles — purple/psychic 2d6** ("one for each hand") + **THE SUN SHARD mounted on her gauntlets** ("Solar Fist") ⚑ quality tier unstated | Samothy's infusion; design pics in Discord |
+| [[Flux]] | **Green Longbow of the Earth** — green/wind 2d6, knockback 5–10 ft (DDB name archive-confirmed) | First damage roll archived (12) |
+| [[Deanna Smith-Wesson]] | Custom **dagger** (element unstated ⚑) | — |
+| [[Barrett Grimmskar]] | Custom **revolver** (element unstated ⚑) | — |
+| [[Zelda Z Whipper]] | Custom **whip** (element unstated ⚑) | — |
+| [[Samothy Smith-Wesson]] | Custom **dagger** + Returning Weapon infusion | "Long-range Barbarian" energy |
+| [[Valerian Hellebore]] | Custom **quarterstaff** (element unstated ⚑) | "Why can't I just grab a regular-ass quarterstaff" |
+| [[Deanna Smith-Wesson]] (notebook) | **Partial copy of the soul-trap alchemy seal** (damaged original, welded armor) | Copied in the non-magical notebook |
+| [[Flux]] (bag of holding) | **Red book** — deep red, dusty, mentions **Broken Shards** · "…sun" book · "vampire" book | "Don't forget to check those out." Did not check out |
+| [[Valerian Hellebore]] | **Green book** — humming faintly | Puzzle key + presumed lore |
+| [[Barrett Grimmskar]] | **Blue book** — whispers faintly in an unknown language · **the human-skin-bound book** (nose indentation, inside-out) | From the 3rd-floor study |
+| — | Replica restricted-section key | **DESTROYED** — disintegrated in the lock ("Mr. Stark, I don't feel so good") |

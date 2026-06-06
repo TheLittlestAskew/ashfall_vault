@@ -6,6 +6,7 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 08 | [[Session 08 — Silence in the Library]] | 05/04/2026 | Days later ("weeks" real-time) | 7 | **Bobby's gear delivered + Sun Shard mounted**; soul-trap seal broken; Grand Library infiltrated (Cult of the Pale World); doors axed open → **15-enemy CLIFFHANGER** |
 | 07 | [[Session 07 — The Sun Shard]] | 04/20/2026 | Same expedition | 7 | **SUN SHARD CLAIMED**; vampire slaves (V-brand) revealed; silent sniffing thralls; library heist planned |
 | 06 | [[Session 06 — Protect the Light]] | 04/01/2026 | Next day(s) | 7 (23,480) | Saint Ardas explored; **Hargraven joins the party**; the orb (Vampire-Lord phone); Sun Shard named; bell mercy-kill; crypt ladder found |
 | 05 | [[Session 05 — The Bell of Saint Ardas]] | 03/24/2026 | Day(s) after the hospital | **7** (23,000) | The map revealed: tunnels → **Saint Ardas**; the bell rings; book bound to Samothy; Bobby forging custom gear; Verilith named |
@@ -16,7 +17,7 @@
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster. *(040226 = misfiled, different campaign — excluded.)*
+**Not yet processed (catch-up queue, chronological):** 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster. *(040226 = misfiled, different campaign — excluded.)*
 
 ## Active Threads
 
@@ -43,7 +44,7 @@
 21. ⛪ **SAINT ARDAS** — tunnels under every district converge on the cursed church; sealed ancient evil; **the bell is ringing**. Party assigned — S06. (S05)
 22. 🩸 **[[Verilith, the First Blood]]** — "the woman with the daggers," from the missing-person photos ⚑. (S04.5/S05)
 23. 📖 **Samothy must READ the book** — one-owner vampire-history artifact, bound to him; his vision unrecorded ⚑. (S05)
-24. ⚒️ **Bobby's custom enchanted gear ×7** — ready next session. (S05)
+24. ~~⚒️ Bobby's custom enchanted gear ×7~~ — ✅ **DELIVERED S08** (2d6 elemental riders, no attunement; →4d6 @ lvl 12).
 25. 🧪 **Anne's 2 random-effect potions** — unidentified. (S05)
 26. 🔴 **THE LOST SESSION (04.5)** — 5 open questions for Taylor in the stub. (meta)
 27. 🔦 **THE CRYPT** — ladder open beneath Saint Ardas; the sealed evil + (probably) the Sun Shard below. NEXT. (S06)
@@ -53,10 +54,15 @@
 31. 📚 **The old library + occult museum** — holds the relic map (banned-books section). (S06)
 32. 🗿 **Saint Arda & the Tyrant King** ⚑ — who were they? The sealed tomb ("nothing in, nothing out"). (S06)
 33. ⚠ **Misfiled recording** — 040226 belongs to another campaign; re-home it. (meta)
-34. ~~☀️ The Sun Shard~~ — ✅ **CLAIMED** (S07); knuckle-mount quality roll pending ⚑; it pulses with its own desire.
-35. 🏛️ **THE LIBRARY HEIST** — South Tower restricted section; curator impersonation (changeling); disguise-scanners; Hargraven's sketchy insider. NEXT. (S07)
+34. ~~☀️ The Sun Shard~~ — ✅ CLAIMED (S07) and **MOUNTED on Vega's knuckles, "Solar Fist"** (S08) ⚑ quality tier unstated; it pulses with its own desire.
+35. ~~🏛️ THE LIBRARY HEIST (South Tower plan)~~ — superseded: executed S08 at the **Grand Library of the Veiled Dawn** (DM retconned the target; curator/scanner plan dropped ⚑).
 36. 🅥 **Vampire slaves** — V-branded day-walking human collaborators. Recontextualizes the SPY thread. (S07)
 37. 🧪 **Who used the crypt alchemy station "recently"?** + 3 mystery potions (pink/green/blue). (S07)
+38. ⚔️ **CLIFFHANGER: THE LIBRARY BATTLE** — restricted section breached (axe + nat-20 Starry Wisp); ~15 cultists (+ unconfirmed thralls) converging; "have your second characters ready." Flux loots while the rest fight. NEXT. (S08)
+39. 🫥 **The rooftop figure** — pale, long coat, smiled, vanished into thin air outside Saint Ardas. The murder-cardinal? [[The Vampire Lord]]? (S08)
+40. 📕 **The five library books** — red (*Broken Shards* — plural ⚑), "sun," "vampire," green (humming), blue (whispering, unknown language) + the human-skin book. All unread. (S08)
+41. ⛪ **The Cult of the Pale World** — [[Aloysius]] the psychopath bishop; **Gregory missing 2 days, destination secret** ⚑; an unnamed cardinal tracked by gruesome religious murders ⚑. The party used Al's forged signature. (S08)
+42. 🩸 **The soul-trap seal is BROKEN** — the welded armor held a soul; it's out. Whose? Where? Deanna holds the partial mark. (S08)
 
 ## Resolved Threads
 
@@ -79,6 +85,11 @@
 | Crazy Myrna | 🟢 | Comedy hazard | S05 — the wrong shop |
 | [[Verilith, the First Blood]] | 🔴 ⚑ | "The woman with the daggers" | Photo only |
 | Gregor ("Greg the Gory") ⚑ | ⚪ | 6'8" soldier (mentioned) | Unmet |
+| [[Aloysius]] ("Al") ⚑ | 🔴 | Pale World bishop — psychopath | Unmet (named S08) |
+| Gregory ⚑ | ⚪ | Restricted-section priest — missing 2 days | Unmet (named S08; ≠ Gregor, DM-confirmed) |
+| [[The Watch Captain]] | 🔴 | Library key-keeper enforcer | S08 — his office, sighing |
+| Josh (cultist) | 🟢 | Library door guard; "you're a G" | S08 — front door |
+| The rooftop figure ⚑ | 🔴 | Pale, long coat — vanished | S08 — Saint Ardas rooftop |
 
 ## Locations
 
@@ -86,6 +97,8 @@
 - [[Ruined City District]] — beyond the main gate (⚑ unnamed)
 - [[Hampshire]] — razed village outside the fort; Valerian's home (S02)
 - [[The Old Hospital]] — 2 hrs east; floor 1 cleared, floors 2 + basement pending (S02)
+- [[Saint Ardas]] — the cursed church; explored S06–S07, crypt cleared (S08 wrap-up)
+- [[The Grand Library of the Veiled Dawn]] — 3-floor cult-run knowledge vault; **mid-battle as of S08's end**
 
 ## In-Game Timeline
 

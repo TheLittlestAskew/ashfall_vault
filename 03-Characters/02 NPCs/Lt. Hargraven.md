@@ -19,6 +19,10 @@
 
 - **S06: JOINED THE PARTY.** "Well, it looks like we're all going. I'll be joining you on this quest today." Combat debut at [[Saint Ardas]] (longbow 26→9; Action Surge miss — "I swear to God, take another short rest"). Lore engine all session: vampire-turning rules (blood-share = turned; scratch/bite = rumored virus — hence his custom-fitted armor, "got to protect my sexy body"), library locations, orb mythology. Vega's player, on the record: "really wondering what the fuck's going on with the hot guy in the room."
 
+- **S07:** Crypt support at [[Saint Ardas]] (token forgotten half the session); identified the V-branded skeleton as a **vampire slave**; recused himself from the heist (face too known) and offered a sketchy insider.
+
+- **S08:** Issued the library assignment — Sun Shard / relic lore at [[The Grand Library of the Veiled Dawn]] — on scouting intel that proved spectacularly stale ("completely empty… there should be nobody or nothing there"). Headed back to the castle; missed the entire heist-turned-demolition. ⚑ His S07 "sketchy insider" never materialized (target retconned).
+
 ## Quotes
 
 > "You saved lives today, more than you know. And unlike our commander, you didn't run." *(S01)*

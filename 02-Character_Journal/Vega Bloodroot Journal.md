@@ -136,3 +136,22 @@
 > Next we rob a library. Our own library. There's a locked room in the South Tower where they keep the truth, and the man with the key has a face only a mother could love and guards that sniff for magic. The changeling's going to wear his face. The Lieutenant can't come — too recognizable — and he said it like it cost him something.
 >
 > The shard pulses like it wants something. So do I. We're going to get along.
+
+---
+
+> [!note]- S08 — Libraries are bullshit. (Silence in the Library)
+> **Libraries are bullshit.**
+>
+> First, the armor in the crypt had one more thing to say. Behind the neck, drawn in old blood: a seal that held a soul inside the metal. Held. Past tense — the mark is broken and whatever was in there is out. Deanna copied what was left of it into her plain notebook with her plain hands, and nobody said the obvious out loud, which is that someone built a cage for a soul and someone or something opened it. Then, on the way out of the church, a pale man in a long coat watched us from a rooftop, smiled like he'd already read our file, and stopped existing. So that's fine.
+>
+> The library wasn't the one at home — the Lieutenant pointed us at the big one out in the city. The Grand Library of the Veiled Dawn. "Scouts say it's empty," he said. It was not empty. It is run by a church of humans who worship the things that ate the world — the Pale World cult — and they have a pope and bishops and cardinals, and the cardinals are vampires wearing person-shaped manners. The bishop for our patch is named Aloysius. Al. I knew it would be something like that.
+>
+> Deanna's magic paper got us through the front door — a forged letter from Al, handed to a guard named Josh who was so scared of his own bishop he begged us not to make him think about it. I liked Josh. Josh gets no bitches. It's policy.
+>
+> Inside: no magic allowed, monks shushing like it's a religion, and the truth locked behind electric bars with a lock like three locks stacked. Watch Captain keeps the key on his belt. He called Deanna my "boss." I tripped him into a staircase, then held his arm and walked him in circles for an hour telling him the floors were slippery. He apologized for nothing and suspected nothing, because men like that never do. He has an office. I know where it is now.
+>
+> The clever ones did clever things — the twin copied the key from memory, the changeling found books that hum and whisper and mention broken shards, the druid interrogated a bookshelf about dust. The copied key turned to powder and nearly cooked the changeling. The puzzle dinged wrong. And I had been polite for THREE HOURS.
+>
+> So I introduced the restricted section to my axe. It fought back. I hit it again. The stars-and-moonlight boy put one through the gap and the doors came open like they'd decided to cooperate, and then every bell, monk, and crawling thing in that building knew we were there. Fifteen of them, give or take whatever the dark is holding.
+>
+> Good. I brought sunlight on my knuckles, and the count is still low.

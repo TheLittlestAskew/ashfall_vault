@@ -69,3 +69,20 @@
 | [[Zelda Z Whipper]] | Starry Wisp ×2 + "her Moonbeam" light ⚑ | 14→28 ("technically the sun"); blue-tinted light feature, name unknown |
 | [[Samothy Smith-Wesson]] / [[Deanna Smith-Wesson]] | Pistol kit (Vex/Sap) | One-shot kills each |
 | All casters | **Spell-recovery mechanic** (2d6+1d4) | Val & Deanna all · Zelda & Flux half · Samothy & Barrett 3 |
+
+## S05–S07 (backfill note, 06/06/2026)
+
+S05 was a roleplay session (no archived casts). S06–S07 casts live in their session notes: S06 — twin Starry Wisps (the bell mercy-kill), Daylight discussion, Hargraven's longbow rounds; S07 — **Zelda's MOONBEAM (College of the Moon confirmed)**, Valerian's Wild Shape (spider), Flux's silvered arrows. Dedicated tables not built for these sessions ⚑ backfill candidate.
+
+## S08 — Silence in the Library (05/04/2026)
+
+> The no-magic library: most of the party's kit stayed holstered by necessity.
+
+| Caster | Spell | Notes |
+|---|---|---|
+| [[Valerian Hellebore]] | Druidcraft ×2 | The lavender-scent test ("shh, no magic") + the whisper-cast experiment (secret nat 1 — saved by Barrett's cough) |
+| [[Valerian Hellebore]] | **Starry Wisp (NAT-20 CRIT, 28)** | 4d8+5 — blew the restricted-section doors open and the operation with them |
+| [[Flux]] | Light | The alarm-test cantrip — drew an instant "no magic" from a monk |
+| [[Deanna Smith-Wesson]] | *(prepared, uncast)* Find Traps · Silence | Silence's missed moment: "If only I would have gotten a heads up" |
+| [[Zelda Z Whipper]] | *(prepared, uncast)* Knock · Detect Magic | Knock vetoed — audible 300 ft |
+| [[Samothy Smith-Wesson]] | *(infusion work)* Sun Shard gauntlet-mount + replica key fabrication | Artificer features, not spells — both rolled dirty 20s upstream |

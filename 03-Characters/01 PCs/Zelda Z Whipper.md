@@ -21,6 +21,7 @@ Mood ring (graduation item — "Ooh, my mood ring!") · grappling-hook bracers �
 
 ## Key Events
 
+- **S08:** Custom **whip** delivered (Bobby ⚑ element unstated). A homebrew-data-entry night — **zero archived rolls** — but her spell list drove the planning: **Knock** prepared (vetoed: audible 300 ft), Detect Magic on standby. "Size doesn't matter." Joined ~1 minute late (kiddo escaped their room).
 - **S04:** "Oh, a **slutty 20**" (perception). Starry Wisp 14→28 under the DM's from-the-car sun ruling. Looted the sailor ward (3 emeralds, ruby, 10 gp — Sailor's Rite lore). Opened "her Moonbeam" as a blue-tinted light source ⚑ (College of the Moon feature, name unknown). Co-victim of the empty-room comedy.
 - **S03:** Hookshot pioneer — Acrobatics 15 onto a wall, fighting from the high ground ("more like Attack on Titan"); goat-jumped onto prone Deanna to Thunderwave (2nd-level, 3d8); **Lucky feat confirmed** (rerolled a nat 1 — still missed, the Lego skeleton animation twice); kept Barrett alive with two Healing Words + Lunar Vitality. Dad called mid-turn; stepped out and back like a pro.
 - **S02:** The heart of the Valerian rescue — "I'm short, I'm a little hobbit… just a little short hobbit grabs your finger and hauls you outside." First archive-verified **LUNAR VITALITY** (College of the Moon): Cure Wounds 15 on Valerian + Bardic die 1d8=5 bonus HP (+10 ft speed). Dice tragedy: inspiration-rerolled a damage 1 into **another 1** ("Could have been worse."). Defended her bestie Barrett by callout.

@@ -281,3 +281,50 @@
 
 **Josh (above-table) · [Poignant]**
 > "I didn't tell you guys because I didn't want you to reschedule the session, but my grandmother died earlier today. … I needed the game, so thanks for playing."
+
+## S08 — Silence in the Library (05/04/2026)
+
+**[[Valerian Hellebore]] (Chase) · [Banter]**
+> "I didn't come to this TTRPG to make choices."
+
+**The party, planning the heist · [Funny]**
+> Deanna: "I have my magic paper thing that can be anything I want it to be." / Samothy: "I am a master craftsman. I can make perfect thieves' tools." / Vega: "I have fists." / Valerian: "I have a fatty ass." / Vega: "I could flirt with anything. That also may not be the right tool for this."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "I don't know who's more important than the guy's mom, I'm just saying." *(on whom the forged letter should be from)*
+
+**Taylor (DM) · [Lore]**
+> "Once you get to Bishop, you get 2 handmaidens. When you get to Cardinal, you're allowed 7, and the Pope can have as many as he wants." / Vega: "So you're saying Josh doesn't get any bitches?" / DM: "Josh gets no bitches."
+
+**[[Deanna Smith-Wesson]] (Madi) · [Funny]**
+> "Thanks, Champion. Oh, uh, what's your name?" / The door guard: "Josh." / DM: "Thanks, Josh, you're a G. What a lame-ass name."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "In the future, let's just generically say how many entities, living or otherwise, exist within the physical confines of the building we are currently occupying." / Vega: "Objection." / Samothy: "Is this how every lawyer sounds?"
+
+**[[Vega Bloodroot]] (Taylor) · [In-Character]**
+> "My boss? I know where Deanna is, but I don't have a fucking boss. … You think just because I'm an orc that I need a boss?"
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Hi God, it's me Valerian. Can you help a bitch out?"
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "I'm gonna hold your hand when I say this to you. This is a bookshelf, sweetheart." *(to Barrett, mid-heist)*
+
+**[[Flux]] (Jill) · [In-Character]**
+> "Before I open the lock, I look at Val and said: all my stuff's yours if I die. And I turn the key." *(nat-20 con save)*
+
+**Taylor (DM) · [DM Quip]**
+> "You know, Mr. Stark, I don't feel so good." *(the replica key disintegrating)*
+
+**Madi (Deanna) · [Funny]**
+> "Mountain Dew, more like Mountain Don't."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]**
+> "We'll definitely pick up the hopefully-not-people-leather book as well." / DM: "Oh, it's people."
+
+**[[Vega Bloodroot]] (Taylor) · [In-Character]**
+> "I'm sick of y'all. I'm just gonna break the door down. I'm gonna Rage. … This door isn't gonna attack me. I mean, like, it is gonna attack me back, but it's not gonna attack me back."
+
+**Taylor (DM) · [DM Quip]**
+> "Everybody make sure you have your second characters ready." *(the 15-enemy cliffhanger)*

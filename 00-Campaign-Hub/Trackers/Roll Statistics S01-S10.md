@@ -114,3 +114,63 @@
 ## S05 — The Bell of Saint Ardas (2026-03-24) — roleplay session
 
 **3 archived rolls:** Deanna initiative 4 (stray), Deanna custom 15, custom 19 = **the Mr. Cat permanence roll**. (2026-04-15's 15 DM-only rolls = prep, not play.)
+
+## S06 — Protect the Light (rolls keyed 2026-04-01) *(backfilled 06/06/2026)*
+
+**Total archived: 51** — zero nat 20s, zero nat 1s (a statistically tidy night). Valerian syncing normally (S03/S04 gap stays session-specific).
+
+| Character | Rolls |
+|---|---|
+| [[Barrett Grimmskar]] | 12 |
+| [[Flux]] | 11 |
+| [[Valerian Hellebore]] | 9 |
+| [[Samothy Smith-Wesson]] | 7 |
+| [[Vega Bloodroot]] | 7 |
+| [[Zelda Z Whipper]] | 4 |
+| [[Deanna Smith-Wesson]] | 1 |
+
+Per-roll color in [[Session 06 — Protect the Light]] (bell mercy-kill, vestry haul, the orb).
+
+## S07 — The Sun Shard (rolls keyed 2026-04-20) *(backfilled 06/06/2026)*
+
+**Total archived: 47** — zero nat 20s, zero nat 1s, second session running. 1 DM-account roll.
+
+| Character | Rolls |
+|---|---|
+| [[Flux]] | 15 |
+| [[Barrett Grimmskar]] | 10 |
+| [[Vega Bloodroot]] | 10 |
+| [[Deanna Smith-Wesson]] | 4 |
+| [[Valerian Hellebore]] | 3 |
+| [[Zelda Z Whipper]] | 3 |
+| [[Samothy Smith-Wesson]] | 1 |
+| DM (Taylor) | 1 |
+
+Per-roll color in [[Session 08 — Silence in the Library]]'s predecessor note ([[Session 07 — The Sun Shard]]): the spider scout, the Spartan kick, Moonbeam confirmed, the two thrall kills.
+
+## S08 — Silence in the Library (rolls keyed 2026-05-04)
+
+**Total archived: 44** — the crit drought ends: **2 nat 20s, 3 d20 nat 1s.**
+
+| Character | Rolls | Nat 20s | Nat 1s | Notable |
+|---|---|---|---|---|
+| [[Valerian Hellebore]] | 14 | **1** (Starry Wisp — 28-dmg crit blew the doors open) | **2** (covered cast; "dyslexia" investigation) | Investigation gauntlet: 1→9→18→15→adv 15; Intimidation dirty 20 (the growl) |
+| [[Vega Bloodroot]] | 10 | 0 | 0 | The door demolition: 25/17 + 23/21, archive-exact "11, 3, 3 = 17"; Dex 14 tripped the Watch Captain |
+| [[Flux]] | 9 | **1** (Con save turning the replica key) | 0 | Investigation 26 (the three books); the "death save" was a Dex 24; **Green Longbow of the Earth** damage test (first archived custom-weapon roll) |
+| [[Samothy Smith-Wesson]] | 5 | 0 | **1** (Mr. Cat's Con save — 17 dmg, cat launched into his chest) | Investigation dirty 20 = saw the key; Dex 23 caught the flying electrocuted cat |
+| [[Barrett Grimmskar]] | 3 | 0 | 0 (d6 Bardic = 1 though) | Deception 11 +1 +Maverick d8=8 → dirty 20: the cough that saved Valerian's nat 1 |
+| [[Deanna Smith-Wesson]] | 2 | 0 | 0 | Stealth 13 ("You pass") — evading the Captain; History 9 |
+| [[Zelda Z Whipper]] | **0** | — | — | D&DB homebrew-entry night; zero dice |
+
+### Session Records
+
+- **Best save of the campaign?** Flux's nat-20 Con vs the booby-trapped lock, chased by Dex 24 — "all my stuff's yours if I die."
+- **The teamwork roll:** Valerian's covered-cast was secretly a nat 1; Barrett's cough (Deception 11 + Bardic 1 + Maverick 8 = dirty 20) genuinely covered it. Database-verified heroism.
+- Mr. Cat: nat-1 Con save, 17 damage, brief career as a projectile. Internal repair mechanism: 2d8+3, 3/day.
+- No initiative this session — combat starts S09 (~15 enemies).
+
+### Archive Flags
+
+- Group History volley fixed an attribution: the "21" was **Flux**, not Samothy (transcript reassigned).
+- Vega's "I thought it landed on a 10" — archive: [8]+1=9. The roll log was right.
+- Zero DM rolls again (S08); the S04/S07 DM-account rolls remain the only ones.

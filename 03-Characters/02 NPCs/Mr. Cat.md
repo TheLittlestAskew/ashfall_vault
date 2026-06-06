@@ -18,6 +18,8 @@ Summoned via Samothy's smith's tools (S01 house rule). Crossed from equipment to
 - **S01:** First summon ("kitty-taur"); first kill (trampled a feral thrall).
 - **S02:** Deflect-tanked for Vega (canceled a 20-damage claw); house rule set — Deflect cancels one attack of a multiattack.
 - **S03:** Named. Deflected for Vega and Samothy; one rend hit, one miss; flank-swept for ambushers. Vega: "Good boy, cat." / "I just like the cat."
+- **S05:** **MADE PERMANENT** (archived d20 = 19) — no more summoning; bronze, bobcat-sized.
+- **S08:** Volunteered (voluntold) to walk through the restricted section's electrified bars — **nat-1 Con save, 17 damage**, launched as a fully electrified projectile into Samothy's chest (11 to Samothy). "If Mr. Cat had fur, he would not be furry anymore." Revealed: **internal repair mechanism, 2d8+3 self-heal, 3/day**; HP 26.
 
 ## House Rules Attached
 
