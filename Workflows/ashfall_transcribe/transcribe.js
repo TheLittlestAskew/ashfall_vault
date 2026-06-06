@@ -106,11 +106,68 @@ const ASHFALL_KEYTERMS = [
 
   // ── Player Names (OOC) ──
   "Taylor",
+  "Madi",
+  "Christie",
+  "Jill",
+  "Josh",
+  "Chase",
+  "Doug",
+  "Gus",
+  "Naruto",
+  "Corey",
 
-  // ── Key NPCs ──
+  // ── Key NPCs (S01 — provisional spellings per Names & Terms) ──
   "Lt. Hargraven",
   "Lieutenant Hargraven",
+  "Captain Bron Hargraven",
   "Hargraven",
+  "Commander Thornfall",
+  "Thornfall",
+  "Inspector Meridia Vale",
+  "Meridia Vale",
+  "Commander Varan",
+  "Varan",
+  "the Beast Binder",
+  "Beast Binder",
+  "Mistress of Hunger",
+  "Florence",
+
+  // ── Factions / Terms (S01) ──
+  "Ashwardens",
+  "Ashwarden",
+  "feral vampire thrall",
+  "thrall",
+  "thralls",
+  "Nova Twins",
+  "kitty-taur",
+  "Steel Defender",
+
+  // ── Magic Items (S01) ──
+  "Masquerade Tattoo",
+  "Flux's Fantabulous Flipside Frock",
+  "Cloak of Fashion",
+  "Power Pole",
+  "Directional Doohickey",
+  "Peter Pistol",
+  "parlor gun",
+  "bag of holding",
+
+  // ── Spells / Mechanics seen in play (S01) ──
+  "Starry Wisp",
+  "Moonbeam",
+  "Thunderwave",
+  "Bane",
+  "Hunter's Mark",
+  "Ensnaring Strike",
+  "Perforating Shot",
+  "Finger Guns",
+  "Spiny Shield",
+  "Risk Die",
+  "Magic Missile",
+  "Savage Attacker",
+  "Reckless Attack",
+  "Returning Weapon",
+  "Repeating Shot",
 
   // ── Races ──
   "half-orc",
@@ -178,7 +235,12 @@ const ASHFALL_CUSTOM_SPELLING = [
   { from: ["Helebore", "Hellebor", "Hellbore"], to: "Hellebore" },
 
   // NPC names
-  { from: ["Hargrave", "Hargreaves", "Hargraven's"], to: "Hargraven" },
+  { from: ["Hargrave", "Hargreaves"], to: "Hargraven" },
+  { from: ["Thornfell", "Thornful"], to: "Thornfall" },
+  { from: ["Varen", "Varin"], to: "Varan" },
+  // NOTE: do NOT add common-word mishears (Bean→Bane, baked→Bane) here —
+  // custom_spelling is a global replace and would corrupt real words.
+  // Those stay in the per-session spell-check cycle; keyterms boost handles the rest.
 ];
 
 // ── HELPER FUNCTIONS ────────────────────────────────────────
