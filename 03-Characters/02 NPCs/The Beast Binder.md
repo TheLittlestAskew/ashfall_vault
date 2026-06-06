@@ -36,6 +36,10 @@ Tall, gaunt. Corpse-pale skin; sunken **gold** eyes. Bloody ritual scars drippin
 
 > "Oh, you can't make me bleed with as weak as you are currently. Come back to me when you grow up."
 
+## S02 Development — the Beast Master Class ⚑
+
+[[Lt. Hargraven]] (S02) identified **light-blue magical auras** as the signature of a **Beast Master** — a vampire class that controls beasts; **dark red** marks a Vampire Master; theory holds Beast Masters are "closer to being a human." A Beast Master's footprints toured [[Hampshire]] the night of the attack and vanished mid-step. **Whether "the Beast Binder" is a Beast Master (or the same role under another name) is PENDING DM confirmation.** Note: Bobby's lore (S02) — **emeralds are the only way to kill a Beastmaster**.
+
 ## Open Threads
 
 - Promised personal duel with the party "in the near future"

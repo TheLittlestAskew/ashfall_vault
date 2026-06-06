@@ -24,6 +24,7 @@ The "Power Pole" (graduation stick) · grappling-hook bracers · Enspelled semi-
 
 ## Key Events
 
+- **S02:** The session's detective: Detect Magic found the **Beast Master's vanishing footprints** in [[Hampshire]] (pointed shoes, slight heel, large); nat-20 Investigation (24) and **nat-20 History (27 — "I'm smart as hell")** recalled the light-blue aura that let Hargraven name the threat. The "Hey, Deanna, check this out" Sammy-words RP earned the A+ inspiration (with Madi). In the hospital fight: dirty-20 pistol work (+Vex/Sap — his Sap discarded an enemy nat 20 on Barrett), Steel Defender deflect-tanking for Vega ("Damn, how much damage do I save her?" "A good bit.").
 - **S01:** Graduated (second, post-shove: "you rapscallion"). First Steel Defender summon of the campaign — its debut attack hit (21) and killed by trampling. Two "dirty 20" pistol kills including the wave-1 closer ("D-E-D dead"). Went toe-to-toe verbally with [[The Beast Binder]]: "If you can bleed, you can die" — and ate the comeback ("you can't make me bleed with as weak as you are currently"). A 19 to-hit missed the captain ("This man's a demon"). Marked him with Hunter's Mark out of spite ("because it can't fucking miss"). Took an opportunity Parlor Gun shot at the teleporting captain — missed. Building toward "my build so I can torture him when we find him again."
 
 ## Quotes

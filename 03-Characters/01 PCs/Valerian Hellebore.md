@@ -21,9 +21,15 @@
 
 Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-hook bracers · quarterstaff, pistol — see [[Loot Tracker S01-S10]].
 
+## Family & Backstory (revealed S02)
+
+- Home village: **[[Hampshire]]**, just outside the fort. **Both parents killed in the S01 attack** — found mauled (beast thrall) in his childhood home, S02. Deanna covered the bodies with blankets; Zelda draped one over him and hauled him out by the finger; the grief turned to "seething rage."
+- Won the boot-camp **training competition** ("the magic of loopholes" — teleported through the obstacle course); holder of the **Perma Inspiration**.
+
 ## Key Events
 
 - **S01:** Killed 2 thralls with Moonbeam (22 and 20 effective). Tried Moonbeam on [[The Beast Binder]] — the beam **turned black and cut off** at his height; took it in stride ("Can't blame a guy for trying"). Tanked two thrall hits behind Spiny Shield. Named the party's shared enemy: "we have a common enemy now."
+- **S02 — THE ORPHANING.** Found his parents dead in his own house; the scream carried across [[Hampshire]]. Nat-1 Wisdom save while shaken (disadvantage riders). Spent the session as the beasts' favorite target (knocked prone, 31 damage taken) and answered with: **Daylight cast on a rock** mid-grief (3rd-level, forced the blind beasts back), a nat-1 Starry Wisp inspiration-rerolled into the 28-damage *"tastes like stars, bitch"* hit, and the final-blow **Shocking Grasp execution** ("the old shocker") — lightning from his palm, for his parents. Also druidcrafted a flower into Bobby's hair. Coping register: "More alive than my parents." / "Curiosity shat the bed."
 
 ## Quotes
 

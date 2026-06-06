@@ -17,14 +17,32 @@
 **Session champion:** Taylor (DM), 25 — narrowly over Chase, 24.
 **Signature contexts:** Chase: "2d10 radiant damage, motherfucker" · DM: "oh fuck, what was that dude's name?" · Josh: "I keep moving these goddamn fucking tables" · Doug's lone entry: "Oh, shit" — his first turn of the campaign.
 
-## Running Totals (through S01)
+## S02 — Ashes of the Living (02/17/2026)
+
+> ⚠ Diarization caveat: 26 swears sit in the unattributable D-blob (mostly Chase/Doug/Josh). Attributed counts below are floors, not totals.
+
+| Speaker | fuck | shit | bitch | damn/goddamn | motherfucker | Session Total (attributed) |
+|---|---|---|---|---|---|---|
+| Chase (Valerian) | 12 | 2 | 1 | 3 | 2 | **20** |
+| Taylor (Vega) | 6 | 4 | 0 | 1 | 0 | **11** |
+| Taylor (DM) | 4 | 3 | 1 | 1 | 0 | **9** |
+| Josh (Samothy) | 0 | 1 | 0 | 2 | 0 | **3** |
+| Madi (Deanna) | 0 | 2 | 0 | 0 | 0 | **2** |
+| Doug (Barrett) | 1 | 0 | 0 | 0 | 0 | **1** |
+| Christie (Zelda) | 0 | 0 | 0 | 1 | 0 | **1** |
+| *Unattributed (D-blob)* | *14* | *6* | *1* | *5* | *0* | *(26)* |
+
+**Session champion:** Chase, 20 attributed — grief-fueled ("Starry Wisp straight to his fucking dome").
+
+## Running Totals (through S02, attributed only)
 
 | Speaker | Total |
 |---|---|
-| Taylor (DM) | 25 |
-| Chase | 24 |
-| Taylor | 14 |
-| Josh | 12 |
-| Madi | 4 |
-| Christie | 3 |
-| Doug | 1 |
+| Chase | 44 |
+| Taylor (DM) | 34 |
+| Taylor | 25 |
+| Josh | 15 |
+| Madi | 6 |
+| Christie | 4 |
+| Doug | 2 |
+| *Unattributed pool* | *26* |

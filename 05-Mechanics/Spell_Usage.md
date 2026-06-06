@@ -22,3 +22,22 @@
 | [[Vega Bloodroot]] | — (Rage only) | — | — | No spells; Raged through both combats |
 
 **Vampire-tech meta:** radiant = 100% kill rate on hits; loud sound = doubled. Beast Binder demonstrated Moonbeam nullification + memory-block magic + blink/teleport.
+
+## S02 — Ashes of the Living (02/17/2026)
+
+| Caster | Spell | Level | Casts | Notes |
+|---|---|---|---|---|
+| [[Valerian Hellebore]] | **Daylight** | 3rd | 1 | Cast on a rock (can't target worn/carried) — blind beasts recoiled from the heat |
+| [[Valerian Hellebore]] | Shocking Grasp | cantrip | 1 | The execution — 12 lightning, final kill, "the old shocker" |
+| [[Valerian Hellebore]] | Starry Wisp | cantrip | 3 | 1 disadv miss (shaken), 1 nat-1→inspiration reroll→28-dmg kill-shot ("tastes like stars") |
+| [[Valerian Hellebore]] | Druidcraft | cantrip | 2 | Flowers in Bobby's hair/beard ("Now I smell fancy") |
+| [[Zelda Z Whipper]] | **Cure Wounds + LUNAR VITALITY** | 1st + feature | 1 | 15 + 1d8(5) HP on Valerian; +10 ft speed — feature's first archive-verified use |
+| [[Zelda Z Whipper]] | Starry Wisp | cantrip | 2 | The double-1 damage saga (doubled to 2) |
+| [[Deanna Smith-Wesson]] | Protection from Evil and Good | 1st | 2 | On Sammy (footprints) and Vega (pre-combat) |
+| [[Deanna Smith-Wesson]] | Perforating Shot ⚑ | homebrew | 2 | Bonus-action usage this session |
+| [[Samothy Smith-Wesson]] | Detect Magic | 1st | 1 | THE clue — Beast Master footprints |
+| [[Flux]] | Detect Magic (ritual) | 1st | 1 | Hospital sweep |
+| [[Flux]] / [[Barrett Grimmskar]] | Finger Guns ⚑ | cantrip | 4 / 6 | Barrett's Extra Attack double-taps |
+| [[Vega Bloodroot]] | — (Rage + Eldritch Claw Tattoo) | — | — | Tattoo d6 rider ×4 archived |
+
+**Notable not-cast:** Valerian name-checked Sacred Flame and Shillelagh (neither resolved); Vega's Intimidation liquefaction-display idea (mooted — the beasts are blind).

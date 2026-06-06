@@ -16,6 +16,13 @@
 - **The [[Ashwardens]]** — special forces who "walk beyond the walls into places where you will not see the sun for days, where the air tastes like burnt metal." Their trial: *survive*. They retrieve supplies and old-world tech. Commanded by [[Commander Thornfall]]. *(S01)*
 - Base command includes [[Commander Varan]] (deserted S01), [[Inspector Meridia Vale]], [[Lt. Hargraven|Capt./Lt. Bron Hargraven]]. *(S01)*
 
+## Britain Confirmed *(S02)*
+
+- The setting is **post-meteor Britain**: "kind of like medieval England with a steampunk vibe." *(S02, DM)*
+- **Northern England** exists ([[Bobby]]'s homeland). *(S02)*
+- Sanitation-by-magic joked as canon (Prestidigitation cleanup). *(S02, half-joking — unconfirmed)*
+- Village naming follows English convention: [[Hampshire]]. *(S02)*
+
 ## The Vampires (known facts only)
 
 - Organized into at least one **clan** with ranks — "captains" exist; [[The Beast Binder]] is one. *(S01)*
@@ -24,6 +31,10 @@
 - Some vampires have **increased speed, climbing, and long jumps** — the reason Ashwardens carry grappling bracers. *(S01)*
 - Vampire captains were believed to operate **far north**; one appearing this far south alarmed base command. *(S01)*
 - Weaknesses observed: **radiant damage** is devastating (table rule: doubled); thralls' hypersensitive hearing makes **loud sound** a weapon. *(S01)*
+- **Aura taxonomy** *(S02, Hargraven)*: **Beast Masters** carry light-blue magical auras (control the beasts; theory — closer to human); **Vampire Masters** carry dark-red auras. ⚑ [[The Beast Binder]]'s place in this taxonomy pending.
+- **Silver** stops vampire self-healing; **emeralds** are the only way to kill a Beastmaster; **direct sunlight** imposes disadvantage. *(S02, Bobby/DM)*
+- Thrall classes: [[Feral Vampire Thrall]] (human-shaped, drains) vs. [[Beast Thrall]] (massive, mauls; sighted and **blind** variants — blind ones hunt sound/heat). *(S02)*
+- **They take children alive.** No children among Hampshire's dead; carried out. Purpose unknown. *(S02)*
 
 ## Geography (known)
 

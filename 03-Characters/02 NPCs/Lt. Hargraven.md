@@ -15,10 +15,14 @@
 
 - **S01:** One of the three presiding officers at the Ashwarden graduation. When the alarm rang, took the other recruits to battle stations. At the main gate, furious at [[Commander Varan]]'s desertion ("What a fucking coward"), briefed [[Commander Thornfall]] and the party on the trapped civilians and the missing lever. Post-battle, delivered the debrief: *"You saved lives today, more than you know. And unlike our commander, you didn't run."* On hearing [[Flux]]'s report of [[The Beast Binder]], **turned ghostly pale**, traced the wall map — last scouting report had the Beast Binder far north — and ran off hurriedly to find the commander.
 
+- **S02:** Issued the dawn orders for the [[Hampshire]] sweep ("If you find anyone alive, bring them home"). Ran the war-room briefing: supplies dangerously low, northern farms gone, watchtowers empty, unnatural night fog; dispatched three sorties (party → hospital). Delivered the **aura taxonomy**: light blue = Beast Master, dark red = Vampire Master, with the closer-to-human theory. Praised the party as "the ones we can trust the most"; revealed Vega and Flux's jumped-three-classes record history.
+
 ## Quotes
 
 > "You saved lives today, more than you know. And unlike our commander, you didn't run." *(S01)*
 > "War is coming, and you'll likely be on the front lines for it." *(S01)*
+> "Magic footprints, that can only mean a Beast Master." *(S02)*
+> "If you find anyone alive, bring them home." *(S02)*
 
 ## Relationships
 

@@ -36,6 +36,8 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 - **S01 — persona crystallized:** *"the Regina George of Barbarians"* — sarcastic alpha confidence, declared at the table after she flipped off [[The Beast Binder]] with both hands (he flipped her off back). Player: "This is my personality now as a character. I hope you guys are ready."
 - **S01 — line in the sand:** offered the "deal with the devil" house rule and refused: "I'm not dealing with the devil until it becomes entirely necessary." The DM is "so excited because someone's gonna have to at some point." Watch this.
 - First blood taken in stride — quipped through her first kill ("Not today, Satan") but registered being drenched in vampire blood ("Oh gross, can't wait to take a shower").
+- **S02 — the quiet caretaker under the sass:** took over Hampshire's body-disposal unprompted — staked the dead, piled them for the pyre, no speeches ("It needed doing"). Said nothing to Valerian in his parents' doorway; some things don't need the Regina George voice.
+- **S02 — record swing:** 47 damage on a reckless nat-20 crit, narrated as full liquefaction ("there's somebody else still alive on this battlefield… lock eyes with him and just kind of smile"). Self-identified the party role: "That would be me for sure. **I am the fist.**"
 
 ## Build Notes
 
@@ -46,11 +48,12 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 
 ## Items
 
-Masquerade Tattoo (graduation item, on her arm) · grappling-hook bracers · greataxe · rapier · *(pending: brass knuckles)* — see [[Loot Tracker S01-S10]].
+**Eldritch Claw Tattoo** (graduation item, on her arm — finalized S02; granted in-fiction as "Masquerade Tattoo"; +1d6 damage rider when activated) · grappling-hook bracers · greataxe, rapier, brass knuckles — **all silvered** (S02, Bobby) — see [[Loot Tracker S01-S10]].
 
 ## Key Events
 
-- **S01:** Graduated boot camp; received the Masquerade Tattoo. Killed 3 thralls with greataxe crits — **three nat 20s in one session** — including bisecting a lunging thrall mid-air on an opportunity attack and the cinematic samurai-style diagonal bisection of the final thrall, revealing the Beast Binder behind it (30 damage). Took 1 damage all night (Rage-halved). Shot at the Beast Binder during the standoff; demanded straight answers from him ("Can't evil people just ever be straightforward and not cryptic?").
+- **S01:** Graduated boot camp; received her tattoo (finalized as Eldritch Claw). Killed 3 thralls with greataxe crits — **three nat 20s in one session** — including bisecting a lunging thrall mid-air on an opportunity attack and the cinematic samurai-style diagonal bisection of the final thrall, revealing the Beast Binder behind it (30 damage). Took 1 damage all night (Rage-halved). Shot at the Beast Binder during the standoff; demanded straight answers from him ("Can't evil people just ever be straightforward and not cryptic?").
+- **S02:** Pyre detail at [[Hampshire]]. Revealed (war room): she **jumped three training classes** and set the boot-camp physical records. Tanked the hospital beast thralls (14 taken, Rage-halved), activated the Eldritch Claw Tattoo for the first time, and delivered the campaign-record **47-damage crit**. ⚑ Flagged a possible rebuild: 2014 Totem Warrior homebrew vs Wild Heart, maybe dropping the Rogue dip ("it doesn't seem to be benefiting me at all"); Tabaxi idea floated. DM open to it.
 
 ## Quotes
 

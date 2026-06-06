@@ -53,3 +53,53 @@
 > "Yeah, Deus Ex Glockena."
 
 *⚑ Removed-but-flagged (OOC life chat, Taylor may overrule): the Gus exchange — "What was he thinking about?" / "Oh yeah, just dragons and shit." and Taylor's "Dungeons and Dragons and diners and dives and drivers and diamond pickaxes."*
+
+## S02 — Ashes of the Living (02/17/2026)
+
+**[[Lt. Hargraven]] (DM) · [Serious]**
+> "We need survivor counts, we need names, and we need to know what we're fighting. … If you find anyone alive, bring them home."
+
+**Taylor (DM) · [DM Quip]**
+> "Oh yeah, they're your parents."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Oh good, just ease into that trauma."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "More alive than my parents."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Curiosity shat the bed."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Fuck yeah! 14 radiant damage, so 28. All right, tastes like stars, bitch."
+
+**[[Bobby]] (DM) · [DM Quip]**
+> "What do I look like, an alchemist? No, I make armor and weapons."
+
+**[[Bobby]] (DM) · [DM Quip]**
+> "I am a dwarf, thanks for noticing."
+
+**[[Abigail]] (DM) · [Funny]**
+> "Just wish he'd let me take him to dinner. Oh my God, I've been trying to ride that mustache for years."
+
+**[[Lt. Hargraven]] (DM) · [Serious]**
+> "Magic footprints, that can only mean a Beast Master."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Banter]**
+> "Hey, Deanna, check this out. Found something." *(the A+ inspiration RP)*
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "That would be me for sure. I am the fist."
+
+**[[Deanna Smith-Wesson]] (Madi) · [Funny]**
+> "Jesus H, this place, really, someone needs to call housekeeping."
+
+**Taylor (DM, to his kids, mid-combat) · [Funny]**
+> "Okey-dokey, you can have some dry cereal. You don't need milk before you go to bed."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "I'm gonna give him the, uh, the old, uh, the old shocker, AKA shocking grasp."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Banter]**
+> "If we ever come in contact with werewolves, we could definitely use some silver bullets over here. Some foreshadowing."

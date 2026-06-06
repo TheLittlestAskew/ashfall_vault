@@ -42,6 +42,26 @@
 | Perforating Shot | Spell (homebrew/UA?) | Deanna's line-AoE shot |
 | Finger Guns | Cantrip (homebrew) | Force "pew pew" — Flux & Barrett both use |
 
+## Provisional ⚑ (S02)
+
+| Term | Type | Notes |
+|---|---|---|
+| Hampshire | Location | The razed village; canonized after 4 DM fumbles |
+| Bobby | NPC | Dwarf master armorer, Northern England |
+| Abigail | NPC | Elf alchemist |
+| Beast Master | Vampire class | Light-blue aura; controls beasts; emerald-vulnerable. ⚑ vs "Beast Binder" pending |
+| Vampire Master | Vampire class | Dark-red aura |
+| Beast Thrall | Creature | Massive; mauls; sighted + blind variants |
+| nirnroot | Flora | Humming herb (Skyrim homage); riverbanks + hospital pharmacies |
+| SMJ ("silver metal jacket") | Term | Bobby's silver bullets |
+| Lunar Vitality | Class feature | Zelda (College of the Moon): Bardic die → +1d8 HP +10 ft speed on a healing spell (Taylor-confirmed) |
+| Eldritch Claw Tattoo | Item | Vega's — FINAL (replaces "Masquerade Tattoo") |
+| Magnum | Item | Barrett's revolver per archive ⚑ vs S01 "TGC" |
+
+## From Vega's Character Sheet (backstory canon — not yet seen in play)
+
+Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter
+
 ## Unresolved / Garbled
 
 | Heard | Session | Status |

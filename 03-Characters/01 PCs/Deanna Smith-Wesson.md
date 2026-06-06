@@ -22,6 +22,7 @@ Notebook/paper graduation item ("handy dandy notebook" — properties unrevealed
 
 ## Key Events
 
+- **S02:** Covered Valerian's parents with blankets and got him outside — the steady-hands register under the chaos-gremlin one. Cast Protection from Evil and Good twice (on Sammy at the footprints, on Vega pre-combat). **Action Surge debut**; nat-1 pistol ("it just rolled over to the 1"); shared the A+ inspiration with Josh for the twins RP. Ordered silver ammo from Bobby like a regular ("Bobby boy, I'm gonna need some silver ammo for my pistol").
 - **S01:** Graduated (first, by shoving). Matched her brother's Hunter's Mark with one point more damage ("Just got to one-up your brother, don't you?" — "Always."). Engaged [[The Beast Binder]] more than anyone: hit him with Perforating Shot (one of only two PCs to damage him), threw a dagger at him, shot at him post-battle — **he caught the bullet** and threw it back. He offered her a place in his **harem** ("your brother's welcome too"). **He whispered his true name into her ear and memory-blocked it — she knows it but cannot remember it.** Put him "on my shit list."
 
 ## Quotes

@@ -6,10 +6,11 @@
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 02 | [[Session 02 — Ashes of the Living]] | 02/17/2026 | Dawn after S01 | 5 (+3,300 XP) | Hampshire swept — Valerian's parents dead, children taken; Beast Master lore; Bobby's book commission; hospital floor 1 cleared |
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Binder]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**Not yet processed (catch-up queue, chronological):** 021726 · 022426 (×2) · 030426 · 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
+**Not yet processed (catch-up queue, chronological):** 022426 (×2) · 030426 · 032426 · 040126 · 040226 · 042026 · 050426 · 051126 — roll archive runs through 2026-05-11. Party is level 8 as of the roster.
 
 ## Active Threads
 
@@ -19,6 +20,12 @@
 4. ⚖️ **[[Commander Varan]]'s desertion** — closed the gates on civilians and fled (S01). Fallout pending.
 5. ⚔️ **"War is coming"** — party expected on the front lines (Hargraven, S01).
 6. 👑 **The Mistress of Hunger** — invoked by the Beast Binder (S01). Identity unknown.
+7. 👶 **THE MISSING CHILDREN** — none among Hampshire's dead; carried out alive(?). The locket. (S02)
+8. 📕 **Bobby's secret book** — magical, vampire history, in the hospital, "it's got a presence." (S02)
+9. 🌿 **Abigail's nirnroot** — hospital pharmacy. (S02)
+10. 💎 **Emeralds** — the only way to kill a Beastmaster; jewels for castle protection. (S02)
+11. 🐾 **The Hampshire Beast Master** — light-blue aura, vanishing footprints. Who? (⚑ Beast Binder relation pending DM.) (S02)
+12. 🏥 **The hospital, floors 2 + basement** — something was breathing in another wing. Rendezvous due in 2 in-game days. (S02)
 
 ## Resolved Threads
 
@@ -32,18 +39,28 @@
 | [[Lt. Hargraven]] (⚑ Capt./Lt.) | 🟢 | Base command ally | S01 — ran to find commander |
 | [[Inspector Meridia Vale]] | 🟢 | Base command | S01 — ran toward alarms |
 | [[Commander Varan]] | ⚪ | Deserted commander | S01 — fled (never seen) |
-| [[The Beast Binder]] | 🔴 | Vampire captain | S01 — vanished from plaza |
+| [[The Beast Binder]] | 🔴 | Vampire captain (Beast Master? ⚑) | S01 — vanished from plaza |
+| [[Bobby]] | 🟢 | Dwarf master armorer | S02 — his shop |
+| [[Abigail]] | 🟢 | Elf alchemist | S02 — her shop |
+| Hampshire Beast Master | 🔴 | Unseen — footprints only | S02 — departed Hampshire |
 
 ## Locations
 
-- [[The Walled Base (Museum-Castle)]] — home base (⚑ unnamed)
+- [[The Walled Base (Museum-Castle)]] — home base (⚑ unnamed); war room, [[Bobby]]'s armory, [[Abigail]]'s shop
 - [[Ruined City District]] — beyond the main gate (⚑ unnamed)
+- [[Hampshire]] — razed village outside the fort; Valerian's home (S02)
+- [[The Old Hospital]] — 2 hrs east; floor 1 cleared, floors 2 + basement pending (S02)
 
 ## In-Game Timeline
 
 | In-Game Date | Session | Event |
 |---|---|---|
 | Winter, 2 days before Christmas | S01 | Graduation; vampire attack; Beast Binder encounter; long rest granted |
+| Next dawn (1 day before Christmas Eve, by inference) | S02 | Hampshire sweep; sorties dispatched (2-day rendezvous clock started); hospital floor 1; short rest |
+
+## Setting
+
+Post-meteor **Britain** — "medieval England with a steampunk vibe" (S02). See [[Setting Primer]].
 
 ## Party Snapshot (as of S01)
 

@@ -17,6 +17,18 @@
 | **Infusion logistics** | To infuse another PC's item: owner puts it in party inventory → Samothy takes + infuses → owner takes it back and attunes. Infusing ≠ attuning. | S01 |
 | **Mundane weapon picks** | Players choose base (non-magical, non-plus) weapons freely from the armory. | S01 |
 
+## Standing Rules Added S02
+
+| Rule | Detail | Source |
+|---|---|---|
+| **Silver stops vampire self-healing** | Silvered weapons/ammo prevent vampires from regenerating the wound | S02 (Bobby) |
+| **Emeralds kill Beastmasters** | The only way; can be infused into weapons | S02 (Bobby) |
+| **Sunlight vs vampires** | Direct sunlight imposes disadvantage; blind beast thralls merely "feel the heat" and recoil | S02 |
+| **Steel Defender Deflect (house)** | Cancels one attack of a multiattack outright instead of imposing reroll-with-disadvantage ("I don't want to have to reroll") | S02 |
+| **Inspiration on damage dice** | Inspiration may be spent to reroll a damage die, not just a d20 | S02 (Zelda) |
+| **Inspiration definition** | "It just lets you reroll your d20"; multiple inspirations may be held | S02 |
+| **Changeling beast forms** | Flux may learn beast shapes by **studying** the creature (not a glance) | S02 |
+
 ## One-Off Rulings
 
 - Magic Missile damage is **rolled** (per-dart d4+1), not fixed. *(S01)*

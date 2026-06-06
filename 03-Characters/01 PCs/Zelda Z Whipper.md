@@ -21,6 +21,7 @@ Mood ring (graduation item — "Ooh, my mood ring!") · grappling-hook bracers �
 
 ## Key Events
 
+- **S02:** The heart of the Valerian rescue — "I'm short, I'm a little hobbit… just a little short hobbit grabs your finger and hauls you outside." First archive-verified **LUNAR VITALITY** (College of the Moon): Cure Wounds 15 on Valerian + Bardic die 1d8=5 bonus HP (+10 ft speed). Dice tragedy: inspiration-rerolled a damage 1 into **another 1** ("Could have been worse."). Defended her bestie Barrett by callout.
 - **S01:** Skipped up to receive her mood ring; [[Commander Thornfall]]: "Your happiness will never astound me. How you can be happy all the time is just amazing." (⚑ "I find it exhausting" — attribution open). Cast the campaign's first Bane (2 of 3 thralls failed). **Thunderwave burst a thrall's skull through sound alone.** Nat-20 Starry Wisp crit — the "Mr. Stark, I don't feel so good" ash-out kill. Killed 3 thralls total, then cartwheeled to Barrett: "See, told you I got it."
 
 ## Quotes
