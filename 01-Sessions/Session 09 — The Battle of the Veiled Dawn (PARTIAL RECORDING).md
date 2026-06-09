@@ -45,7 +45,7 @@ tags: [session-notes, ashfall, partial-recording]
 
 **Build news (on mic):** **VEGA IS NOW PURE BARBARIAN** — dropped the Rogue dip ("I haven't been able to use it"), closing the rebuild question open since S02.
 
-**Outcome:** strongly implied victory — relaxed end-of-session mood, no new-characters talk beyond the running gag ("no matter what we do, the session always ends with: well, you guys better make new characters next time"). But on the mic the last word on objectives is Vega's *"Did we do it? Did we find the things?"* answered by *"All we did do was knock."* ⚑ **Resolution unconfirmed — ask the table.**
+**Outcome:** strongly implied victory — relaxed end-of-session mood, table bleed-through of *"that was great, I had a lot of fun with that,"* and no new-characters talk beyond the running gag ("no matter what we do, the session always ends with: well, you guys better make new characters next time"). But on the mic the last word on objectives is Vega's *"Did we do it? Did we find the things?"* (01:19:17) — and **the DM's answer was not captured** (Discord audio missing). She only follows with *"we were never getting through that door, I'm glad I kicked it down."* Whether the party actually secured the relic lore is ⚑ **unconfirmed — ask the table.** (The "All we did do was knock" line attributed here earlier is not in the salvaged audio — removed 06/09.)
 
 ## Open Questions for Taylor ⚑
 
