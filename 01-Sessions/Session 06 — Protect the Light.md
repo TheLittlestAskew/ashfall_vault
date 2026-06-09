@@ -80,6 +80,7 @@ tags: [session-notes, ashfall]
 **Combat:** 4 feral thralls, Saint Ardas nave — Victory. Friendly fire: Valerian 30 (crit-fail mechanic) + 10 to Barrett (thrall nat-20). Kills: Barrett 1 (Magnum ×2), Valerian 3 (Lightning Bolt). Plus the bell-tower mercy-kill (Flux chain-cut + twin Starry Wisps).
 **Initiative (partial archive):** Zelda 24 · ... · Vega 6 (unicorn dice's last stand — retired this session for the April Fool dice).
 **Notable rolls:** Valerian Lightning Bolt 8d6=23 · twin nat-19 Starry Wisps (Valerian 27, Zelda 25) · Barrett Investigation 6→19 via Christie's Help + con-save trap dodge · Samothy's puzzle chain (Investigation 22→12→23, Perception 14) · Vega nat-20-for-20 redux ("Dirty 20, Doug").
+**DM/enemy rolls:** in the 51 archived (since the **S04 sync milestone** — *not* a separate transcript-only gap). For reference: 4 Bane Cha saves (8 / 1 / 4 / 16 — only the 16 saved); 2 Perforating-Shot Dex saves; Vampire A on Barrett (6 + **nat 20** → 10 dmg); 3 Lightning-Bolt Dex saves (5 / 14 / 9, all failed DC 16). The crit-fail target roll (d6 → 3 = Valerian) and Barrett's trap Con save were player-rolled.
 
 ## Section 8 — Archivist Notes
 
@@ -89,3 +90,4 @@ tags: [session-notes, ashfall]
 - The elemental-deity pattern (fire dagger + water dagger + fire scroll + ice scroll) looks deliberate — collect-them-all energy. Track it.
 - Bobby's custom gear was promised "ready next session" in S05 and didn't appear — presumably next castle visit ⚑.
 - S05's events were recapped as "we got a solid 6.5 minutes of playing last time" — accurate.
+- **Spellfire Flare = Flux here too** (her nat-1 triggered the friendly fire), reconfirming the S04 attribution — yet the archive logs Spellfire Flare as **Barrett's** in S09 ⚑. Either both casters have it or the cross-session attribution needs the DM (glossary-tracked).
