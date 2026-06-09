@@ -59,7 +59,8 @@ Long rest granted; back at the castle for S08.
 ## Archivist Notes
 
 - **Zelda has Moonbeam** — College of the Moon mechanically confirmed (S04 flag resolved).
+- **DM/enemy rolls** are in the 47 archived (post-S04 sync) — *not* a separate transcript-only gap. The 2 silent thralls' attacks (Vampire B's 19 → 15 dmg on Zelda; a later 19 → 14) plus 2 Moonbeam Con saves (16 and 15, both barely-saved → halved 7/11) were DM-rolled and synced. Deanna's Spartan kick was DM-ruled free ("just a genius idea"); her follow-up sword rolls (a 2, then another miss) were player rolls.
 - **Flux can now shapeshift into a feral thrall** (S04 corpse study, d20=17) — fidelity untested; about to matter in a heist full of disguise-scanners.
 - The DM's crit-fail-by-number mechanic returned as a tease ("I was about to make everybody roll initiative as a joke… I feel nice today").
-- OOC, preserved with care: **Josh's grandmother (96) died the morning of this session**; he played anyway — "I needed the game, so thanks for playing." The table offered a midweek session. This group is good to each other.
+- OOC, preserved with care: **Taylor's grandmother (96) died the day of this session** — *Vega's player* (not Josh; corrected 06/09). She withheld it during play so the table wouldn't reschedule, mentioning it only at the very end: *"She was a badass who had 5 kids… I needed the game, so thanks for playing."* The DM and Madi both offered a midweek session. This group is good to each other.
 - Household glossary ⚑: DM+Madi's kids = Gus, Cora(/“Corey”-the-kid — spelling unconfirmed); Doug+Christie's = Caleb; Taylor's husband = Corey (adult, distinct).

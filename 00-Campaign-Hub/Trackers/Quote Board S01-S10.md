@@ -279,7 +279,7 @@
 **[[Samothy Smith-Wesson]] (Josh) · [Funny]**
 > "All I'm saying is, mid-battle, I better hear a 'Hello, Logan.'" / Taylor: "No, what you're gonna hear is, 'I am inevitable.' *Snap.*"
 
-**Josh (above-table) · [Poignant]**
+**Taylor (Vega's player, above-table) · [Poignant]**
 > "I didn't tell you guys because I didn't want you to reschedule the session, but my grandmother died earlier today. … I needed the game, so thanks for playing."
 
 ## S08 — Silence in the Library (05/04/2026)
