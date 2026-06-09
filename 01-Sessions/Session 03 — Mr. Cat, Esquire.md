@@ -21,7 +21,7 @@ tags: [session-notes, ashfall, cliffhanger]
 | **Start Location** | [[The Old Hospital]] — second floor (nurses' dormitory) |
 | **End Location** | Same — **PAUSED MID-COMBAT** (1 wounded [[Beast Thrall]] standing) |
 | **Party Present** | All 7 PCs + **Mr. Cat** (Steel Defender, named this session) |
-| **Total Rolls** | 163 archived; **[[Valerian Hellebore]]'s rolls MISSING (sync gap ⚑)**; first-ever DM-account rolls (2, both pre-recording) |
+| **Total Rolls** | **≈184 total** = 163 DDB-archive (**[[Valerian Hellebore]]'s PC rolls MISSING — sync gap ⚑**; first-ever DM-account rolls: 2, both pre-recording) + **~21 transcript-only DM/enemy rolls** (tallied in §6 Logs) |
 | **Party Level** | 5 — XP posted to Discord post-session (amount TBD ⚑) |
 | **Spelling Checked** | Yes — `022426_Spell_Check_Log.md` |
 
@@ -54,7 +54,7 @@ At ~11 PM: **paused mid-combat**, one badly wounded beast thrall standing. Kill 
 - 🏆 Kill contest — prize TBD ⚑; standings logged.
 - 👞 Beast Master's boots on 2F — he was in the hospital too. OPEN.
 - ⚑ Pre-recording group **Wisdom save vs unknown** (Samothy 4, Flux nat-1 → both failed) — ask DM.
-- Carryovers unchanged: spy · Beast Binder · missing children · Varan · rendezvous clock.
+- Carryovers unchanged: spy · Beast Tamer · missing children · Varan · rendezvous clock.
 
 ### Scenes
 
@@ -93,6 +93,32 @@ Grief metabolized as radiance · toys become doctrine (mobility meta) · competi
 
 > Full annotated roll log in the `.docx`; stats in [[Roll Statistics S01-S10]] § S03. Notable: Samothy's Str-check "dirty 20" cable-kill + 29 [19] headshot; Deanna's worse-after-reroll Stealth; Zelda's Lucky reroll (nat 1 → still missed); Barrett's Risk Die rolling a 1; the recording-gap Vega turn (DBS 23 → 9+3+3, dagger 8, miss 12); archive-only Flux Fire Bolt ⚑.
 
+#### Transcript-only DM / enemy rolls (~21 — not in the DDB archive)
+
+> Approximate: the fight pauses mid-combat, spans a recording gap, and the VTT auto-roller + diarization blobs swallow some enemy rolls. Enemy initiative was VTT-rolled (values lost in the auto-roller chaos).
+
+| Roll | Target | Value | Context |
+|---|---|---|---|
+| Attack | Deanna | 17 | miss (+1-AC bracers) |
+| Attack | Vega | 20 | hit |
+| Damage | Vega | 13 | bludgeoning → halved (Totem resist) |
+| Attack ×2 | Zelda | nat 20, 11 | 20 hits |
+| Damage | Zelda | 13 | claw |
+| Attack ×2 | Samothy | 24, 26 | net miss — Mr. Cat Deflect + AC 22; Sam knocked prone |
+| Attack ×2 | Barrett | nat 20, 23 | both hit |
+| Damage | Barrett | 8 | 15 total, halved |
+| Attack | Valerian | 22 | hit; forced Str save (passed) |
+| Damage | Valerian | 20 | claw |
+| Attack | Barrett | 19 | hit — the 21-dmg chest wound |
+| Damage | Barrett | 21 | chest wound |
+| Con save ×2 | thralls | both pass | vs Zelda's Thunderwave (values unvoiced) |
+| Con save | thrall | 13 | vs Valerian's Moonbeam — fails, 17 radiant |
+| Con save | thrall | nat 20 | vs Moonbeam (Pt 2) — passes, half (13) |
+| Dex save | thrall | 23 | vs Samothy's Catapult barrel — passes, half (8) |
+| Dex save | thrall | 14 | vs Deanna's Perforating Shot — passes, half |
+
+> **Tally:** ~10 enemy attacks · 6 saves · 5 damage = **~21 transcript-only** (enemy initiative additionally VTT-rolled, values lost). With the 163 archive rolls → **≈184 total.** The beasts rolled **three nat 20s** (attacks on Zelda and Barrett both landed; a clutch Moonbeam save) — while Mr. Cat's Deflect and the +1-AC bracers turned away several other hits.
+
 ## Section 7 — Quotes & Language
 
 > [[Quote Board S01-S10]] § S03 · [[Profanity Ledger S01-S10]] § S03 (Chase three-peats, 20).
@@ -102,6 +128,7 @@ Grief metabolized as radiance · toys become doctrine (mobility meta) · competi
 ## Section 8 — Archivist Notes
 
 - **S04 must open mid-combat** — verify continuity against the 030426 recording.
-- Valerian sync gap ⚑ · pre-recording Wisdom save ⚑ · kill-contest reward garbled ⚑ · "Eldritch Maul" DDB label ⚑ · XP amount in Discord ⚑ · Mr.-Cat-husband attribution ⚑ · "Orphe"/"Kira" garbles.
+- Valerian sync gap ⚑ · pre-recording Wisdom save ⚑ · kill-contest reward garbled ⚑ · "Eldritch Maul" DDB label ⚑ · XP amount in Discord ⚑ · Mr.-Cat-husband attribution ⚑ · "Kira" garble.
+- **Naming:** the DM and table repeatedly call the beast thralls "the beast tamer" (e.g. the kill-contest line, "the beast tamer's turn") — table shorthand for the beasts, **not** the unseen [[The Beast Tamer]] (Beast Master), who appears here only as boot-prints on 2F. **"Orphe"** (Vega's aside, 00:31) = Orphie Levistus, Taylor's PC in another campaign — not Ashfall canon.
 - Vega's rebuild materializing piecemeal (Totem-resistance talk, Savage Attacker on sheet, finesse project done) — formal sheet state unconfirmed ⚑.
 - Deanna's two-session damage drought is now a table bit.
