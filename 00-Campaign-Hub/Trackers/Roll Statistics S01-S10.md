@@ -13,7 +13,7 @@
 | [[Flux]] | 22 | 1 (Finger Guns, crit-kill) | 1 (Longbow — bowstring snapped) | Most rolls at the table |
 | [[Samothy Smith-Wesson]] | 14 | 0 | 0 | Steel Defender's first kill (21 to hit); two "dirty 20" pistol hits |
 | [[Vega Bloodroot]] | 13 | **3** (all Greataxe; 2 reckless-adv) | 0 | Crits killed first + final thrall (incl. 30-dmg bisection); damage d12 rolled 1 twice in a row |
-| [[Deanna Smith-Wesson]] | 12 | 0 | 0 | Pistol 20 = the bullet the Beast Binder caught |
+| [[Deanna Smith-Wesson]] | 12 | 0 | 0 | Pistol 20 = the bullet the Beast Tamer caught |
 | [[Barrett Grimmskar]] | 12 | 0 | 1 (in adv. initiative pair [16,1] — kept 16) | d20:19 Finger Guns = crit (crits ranged 19–20); won initiative both combats (20, 23) |
 | [[Valerian Hellebore]] | 10 | 0 | 0 | Three Moonbeam damage casts; inspiration reroll 2 → 4 |
 | [[Zelda Z Whipper]] | 10 | 1 (Starry Wisp crit) | 0 | "Mr. Stark" ash-out kill; Thunderwave skull-burst |

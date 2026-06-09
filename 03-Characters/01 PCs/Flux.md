@@ -33,4 +33,4 @@ Flux's Fantabulous Flipside Frock (graduation item; worn) · grappling-hook brac
 
 ## Relationships
 
-- Reads as the party's level head: relayed the Beast Binder intelligence to command accurately and completely.
+- Reads as the party's level head: relayed the Beast Tamer intelligence to command accurately and completely.

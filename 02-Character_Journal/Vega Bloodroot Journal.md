@@ -21,7 +21,7 @@
 >
 > We brought the civilians home. All of them. Hargraven said we saved more lives than we know — that unlike our commander, we didn't run. He's right. I didn't run. I'm not sure I remember how.
 >
-> The one they call the Beast Binder wants to fight me when I'm stronger. Good. I'll be stronger.
+> The one they call the Beast Tamer wants to fight me when I'm stronger. Good. I'll be stronger.
 
 ---
 

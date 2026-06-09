@@ -46,7 +46,7 @@ Long rest granted; back at the castle for S08.
 - 🧷 Who used the crypt's alchemy station "recently"? ⚑
 - 🅥 Vampire slaves exist — day-walking human collaborators (ties to the SPY thread?).
 - 🤫 Silent sniffing thralls — a third thrall variant.
-- Carryovers: spy · Verilith · Beast Binder/Master · missing children · Bobby's custom gear (STILL undelivered ⚑) · the obsidian orb unused · the 2 random potions + 3 crypt potions unidentified.
+- Carryovers: spy · Verilith · [[The Beast Tamer]] / Beast Master · missing children · Bobby's custom gear (STILL undelivered ⚑) · the obsidian orb unused · the 2 random potions + 3 crypt potions unidentified.
 
 ## NPCs
 

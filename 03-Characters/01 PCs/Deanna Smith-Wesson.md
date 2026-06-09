@@ -37,5 +37,5 @@ Notebook/paper graduation item ("handy dandy notebook" — properties unrevealed
 
 ## Relationships
 
-- [[Samothy Smith-Wesson]] — twin; included in the Beast Binder's harem offer; "Nova Twins" (DM's nickname).
+- [[Samothy Smith-Wesson]] — twin; included in the Beast Tamer's harem offer; "Nova Twins" (DM's nickname).
 - [[The Beast Tamer]] — marked: harem offer + the blocked name in her head. The party's living lead on his identity.

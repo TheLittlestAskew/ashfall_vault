@@ -89,7 +89,7 @@
 - Bowstring snap on a nat-1 bow attack; bonus action + d20 to field-repair. *(S01)*
 - Mid-battle infusions not allowed pre-battle ("that'd have to be mid-battle" — re: applying infusions before combat). *(S01)*
 - A retconned weapon pickup (Vega's rapier) allowed when the roll already made would not change outcome. *(S01)*
-- DM narrative override on a hit roll: Deanna's 23 opportunity shot "hit" but was narrated as a miss vs. the teleporting Beast Binder. *(S01 — ⚑ noted)*
+- DM narrative override on a hit roll: Deanna's 23 opportunity shot "hit" but was narrated as a miss vs. the teleporting Beast Tamer. *(S01 — ⚑ noted)*
 
 ## Downtime
 

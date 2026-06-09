@@ -68,7 +68,7 @@ tags: [session-notes, ashfall]
 ## Archivist Notes
 
 - **Heist retcon:** S07 planned a *castle South Tower* heist (curator, disguise-scanners, sketchy insider). S08 replaced it wholesale with the Grand Library of the Veiled Dawn — no curator, no scanners, new cult. The S07 curator thread is presumed dropped ⚑.
-- **"Beast Tamer"** — DM's third name for the Beast Binder/Beast Master role (00:36:41), used for bishop-tier vampires. Glossary-flagged.
+- **"Beast Tamer"** (00:36:41), used for bishop-tier vampires — NOT a new name: it's the **same title the S01 captain gives himself** (the S01 "Beast Binder" was a mis-transcription). So this bishop-tier usage may link the S01 [[The Beast Tamer]] to the Cult of the Pale World. Open: is "Beast Tamer" = the S02 "Beast Master"? (DM).
 - The in-fiction guard named **Josh** spawned a running "Josh gets no bitches" bit at player-Josh's expense; player Josh took it like a champ.
 - Madi has been **put in a sleeper hold, voluntarily**, and has opinions about "strangulate" being a real word. The table now knows this.
 - Valerian's covered-cast d20 was secretly a **nat 1** (archive) — Barrett's cough (Maverick Spirit d8=8 → dirty 20) genuinely saved it. Teamwork verified by database.

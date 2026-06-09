@@ -22,17 +22,17 @@
 
 ## Active Threads
 
-1. 🕵️ **The spy among the recruits** — someone let the vampires in (S01, Beast Binder's reveal). Hargraven alerted.
+1. 🕵️ **The spy among the recruits** — someone let the vampires in (S01, Beast Tamer's reveal). Hargraven alerted.
 2. 🧛 **[[The Beast Tamer]]** — promised duel "in the near future"; cryptic "I'll need your assistance"; his true name memory-blocked inside [[Deanna Smith-Wesson]]'s head.
 3. 🧭 **Why is a vampire captain this far south?** Last scouting: far north. [[Lt. Hargraven]] investigating (S01).
 4. ⚖️ **[[Commander Varan]]'s desertion** — closed the gates on civilians and fled (S01). Fallout pending.
 5. ⚔️ **"War is coming"** — party expected on the front lines (Hargraven, S01).
-6. 👑 **The Mistress of Hunger** — invoked by the Beast Binder (S01). Identity unknown.
+6. 👑 **The Mistress of Hunger** — invoked by the Beast Tamer (S01). Identity unknown.
 7. 👶 **THE MISSING CHILDREN** — none among Hampshire's dead; carried out alive(?). The locket. (S02)
 8. 📕 **Bobby's secret book** — magical, vampire history, in the hospital, "it's got a presence." (S02)
 9. 🌿 **Abigail's nirnroot** — hospital pharmacy. (S02)
 10. 💎 **Emeralds** — the only way to kill a Beastmaster; jewels for castle protection. (S02)
-11. 🐾 **The Hampshire Beast Master** — light-blue aura, vanishing footprints. Who? (⚑ Beast Binder relation pending DM.) (S02)
+11. 🐾 **The Hampshire Beast Master** — light-blue aura, vanishing footprints. Who? (⚑ Beast Tamer relation pending DM.) (S02)
 12. 🏥 **The hospital, floors 2 + basement** — something was breathing in another wing. Rendezvous due in 2 in-game days. (S02)
 13. ~~⚔️ CLIFFHANGER: hospital 2F combat~~ — ✅ RESOLVED S04 (12 enemies total; Vega's first kill closed it).
 14. 🏆 **Kill contest** — prize still unstated/unawarded ⚑; final-ish standings incl. Samothy 4. (S03–S04)
@@ -108,7 +108,7 @@
 
 | In-Game Date | Session | Event |
 |---|---|---|
-| Winter, 2 days before Christmas | S01 | Graduation; vampire attack; Beast Binder encounter; long rest granted |
+| Winter, 2 days before Christmas | S01 | Graduation; vampire attack; Beast Tamer encounter; long rest granted |
 | Next dawn (1 day before Christmas Eve, by inference) | S02 | Hampshire sweep; sorties dispatched (2-day rendezvous clock started); hospital floor 1; short rest |
 
 ## Setting

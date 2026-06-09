@@ -58,7 +58,7 @@ tags: [session-notes, ashfall]
 - 📚 **The old library** (museum of occult relics attached) — holds the map; future destination.
 - 🕳 **Holes in the sky** — sunlight returning?? The vampires fear it. (Sister Aria)
 - ⚑ Saint Arda + the Tyrant King · fire/ice/water deity pantheon · Barrett's looted paper (DM to send) · the warm holy book unidentified.
-- Carryovers: spy · Verilith · Beast Binder/Master · missing children · Bobby's custom gear (still pending!) · Samothy reading his book.
+- Carryovers: spy · Verilith · [[The Beast Tamer]] / Beast Master · missing children · Bobby's custom gear (still pending!) · Samothy reading his book.
 
 ## Section 4 — NPCs
 

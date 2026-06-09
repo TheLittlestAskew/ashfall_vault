@@ -16,12 +16,12 @@
 | [[Barrett Grimmskar]] | Magic Missile | 1st | 1 | Cast by fanning revolver hammer; 5/4/3 |
 | [[Flux]] | Finger Guns ⚑ | cantrip | 4 | Nat-20 crit kill |
 | [[Deanna Smith-Wesson]] | Hunter's Mark | 1st | 1 | 6 dmg tick |
-| [[Deanna Smith-Wesson]] | Ensnaring Strike | 1st | 1 | 4 dmg on the Beast Binder |
-| [[Deanna Smith-Wesson]] | Perforating Shot ⚑ | homebrew/UA | 1 | BB saved (17), took 4 |
-| [[Samothy Smith-Wesson]] | Hunter's Mark | 1st | 2 | Incl. 4 dmg spite-mark on BB |
+| [[Deanna Smith-Wesson]] | Ensnaring Strike | 1st | 1 | 4 dmg on the Beast Tamer |
+| [[Deanna Smith-Wesson]] | Perforating Shot ⚑ | homebrew/UA | 1 | Beast Tamer saved (17), took 4 |
+| [[Samothy Smith-Wesson]] | Hunter's Mark | 1st | 2 | Incl. 4 dmg spite-mark on the Beast Tamer |
 | [[Vega Bloodroot]] | — (Rage only) | — | — | No spells; Raged through both combats |
 
-**Vampire-tech meta:** radiant = 100% kill rate on hits; loud sound = doubled. Beast Binder demonstrated Moonbeam nullification + memory-block magic + blink/teleport.
+**Vampire-tech meta:** radiant = 100% kill rate on hits; loud sound = doubled. Beast Tamer demonstrated Moonbeam nullification + memory-block magic + blink/teleport.
 
 ## S02 — Ashes of the Living (02/17/2026)
 

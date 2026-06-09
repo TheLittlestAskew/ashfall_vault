@@ -38,5 +38,5 @@ The "Power Pole" (graduation stick) · grappling-hook bracers · Enspelled semi-
 
 ## Relationships
 
-- [[Deanna Smith-Wesson]] — twin; included in the Beast Binder's harem offer; "Nova Twins" (DM's nickname).
+- [[Deanna Smith-Wesson]] — twin; included in the Beast Tamer's harem offer; "Nova Twins" (DM's nickname).
 - Party quartermaster-in-the-making (infusions, future Bag of Holding).

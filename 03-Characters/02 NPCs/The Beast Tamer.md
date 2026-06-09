@@ -1,6 +1,6 @@
-# The Beast Binder
+# The Beast Tamer
 
-> ⚑ Title provisional — true name unknown (deliberately memory-blocked). First seen: [[Session 01 — Graduation Day]].
+> He calls himself **"the beast tamer"** — his own clan title (S01: *"I'm referred to as the beast tamer in my clan"*). True name unknown (deliberately memory-blocked). *(Earlier notes mis-transcribed the title as "Beast Binder" — corrected vault-wide 06/09/2026.)* First seen: [[Session 01 — Graduation Day]].
 
 | | |
 |---|---|
@@ -26,7 +26,7 @@ Tall, gaunt. Corpse-pale skin; sunken **gold** eyes. Bloody ritual scars drippin
 ## History
 
 - **S01:** Staged the thrall attack on the city as (at least partly) entertainment. Revealed the party "got in because someone let us in" — a spy among the recruits. Spared the party: "You've kept me very well entertained… I hope in the near future that I get to fight you myself." Made "harem" offers toward Deanna ("your brother's welcome too"). Took Vega's two-handed double flip-off with a chuckle, a bow — "'Til we meet again" — and vanished.
-- **Anomaly:** [[Lt. Hargraven]] turned ghostly pale at the report — last scouting had the Beast Binder **far north**. Why he is this far south is an open question.
+- **Anomaly:** [[Lt. Hargraven]] turned ghostly pale at the report — last scouting had the Beast Tamer **far north**. Why he is this far south is an open question.
 
 ## Quotes
 
@@ -38,7 +38,7 @@ Tall, gaunt. Corpse-pale skin; sunken **gold** eyes. Bloody ritual scars drippin
 
 ## S02 Development — the Beast Master Class ⚑
 
-[[Lt. Hargraven]] (S02) identified **light-blue magical auras** as the signature of a **Beast Master** — a vampire class that controls beasts; **dark red** marks a Vampire Master; theory holds Beast Masters are "closer to being a human." A Beast Master's footprints toured [[Hampshire]] the night of the attack and vanished mid-step. **Whether "the Beast Binder" is a Beast Master (or the same role under another name) is PENDING DM confirmation.** Note: Bobby's lore (S02) — **emeralds are the only way to kill a Beastmaster**.
+[[Lt. Hargraven]] (S02) identified **light-blue magical auras** as the signature of a **Beast Master** — a vampire class that controls beasts; **dark red** marks a Vampire Master; theory holds Beast Masters are "closer to being a human." A Beast Master's footprints toured [[Hampshire]] the night of the attack and vanished mid-step. **Whether "the Beast Tamer" is a Beast Master (or the same role under another name) is PENDING DM confirmation.** Note: Bobby's lore (S02) — **emeralds are the only way to kill a Beastmaster**.
 
 ## Open Threads
 

@@ -39,4 +39,4 @@ Housekeeping: **Mr. Cat is permanent** (archived d20=19; bronze, bobcat-sized; b
 - ⛪ **Saint Ardas next session** — bell ringing, ancient sealed evil, tunnels to every district
 - 🩸 [[Verilith, the First Blood]] ⚑ · 📖 Samothy must read the book · ⚒️ Bobby's 7 custom items incoming · 🧪 2 mystery potions
 - 🔴 **Lost session flagged** — see [[Session 04.5 — The Basement (UNRECORDED)]] (5 open questions for Taylor)
-- Carryovers: spy · Beast Binder/Master · missing children · Varan · ritual daggers (smithy review pending)
+- Carryovers: spy · [[The Beast Tamer]] / Beast Master · missing children · Varan · ritual daggers (smithy review pending)

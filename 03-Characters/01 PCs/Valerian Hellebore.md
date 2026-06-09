@@ -45,4 +45,4 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 ## Relationships
 
 - Table's profanity co-champion and chaos agent (sticker wars with the DM).
-- Clear-eyed about the Beast Binder threat despite the jokes.
+- Clear-eyed about the Beast Tamer threat despite the jokes.

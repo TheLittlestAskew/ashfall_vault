@@ -21,4 +21,4 @@
 
 ## Record
 
-- **S01:** 8 slain (wave 1) + 7 slain (wave 2); a third wave was recalled by the Beast Binder. Kills by: Vega ×3 (incl. two bisections), Valerian ×2 (Moonbeam), Zelda ×3 (Starry Wisp ×2, Thunderwave), Flux ×3 (Finger Guns ×2 incl. crit, longbow finishes), Barrett ×2 (Finger Guns + Risk Die, Magic Missile contributions), Samothy ×1 + Steel Defender ×1.
+- **S01:** 8 slain (wave 1) + 7 slain (wave 2); a third wave was recalled by the Beast Tamer. Kills by: Vega ×3 (incl. two bisections), Valerian ×2 (Moonbeam), Zelda ×3 (Starry Wisp ×2, Thunderwave), Flux ×3 (Finger Guns ×2 incl. crit, longbow finishes), Barrett ×2 (Finger Guns + Risk Die, Magic Missile contributions), Samothy ×1 + Steel Defender ×1.

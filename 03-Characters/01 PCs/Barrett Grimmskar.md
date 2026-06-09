@@ -32,7 +32,7 @@ Barrett's Directional Doohickey (graduation item — weather-vane compass, finds
 
 ## Quotes
 
-> "He called himself a Beast Binder." *(S01 — deadpan debrief)*
+> "He called himself a Beast Tamer." *(S01 — deadpan debrief)*
 
 ## Relationships
 

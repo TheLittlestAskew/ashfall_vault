@@ -25,7 +25,7 @@
 | Bron Hargraven | NPC | Hargraven's first name (ceremony) |
 | Inspector Meridia Vale | NPC | Base command |
 | Commander Varan | NPC | Deserted during the attack |
-| The Beast Binder | NPC | Vampire captain; true name memory-blocked |
+| The Beast Tamer | NPC | Vampire captain; his own clan self-title ("I'm referred to as the beast tamer"); true name memory-blocked. ("Beast Binder" was an S01 note mis-transcription — never said in play.) |
 | Mistress of Hunger | Entity | Vampire superior/deity — unknown |
 | Florence | NPC (historical?) | "The witch Florence" — original owner of Valerian's cloak |
 | Feral vampire thrall | Creature | Run at-table as "gnolls" |
@@ -36,7 +36,7 @@
 | Power Pole | Item | Samothy's graduation stick |
 | Cloak of Fashion | Item | Valerian's graduation cloak (Florence's) |
 | Barrett's Directional Doohickey | Item | Weather-vane compass |
-| Peter Pistol / Tanya | Item | Samothy's parlor gun — final name unresolved |
+| Peter Pistol | Item | Samothy's one-use hideaway parlor gun — FINAL (DM-coined; Deanna's "Tanya" overruled) |
 | Spiny Shield | Spell (homebrew?) | Valerian's reaction — spelling unconfirmed |
 | Risk Die | Mechanic (homebrew) | Barrett/Spellslinger resource |
 | Perforating Shot | Spell (homebrew/UA?) | Deanna's line-AoE shot |
@@ -49,7 +49,7 @@
 | Hampshire | Location | The razed village; canonized after 4 DM fumbles |
 | Bobby | NPC | Dwarf master armorer, Northern England |
 | Abigail | NPC | Elf alchemist |
-| Beast Master | Vampire class | Light-blue aura; controls beasts; emerald-vulnerable. ⚑ vs "Beast Binder" pending |
+| Beast Master | Vampire class | Light-blue aura; controls beasts; emerald-vulnerable. ⚑ Same role as the **Beast Tamer** (S01 captain's self-title)? — pending DM |
 | Vampire Master | Vampire class | Dark-red aura |
 | Beast Thrall | Creature | Massive; mauls; sighted + blind variants |
 | nirnroot | Flora | Humming herb (Skyrim homage); riverbanks + hospital pharmacies |
@@ -132,7 +132,7 @@
 | Gregory | NPC | Restricted-section priest; away 2 days, destination secret; unmet |
 | The Watch Captain | NPC | Key-keeper enforcer ("Keegan" — table joke, not canon) |
 | Josh (cultist) | NPC | Door guard; "you're a G"; gets no bitches (canon) |
-| Beast Tamer | Vampire class ⚑ | DM's THIRD variant (vs Beast Binder S01, Beast Master S02) — used for bishop-tier; consolidate with DM |
+| Beast Tamer (S08 usage) | Vampire role | NOT a third variant — same title the S01 captain gives himself ("the beast tamer"); the S01 "Beast Binder" was a mis-transcription. Recurs S08 at **bishop-tier** in the Cult of the Pale World → the S01 captain may be a Cult bishop. Open: is "Beast Tamer" = "Beast Master" (S02)? pending DM |
 | The rooftop figure | NPC ⚑ | Pale, long coat, smiled, vanished into thin air — outside Saint Ardas |
 | Soul-trap alchemy seal | Lore | Dried-blood mark inside the V-brand armor; religious symbology; BROKEN — soul escaped. Partial copy in Deanna's notebook |
 | Green Longbow of the Earth | Item | Flux's custom weapon (DDB-archive-confirmed name); 2d6 wind rider + 5–10 ft knockback |
@@ -162,4 +162,4 @@ Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Ha
 | "Steanie" | S01 00:02:36 | Unknown name |
 | "Vaxi" | S01 00:55:15 | Unknown |
 | "DM Exogery" | S01 02:25:28 | Garbled |
-| "Teep Finder" | S01 02:24:11 | Possibly intentional Beast Binder mock-nickname |
+| "Teep Finder" | S01 02:24:11 | A mock insult Deanna shouted at the Beast Tamer — NOT his name (his real name was memory-blocked) |
