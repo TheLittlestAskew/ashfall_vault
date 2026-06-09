@@ -20,7 +20,7 @@ tags: [session-notes, ashfall]
 | **Special** | Opens MID-COMBAT. **Madi substitute-DM'd** (rolls shared openly; added 2 beasts + 1 feral herself) until DM Taylor arrived — from the car ~20 min in, home ~70 min in |
 | **Locations** | [[The Old Hospital]] 2F — combat concluded, floor fully looted; basement next ("a whole session") |
 | **Party** | All 7 + [[Mr. Cat]] · **LEVEL 6** (21,700 XP after +4,850 incl. the 50-XP "DM math" bonus) |
-| **Rolls** | 81 archived — **first DM + creature-tagged rolls ever**; [[Valerian Hellebore]] still 0 ⚑ sync gap |
+| **Rolls** | 81 archived — **first session whose DM/creature rolls sync** (substitute-DM Madi shared every roll openly), so the enemy rolls live in the 81 — **no separate transcript-only gap** here, unlike S01–S03 (see §DM/Enemy Rolls). [[Valerian Hellebore]]'s *PC* rolls still missing ⚑ |
 | **Spelling** | Yes — `030426_Spell_Check_Log.md` |
 
 ## POV Journal
@@ -48,8 +48,24 @@ Comedy of the sweep: Valerian + Zelda declared a room empty that Deanna + Barret
 - ✅ 2F combat resolved · 📕 book likely FOUND (deliver to Bobby ⚑) · 💎 emeralds secured
 - 🔓 NEW: watermark paper · ritual daggers (water/fire deities) · "Gary"
 - 🏥 NEXT: the basement (medicine, morgue, the breathing) — level-up after
-- Carryovers: spy · Beast Binder · missing children · Beast Master boots · rendezvous clock · kill-contest reward ⚑ (Samothy at 4 total)
+- Carryovers: spy · Beast Tamer · missing children · Beast Master boots · rendezvous clock · kill-contest reward ⚑ (Samothy at 4 total)
+
+## DM / Enemy Rolls
+
+**Milestone:** S04 is the first session whose **DM/enemy rolls reach the archive** (creature-tagged). Substitute-DM **Madi rolled openly and shared everything**; Taylor (DM) arrived ~20 min in. So unlike S01–S03, the enemy rolls are **already inside the 81 archived — not a separate transcript-only count.** For reference, the enemy rolls voiced in the brawl:
+
+| Roll | Target | Value | Context |
+|---|---|---|---|
+| Con save ×2 | thralls | 7, 9 | vs Valerian's Moonbeam — both fail, 15 radiant each |
+| Con save | thrall | nat 1 | vs Moonbeam — crit-fail → 38 radiant (the kill) |
+| Attack ×2 | Vega | 17, 16 | Beast A — both hit (AC 16) |
+| Damage | Vega | 6, 14 | → 3, 7 (Rage halves) |
+| Attack | Barrett | 18 | Beast B — hit |
+| Damage | Barrett | 11 | slam |
+| Attack | Vega | 14 | Beast B — miss |
+
+~5 enemy attacks · 3 saves · 3 damage — now archived, **not additive to the 81**. **Separate gap:** [[Valerian Hellebore]]'s *PC* rolls are still absent from the archive (2nd straight session) — those live only in the transcript.
 
 ## Archivist Flags
 
-"Gut Shot" vs "Deck Shot" ⚑ · "Spellfire Flare" ⚑ · Valerian sync gap (2 sessions) ⚑ · Zelda's "my Moonbeam" blue-light feature (College of the Moon, name unknown) ⚑ · "nat 20 for 20" roller ambiguity · kill-contest reward never stated.
+Barrett's crit feature = **"Gut Shot"** (named in S04, 00:00; called "Deck Shot" in S03 — same lodging-projectile crit, name varies ⚑ ask Doug) · **"Spellfire Flare"** = Flux's nat-20 radiant one-shot (confirmed as the name Flux used) · Valerian *PC*-roll sync gap (2 sessions) ⚑ · Zelda's "my Moonbeam" blue-light feature (College of the Moon, name unknown) ⚑ · "nat 20 for 20" roller ambiguity · kill-contest reward never stated.
