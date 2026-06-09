@@ -73,3 +73,4 @@ tags: [session-notes, ashfall]
 - Madi has been **put in a sleeper hold, voluntarily**, and has opinions about "strangulate" being a real word. The table now knows this.
 - Valerian's covered-cast d20 was secretly a **nat 1** (archive) — Barrett's cough (Maverick Spirit d8=8 → dirty 20) genuinely saved it. Teamwork verified by database.
 - Christie: 0 archived rolls — her night went to D&DB homebrew item entry ("I didn't come to this TTRPG to make choices" — Chase, in solidarity).
+- **No DM/enemy roll tally** — the session ends on the cliffhanger *before* combat begins, so the DM rolled no enemy attacks/saves. The 44 archived rolls are PC skill checks plus a few trap Con saves (Mr. Cat's nat-1 at the electrified bars → 17 dmg, flung into Samothy for 11; Vega's door-rage feedback 9 + 4). The ~15-combatant fight is S09's opener.
