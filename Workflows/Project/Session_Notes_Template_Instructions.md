@@ -4,7 +4,7 @@
 
 The file `ashfall_v1.js` was the canonical template generator for Ashfall Britannia session notes — a re-themed clone of SITL's `sitl_v8.js`, using a gothic palette (ash, oxblood, ember, antique-gold, bone). It is a Node.js script using the `docx` npm library. When generating session notes as a `.docx` file (historical only), this script defines all styling — do not invent or approximate styles from memory.
 
-**File location:** `Workflows/ashfall_v1.js`
+**File location:** `Workflows/scripts/ashfall_v1.js`
 
 **To use this script as the styling foundation (historical reference):**
 1. Read `ashfall_v1.js` at the start of any (legacy) session-notes generation task — there is no condensed Ashfall skill, so read the full script.

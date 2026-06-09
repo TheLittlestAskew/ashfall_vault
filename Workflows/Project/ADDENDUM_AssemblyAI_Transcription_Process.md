@@ -1,7 +1,7 @@
 # ADDENDUM: AssemblyAI Transcription Process — ASHFALL BRITANNIA
 
 **Applies to:** Convo 1, Step 0 (Transcribe), Step 2 (Spell Check), Step 3 (Corrected Transcript)
-**Script location:** `ashfall_vault\Workflows\ashfall_transcribe\transcribe.js`
+**Script location:** `ashfall_vault\Workflows\scripts\ashfall_transcribe\transcribe.js`
 
 > Adapted from SITL's transcription addendum. The mechanics are identical; the vocabulary is Ashfall-specific and still being built (this is an original setting with no canon term list).
 
@@ -27,7 +27,7 @@ Session recordings are transcribed locally via a Node.js script that calls the A
 
 ### Option A: Interactive Picker (Recommended)
 ```
-cd C:\Users\theli\ashfall_vault\Workflows\ashfall_transcribe
+cd C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe
 node transcribe.js
 ```
 Lists all recordings in the Recordings folder sorted newest-first. Pick by number.
@@ -127,6 +127,6 @@ The transcription script changes the **input** to Convo 1 but not the process it
 | "Access denied" | You ran the .js file directly instead of with `node`. Use `node transcribe.js`. |
 | "custom_spelling 'to' fields must contain only one word" | A `to` value has multiple words. Fix to a single word or remove and rely on keyterms. |
 | API key error | Set `ASSEMBLYAI_API_KEY` environment variable. Never hardcode/commit on this public repo. |
-| Old version running | Run the copy in `Workflows\ashfall_transcribe\`, not an old copy elsewhere. |
+| Old version running | Run the copy in `Workflows\scripts\ashfall_transcribe\`, not an old copy elsewhere. |
 | Transcripts saving as .txt | Update script — output extension should be `.md`. |
 | Speaker labels wrong | Diarization varies between runs. Always verify mapping during spell check. |

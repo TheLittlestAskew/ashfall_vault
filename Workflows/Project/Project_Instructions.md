@@ -31,7 +31,7 @@ Core values (in priority order):
 Every Convo 1 follows this sequence. Do not skip steps. Do not ask which step to start at — always start at Step 0/1 and proceed through.
 
 ### Step 0: Transcribe the Recording (if needed)
-Ashfall recordings are not all transcribed yet. If the input is a recording, run the AssemblyAI transcriber first (`Workflows/ashfall_transcribe/`, see the transcription addendum). If the input is already a raw transcript, skip to Step 1.
+Ashfall recordings are not all transcribed yet. If the input is a recording, run the AssemblyAI transcriber first (`Workflows/scripts/ashfall_transcribe/`, see the transcription addendum). If the input is already a raw transcript, skip to Step 1.
 
 ### Step 1: Session Date Confirmation
 Before doing anything else, confirm the session date with Taylor. Do not assume the date from transcript titles, filenames, or other context. Ask explicitly and wait for confirmation.

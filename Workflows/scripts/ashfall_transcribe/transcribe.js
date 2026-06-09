@@ -10,7 +10,7 @@
  * Adapted from sitl_transcribe.js (Sky Is The Limit campaign).
  *
  * LOCATION:
- *   C:\Users\theli\ashfall_vault\Workflows\ashfall_transcribe\transcribe.js
+ *   C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe\transcribe.js
  *
  * PREREQUISITES:
  *   1. Node.js installed (v18+)
@@ -20,7 +20,7 @@
  *   4. Session recordings in: ashfall_vault\Session_Sources\Recordings\
  *
  * USAGE:
- *   cd C:\Users\theli\ashfall_vault\Workflows\ashfall_transcribe
+ *   cd C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe
  *   node transcribe.js                              (interactive picker)
  *   node transcribe.js "021326 Ashfall Brittania Recording.mp3"
  *   node transcribe.js --speakers 9 session.mp3     (override speaker count)

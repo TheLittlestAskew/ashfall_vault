@@ -10,11 +10,11 @@ Option B: drop an `.mp3` → auto-transcribe → auto spell-check → **you appr
 
 | File (from this build) | Put it here in the vault |
 |---|---|
-| `ashfall_pipeline_watch.js` | `Workflows\` (run it from here) |
+| `ashfall_pipeline_watch.js` | `Workflows\scripts\` (run it from here) |
 | `Automation\convo1_phaseA.md` | `Workflows\Project\Automation\` |
 | `Automation\convo1_phaseB_apply.md` | `Workflows\Project\Automation\` |
 | `Automation\convo2_propagate.md` | `Workflows\Project\Automation\` |
-| `mcp.json` | vault root, **renamed to** `.mcp.json` |
+| `mcp.json` | vault root, **renamed to** `.mcp.json` (already in place) |
 
 The watcher auto-creates `_pipeline\` (scratch/review files) on first run.
 
@@ -23,13 +23,13 @@ The watcher auto-creates `_pipeline\` (scratch/review files) on first run.
 ## 2. One-time setup (≈15 min, do once)
 
 1. **Install Claude Code** if you haven't: `npm install -g @anthropic-ai/claude-code`, then run `claude` once in the vault and log in.
-2. **Install the watcher dependency:** open a terminal in `Workflows\` and run `npm install chokidar`.
+2. **Install the watcher dependency:** open a terminal in `Workflows\scripts\` and run `npm install chokidar`.
 3. **Supabase token (for unattended roll queries):**
    - Generate a Personal Access Token at `https://supabase.com/dashboard/account/tokens`.
    - Set it as a Windows **user** environment variable named `SUPABASE_ACCESS_TOKEN` (search "Edit environment variables for your account"). Open a fresh terminal after.
    - This keeps the token out of the repo — `.mcp.json` only references `${SUPABASE_ACCESS_TOKEN}`.
 4. **Verify the MCP:** in the vault root run `claude` then `/mcp` — `supabase` should show connected. Ask it to run a quick `SELECT COUNT(*) FROM ashfall_session_rolls;` to confirm.
-5. **Open `ashfall_pipeline_watch.js` and check the CONFIG block** — especially `RAW_DIR` (the transcriber writes to `Session_Sources\Transcripts\Raw_Unedited\`) and confirm `TRANSCRIBE_CWD` points at `Workflows\ashfall_transcribe\` (the folder holding the Ashfall transcriber).
+5. **Open `ashfall_pipeline_watch.js` and check the CONFIG block** — especially `RAW_DIR` (the transcriber writes to `Session_Sources\Transcripts\Raw_Unedited\`) and confirm `TRANSCRIBE_CWD` points at `Workflows\scripts\ashfall_transcribe\` (the folder holding the Ashfall transcriber).
 6. **`.gitignore`:** add `_pipeline/` (transient scratch). **Also add `*.env`** — this repo is PUBLIC, so no key file may ever be committed. `.mcp.json` has no secret in it, so committing it is optional/safe.
 7. **`.docx` removal:** N/A for Ashfall — `.docx` generation was already retired (06/06/2026). The instruction docs already point at the markdown note. (See §3 only if a stray `ashfall_v1.js` step reappears.)
 
@@ -47,7 +47,7 @@ Strip any live .docx generation from the Ashfall workflow instruction files in W
 
 ## 4. Daily use
 
-1. **Start the watcher** (leave the window open): from `Workflows\` run
+1. **Start the watcher** (leave the window open): from `Workflows\scripts\` run
    `node ashfall_pipeline_watch.js`
 2. **Drop the session `.mp3`** into `Session_Sources\Recordings\`.
 3. Wait. It transcribes, runs the spell-check pass, then **beeps + prints `READY FOR REVIEW`**.

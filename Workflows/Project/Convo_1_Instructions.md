@@ -111,10 +111,10 @@ Plus:
 
 Ashfall recordings have **not** been converted to transcripts yet, so most early sessions begin here.
 
-Use the AssemblyAI transcriber (the `sitl_transcribe` workflow, re-pointed at the Ashfall recordings folder and vocabulary):
+Use the AssemblyAI transcriber (the Ashfall `transcribe.js` workflow, re-pointed at the Ashfall recordings folder and vocabulary):
 
 ```bash
-cd C:\Users\theli\ashfall_vault\Workflows\ashfall_transcribe
+cd C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe
 node transcribe.js                 # interactive — lists recordings, pick one
 node transcribe.js session07.mp3   # transcribe a specific file
 node transcribe.js --speakers 9 session07.mp3   # DM + 7 players + guest

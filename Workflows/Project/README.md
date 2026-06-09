@@ -52,11 +52,12 @@ Note: in this campaign you are a **player** (PC: Vega Bloodroot); the DM is a di
 - `Automation/` — the non-interactive pipeline prompts (`convo1_phaseA.md`, `convo1_phaseB_apply.md`, `convo2_propagate.md`)
 - `app.js` — **site** file parked here for local-Git deploy to `rectrixcaedere` (not an instruction doc)
 
-### Tools the pipeline runs (kept at `Workflows/`, not here)
+### Tools the pipeline runs (kept under `Workflows/`, not here)
 
-- `ashfall_v1.js` — session-notes `.docx` generator (retired; see above)
-- `ashfall_transcribe/` — AssemblyAI transcription workflow
-- `ddb-roll-sync/` — DDB roll-sync Chrome extension
+- `Workflows/scripts/ashfall_v1.js` — session-notes `.docx` generator (retired; see above)
+- `Workflows/scripts/ashfall_transcribe/` — AssemblyAI transcription workflow
+- `Workflows/scripts/ashfall_pipeline_watch.js` — the drop-an-mp3 automation watcher (see `PIPELINE_SETUP.md`)
+- `Workflows/ddb-roll-sync/` — DDB roll-sync Chrome extension (left in place — moving it would break the Chrome "load unpacked" path)
 
 ## Sync discipline
 

@@ -4,8 +4,10 @@
 # ══════════════════════════════════════════════════════════════
 
 # ── API Keys & Secrets ────────────────────────────────────────
-# Environment file for API keys (Supabase, AssemblyAI, etc.)
+# Match both `.env` and any `name.env`. (A stray `ASSEMBLYAI_API_KEY=....env`
+# file was previously committed because the bare `.env` rule missed it.)
 .env
+*.env
 
 # ── Session Recordings (voices of real people) ────────────────
 Session_Sources/Recordings/
