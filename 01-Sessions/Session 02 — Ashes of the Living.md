@@ -21,7 +21,7 @@ tags: [session-notes, ashfall]
 | **Start Location** | [[Hampshire]] — the razed village outside the fort, at dawn |
 | **End Location** | [[The Old Hospital]], first floor (ER) — short rest |
 | **Party Present** | All 7 PCs + Steel Defender. NPCs: [[Lt. Hargraven]], [[Commander Thornfall]], [[Bobby]], [[Abigail]] |
-| **Total Rolls Logged** | 125 (incl. 6 pre-session Flux warmups); DM rolls transcript-only again |
+| **Total Rolls Logged** | **≈145 total** = 125 DDB-archive (incl. 6 pre-session Flux warmups) + 20 transcript-only DM/enemy rolls (not synced — tallied in §6 Logs) |
 | **Party Level** | 5 (no level-up; **3,300 XP** awarded) |
 | **Spelling Checked** | Yes — `021726_Spell_Check_Log.md` ⚠ diarization warning: SPEAKER D merged 4 players |
 
@@ -68,9 +68,9 @@ The setting is confirmed as **post-meteor Britain** — "kind of like medieval E
 - 🔓 Abigail's **nirnroot** (pharmacy; riverbanks) — OPEN
 - 🔓 Jewels (castle protection) + **emeralds** (anti-Beastmaster) — OPEN
 - 🔓 **WHERE ARE THE CHILDREN?** Carried out of Hampshire alive(?) — OPEN
-- 🔓 Identify the Hampshire **Beast Master** — OPEN ⚑ Beast Binder relation pending
+- 🔓 Identify the Hampshire **Beast Master** — OPEN ⚑ Beast Tamer relation pending
 - 🔓 2-day rendezvous; merchant-district + northern-farms teams in the field — OPEN
-- S01 carryovers (spy, Beast Binder duel, Varan) — no movement
+- S01 carryovers (spy, Beast Tamer duel, Varan) — no movement
 
 ### Scene / Timeline Breakdown
 
@@ -143,6 +143,30 @@ Grinding brawl vs. blind hunters: thralls swung 17–20 damage with a prone-ride
 
 > Full annotated roll log in the session `.docx`; stats in [[Roll Statistics S01-S10]] § S02. Notable: Samothy nat-20 History (27) + nat-20 Investigation (24); Barrett nat-20 Perception; Valerian nat-1 Wis save *and* nat-1 Starry Wisp (inspiration-rerolled to the 28-damage "tastes like stars" hit); Zelda inspiration-rerolled a damage 1 into another 1; five player nat 1s total.
 
+#### Transcript-only DM / enemy rolls (20 — not in the DDB archive)
+
+One combat — 3 blind beast thralls in the hospital ER. Enemy initiative was DM-rolled and interleaved (values not voiced).
+
+| Roll | Target | Value | Context |
+|---|---|---|---|
+| Attack ×2 | Valerian | 3, 5 | both miss (Beast A opens) |
+| Attack ×2 | Vega | 6, 19 | 19 hits |
+| Damage | Vega | 8 | bite/claw → halved to 4 (Rage) |
+| Attack | Barrett | 17 | miss (wall-leap) |
+| Attack | Valerian | 17 | hit |
+| Damage | Valerian | 17 | + forced Str save → knocked prone |
+| Attack | Vega | 17 | hit (Steel Defender Deflect cut the multiattack to one) |
+| Damage | Vega | 20 | big claw → halved to 10 (Rage) |
+| Attack | Barrett | 10 | miss |
+| Attack ×2 | Valerian | 18, 11 | 18 hits |
+| Damage | Valerian | 14 | claw |
+| Dex save | beast | 18 | vs Deanna's Perforating Shot — passes (half dmg) |
+| Attack (disadv) | Barrett | nat 20 / 15 | Sap-imposed disadvantage → takes 15 → miss |
+| Attack ×2 | Vega | nat 20, 14 | both negated — Steel Defender Deflect + the +1-AC bracers |
+| Attack ×2 | Valerian | miss, miss | DM: "I know both of those miss" (values unvoiced) |
+
+> **Tally:** 15 enemy attacks · 1 save · 4 damage = **20 transcript-only** (enemy initiative additionally DM-rolled, unvoiced). With the 125 archive rolls → **≈145 total this session.** Notable: the beasts rolled **two nat 20s** — both neutralized, one by Sap-disadvantage and one by the Steel Defender's Deflect plus the graduation bracers' +1 AC.
+
 ## Section 7 — Quotes & Language
 
 > Full board in [[Quote Board S01-S10]] § S02; profanity in [[Profanity Ledger S01-S10]] § S02.
@@ -155,7 +179,7 @@ Grinding brawl vs. blind hunters: thralls swung 17–20 damage with a prone-ride
 
 - Valerian's orphaning = first major PC wound; DM chose *his* village. Personal stakes vs. Beast Masters incoming.
 - Missing children + locket = planted thread (taken alive, purpose unknown — no speculation logged).
-- Vampire taxonomy assembling: feral thralls · beast thralls (sighted + blind) · **Beast Masters** (light blue, emerald-killable) · **Vampire Masters** (dark red) · Mistress of Hunger(?). Beast Binder's place ⚑ pending.
+- Vampire taxonomy assembling: feral thralls · beast thralls (sighted + blind) · **Beast Masters** (light blue, emerald-killable) · **Vampire Masters** (dark red) · Mistress of Hunger(?). Beast Tamer's place ⚑ pending.
 - Silver = standard kit now; **emeralds = strategic resource**.
 - Vega damage ceiling: 30 (S01) → **47** (S02). Also took body-disposal duty unprompted — texture beneath the sass.
 - ⚑ Possible Vega rebuild (Totem Warrior homebrew / drop Rogue dip / Tabaxi idea) — expect sheet changes.
@@ -165,11 +189,12 @@ Grinding brawl vs. blind hunters: thralls swung 17–20 damage with a prone-ride
 
 | Flag | Description | Status |
 |---|---|---|
-| Lore | Beast Master (S02) vs Beast Binder (S01) — same? | PENDING DM |
+| Lore | Beast Master (S02) vs Beast Tamer (S01) — same? | PENDING DM |
 | Item | Vega's tattoo = **Eldritch Claw** (final); S01 said Masquerade | RESOLVED — records updated |
-| Names | Village = **Hampshire** (canonized after 4 DM fumbles) | ⚑ provisional |
-| Ambiguity | Parents' pulse-check ("Mother."); "flowy dexy" weapon requester | OPEN |
-| Item | Barrett's "TGC" (S01) vs "Magnum" (S02) — same revolver? | OPEN |
+| Names | Village = **Hampshire** | RESOLVED — DM confirmed in-session after 4 fumbles (Harvershire→Hartfordshire→Parkfordshire→"Hampshire. Yeah, that's it," 00:08) |
+| Attribution | "flowy dexy" simple-weapon requester (00:56) | LIKELY Zelda (only simple-weapon proficient, wanted finesse) — unconfirmed; lost in the SPEAKER D merge |
+| Attribution | Valerian's parents' pulse-check / "Mother." (00:23) | Body-checker who then blanketed them reads as Deanna by context; "Mother." labeled to Vega is a diarization artifact — OPEN |
+| Item | Barrett's revolver = **"Magnum"** (S02, confirmed 01:51) | OPEN — same gun as S01's "TGC"? ask Doug |
 | Archive | Zero DM rolls (2nd straight session); Deanna's ignored init re-roll | OPEN |
 | Diarization | SPEAKER D merged 4 players (~110 reassigned, rest unattributed) | Documented |
 | Workflow | Players asked to announce rolls aloud going forward | Noted |
