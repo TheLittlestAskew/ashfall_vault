@@ -33,5 +33,8 @@ desktop.ini
 node_modules/
 package-lock.json
 
+# ── Pipeline scratch (watcher review files, status.json, logs) ─
+_pipeline/
+
 # ── Archived Files ────────────────────────────────────────────
 xx_Archive_xx/
