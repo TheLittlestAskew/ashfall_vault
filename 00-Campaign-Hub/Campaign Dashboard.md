@@ -2,6 +2,7 @@
 
 > The campaign at a glance. Updated by Convo 2 after every session.
 
+CAMPAIGN ID: 7170962
 
 | Character                                         | DDB user_id | Character_ID |
 | ------------------------------------------------- | ----------- | ------------ |
