@@ -2,12 +2,14 @@
 
 **Played by:** Jill
 
-| | |
-|---|---|
-| **Race** | Changeling |
-| **Class** | Bard / Rogue (Arcane Trickster) |
-| **Level** | 5 as of S01 |
+|                       |                                                     |
+| --------------------- | --------------------------------------------------- |
+| **Race**              | Changeling                                          |
+| **Class**             | Bard / Rogue (Arcane Trickster)                     |
+| **Level**             | 5 as of S01                                         |
 | **Signature weapons** | Longbow · Finger Guns (force cantrip, bonus action) |
+| User_ID               | 109467614                                           |
+| Character_ID          | 159788044                                           |
 
 ## Build Notes
 

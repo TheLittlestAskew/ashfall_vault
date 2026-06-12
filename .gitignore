@@ -36,5 +36,13 @@ package-lock.json
 # ── Pipeline scratch (watcher review files, status.json, logs) ─
 _pipeline/
 
+# ── Auto-fetched DDB party sheets (other players' data) ───────
+# This repo is PUBLIC. ddb_party_sync.js pulls full character sheets that
+# players shared only "Campaign Only" on D&D Beyond — republishing them here
+# would override that choice. Ignore the generated raw JSON + markdown.
+# (The manually-exported *.pdf sheets already in that folder are left as-is.)
+03-Characters/01 PCs/Party Character Sheets/_raw/
+03-Characters/01 PCs/Party Character Sheets/*(DDB).md
+
 # ── Archived Files ────────────────────────────────────────────
 xx_Archive_xx/

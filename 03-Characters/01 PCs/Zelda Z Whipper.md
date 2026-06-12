@@ -2,13 +2,15 @@
 
 **Played by:** Christie
 
-| | |
-|---|---|
-| **Race** | Halfling |
-| **Class** | Bard (College of the Moon — ⚑ homebrew/UA, confirm) |
-| **Level** | 5 as of S01 |
-| **Signature magic** | Starry Wisp · Bane · Thunderwave |
-| **Demeanor** | Relentlessly cheerful — skips, cartwheels, mood ring |
+|                     |                                                      |
+| ------------------- | ---------------------------------------------------- |
+| **Race**            | Halfling                                             |
+| **Class**           | Bard (College of the Moon — ⚑ homebrew/UA, confirm)  |
+| **Level**           | 5 as of S01                                          |
+| **Signature magic** | Starry Wisp · Bane · Thunderwave                     |
+| **Demeanor**        | Relentlessly cheerful — skips, cartwheels, mood ring |
+| User_ID             | 107276273                                            |
+| Character_ID        | 155452209                                            |
 
 ## Build Notes
 

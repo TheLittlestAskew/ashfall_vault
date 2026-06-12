@@ -1,0 +1,14 @@
+{
+  "_README": "DDB characterIds for the Ashfall Britannia party. The four below were recovered from the exported PDF filenames in '03-Characters/01 PCs/Party Character Sheets/' (pattern <ddb-username>_<characterId>.pdf). The 'name' field is only a fallback label — ddb_party_sync.js names its output files after the REAL character name from each fetched sheet, so once authenticated you'll get proper PC names automatically. Samothy's PDF has no ID in its filename; fill in characterId from dndbeyond.com/characters/<id>. Sheets must be Public or Campaign-Only; add DDB_COBALT to .env to fetch Campaign-Only ones (all four currently are).",
+  "campaign": "Ashfall Brittania",
+  "gameId": 7170962,
+  "characters": [
+    { "name": "Deanna Smith-Wesson",   "characterId": 155551041, "_ddb_user": "DrunkenPanda15" },
+    { "name": "Barrett Grimmskar",     "characterId": 155180404, "_ddb_user": "Red_ryno91" },
+    { "name": "Zelda \"Z\" Whipper",   "characterId": 155452209, "_ddb_user": "Zeuszelanne" },
+    { "name": "Valerian Hellebore",    "characterId": 155267230, "_ddb_user": "greensleeveless" },
+    { "name": "Samothy Smith-Wesson",  "characterId": 155551632, "_ddb_user": 116337840 },
+    { "name": "Flux",                  "characterId": 159788044, "_ddb_user": 109467614, "_note": "ID recovered from the DDB campaign roster (Flux.md/Dashboard had it blank)" },
+    { "name": "Vega Bloodroot",        "characterId": 144782698, "_ddb_user": 107965379, "_note": "your PC" }
+  ]
+}

@@ -2,6 +2,17 @@
 
 > The campaign at a glance. Updated by Convo 2 after every session.
 
+
+| Character                                         | DDB user_id | Character_ID |
+| ------------------------------------------------- | ----------- | ------------ |
+| Vega Bloodroot ⬅️ _(your PC)_                     | 107965379   | 144782698    |
+| Flux                                              | 109467614   | 159788044    |
+| Deanna Smith-Wesson                               | 109912548   | 155551041    |
+| Barrett Grimmskar                                 | 117269013   | 155180404    |
+| Samothy Smith-Wesson                              | 116337840   | 155551632    |
+| Zelda "Z" Whipper                                 | 107276273   | 155452209    |
+| Valerian Hellebore                                | 106010515   | 155267230    |
+| **DM (Taylor)** — _not you_ (  <br>Lt. Hargraven) | 109639138   | 163339583    |
 ## Sessions
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |

@@ -2,13 +2,15 @@
 
 **Played by:** Doug (the DM's brother — "Dugaboo" / "Dougie Poo")
 
-| | |
-|---|---|
-| **Race** | Orc |
-| **Class** | Gunslinger / Spellslinger (homebrew — ⚑ confirm) |
-| **Level** | 5 as of S01 (gained Extra Attack + "Deck Shot") |
-| **Signature weapons** | Revolver ("TGC") · Finger Guns (force cantrip) |
-| **Crit range** | 19–20 on ranged attacks |
+|                       |                                                  |
+| --------------------- | ------------------------------------------------ |
+| **Race**              | Orc                                              |
+| **Class**             | Gunslinger / Spellslinger (homebrew — ⚑ confirm) |
+| **Level**             | 5 as of S01 (gained Extra Attack + "Deck Shot")  |
+| **Signature weapons** | Revolver ("TGC") · Finger Guns (force cantrip)   |
+| **Crit range**        | 19–20 on ranged attacks                          |
+| User_ID               | 117269013                                        |
+| Character_ID          | 155180404                                        |
 
 ## Build Notes
 

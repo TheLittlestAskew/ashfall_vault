@@ -2,13 +2,15 @@
 
 **Played by:** Chase
 
-| | |
-|---|---|
-| **Race** | Elf |
-| **Class** | Druid (Circle of the Land) |
-| **Level** | 5 as of S01 (gained Wild Resurgence + 3rd-level spells) |
+|                     |                                                             |
+| ------------------- | ----------------------------------------------------------- |
+| **Race**            | Elf                                                         |
+| **Class**           | Druid (Circle of the Land)                                  |
+| **Level**           | 5 as of S01 (gained Wild Resurgence + 3rd-level spells)     |
 | **Signature magic** | Starry Wisp · Moonbeam · Spiny Shield (⚑ homebrew reaction) |
-| **Languages** | Common, Druidic, Elvish, Goblin |
+| **Languages**       | Common, Druidic, Elvish, Goblin                             |
+| User_ID             | 106010515                                                   |
+| Character_ID        | 155267230                                                   |
 
 ## Build Notes
 

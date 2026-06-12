@@ -58,6 +58,13 @@ Note: in this campaign you are a **player** (PC: Vega Bloodroot); the DM is a di
 - `Workflows/scripts/ashfall_transcribe/` — AssemblyAI transcription workflow
 - `Workflows/scripts/ashfall_pipeline_watch.js` — the drop-an-mp3 automation watcher (see `PIPELINE_SETUP.md`)
 - `Workflows/ddb-roll-sync/` — DDB roll-sync Chrome extension (left in place — moving it would break the Chrome "load unpacked" path)
+- `Workflows/scripts/ddb_party_sync.js` — fetches the party's DDB character sheets into the vault (see `Workflows/scripts/DDB_PARTY_SYNC.md`)
+
+## See also
+
+- [`../TRIGGERABLE_ACTIONS.md`](../TRIGGERABLE_ACTIONS.md) — index of every triggerable
+  action in `Workflows/` (session pipeline, transcription, party-sheet & roll sync, the
+  notes-doc generator, the watcher task): what each does and how to fire it.
 
 ## Sync discipline
 

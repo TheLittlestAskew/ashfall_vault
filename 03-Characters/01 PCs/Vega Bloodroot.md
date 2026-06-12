@@ -2,14 +2,16 @@
 
 **Played by:** Taylor (Me)
 
-| | |
-|---|---|
-| **Race** | Half-Orc |
-| **Class** | Barbarian (Path of the Wild Heart) / Rogue 1 |
-| **Level** | 5 as of S01 (Barb 3/Rogue 1 → took Barbarian 4 at S01 level-up, eyeing a feat) |
-| **Signature weapon** | Greataxe |
-| **AC** | 14 (+1 bracers = 15) as of S01 |
-| **Appearance note** | "Your character looks like a half-orc Indiana Jones" — DM, S01 |
+|                      |                                                                                |
+| -------------------- | ------------------------------------------------------------------------------ |
+| **Race**             | Half-Orc                                                                       |
+| **Class**            | Barbarian (Path of the Wild Heart) / Rogue 1                                   |
+| **Level**            | 5 as of S01 (Barb 3/Rogue 1 → took Barbarian 4 at S01 level-up, eyeing a feat) |
+| **Signature weapon** | Greataxe                                                                       |
+| **AC**               | 14 (+1 bracers = 15) as of S01                                                 |
+| **Appearance note**  | "Your character looks like a half-orc Indiana Jones" — DM, S01                 |
+| User_ID              | 107965379                                                                      |
+| Character_ID         | 144782698                                                                      |
 
 ## Backstory
 

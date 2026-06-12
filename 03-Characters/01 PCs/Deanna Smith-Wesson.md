@@ -2,13 +2,15 @@
 
 **Played by:** Madi
 
-| | |
-|---|---|
-| **Race** | Half-Elf |
-| **Class** | Fighter / Ranger (Monster Slayer per roster — ⚑ confirm subclass on sheet) |
-| **Level** | 5 as of S01 |
+|                       |                                                                                                      |
+| --------------------- | ---------------------------------------------------------------------------------------------------- |
+| **Race**              | Half-Elf                                                                                             |
+| **Class**             | Fighter / Ranger (Monster Slayer per roster — ⚑ confirm subclass on sheet)                           |
+| **Level**             | 5 as of S01                                                                                          |
 | **Signature weapons** | Pistol (weapon mastery — Vex: hit grants advantage on next attack vs. target) · short sword · dagger |
-| **Family** | Younger twin of [[Samothy Smith-Wesson]] (she shoved him aside to graduate first) |
+| **Family**            | Younger twin of [[Samothy Smith-Wesson]] (she shoved him aside to graduate first)                    |
+| User_ID               | 109912548                                                                                            |
+| Character_ID          | 155551041                                                                                            |
 
 ## Build Notes
 

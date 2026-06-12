@@ -2,14 +2,16 @@
 
 **Played by:** Josh
 
-| | |
-|---|---|
-| **Race** | Half-Elf |
-| **Class** | Artificer (Battle Smith) / Ranger |
-| **Level** | 5 as of S01 |
+|                       |                                                                                           |
+| --------------------- | ----------------------------------------------------------------------------------------- |
+| **Race**              | Half-Elf                                                                                  |
+| **Class**             | Artificer (Battle Smith) / Ranger                                                         |
+| **Level**             | 5 as of S01                                                                               |
 | **Signature weapons** | Pistol (mastery — Vex) · Enspelled semi-automatic · Parlor Gun (⚑ "Peter Pistol"/"Tanya") |
-| **AC** | 17 ("I can add 5 to my AC at any time, bud. Try me.") |
-| **Family** | Older twin of [[Deanna Smith-Wesson]] |
+| **AC**                | 17 ("I can add 5 to my AC at any time, bud. Try me.")                                     |
+| **Family**            | Older twin of [[Deanna Smith-Wesson]]                                                     |
+| User_ID               | 116337840                                                                                 |
+| Character_ID          | 155551632                                                                                 |
 
 ## Build Notes
 
