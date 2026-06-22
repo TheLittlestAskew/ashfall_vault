@@ -20,7 +20,7 @@ tags: [session-notes, ashfall, unrecorded, reconstruction]
 - **Valerian's rolls DID sync** this session — his S03/S04 archive gap was session-specific.
 - **No Zelda rolls** — Christie possibly absent ⚑.
 
-## What S05 Establishes Happened Here
+## Summary
 
 - The hospital **basement** was explored (the "3-session set-piece" finale): vampires fought ("that's a lot of vampires"), **nirnroot found**, medicine recovered.
 - **[[Samothy Smith-Wesson]] had a VISION from the book** — content not recorded anywhere ⚑ (Taylor: check Discord — "I think I threw it in chat").
@@ -28,7 +28,7 @@ tags: [session-notes, ashfall, unrecorded, reconstruction]
 - A prior reward of **300 gp + 5 greater healing potions** was received "last time."
 - Party XP reached **23,000 → LEVEL 7**.
 
-## Open Questions for Taylor ⚑
+## Archivist Notes
 
 1. Was this session played ~03/10–11/2026? Why no recording (forgot / tech / deliberate)?
 2. What was Samothy's book vision? (Discord chat may have it.)

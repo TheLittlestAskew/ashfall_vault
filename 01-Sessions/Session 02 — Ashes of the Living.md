@@ -12,7 +12,7 @@ tags: [session-notes, ashfall]
 
 > Title announced in-session by the DM. Follows directly from [[Session 01 — Graduation Day]] (the next dawn).
 
-## Section 1 — Session Metadata
+## Metadata
 
 | | |
 |---|---|
@@ -25,11 +25,10 @@ tags: [session-notes, ashfall]
 | **Party Level** | 5 (no level-up; **3,300 XP** awarded) |
 | **Spelling Checked** | Yes — `021726_Spell_Check_Log.md` ⚠ diarization warning: SPEAKER D merged 4 players |
 
-## Section 2 — Character POV Journal
-
+## POV Journal
 > See [[Vega Bloodroot Journal]] — entry "The morning after."
 
-## Section 3 — Session Analysis
+## Summary
 
 ### Narrative Summary
 
@@ -61,8 +60,7 @@ The setting is confirmed as **post-meteor Britain** — "kind of like medieval E
 | [[Abigail]]'s shop | Tornado-struck interior | Potions, Elvish rope, nirnroot commission |
 | [[The Old Hospital]] | Two floors + basement (morgue), flickering ER | Floor 1 cleared; book/nirnroot/supplies pending |
 
-### Quests / Objectives
-
+## Threads
 - 🔄 Hospital supply run (bandages, antibiotics) — IN PROGRESS (floor 1 cleared)
 - 🔄 **Bobby's secret book** — magical, vampire history, "it's got a presence" — IN PROGRESS
 - 🔓 Abigail's **nirnroot** (pharmacy; riverbanks) — OPEN
@@ -72,8 +70,7 @@ The setting is confirmed as **post-meteor Britain** — "kind of like medieval E
 - 🔓 2-day rendezvous; merchant-district + northern-farms teams in the field — OPEN
 - S01 carryovers (spy, Beast Tamer duel, Varan) — no movement
 
-### Scene / Timeline Breakdown
-
+## Scene / Timeline Breakdown
 1. Hargraven's dawn orders — sweep Hampshire.
 2. The sweep — drained vs. mauled; pyre detail; the locket; no children.
 3. Valerian's house — his parents. The scream. Zelda's finger-haul, Deanna's blankets; shaken (nat-1 Wis save).
@@ -94,8 +91,7 @@ The setting is confirmed as **post-meteor Britain** — "kind of like medieval E
 - Light against blindness — the griever casts Daylight.
 - Competence recognized — the jumped-classes reveal.
 
-## Section 4 — Character Activity
-
+## Character Activity
 ### Party Structure & Subgroups
 
 | Location | Characters | Objective | Status |
@@ -103,7 +99,7 @@ The setting is confirmed as **post-meteor Britain** — "kind of like medieval E
 | Hampshire (loose spread) | All 7 — Vega pyre duty, twins on bodies, Flux house-to-house, Valerian home | Survivor count + intel | 0 survivors; major intel |
 | Fort → hospital | All 7 + Steel Defender (combat) | Outfit; supplies/book/nirnroot | Floor 1 cleared |
 
-### NPCs
+## NPCs
 
 | Name | Race / Class | Affiliation | Last Interaction | Location | Status |
 |---|---|---|---|---|---|
@@ -114,19 +110,17 @@ The setting is confirmed as **post-meteor Britain** — "kind of like medieval E
 | Hampshire Beast Master ⚑ NEW (unseen) | Vampire (Beast Master) | Vampire clan | Footprints only | [Unknown] | Active threat |
 | Valerian's parents | Hampshire villagers | — | Found dead (beast thrall) | Hampshire | Dead |
 
-### Reputation & Relationships
+## Reputation & Relationships
 
 - [[Bobby]] trusts the party with the book secret ("just don't tell the boss"); knows the twins of old.
 - [[Abigail]] owes goodwill; the party group-counseled her Bobby courtship.
 - Hargraven: "you guys are probably the ones we can trust the most."
 - Valerian orphaned; the party closed ranks (Zelda, Deanna, Vega each in their own register).
 
-## Section 5 — Artifacts
-
+## Artifacts
 > Full table in [[Loot Tracker S01-S10]] § S02. Headlines: party-wide **silvering**; **Bag of Holding**; 6 superior potions; Elvish rope; silver arrows/bullets; wooden stakes (4×4 charges); the children's locket; 50 gp; **Eldritch Claw Tattoo finalized** (Vega — replaces S01's Masquerade Tattoo).
 
-## Section 6 — Logs
-
+## Logs
 ### Encounters
 
 | Enemies | Location | Party | Trigger | Outcome |
@@ -167,13 +161,12 @@ One combat — 3 blind beast thralls in the hospital ER. Enemy initiative was DM
 
 > **Tally:** 15 enemy attacks · 1 save · 4 damage = **20 transcript-only** (enemy initiative additionally DM-rolled, unvoiced). With the 125 archive rolls → **≈145 total this session.** Notable: the beasts rolled **two nat 20s** — both neutralized, one by Sap-disadvantage and one by the Steel Defender's Deflect plus the graduation bracers' +1 AC.
 
-## Section 7 — Quotes & Language
-
+## Quotes & Language
 > Full board in [[Quote Board S01-S10]] § S02; profanity in [[Profanity Ledger S01-S10]] § S02.
 
 **Final title:** *Ashes of the Living* — DM-titled in-session; no alternates discussed.
 
-## Section 8 — Archivist Notes
+## Archivist Notes
 
 ### Patterns & Implications
 

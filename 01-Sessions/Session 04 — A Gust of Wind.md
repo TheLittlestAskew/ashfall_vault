@@ -66,6 +66,6 @@ Comedy of the sweep: Valerian + Zelda declared a room empty that Deanna + Barret
 
 ~5 enemy attacks · 3 saves · 3 damage — now archived, **not additive to the 81**. **Separate gap:** [[Valerian Hellebore]]'s *PC* rolls are still absent from the archive (2nd straight session) — those live only in the transcript.
 
-## Archivist Flags
+## Archivist Notes
 
 Barrett's crit feature = **"Gut Shot"** (named in S04, 00:00; called "Deck Shot" in S03 — same lodging-projectile crit, name varies ⚑ ask Doug) · **"Spellfire Flare"** = Flux's nat-20 radiant one-shot (confirmed as the name Flux used) · Valerian *PC*-roll sync gap (2 sessions) ⚑ · Zelda's "my Moonbeam" blue-light feature (College of the Moon, name unknown) ⚑ · "nat 20 for 20" roller ambiguity · kill-contest reward never stated.

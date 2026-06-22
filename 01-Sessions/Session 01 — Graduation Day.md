@@ -10,7 +10,7 @@ tags: [session-notes, ashfall]
 
 # Session 01 — Graduation Day
 
-## Section 1 — Session Metadata
+## Metadata
 
 | | |
 |---|---|
@@ -25,11 +25,10 @@ tags: [session-notes, ashfall]
 | **Party Level** | 4 → 5 (level-up at session end) |
 | **Spelling Checked** | Yes — `021326_Spell_Check_Log.md` |
 
-## Section 2 — Character POV Journal
-
+## POV Journal
 > See [[Vega Bloodroot Journal]] — entry "Two nights before Christmas."
 
-## Section 3 — Session Analysis
+## Summary
 
 ### Narrative Summary
 
@@ -56,8 +55,7 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 | Main gate | Iron gate, lever-operated; guard shacks both sides | Civilians trapped outside; lever taken when Varan fled; spare in far guard shack |
 | [[Ruined City District]] | Fog clinging unnaturally low, snow, smoke over the district | Both thrall battles; Beast Tamer encounter; thralls hunt by sound/heartbeat |
 
-### Quests / Objectives
-
+## Threads
 - ✅ **Rescue the civilians + retrieve the spare gate lever** — COMPLETED (This Session). All civilians saved.
 - 🔓 **Identify the spy/traitor** who let the vampires into the city — OPENED (Beast Tamer's reveal; Hargraven alerted).
 - 🔓 **The Beast Tamer** — promised future confrontation ("I hope in the near future that I get to fight you myself") and cryptic "there will be a time where I'll need your assistance" — OPENED.
@@ -66,8 +64,7 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 - 🔓 **"War is coming, and you'll likely be on the front lines for it"** (Hargraven) — OPENED.
 - 🔧 DM owes: bracers item card · brass-knuckles homebrew for Vega · downtime-tasks system (Discord channel created).
 
-### Scene / Timeline Breakdown
-
+## Scene / Timeline Breakdown
 1. **Recap & banquet.** Ash-world premise re-established; graduation dinner, 2 days before Christmas; Valerian seated alone (won the Perma Inspiration).
 2. **Officers' address.** Vale congratulates the class; Thornfall introduces the Ashwardens ("If you're looking for glory or comfort, turn around and go home").
 3. **Item ceremony.** Each PC receives their personalized magic item.
@@ -91,8 +88,7 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 - **Sibling bonds** — the Smith-Wesson twins' competitive mirroring ("Twinsies").
 - **Vega's emerging persona** — sarcastic alpha; flipped off the Beast Tamer with both hands.
 
-## Section 4 — Character Activity
-
+## Character Activity
 ### Party Structure & Subgroups
 
 | Location | Characters Present | Objective | Status |
@@ -100,7 +96,7 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 | Beyond the main gate | All 7 PCs (no split) | Rescue civilians; recon; retrieve lever | Success — all objectives completed |
 | Combat 2 onward | + Steel Defender ("kitty-taur") | Support Samothy | First kill; dormant after battle |
 
-### NPCs
+## NPCs
 
 | Name | Race / Class | Affiliations | Last Interaction | Last Known Location | Status |
 |---|---|---|---|---|---|
@@ -111,7 +107,7 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 | [[The Beast Tamer]] (clan title; true name unknown) | Vampire (captain) | Vampire clan; offers victims to the Mistress of Hunger | Spared party; revealed spy; whispered his name to Deanna then magically erased it | Vanished | Active threat |
 | [[Feral Vampire Thrall]]s | Vampire beasts | Beast Tamer's stock | Two waves fought; third recalled | City district | 15 slain |
 
-### Reputation & Relationships
+## Reputation & Relationships
 
 - Party formally inducted into the **Ashwardens** — top-of-class standing implied by the item ceremony.
 - [[Lt. Hargraven]] — strongly favorable: "You saved lives today, more than you know."
@@ -119,12 +115,10 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 - [[Commander Varan]] — publicly branded a coward by Hargraven; fallout pending.
 - Intraparty: Smith-Wesson twins' rivalry; Barrett protective of Zelda ("help his friend Z"); Vega's alpha-sass persona welcomed by the table.
 
-## Section 5 — Artifacts
-
+## Artifacts
 > Full table in [[Loot Tracker S01-S10]] § S01. Highlights: 7 personalized graduation magic items; grappling-hook arm bracers (all PCs, +1 AC, attunement, ⚑ card owed); Enspelled semi-auto pistol (name cut off, "PI…") + Parlor Gun "Peter Pistol" (one-use hideaway) — Samothy; Steel Defender, re-flavored mid-session from "kitty-taur" to a big metal cat (→ [[Session 03 — Mr. Cat, Esquire|Mr. Cat]]); brass knuckles homebrew pending — Vega; future Bag of Holding + Returning Weapon (Vega's axe) via Samothy's infusions.
 
-## Section 6 — Logs
-
+## Logs
 ### Encounters
 
 | Enemies | Location | Party / Allies | Trigger | Outcome |
@@ -191,13 +185,12 @@ World premise (DM recap): a meteor struck the Earth when the PCs were children, 
 
 > **Tally:** 17 enemy attacks · 6 saves · 2 initiative · 3 damage = **28 transcript-only**. With the 93 archive rolls → **121 total this session.** The Beast Tamer threw no attack rolls — he no-sold or caught everything and made a single Dex save.
 
-## Section 7 — Quotes & Language
-
+## Quotes & Language
 > Full board in [[Quote Board S01-S10]] § S01; profanity in [[Profanity Ledger S01-S10]] § S01.
 
 **Final title:** *Graduation Day* (Event). Alternates: *You Fight Well for Cattle* (Quote) · *Someone Let Us In* (Dramatic) · *The Regina George of Barbarians* (Character) · *Welcome to the Ashwardens* (Thematic).
 
-## Section 8 — Archivist Notes
+## Archivist Notes
 
 ### Patterns, Progress & Future Implications
 

@@ -12,7 +12,7 @@ tags: [session-notes, ashfall]
 
 > Title auto-selected (Quote — Brother Halren's dying words). First session under the **no-docx** convention — this note is the full record. ⚠ The `040226` recording is **misfiled from another campaign** and excluded.
 
-## Section 1 — Metadata
+## Metadata
 
 | | |
 |---|---|
@@ -22,11 +22,10 @@ tags: [session-notes, ashfall]
 | **XP** | +480 → **23,480** (level 7) |
 | **Spelling** | Yes — `040126_Spell_Check_Log.md` |
 
-## Section 2 — POV Journal
-
+## POV Journal
 > See [[Vega Bloodroot Journal]] — "The church of the ringing bell."
 
-## Section 3 — Analysis
+## Summary
 
 ### Narrative Summary
 
@@ -50,7 +49,7 @@ tags: [session-notes, ashfall]
 
 **The way down:** Samothy's detective work in the confessional — wind in a windowless room, candle flames bending — ended with him **lighting the unlit candles**, and the floor stone slid away: **a ladder descending into the crypt**. Session ends at the top of it, holding for Madi.
 
-### Threads
+## Threads
 
 - 🔦 **THE CRYPT** — next session, down the ladder. "Protect the light."
 - ☀️ **The Sun Shard** — divine anti-vampire relic, presumably below.
@@ -60,7 +59,7 @@ tags: [session-notes, ashfall]
 - ⚑ Saint Arda + the Tyrant King · fire/ice/water deity pantheon · Barrett's looted paper (DM to send) · the warm holy book unidentified.
 - Carryovers: spy · Verilith · [[The Beast Tamer]] / Beast Master · missing children · Bobby's custom gear (still pending!) · Samothy reading his book.
 
-## Section 4 — NPCs
+## NPCs
 
 | NPC | Interaction | Status |
 |---|---|---|
@@ -71,18 +70,16 @@ tags: [session-notes, ashfall]
 | Saint Arda ⚑ NEW (historical) | Cast into stone by the Tyrant King; sealed tomb | Entombed |
 | The Vampire Lord ⚑ NEW (named role) | Commands all thralls silently; hunts relics | Active — reachable by orb |
 
-## Section 5 — Artifacts
-
+## Artifacts
 > [[Loot Tracker S01-S10]] § S06: the obsidian orb (Vampire-Lord phone) · blessed silver dagger (Vega) · gold bedazzled vestment · warm magical holy book ⚑ · fire + ice goddess scrolls · Father Renwald's letters · prayer cards & pocket Bible (Valerian) · 50 gp + rolled paper ⚑ · 2 healing potions + 2 holy water · priest's shoes/collar (Flux, inexplicably) · barrels of fresh-ish food.
 
-## Section 6 — Logs
-
+## Logs
 **Combat:** 4 feral thralls, Saint Ardas nave — Victory. Friendly fire: Valerian 30 (crit-fail mechanic) + 10 to Barrett (thrall nat-20). Kills: Barrett 1 (Magnum ×2), Valerian 3 (Lightning Bolt). Plus the bell-tower mercy-kill (Flux chain-cut + twin Starry Wisps).
 **Initiative (partial archive):** Zelda 24 · ... · Vega 6 (unicorn dice's last stand — retired this session for the April Fool dice).
 **Notable rolls:** Valerian Lightning Bolt 8d6=23 · twin nat-19 Starry Wisps (Valerian 27, Zelda 25) · Barrett Investigation 6→19 via Christie's Help + con-save trap dodge · Samothy's puzzle chain (Investigation 22→12→23, Perception 14) · Vega nat-20-for-20 redux ("Dirty 20, Doug").
 **DM/enemy rolls:** in the 51 archived (since the **S04 sync milestone** — *not* a separate transcript-only gap). For reference: 4 Bane Cha saves (8 / 1 / 4 / 16 — only the 16 saved); 2 Perforating-Shot Dex saves; Vampire A on Barrett (6 + **nat 20** → 10 dmg); 3 Lightning-Bolt Dex saves (5 / 14 / 9, all failed DC 16). The crit-fail target roll (d6 → 3 = Valerian) and Barrett's trap Con save were player-rolled.
 
-## Section 8 — Archivist Notes
+## Archivist Notes
 
 - **Hargraven joining changes the party's shape** — DM-PC at the table + d8 crit-fail pool now includes him.
 - The 040226 misfile ⚑ — re-home it (different campaign: "Inspired" program, player Alec).

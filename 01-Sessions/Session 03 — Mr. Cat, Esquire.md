@@ -12,7 +12,7 @@ tags: [session-notes, ashfall, cliffhanger]
 
 > ⚠ **ENDS MID-COMBAT** — the campaign's first cliffhanger. Two recordings unified (121 + 13 min; ~18-min gap reconstructed from the roll archive).
 
-## Section 1 — Session Metadata
+## Metadata
 
 | | |
 |---|---|
@@ -25,11 +25,10 @@ tags: [session-notes, ashfall, cliffhanger]
 | **Party Level** | 5 — XP posted to Discord post-session (amount TBD ⚑) |
 | **Spelling Checked** | Yes — `022426_Spell_Check_Log.md` |
 
-## Section 2 — POV Journal
-
+## POV Journal
 > See [[Vega Bloodroot Journal]] — entry "The hospital, still. Night."
 
-## Section 3 — Session Analysis
+## Summary
 
 ### Narrative Summary
 
@@ -47,8 +46,7 @@ At ~11 PM: **paused mid-combat**, one badly wounded beast thrall standing. Kill 
 |---|---|---|
 | [[The Old Hospital]] 2F — nurses' dormitory | Old blood, cobwebs, gurneys, barrels | Beast Master boot-prints; multi-wave ambush; UNRESOLVED |
 
-### Quests / Objectives
-
+## Threads
 - ⚔️ **FINISH THE FIGHT** — cliffhanger; S04 should open mid-initiative.
 - 🔄 Supplies / Bobby's book / nirnroot — pharmacy, admin, basement all unreached.
 - 🏆 Kill contest — prize TBD ⚑; standings logged.
@@ -56,7 +54,7 @@ At ~11 PM: **paused mid-combat**, one badly wounded beast thrall standing. Kill 
 - ⚑ Pre-recording group **Wisdom save vs unknown** (Samothy 4, Flux nat-1 → both failed) — ask DM.
 - Carryovers unchanged: spy · Beast Tamer · missing children · Varan · rendezvous clock.
 
-### Scenes
+## Scenes
 
 1. *(pre-recording)* Session start + mystery group Wisdom save ⚑
 2. 2F recon — tracks, sniffing
@@ -73,20 +71,17 @@ At ~11 PM: **paused mid-combat**, one badly wounded beast thrall standing. Kill 
 
 Grief metabolized as radiance · toys become doctrine (mobility meta) · competition as bonding · Mr. Cat crosses from equipment to family · the boots again — quiet dread under the comedy.
 
-## Section 4 — Character Activity
-
+## Character Activity
 **Party:** single group, hospital 2F, all 7 + Mr. Cat — combat unresolved.
 
 **NPCs:** Mr. Cat, Esquire (construct companion — named, beloved, deflect-tank MVP) · the unseen Beast Master (boot-prints) · thralls (~6 slain, 1 wounded standing).
 
 **Relationships:** Jill's mid-session crafting earned Vega's "You're a beautiful human and I love you" · Taylorito/Taylorita coined for the two Taylors · Samothy's stunt-economy with the DM matures (cool points → inspiration).
 
-## Section 5 — Artifacts
-
+## Artifacts
 > [[Loot Tracker S01-S10]] § S03. Headlines: **Hookshot Arm Bracers formalized** (Samothy's homebrew card — +1 AC *requires attunement*, bonus action, 4 charges @ lvl 5, tri-hook); **Vega's Double-Bladed Scimitar** (Jill's homebrew, 2d4+4 finesse → Sneak Attack); no new loot (rooms unsearched — combat unresolved).
 
-## Section 6 — Logs
-
+## Logs
 **Encounter:** multi-wave ferals + beast thralls, hospital 2F — **UNRESOLVED**; ~6 slain; Barrett took 21 (healed 9+4, then 8); Samothy self-inflicted 6 (cable-kill); Valerian's exact HP unknown (sync gap).
 
 **Initiative (re-roll, archive-verified):** Barrett 24 (adv 12,20) → Zelda 23 → Flux 22 → Deanna 11 → Samothy 10 → Vega 10 → Valerian (unsynced). Table order: Barrett → Zelda → Flux → enemy → Deanna → Valerian → Samothy+Mr. Cat → Vega → enemies.
@@ -119,13 +114,12 @@ Grief metabolized as radiance · toys become doctrine (mobility meta) · competi
 
 > **Tally:** ~10 enemy attacks · 6 saves · 5 damage = **~21 transcript-only** (enemy initiative additionally VTT-rolled, values lost). With the 163 archive rolls → **≈184 total.** The beasts rolled **three nat 20s** (attacks on Zelda and Barrett both landed; a clutch Moonbeam save) — while Mr. Cat's Deflect and the +1-AC bracers turned away several other hits.
 
-## Section 7 — Quotes & Language
-
+## Quotes & Language
 > [[Quote Board S01-S10]] § S03 · [[Profanity Ledger S01-S10]] § S03 (Chase three-peats, 20).
 
 **Final title:** *Mr. Cat, Esquire* (Character — Taylor). Alternates: It's High Noon (Quote) · Kill Count (Event) · The Second Floor (Location) · To Be Continued (Thematic).
 
-## Section 8 — Archivist Notes
+## Archivist Notes
 
 - **S04 must open mid-combat** — verify continuity against the 030426 recording.
 - Valerian sync gap ⚑ · pre-recording Wisdom save ⚑ · kill-contest reward garbled ⚑ · "Eldritch Maul" DDB label ⚑ · XP amount in Discord ⚑ · Mr.-Cat-husband attribution ⚑ · "Kira" garble.
