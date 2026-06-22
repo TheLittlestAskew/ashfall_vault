@@ -124,13 +124,25 @@ After reads: state "Phase 1 complete. Read [X] files. Ready to draft."
 Draft ALL updates as structured blocks, organized by file, with exact content to be written. Present the full plan to Taylor before any writes.
 
 Work in this order:
-1. **Session Notes Markdown** → `01-Sessions/Session ## — Title.md` (CREATE). Full 8-section markdown with frontmatter and `[[backlinks]]` for all PCs, NPCs, locations, cross-session refs. Em dash (—) in filename; match Convo 1 title exactly.
+1. **Session Notes Markdown** → `01-Sessions/Session ## — Title.md` (CREATE). Full 8-section markdown with frontmatter and `[[backlinks]]` for all PCs, NPCs, locations, cross-session refs. Em dash (—) in filename; match Convo 1 title exactly. **Must satisfy the Website Parser Contract** (Convo 1 Step 3): H2-only, keyword-first `## Metadata` (with a Location row), `## Summary`, `## Threads`, `## NPCs`, `## Archivist Notes` — or the live site panels blank.
 2. **Campaign Dashboard** (EDIT): sessions table row · NPC/antagonist additions+status · new locations · open/resolved/superseded threads · in-game timeline.
 3. **Trackers** (Loot / Quote Board / Profanity Ledger / Roll Stats) — per the Vault Format Reference formats.
 4. **POV Journal** → `02-Character_Journal/Vega Bloodroot Journal.md` (append collapsible section). Voice per `⟦FILL: Vega journal voice guide⟧`; POV Hard Limits apply.
 5. **PC pages** — all present PCs updated (abilities, inventory, relationships, events, quotes).
 6. **NPC pages** — new created, existing updated.
 7. **Locations / Flora-Fauna / Mechanics** — as applicable.
+8. **Website session sync (rectrixcaedere.com)** — **SEPARATE REPO** (`TheLittlestAskew/rectrixcaedere`), *not* the vault; deploy on its own. The new session must be added to **two** hardcoded `ARC` registries (kept in lockstep on `n`/`d`/`lbl`/`t`/`f`). The tracker + Vega panels populate from the vault files you already wrote above (Quote Board / Loot / Profanity `## S0N` blocks, and Vega's `## Key Events` `- **S0N` bullet) — keep those formats exact or the site panels blank.
+   - **`ashfall-britannia/session.html` → `ARC`:**
+     ```js
+     {n:'##',d:'YYYY-MM-DD',lbl:'Month D, YYYY',t:'<display title>',
+      f:SS+'/Session%20##%20%E2%80%94%20<URL-encoded title>.md',
+      tags:[{l:'<label>',c:'<class>'}]}
+     ```
+     `f` URL-encoded (`%20`=space, `%E2%80%94`=em dash) — mismatch = note body fails to load. Add `badge:'Partial Recording'` (or similar) for caveats. **No `rec` / no `era`** in this array.
+   - **`ashfall-britannia/archive.html` → a *different* `ARC`:** same core fields **plus `era:'<cold|warm|sun>'`**, and **no `badge`**. Cards link to `session.html?n=##`, so a missing session.html entry dead-links the card — always do both. **Also bump the hardcoded header stats** (`Sessions Chronicled` count; `Levels Climbed` range if it changed).
+   - Valid tag `c` classes: `combat`, `level`, `rp`, `subdm`, `sun`, `cliff`.
+   - The site fetches the note, trackers, and Vega's page live from `raw.githubusercontent.com/.../ashfall_vault/main` — the vault must stay public (it is). Rolls come from `ashfall_session_rolls` (campaign_id 3).
+   - The automated `convo2_propagate` runner pushes **only the vault** — this website step is a separate manual deploy. SHA-verify the push to `rectrixcaedere`.
 
 ### PHASE 3 — WRITE
 Execute writes in this order: **creates first** (session note, new NPCs/locations/creatures, new tracker files) → **appends second** (trackers, journal, PC key events) → **edits last** (Dashboard, Vega Inner Life, NPC status changes, House Rules) → **Vault Sync Status always final.** Log each write to the progress file.
@@ -179,6 +191,7 @@ A session is fully synced when every row is ✅ (or ➖ if not applicable):
 | 11 | Locations | `04-World-Lore/Locations/*.md` | New created, revisited updated |
 | 12 | Flora/Fauna | `07-Flora_Fauna/` | New created, existing updated |
 | 13 | Mechanics | `00-Campaign-Hub/House Rules & Rulings.md` | New rulings (if any) |
+| 14 | Website session entry | `rectrixcaedere` → `ashfall-britannia/session.html` (`ARC`) **and** `archive.html` (`ARC` + header stats) | New entry in **both** `ARC`s (matching `n`/`d`/`lbl`/`t`/`f`); tracker + Vega panels populated; deployed (separate repo). ➖ only if the site reader doesn't exist yet |
 
 **Vault Sync Status updated LAST**, with ✅/➖ for all columns and a change-log entry.
 
@@ -189,5 +202,5 @@ A session is fully synced when every row is ✅ (or ➖ if not applicable):
 - Does not re-read transcripts (content comes from Convo 1 notes + handoff).
 - Does not generate `.docx` files (Convo 1's job).
 - Does not spell-check (Convo 1's job).
-- Does not modify files outside the vault.
+- Does not draft vault content from memory. The one file set it touches outside the vault is the website registry in the `rectrixcaedere` repo (Phase 2 Step 8 / checklist 14), deployed separately.
 - **May** query Supabase (`ashfall_session_rolls`) if roll data is missing from the handoff — a separate connection that doesn't affect MCP stability.

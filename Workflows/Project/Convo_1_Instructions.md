@@ -188,7 +188,44 @@ For raw access: `ddb_rolls` filtered by **`campaign_id = 3`** (or `game_id = 717
 
 - The **Session Notes Section Breakdown** is the authority on content and table formats. Do not alter or skip sections. Generate all sections with equal care; tables must have enough rows to cover the full session.
 - **Section 2 is Vega Bloodroot's POV Journal** — the *only* section where in-character narrative license is allowed. POV Journal Hard Limits apply (no OOC, no above-table, no metagame numbers/labels, in-character names only). Use ⟦FILL: Vega voice guide⟧ and Vega's "Inner Life & Evolution" page for her current emotional state before writing. *(If no Vega voice guide exists yet, that's a one-time setup item — flag it.)*
-- Render the styled `.docx` with `ashfall_v1.js` (the re-themed clone of `sitl_v8.js`). Apply the same post-processing the SITL generator needs (the `fix_tbl_borders` table-border cleanup) if you reuse that engine.
+- Render the styled `.docx` with `ashfall_v1.js` (the re-themed clone of `sitl_v8.js`). Apply the same post-processing the SITL generator needs (the `fix_tbl_borders` table-border cleanup) if you reuse that engine. *(Retired 06/06/2026 — the note is markdown; kept for historical record.)*
+
+### ⚠️ Website Parser Contract — LOAD-BEARING
+
+The markdown session note (`01-Sessions/Session ## — Title.md`, written in Convo 2) is **also the public site's live source.** `ashfall-britannia/session.html` (in the `TheLittlestAskew/rectrixcaedere` repo) fetches it at read time from `raw.githubusercontent.com/TheLittlestAskew/ashfall_vault/main/01-Sessions/…` and extracts panels by scanning for **`##` (H2) headings whose text *starts with* a keyword.** (The vault must stay public for the raw fetch.) Two things silently blank a panel if missed:
+
+1. **H2 only, keyword-first.** The reader matches `## Keyword` — never `###`, and the keyword must START the heading. `## Metadata` ✓ but `## Session Metadata` ✗; `## Summary` ✓ but `## Narrative Summary` ✗.
+2. **Hero / Quotes / Loot / Profanity do NOT come from the note** — they're pulled from four *other* files keyed by session number (table below). The note only feeds Metadata / Summary / Threads / NPCs / Archivist Notes.
+
+Required **note** headings (each an `##` H2, text starting with the keyword):
+
+| Site panel | Heading | Shape |
+|---|---|---|
+| At-a-glance | `## Metadata` | key/value table incl. a **Location** row (optional **Session Date** row → shown as "Archive") |
+| Narrative | `## Summary` | prose (also the hero fallback) |
+| Open threads | `## Threads` | `-` bullets |
+| NPCs | `## NPCs` | table (col 0 = name, col 1 = description) |
+| Archivist / Flags | `## Archivist Notes` | `-` bullets; bullets marked `⚑` route to the Flags panel |
+
+(`## POV Journal` stays in the note for the archive, but the site ignores it — the hero panel is Vega's, below.)
+
+Load-bearing **cross-file** panels (written/updated in Convo 2 — see Convo 2 Step 8). Each is keyed by session number, so the block/bullet format is load-bearing:
+
+| Site panel | File | Keyed entry the reader needs |
+|---|---|---|
+| Hero — "Vega's account" | `03-Characters/01 PCs/Vega Bloodroot.md` | a `## Key Events` bullet starting `- **S0N …` |
+| Quotes | `00-Campaign-Hub/Trackers/Quote Board S01-S10.md` | a `## S0N — Title (MM/DD/YYYY)` block; quotes as `**Speaker · [Tag]**` then `> "quote"` |
+| Loot | `…/Trackers/Loot Tracker S01-S10.md` | a `## S0N` block (table) |
+| Profanity | `…/Trackers/Profanity Ledger S01-S10.md` | a `## S0N` block |
+
+**Validate the note before handoff:**
+```bash
+F="01-Sessions/Session ## — Title.md"
+for h in Metadata Summary Threads NPCs "Archivist Notes"; do
+  grep -qE "^##[[:space:]]+$h\b" "$F" || echo "MISSING ## heading: $h";
+done
+grep -qiE "^\|[^|]*location" "$F" || echo "MISSING 'Location' row in the ## Metadata table";
+```
 
 ---
 
