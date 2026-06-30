@@ -94,3 +94,70 @@
 ## Downtime
 
 - **Downtime tasks system** announced S01 — dedicated Discord channel created. "Things you do in your downtime… that way we can keep track of it."
+### **1. Deal with a Devil**
+
+- Each player may make **one deal with a devil** per campaign.
+
+- When you do, you immediately gain **a guaranteed natural 20** on your next roll.
+
+- However, at any time, the **Devil (DM)** may:
+
+ Force you to **roll a natural 1** on a future roll, _or_
+
+ **Claim your soul** (the DM decides what that means in the story).
+### **2. Critical Success (Natural 20)**
+
+- A natural 20 automatically hits.
+
+- You deal **maximum damage** plus **an additional normal damage roll** (i.e., max damage + rolled damage).
+
+
+
+
+### **3. Spellcaster Overexertion**
+
+- Once all spell slots are used, a spellcaster can **sacrifice health** to continue casting.
+
+- Each spell cast this way costs **10% of your maximum HP** (rounded up).
+
+
+
+
+### **4. Melee Last Stand**
+
+- A melee character can **spend 2 failed death saves** to automatically land a **critical hit**.
+
+- If that attack **kills the enemy**, the character is **restored to 1 HP** and **no longer rolls death saves**.
+
+- If the enemy **survives**, the death saves remain lost.
+
+
+
+
+### **5. Death Saving Throws**
+
+- The **DM rolls death saves privately** and will message the results directly to the player.
+
+
+
+### **6. Magic Items**
+
+- Each player may start with **one common magic item** that has **no direct combat use** (flavor, utility, or roleplay focused).
+
+
+
+
+### **7. Critical Failures (Natural 1)**
+
+- A natural 1 results in a **critical failure**.
+
+- The player deals **maximum damage plus a normal damage roll** to **themselves or an ally** (DM decides based on context).
+
+
+
+
+### **8. Potions and Actions**
+
+- **Drinking a healing potion:** Costs a **Bonus Action**.
+
+- **Administering a potion to another creature:** Costs an **Action**.
