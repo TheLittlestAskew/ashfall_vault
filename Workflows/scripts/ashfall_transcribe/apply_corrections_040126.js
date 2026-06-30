@@ -1,7 +1,7 @@
 /** Session 6 (040126) — auto-advance spell-check. NO DOCX (per Taylor 06/06). */
 const fs = require("fs");
 const path = require("path");
-const VAULT = String.raw`C:\Users\theli\ashfall_vault`;
+const VAULT = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault`;
 const RAW = path.join(VAULT, "Session_Sources", "Transcripts", "Raw_Unedited", "040126 Ashfall Brittania Recording_transcript.md");
 const OUT = path.join(VAULT, "Session_Sources", "Transcripts", "Corrected", "040126_AB_Session06_Corrected_Transcript.md");
 let text = fs.readFileSync(RAW, "utf-8");

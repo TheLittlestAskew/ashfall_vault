@@ -133,6 +133,6 @@ const doc = new Document({
     ]
   }]
 });
-const OUT = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Session_Notes\AB_05_032426_The_Bell_of_Saint_Ardas.docx`;
+const OUT = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Session_Notes\AB_05_032426_The_Bell_of_Saint_Ardas.docx`;
 function fixB(p) { const z = new AdmZip(p); let x = z.getEntry("word/document.xml").getData().toString("utf-8"); let n = 0; x = x.replace(/<w:tblBorders>([\s\S]*?)<\/w:tblBorders>/g, (m, i) => "<w:tblBorders>" + i.replace(/<w:(?:left|right)\b[^>]*\/>/g, () => { n++; return ""; }) + "</w:tblBorders>"); z.updateFile("word/document.xml", Buffer.from(x, "utf-8")); z.writeZip(p); return n; }
 Packer.toBuffer(doc).then(b => { fs.writeFileSync(OUT, b); console.log("Done ->", OUT, "| borders:", fixB(OUT)); }).catch(e => { console.error(e); process.exit(1); });

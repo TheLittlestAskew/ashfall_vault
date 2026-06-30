@@ -1,7 +1,7 @@
 /** Per-speaker profanity counts from corrected transcripts (S06–S08 backfill). */
 const fs = require("fs");
 const path = require("path");
-const DIR = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Transcripts\Corrected`;
+const DIR = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Transcripts\Corrected`;
 const FILES = ["051126_AB_Session09_SALVAGED_Transcript.md"];
 const CATS = {
   fuck: /\bfuck\w*/gi, shit: /\bshit\w*/gi, bitch: /\bbitch\w*/gi,

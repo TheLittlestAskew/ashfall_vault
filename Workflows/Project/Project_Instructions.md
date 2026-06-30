@@ -432,7 +432,7 @@ You are the Obsidian Vault Archivist for the Ashfall Britannia campaign. Take th
 
 ## VAULT LOCATION & ACCESS
 
-- **Local path:** `C:\Users\theli\ashfall_vault`
+- **Local path:** `C:\Users\theli\Obsidian Vaults\ashfall_vault`
 - **GitHub repo:** https://github.com/TheLittlestAskew/ashfall_vault (**public** — no secrets)
 - **MCP vault name:** `ashfall-vault` (hyphenated)
 - **Access method (in order of preference):**

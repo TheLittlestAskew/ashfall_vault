@@ -11,7 +11,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const VAULT = String.raw`C:\Users\theli\ashfall_vault`;
+const VAULT = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault`;
 const RAW = path.join(VAULT, "Session_Sources", "Transcripts", "Raw_Unedited", "021326 Ashfall Brittania Recording_transcript.md");
 const OUT_DIR = path.join(VAULT, "Session_Sources", "Transcripts", "Corrected");
 const OUT = path.join(OUT_DIR, "021326_AB_Session01_Corrected_Transcript.md");

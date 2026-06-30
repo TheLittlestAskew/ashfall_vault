@@ -1,7 +1,7 @@
 # Ashfall Britannia Obsidian Vault — Structure & Content Guide
 
 > **Vault name (MCP):** `ashfall-vault` (hyphenated)
-> **Local path:** `C:\Users\theli\ashfall_vault`
+> **Local path:** `C:\Users\theli\Obsidian Vaults\ashfall_vault`
 > **GitHub repo:** https://github.com/TheLittlestAskew/ashfall_vault (**public** — no secrets)
 
 This document defines every folder, file, and section in the Ashfall Britannia Obsidian vault. It is the authoritative reference for what goes where during Convo 2 vault updates. Mirrors SITL's `SITL_Vault_Structure_Guide.md`, adapted to Ashfall's layout.

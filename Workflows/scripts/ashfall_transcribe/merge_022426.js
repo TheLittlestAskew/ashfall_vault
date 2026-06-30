@@ -8,7 +8,7 @@
  */
 const fs = require("fs");
 const path = require("path");
-const DIR = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Transcripts\Raw_Unedited`;
+const DIR = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Transcripts\Raw_Unedited`;
 const P1 = path.join(DIR, "022426 1 Ashfall Brittania Recording_transcript.md");
 const P2 = path.join(DIR, "022426 2 Ashfall Brittania Recording_transcript.md");
 const OUT = path.join(DIR, "022426 UNIFIED Ashfall Brittania Recording_transcript.md");

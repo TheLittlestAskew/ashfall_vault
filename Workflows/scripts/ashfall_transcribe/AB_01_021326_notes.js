@@ -688,7 +688,7 @@ const doc = new Document({
   }]
 });
 
-const OUT_DIR = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Session_Notes`;
+const OUT_DIR = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Session_Notes`;
 const OUT = path.join(OUT_DIR, "AB_01_021326_Graduation_Day.docx");
 
 // fix_tbl_borders: strip invalid <w:left>/<w:right> from <w:tblBorders>, repack document.xml

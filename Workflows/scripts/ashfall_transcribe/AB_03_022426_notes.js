@@ -405,7 +405,7 @@ const doc = new Document({
   }]
 });
 
-const OUT = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Session_Notes\AB_03_022426_Mr_Cat_Esquire.docx`;
+const OUT = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Session_Notes\AB_03_022426_Mr_Cat_Esquire.docx`;
 function fixTblBorders(p) {
   const zip = new AdmZip(p);
   let xml = zip.getEntry("word/document.xml").getData().toString("utf-8");

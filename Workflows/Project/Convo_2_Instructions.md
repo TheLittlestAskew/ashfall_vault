@@ -9,7 +9,7 @@ This document defines the step-by-step workflow for **Convo 2**: propagating a c
 
 ## ⟦FILL⟧ INDEX — finish these once, then delete this block
 
-1. `C:\Users\theli\ashfall_vault` — local Obsidian path (convention: `C:\Users\theli\ashfall_vault\`)
+1. `C:\Users\theli\Obsidian Vaults\ashfall_vault` — local Obsidian path (convention: `C:\Users\theli\Obsidian Vaults\ashfall_vault\`)
 2. `ashfall-vault` — Obsidian MCP vault name (convention: `ashfall-vault`, hyphenated)
 3. `https://github.com/TheLittlestAskew/ashfall_vault`
 4. `⟦FILL: starting session range⟧` — first tracker file range (e.g. `S01-S10`) given the campaign is already mid-run
@@ -27,7 +27,7 @@ Convo 2 takes the completed session notes (`.docx` from Convo 1) and propagates 
 
 1. **The Convo 2 Handoff Block** — pasted from the end of Convo 1.
 2. **The completed session notes** — the `.docx` from Convo 1, or its content pasted/uploaded here.
-3. **Vault access** — Obsidian MCP (vault `ashfall-vault`) **or** Filesystem MCP at `C:\Users\theli\ashfall_vault`.
+3. **Vault access** — Obsidian MCP (vault `ashfall-vault`) **or** Filesystem MCP at `C:\Users\theli\Obsidian Vaults\ashfall_vault`.
 
 If vault access is unresponsive, say so immediately. Do not draft vault updates from memory without verifying current vault state.
 
@@ -37,7 +37,7 @@ If vault access is unresponsive, say so immediately. Do not draft vault updates 
 
 ## VAULT REFERENCE
 
-**Vault path:** `C:\Users\theli\ashfall_vault`  •  **MCP vault name:** `ashfall-vault`
+**Vault path:** `C:\Users\theli\Obsidian Vaults\ashfall_vault`  •  **MCP vault name:** `ashfall-vault`
 
 **Folder structure (mirror of SITL):**
 ```

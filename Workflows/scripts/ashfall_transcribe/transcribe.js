@@ -10,7 +10,7 @@
  * Adapted from sitl_transcribe.js (Sky Is The Limit campaign).
  *
  * LOCATION:
- *   C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe\transcribe.js
+ *   C:\Users\theli\Obsidian Vaults\ashfall_vault\Workflows\scripts\ashfall_transcribe\transcribe.js
  *
  * PREREQUISITES:
  *   1. Node.js installed (v18+)
@@ -20,7 +20,7 @@
  *   4. Session recordings in: ashfall_vault\Session_Sources\Recordings\
  *
  * USAGE:
- *   cd C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe
+ *   cd C:\Users\theli\Obsidian Vaults\ashfall_vault\Workflows\scripts\ashfall_transcribe
  *   node transcribe.js                              (interactive picker)
  *   node transcribe.js "021326 Ashfall Brittania Recording.mp3"
  *   node transcribe.js --speakers 9 session.mp3     (override speaker count)
@@ -36,7 +36,8 @@ const path = require("path");
 const BASE_URL = "https://api.assemblyai.com";
 
 // Default directories — all paths relative to the ashfall_vault
-const VAULT_ROOT = String.raw`C:\Users\theli\ashfall_vault`;
+// Vault root derived from this script's location (<vault>\Workflows\scripts\ashfall_transcribe\).
+const VAULT_ROOT = path.resolve(__dirname, "..", "..", "..");
 const RECORDINGS_DIR = path.join(VAULT_ROOT, "Session_Sources", "Recordings");
 const TRANSCRIPTS_DIR = path.join(VAULT_ROOT, "Session_Sources", "Transcripts", "Raw_Unedited");
 
@@ -46,7 +47,7 @@ function loadApiKey() {
   if (process.env.ASSEMBLYAI_API_KEY) return process.env.ASSEMBLYAI_API_KEY;
   const candidates = [
     path.join(VAULT_ROOT, ".env"),
-    String.raw`C:\Users\theli\sitl_vault\.env`,
+    String.raw`C:\Users\theli\Obsidian Vaults\sitl_vault\.env`,
   ];
   for (const envPath of candidates) {
     if (!fs.existsSync(envPath)) continue;

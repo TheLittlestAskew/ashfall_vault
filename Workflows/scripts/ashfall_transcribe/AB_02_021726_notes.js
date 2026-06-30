@@ -463,7 +463,7 @@ const doc = new Document({
   }]
 });
 
-const OUT = String.raw`C:\Users\theli\ashfall_vault\Session_Sources\Session_Notes\AB_02_021726_Ashes_of_the_Living.docx`;
+const OUT = String.raw`C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Session_Notes\AB_02_021726_Ashes_of_the_Living.docx`;
 function fixTblBorders(p) {
   const zip = new AdmZip(p);
   let xml = zip.getEntry("word/document.xml").getData().toString("utf-8");

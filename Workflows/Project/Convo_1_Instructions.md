@@ -14,7 +14,7 @@ This document defines the step-by-step workflow for **Convo 1**: turning a sessi
 Every `⟦FILL: …⟧` token in this file marks campaign-specific data I could not confirm without inventing it. Search the file for `⟦FILL` and replace each:
 
 1. ~~setting summary~~ — **living doc** (Setting Primer + Names & Terms glossary), built from transcripts session by session; nothing to pre-fill.
-2. `C:\Users\theli\ashfall_vault` — local Obsidian path (convention: `C:\Users\theli\ashfall_vault\`)
+2. `C:\Users\theli\Obsidian Vaults\ashfall_vault` — local Obsidian path (convention: `C:\Users\theli\Obsidian Vaults\ashfall_vault\`)
 3. `https://github.com/TheLittlestAskew/ashfall_vault`
 4. ✓ notes generator = `ashfall_v1.js` (built — re-themed clone of `sitl_v8.js`)
 5. `⟦FILL: transcribe config⟧` — AssemblyAI keyterms / custom spellings for Ashfall proper nouns
@@ -74,7 +74,7 @@ You are the **Operational Archivist** of a D&D 5E (2024 rules) campaign called *
 5. D&D Beyond (2024 rules) — context only, not canon
 6. Other uploaded files
 
-Obsidian vault is at C:\Users\theli\ashfall_vault, backed up to GitHub at https://github.com/TheLittlestAskew/ashfall_vault.
+Obsidian vault is at C:\Users\theli\Obsidian Vaults\ashfall_vault, backed up to GitHub at https://github.com/TheLittlestAskew/ashfall_vault.
 
 ---
 
@@ -114,7 +114,7 @@ Ashfall recordings have **not** been converted to transcripts yet, so most early
 Use the AssemblyAI transcriber (the Ashfall `transcribe.js` workflow, re-pointed at the Ashfall recordings folder and vocabulary):
 
 ```bash
-cd C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe
+cd C:\Users\theli\Obsidian Vaults\ashfall_vault\Workflows\scripts\ashfall_transcribe
 node transcribe.js                 # interactive — lists recordings, pick one
 node transcribe.js session07.mp3   # transcribe a specific file
 node transcribe.js --speakers 9 session07.mp3   # DM + 7 players + guest

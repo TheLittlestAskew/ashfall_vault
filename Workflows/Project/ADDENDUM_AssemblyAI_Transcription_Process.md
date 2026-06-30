@@ -27,7 +27,7 @@ Session recordings are transcribed locally via a Node.js script that calls the A
 
 ### Option A: Interactive Picker (Recommended)
 ```
-cd C:\Users\theli\ashfall_vault\Workflows\scripts\ashfall_transcribe
+cd C:\Users\theli\Obsidian Vaults\ashfall_vault\Workflows\scripts\ashfall_transcribe
 node transcribe.js
 ```
 Lists all recordings in the Recordings folder sorted newest-first. Pick by number.
@@ -106,7 +106,7 @@ As the campaign progresses, add new terms to the script. Edit `transcribe.js` di
 
 ## Recordings Storage
 
-- **Primary (vault):** `C:\Users\theli\ashfall_vault\Session_Sources\Recordings\`
+- **Primary (vault):** `C:\Users\theli\Obsidian Vaults\ashfall_vault\Session_Sources\Recordings\`
 - **Original backup (OneDrive):** ⟦FILL: OneDrive Ashfall recordings path⟧
 
 The script points to the vault copy. Originals remain in OneDrive as backup.
