@@ -16,6 +16,12 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-07-26 11:44 ET · Claude Code
+- **Changed:** Added the Handoff Contract to `AGENTS.md` so Codex follows it. Codex reads `AGENTS.md`, never `~/.claude/skills/`, so it had no handoff instructions at all before this.
+- **Commit:** `b25d604`
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** Log entries must now carry a tool label (`Claude Code` / `Claude desktop` / `Codex` / `ChatGPT`). Do not restructure this file; the dashboard parses it.
+
 ### 2026-07-04 ET · Claude chat
 - **Changed:** Added `Workflows/scripts/Publish-Ashfall.cmd` (one-command note publish). Rewrote DO NEXT as the pre-Monday work order from the 2026-07-04 three-vault consistency audit (missing `type:` frontmatter, no Templates folder, root clutter, workflow-doc parity gaps).
 - **Commit:** `Add Publish-Ashfall.cmd; DO NEXT = pre-Monday work order (vault audit)`
