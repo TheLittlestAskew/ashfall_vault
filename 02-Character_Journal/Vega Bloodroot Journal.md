@@ -199,3 +199,36 @@
 > We're sleeping here, under the bard's dome, in the room where we killed everyone. Tomorrow the castle. I want a warhammer. I'm told to go see the dwarf.
 >
 > One of them ran. She got out while there was still a door. I keep thinking about the pale one coming up those stairs by himself, and how the book said that's exactly when they're easiest to kill.
+
+---
+
+> [!note]- S11 — He was timing us. (A Delightful Chase)
+> The doors shut behind us and the quiet outside was worse than the quiet inside had been.
+>
+> I know the difference now between a place that is empty and a place that is holding its breath. The road out was the second kind. Broken branches at chest height — not mine, I'm taller than that, but chest height for something that walks. Prints in the mud, still soft. Four sets. The changeling read them and said they'd come through recently. Nobody said the obvious thing, which is that recently means *still here*.
+>
+> Then a voice got inside my head and said **run, I want to see how far you get.**
+>
+> I have been afraid of things. This wasn't that. This was the particular insult of being spoken to like an animal that's about to be released for sport. I said something stupid back, because that's what I do when I want my hands to stop shaking, and then the shapes came out of the rubble — too many teeth, eyes lit up wrong — and they didn't come at us like beasts. They came at us like a plan. Circling. Flanking. Pushing us where they wanted us.
+>
+> Six of them. And whoever was driving them never showed his face, not once, the whole time.
+>
+> So I made it simple. The healer offered me a ward and I took it and went to work.
+>
+> The first one I took with the axe, and I have to write down what that felt like because I don't think it will happen the same way twice. Something in me went quiet. Not the anger — the *noise around* the anger. Left to right, right to left, and then the axe up over my head and straight down through the middle of him. Clean. It was the closest thing to dancing I have ever done. Somebody shouted at me to save some for the rest of them.
+>
+> Here is the part I keep turning over. Halfway through, I stopped wanting the axe.
+>
+> I put it away. I walked over to the next one and I hit him with my hands. Left, right. The knuckles the tinkerer built into my gauntlets, with that shard of the sun sitting in them — every punch landing with a little of the light we crossed a dead city to find. I gave in to it fully. I'm a bear, and a bear does not need a blade, and for a while there I wasn't thinking in words at all. When the last one turned on me I roared at him first. I wanted him to know what was coming. He hit me anyway.
+>
+> Three of them went down under me by the end. Two of those weren't mine to take. I stole one clean off the little bard after she'd spent the whole night wearing him down — I only meant to throw one more punch, and then he was dead, and I said so out loud because she deserved to hear it from me instead of figuring it out. The druid said he'd have stolen it if I hadn't. That's kind, and it isn't the same as it not happening.
+>
+> Then it was over, and *he* finally came out. Cloak, dark leathers, and the pleasure of a man watching something he owns perform well. Another thrall walked out of the dark beside him, bigger than the six we'd just put down. He didn't fight. He said we'd led him on a delightful chase and that he couldn't wait until next time, and the fog took him.
+>
+> He was never hunting us. He was *timing* us.
+>
+> We walked out of the dead zone and made the castle. There's coin now — enough that I could put it toward something with weight to it. I want a warhammer, two-fisted, and I've told the smith so. And when there's an hour that belongs to me, I'm going to spend it with the metal cat. He keeps stepping in front of people. Somebody should sit with him for a while and let him be something other than a shield.
+>
+> Next time, he says.
+>
+> Good. Let him come where I can reach him.

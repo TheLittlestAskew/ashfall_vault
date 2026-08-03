@@ -40,6 +40,17 @@ Bobby doesn't appear in S10, but he is set up as **the opening business of the n
 - ⚑ **DM: "I would talk to Bobby. Bobby's a master *curator* at this point."** The word `curator` was **left uncorrected** — the spell-check log flagged `master armorer` at only 35% confidence and marked it "do not apply without DM confirmation." Ask the DM which word he meant.
 - Note: [[Flux]] walked out of the library with **diamonds, rubies and emeralds** (S10) — Bobby has wanted precious jewels for castle protection, and emeralds specifically, since S02.
 
+## S11 — referenced, still not on screen ⚑
+
+Bobby does not appear in [[Session 11 — A Delightful Chase]] either, but the S10 hook advanced on two counts:
+
+- ✅ **The custom weapons were collected** at [[The Walled Base (Museum-Castle)|the castle]] after the party cleared [[The Dead Zone]]. The S05→S08 commission chain is closed.
+- 🔨 **A NEW COMMISSION IS OPEN: [[Vega Bloodroot]]'s "double fist warhammer."** She named him directly — *"So Bobby, I want a double fist warhammer."* ⚑ **"Double fist" is unclarified**: two-handed, or a paired set? [[Samothy Smith-Wesson]] has offered to infuse it once it exists. Not yet acquired.
+- 🛒 **The shop run is next session's opener.** Inventory to be posted *"probably tomorrow"*; every PC is holding **161 gp 90 sp** to spend.
+- 💎 **Gems are now confirmed currency** in this world, tradeable by condition (raw vs cut) — DM, S11. The party holds **3 diamonds, 6 emeralds, 5 rubies**. Bobby has wanted precious jewels for castle protection, and **emeralds** specifically, since S02. The supply and the demand are now in the same room.
+- ⚑ **`master curator` vs `master armorer` is still unresolved** — the S10 spell-check row was held at 35% confidence pending DM confirmation, and S11 gave no new hearing.
+- ⚑ Note against his S02 lore: **"emeralds are the only way to kill a Beastmaster"** now has direct evidence against it — S10's [[The Beast Master]] died to Call Lightning with no emerald involved. Still with the DM.
+
 ## Relationships
 
 - [[Abigail]] — she's been "trying to ride that mustache for years"; he threw her out of his shop for touching his stuff. The party coached her (bring alcohol, compliment the craftsmanship).

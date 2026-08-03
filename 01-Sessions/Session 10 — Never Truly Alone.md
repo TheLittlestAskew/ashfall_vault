@@ -283,7 +283,7 @@ The costs are informational, not mechanical: **Abcde escaped** to report, the Be
 | [[Barrett Grimmskar]] | **Skin of Your Teeth** — Risk Die 1d8 (reaction) | Insufficient | First recorded use of this Gunslinger maneuver ⚑ homebrew name, first-seen |
 | Taint (DM) | Reroll with disadvantage (**Mr. Cat**) | 7 | **Miss** — "Mr. Cat for the rescue!" |
 | [[Samothy Smith-Wesson]] | Attack vs Lucky (advantage) | **natural 20** | Crit |
-| [[Samothy Smith-Wesson]] | Damage | **40** (max 25 + 15) | ⚑ Arithmetic garbled in transcript ("2d10 5, so 25") — needs archive verification |
+| [[Samothy Smith-Wesson]] | Damage | **40** (max 25 + 15) | As called at the table ("2d10 5, so 25. Plus, uh, 15, so that's 40 damage") |
 | [[Samothy Smith-Wesson]] | Attack vs Lucky (advantage) | 27 | Hit |
 | [[Samothy Smith-Wesson]] | Damage | 11 | — |
 | [[Samothy Smith-Wesson]] | **Finger Guns** vs Lucky (bonus action) | **natural 20** | Crit — second nat 20 of the same turn |
@@ -457,7 +457,7 @@ The table did **not** name this session in play, so titles were generated from t
 - ⚑ **Automatic weapons approved.** DM: "it should be fine for automatics… We can have Bobby craft you one." For `House Rules & Rulings.md`.
 - ⚑ **Relentless Rage at party level 10.** Vega: "I'm gonna get Relentless Rage." That's a **Barbarian 11** feature in the 2024 PHB. S09 confirmed Vega dropped her Rogue dip and went pure Barbarian, which would put her at Barbarian 10 here — still one short. Mishear, player error, or DM allowance: flag, don't correct.
 - ⚑ **Branding Smite at 3rd level for 2d6.** 2024 Branding Smite is 2nd level / 2d6, +1d6 per slot above. Transcription is probably accurate and the player under-counted. **Archive cross-check required** (and blocked, see above).
-- ⚑ **Samothy's crit arithmetic doesn't reconcile** — "2d10 5, so 25. Plus, uh, 15, so that's 40 damage." Needs the archive.
+- **Samothy's crit, as called at the table** — "2d10 5, so 25. Plus, uh, 15, so that's 40 damage." Recorded as stated; table math is not reconciled here.
 - ⚑ **Starry Wisp attribution.** The glossary (S08) records it as **Valerian's** cantrip; here **Zelda** casts it. Both Bard and Druid have it in the 2024 PHB — the glossary note just needs widening, not correcting.
 - ⚑ **Deanna's "crit in stock."** She asks "Do I have a crit in stock?", the DM confirms, and she then chooses to "shoot and miss." This mechanic is not documented anywhere in the vault. For `05-Mechanics`.
 - ⚑ **Samothy's new teleport infusion** ("teleport up to 15 feet anywhere a previous creature has been") is garbled in transcription. Get the real wording before it enters `05-Mechanics`. DM deferred the surprise-attack interaction: "We'll talk about mechanics for that."

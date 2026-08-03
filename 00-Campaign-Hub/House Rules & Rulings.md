@@ -12,7 +12,7 @@
 | **Loud sound doubled vs. thralls** | Very loud effects (e.g. Thunderwave, audible 300 ft) doubled against sound-hunting feral thralls. | S01 |
 | **Deal with the devil** | A player may "make a deal with the devil" for benefits (e.g. an extra attack). Mechanics unrevealed. Offered to Vega, declined. DM: "someone's gonna have to at some point." | S01 |
 | **Exhaustion reroll** | A missed attack may be rerolled at the cost of 1 exhaustion point. Offered to Vega, declined. | S01 |
-| **Barrett crits 19–20 (ranged)** | Per his class feature, confirmed at table. | S01 |
+| **Barrett crits 19–20 (ranged)** | Per his class feature, confirmed at table. ⚑ **Played as 18–20 in S11** — see Deferred / Pending Rulings (S11). | S01 |
 | **Steel Defender summoning** | Must be summoned (action / summoning word, via smith's tools); goes dormant at end of combat/task. DM variation on RAW. | S01 |
 | **Infusion logistics** | To infuse another PC's item: owner puts it in party inventory → Samothy takes + infuses → owner takes it back and attunes. Infusing ≠ attuning. | S01 |
 | **Mundane weapon picks** | Players choose base (non-magical, non-plus) weapons freely from the armory. | S01 |
@@ -34,6 +34,7 @@
 | Rule | Detail | Source |
 |---|---|---|
 | **Hookshot Arm Bracers (formalized)** | Bonus action; 4 charges @ lvl 5 + reload period; tri-hook broadhead anchor; +1 AC **requires attunement**; wall-perch grants high-ground attack advantage; offensive cable-grapple via Strength check (DM calculates impact damage) | S03 (Samothy's card) |
+| **Hookshot Arm Bracers — S11 respec** ⚑ | Re-stated on the record: **two bracers, one per arm** (not waist-mounted), **bonus action**, **unlimited uses**, **one attunement slot**, **+1 AC**. ⚑ **"Unlimited uses" contradicts the S03 card's "4 charges + reload period"** — confirm which is current. Also newly demonstrated: **firing a hook clean through a creature to pin it to the ground** (2d6+3), which then waives the to-hit on point-blank shots | S11 |
 | **Kill contests** | Occasional per-session kill tallies with a prize for most kills — "not an every session thing" | S03 |
 | **Stunts → inspiration** | Exceptional rule-of-cool plays earn next-session inspiration (e.g., the cable-kill) | S03 |
 | **Monsters scale** | "As you level up, so do the monsters" — explicit response to AC/to-hit cheese | S03 |
@@ -84,6 +85,32 @@
 | **"If you meet AC, you beat AC"** | An attack roll **equal to** AC hits. Stated flatly when Taint's 22 met Barrett's AC 22 | S10 |
 | **10-foot floors** | Ruled on the record, correcting a player's "standard 12-foot floors" assumption. Governs vertical distances in [[The Grand Library of the Veiled Dawn]] and presumably elsewhere | S10 |
 | **Steel Defender proximity → disadvantage** | [[Mr. Cat\|Mr. Cat, Esquire]] being within **5 feet** imposed **disadvantage on an attack that had already hit**, forcing a reroll (22 → 7, miss). Applied *retroactively* within the same resolution | S10 |
+
+## Standing Rules Added S11
+
+| Rule | Detail | Source |
+|---|---|---|
+| **Action → second bonus action** | A player may **sacrifice one of their actions to take a second bonus action.** [[Samothy Smith-Wesson]] asked outright — *"If I sacrifice one of my actions, could I do a second bonus action?"* — and the DM answered **"Sure."** Used immediately to chain the bracer sling, the boot teleport and a grapple into one turn. ⚑ Granted in the moment; not stated as a general standing rule, but not limited either | S11 |
+| **Cure Wounds as a bonus action** | [[Deanna Smith-Wesson]] cast **Cure Wounds as a bonus action** (16 HP to [[Valerian Hellebore]]) and the DM allowed it. **Cure Wounds is an Action in the 2024 PHB.** ⚑ Recorded as played. Note the same session had Valerian *cancel* a bonus-action Cure Wounds after realising it was an action — so the table's understanding is inconsistent | S11 |
+| **Point-blank vital organ (Samothy)** | On a **point-blank shot**, roll a **straight d20** alongside the attack; **a 20 means the shot hits a vital organ.** Player-invented, DM-approved on the spot. Rolled 9 and 10 in its debut — *"That's a negative, Ghost Rider"* ⚑ Effect of a vital hit never specified | S11 |
+| **Vega's punch-punch-kick flourish** | **Left punch, right punch, then a bonus-action kick to the chest.** [[Vega Bloodroot]] asked; DM: *"Yeah, we could do that. That sounds fun."* ⚑ Damage/mechanics unspecified — flavour flourish on an existing attack routine, not a new action | S11 |
+| **Pinned targets need no to-hit** | With a target **pinned to the ground** by a fired bracer hook, point-blank shots resolve with **no attack roll** — DM: *"not when you've got them pinned down like this."* Distinct from advantage; the roll is waived entirely | S11 |
+| **Gems are currency** | **Gems are legal tender in this setting**, traded by **condition** — DM: *"gems are a currency in this place… You can trade them depending on the condition of the gem, whether it's like raw diamond or, you know, a cut diamond."* Raw and cut are valued differently. ⚑ The jade ball is **excluded**: *"I wouldn't say that's a gem"* | S11 |
+| **Radiant doubled vs. beast thralls** | The S01 "radiant doubled vs. vampires" rule was applied **consistently all session** to [[Beast Thrall]]s specifically, and is the decisive mechanic of the S11 fight (158 radiant from [[Valerian Hellebore]] alone). Recorded here because it now has a large body of on-record application | S11 (confirming S01) |
+| **Beast thralls: frenzy below 50 HP** | A **"blood trait"** — below **50 HP** a beast thrall enters a **frenzy**, *"basically like a Barbarian's Rage… it gives advantage on hits."* ⚑ Confirm "blood trait" is the DM's term | S11 |
+| **Beast thralls: double damage to structures** | *"the Beast Thrall does deal double damage to structures, doors, and other fortifications."* | S11 |
+| **Inspiration expires at end of session** | DM: *"It ends at the game"* — held inspiration does **not** carry between sessions. ⚑ **This contradicts S02's "multiple inspirations may be held"** if that was ever read as cross-session. He also confirms he ran no inspiration game this week | S11 |
+
+## Deferred / Pending Rulings (S11)
+
+- ⚑ **Grapple escape reverted to check-vs-save.** The DM ran Thrall B's escape as *"Strength v Strength… his would be a check, yours would be a save"* — which **contradicts the S09 standing rule** (a flat save vs DC 8 + prof + Str, not an opposed roll). Either the rule reverted, this was a different contest, or it was a slip. **Ask the DM which is canon**, because it ran three times this session.
+- ⚑ **[[Barrett Grimmskar]]'s crit range: 18 or 19?** He played an **18 as a crit** — *"which for me is a— consider it a crit now"* — and credited **Piercer** for the extra crit die (2d8 → 3d8). The standing rule above and the S04 glossary both say **19–20**. Did the range widen at level 10?
+- ⚑ **Advantage resolved by addition.** [[Mr. Cat|Mr. Cat, Esquire]]'s attack rolled 17 and 8 with advantage, was reported as *"17 plus 8, that's a 25,"* and the DM **accepted 25**. Advantage takes the higher die. Almost certainly a slip rather than a rule — but it landed a hit, so flag it.
+- ⚑ **Samothy's teleport infusion — wording changed again.** S11: *"anywhere an **enemy** has been."* S10: *"anywhere a **previous creature** has been."* Two hearings, two different texts, and the DM has now let it run in combat **twice** without resolving the mechanics he deferred in S10. **Still do not enter into `05-Mechanics`.**
+- ⚑ **"Pins and Needles"** ([[Zelda Z Whipper|Zelda]]) — a first-seen ability with **no 2024 PHB match and no glossary entry**. Homebrew, a College of the Moon feature, or a mishearing? ⚑ It sits inside a **held** spell-check row, so the whole passage is unreliable. **Confirm the name before it enters `05-Mechanics`.**
+- ⚑ **Spell-list legality (flag, do not correct):** [[Zelda Z Whipper|Zelda]] cast **Inflict Wounds** at 3rd level and **Infestation** at will — both off the standard Bard list, though **Magical Secrets at 10** would cover it. [[Vega Bloodroot]]'s **Menacing Attack** is still the unsourced maneuver flagged in S09. [[Valerian Hellebore]]'s **Spiny Shield** still has no confirmed source (described here as reducing damage to 2d4 and reflecting the same as piercing).
+- ⚑ **Fall damage from 24 feet** was stated as *"24 feet tall times, uh, 12 fall damage."* Standard 2024 fall damage for 24 ft is 2d6. Unreconciled.
+- ⚑ **[[Flux]]'s vampire transformation — new homebrew pending.** DM's stated terms: **dissect and learn the anatomy** (the **eyed** variant specifically), a body may be taken *"back to the doctor,"* it works *"similar to"* Druid Wild Shape, and **"you keep your normal stats."** No action cost, duration, uses-per-rest, or trigger has been specified. **This is a full subsystem waiting to be written.**
 
 ## Deferred / Pending Rulings (S10)
 

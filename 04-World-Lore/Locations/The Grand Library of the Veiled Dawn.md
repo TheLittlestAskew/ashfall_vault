@@ -34,6 +34,18 @@ The S10 battle nailed down the restricted section's physical layout, most of it 
 
 The fight was won on **vertical control**, not damage: elevation and separation, with line of sight as the limiting resource.
 
+## Status (after S11 — DEPARTED)
+
+**The party left the library in the first line of [[Session 11 — A Delightful Chase]]** and did not return. DM: *"the heavy doors groan shut behind you as you— and sealing the library's stale air away."*
+
+They walked straight out into [[The Dead Zone]] and were ambushed within six minutes of leaving — by **six [[Beast Thrall]]s** under [[The Cloaked Figure]], who had been **tracking them** (four sets of fresh prints, found by [[Flux]]'s natural-20 Perception, heading the way the party had to go). ⚑ Whether he was watching the library, following the party out of it, or waiting on the road is **never stated**.
+
+**Left unfinished here:**
+- 🗣️ **The whisper that said [[Flux]]'s name** was **not mentioned once** in S11. The room where it happened is now behind them.
+- 📚 **The entire restricted section is still unread**, four sessions running.
+- ⚑ **Abcde is still at large**, and the [[Cult of the Pale World]] was not mentioned in S11 at all.
+- ⚑ **Carl Senior is still never declared dead.**
+
 ## Status (after S10 — BATTLE OVER, party victorious)
 
 **The S08 cliffhanger / S09 battle ENDS HERE.** ~57 minutes of S10 finish it. **Party victory, no PC downed**, total party damage taken **15** (all [[Vega Bloodroot]]'s).

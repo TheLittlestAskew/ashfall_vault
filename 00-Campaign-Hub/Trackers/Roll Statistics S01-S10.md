@@ -208,7 +208,7 @@ Per-roll color in [[Session 08 — Silence in the Library]]'s predecessor note (
 
 | Character | Roll events ⚑ | Nat 20s | Nat 1s | Highlights |
 |---|---|---|---|---|
-| [[Samothy Smith-Wesson]] | ~14 | **2** | 0 | **DOUBLE NAT 20 IN ONE TURN**, both into Lucky — crit for **40**, then Finger Guns crit for **34**. "Damn, I am fucking this guy up." **Lucky dies.** ⚑ Crit arithmetic doesn't reconcile on the recording ("2d10 5, so 25… so that's 40") |
+| [[Samothy Smith-Wesson]] | ~14 | **2** | 0 | **DOUBLE NAT 20 IN ONE TURN**, both into Lucky — crit for **40**, then Finger Guns crit for **34**. "Damn, I am fucking this guy up." **Lucky dies.** *(Damage as called at the table: "2d10 5, so 25… so that's 40")* |
 | [[Vega Bloodroot]] | ~14 | **1** (Perception) | 0 | The **natural-20 Perception** that surfaced [[The Beast Master]] a full round before he could act — the party's single biggest advantage all night. 30-damage turn on Cuck, then a 42-damage round (Eldritch Claw Tattoo +6 ×2, Reckless declared), then **kills Cuck last** |
 | [[Barrett Grimmskar]] | ~9 | 0 | 0 | 26→19 opener ("Jesus Christ, superstar!"); **kills Taint** (17→7, 23→9). First recorded use of the Gunslinger maneuver **Skin of Your Teeth** ⚑ (Risk Die 1d8 — *insufficient*, then [[Mr. Cat]] saved him anyway) |
 | [[Deanna Smith-Wesson]] | ~9 | 0 | 0 | Steady pistol work: Taint 19→4, Carl Senior 18→11 and 17→14 (Vex). ⚑ **One kill the DM confirms but never names a target for** (00:34:57) — she asked about Taint, but Barrett kills Taint six minutes later |

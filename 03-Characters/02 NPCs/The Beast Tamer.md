@@ -52,8 +52,23 @@ S10 put an actual **Beast Master** on screen and killed him: see [[The Beast Mas
 - **"Beast Master" is now used as an individual, not just a class** — a usage shift worth confirming.
 - ⚑ The **[[Hampshire]] Beast Master** (S02, light-blue aura, vanishing footprints) was never connected to S10's corpse by anyone at the table.
 
+## S11 Development — a candidate, NOT a confirmation 🛑
+
+[[Session 11 — A Delightful Chase]] introduced **[[The Cloaked Figure]]**: an unnamed antagonist who ambushed the party in [[The Dead Zone]] with **six [[Beast Thrall]]s**, spoke to them **telepathically**, watched the entire fight without acting, and left promising a return — *"you led me on a delightful chase… I can't wait till next time."*
+
+**The overlap with this page is substantial and entirely circumstantial:**
+
+- **Commands beast thralls** — his six were *"moving with a purpose, circling, flanking, driving you into position,"* not attacking like animals. That is handling.
+- **Telepathy** — he spoke into every mind at once. The S10 Beast Master lore describes a psychic bond to thralls; the Beast Tamer's demonstrated kit is memory magic and command.
+- **Treats the party as sport** — *"run, I want to see how far you get"* is tonally identical to S01's *"You've kept me very well entertained… I hope in the near future that I get to fight you myself."*
+- **Books a rematch and vanishes untouched**, exactly as the Beast Tamer did in S01.
+- **Appearance doesn't contradict:** "cloak and dark leathers, eyes gleaming with predatory delight." No gold eyes, no ritual scars, no gaunt pallor were described — but nothing rules them out either.
+
+🛑 **NONE OF THIS IS STATED.** The DM never named him, and the figure never named himself. [[The Beast Master]] is recorded **killed in S10**, so it is not him unless the DM says otherwise. **[[The Cloaked Figure]] is held as a separate placeholder page and MUST NOT be merged into this one until the DM confirms.** See [[DM Questions — Open]].
+
 ## Open Threads
 
+- 🛑 **Is [[The Cloaked Figure]] (S11) this character?** The single most important open question in the vault. **Ask the DM. Do not guess.**
 - Promised personal duel with the party "in the near future"
 - "There will be a time where I'll need your assistance" — meaning unknown
 - His true name sits memory-blocked in Deanna's head
