@@ -4,20 +4,22 @@
 > Handoff is **enabled** for this repo. Every change updates the DO NEXT block below and prepends a log entry.
 > Note: this is a notes/content vault — most session-note edits won't have a "next dev step." Use the DO NEXT block for things like next-session prep if useful, or leave it as "—".
 
-## ▶ DO NEXT — S10 Phase B is done except the roll archive
-🛑 **Re-run the Supabase roll cross-reference for S10, interactively.** It was never run — the MCP permission was denied in the automated pass, on both the `supabase` and `supabase-account2` servers, and there are no local Supabase credentials to route around it (`.env` holds only `DDB_COBALT`). Two queries:
+## ▶ DO NEXT — S10 is fully propagated; ONE blocker left, and it's the same one
+🛑 **Re-run the Supabase roll cross-reference for S10, interactively.** Still never run — the MCP permission was denied *again* in the Convo 2 pass, on both the `supabase` and `supabase-account2` servers. This is now the only thing standing between S10 and a clean ✅. Two queries:
 ```sql
 SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-06-15';
 SELECT MAX(timestamp_iso) FROM ashfall_session_rolls;
 ```
-Then reconcile against the transcript-only Full Roll Log in `01-Sessions/Session 10 — Never Truly Alone.md` (~90 roll events, **0 verified**) **before** touching `Roll Statistics S01-S10.md`. ⚠️ **The sync-gap check is outstanding, not passed.**
+Then reconcile against the transcript-only Full Roll Log in `01-Sessions/Session 10 — Never Truly Alone.md` (~90 roll events, **0 verified**) and rewrite the `## S10` block in `00-Campaign-Hub/Trackers/Roll Statistics S01-S10.md`, which is currently marked **⚠ transcript-only, not ✅**. ⚠️ **The sync-gap check is outstanding, not passed** — we still don't know whether 06/15 rolls exist in the archive at all.
 
-**Then start Convo 2** from `_pipeline/S10/handoff.md` (first line is the session-note path).
+**Everything else in Convo 2 is done and pushed.** 3 pages created ([[The Beast Master]], [[Cult of the Pale World]], [[Unknown Great Cat]]), 24 updated, 1 deleted. Full item-by-item status lives in `00-Campaign-Hub/Vault Sync Status.md` under the S10 matrix.
 
-Three answers still owed by the DM, all logged in the note's Archivist Notes: **(a)** the **level 8 → 10** jump across a 35-day gap with no recording — possible unrecorded session, which would shift this session's *number*; **(b)** is `Tink` a separate enemy from `Taint` (it decides 3 spell-check rows); **(c)** the speaker→character map is still inferred, so the corrected transcript deliberately kept `SPEAKER A–H` labels instead of script format.
+**Second job, whenever you're ready:** ⚠️ **the website is NOT updated for S10.** `rectrixcaedere` is a separate repo and a separate manual deploy — add S10 to **both** `ARC` registries (`ashfall-britannia/session.html` *and* `archive.html`, kept in lockstep on `n`/`d`/`lbl`/`t`/`f`) and bump the header stats (Sessions Chronicled; Levels Climbed → 10). The vault-side panel sources (Quote Board / Loot / Profanity `## S10` blocks + Vega's `- **S10` Key Events bullet) are all written and pushed, so the panels will populate once the registries exist.
+
+Answers still owed by the DM, all logged in `Vault Sync Status.md` → *Open Items*: **(a)** the **level 8 → 10** jump across a 35-day gap with no recording — possible unrecorded session, which would shift this session's *number*; **(b)** is `Tink` a separate enemy from `Taint` (it decides 3 spell-check rows); **(c)** the speaker→character map is still inferred, so the corrected transcript deliberately kept `SPEAKER A–H` labels; **(d)** **Carl Senior is never declared dead** while Cuck is confirmed last standing; **(e)** ⚡ new — **emeralds are supposedly "the only way to kill a Beastmaster"** (S02, Bobby), but S10's Beast Master died to Call Lightning with no emerald involved.
 
 ⚠️ `_pipeline/` is gitignored — the review packet and the Convo 2 handoff live only on this machine.
-⚠️ **S10 is the last session in the `S01-S10` tracker range.** S11 starts a new tracker file set.
+⚠️ **S10 is the last session in the `S01-S10` tracker range.** S11 starts a new tracker file set for all four trackers; carry the Profanity running totals forward (Chase 179 · Taylor 161 · DM 88 · Josh 48 · Doug 29 · Madi 24 · Christie 12 · Jill 3).
 
 ---
 
@@ -32,6 +34,14 @@ Three answers still owed by the DM, all logged in the note's Archivist Notes: **
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-08-03 12:35 ET · Claude Code
+- **Changed:** Ran **Convo 2** (full vault propagation) for Session 10 off `_pipeline/S10/handoff.md`. **28 files: 3 created, 24 updated, 1 deleted.** Created `The Beast Master.md` (NPC — psychic beast-thrall lore, the session's only worldbuilding drop), `Cult of the Pale World.md` (filled the empty `04-World-Lore/Factions/` folder and resolved a dangling backlink), `Unknown Great Cat.md` (the severed skull). Dashboard: S10 row, threads 38/44/45 **resolved** and **46–55 opened**, NPC directory +5, locations, timeline, party → **LEVEL 10**. All four trackers got `## S10` blocks (Profanity running totals recomputed; **XP Tracker retired to milestone**). Journal callout appended verbatim. **All 7 PC pages** — Key Events plus a real find: every one still read *"Level: 5 as of S01"*, six sessions stale, all corrected to 10. Also Mr. Cat / Bobby / Beast Tamer, Grand Library (10-ft floors, battle-over status), Walled Base, Setting Primer, Names & Terms (`## Provisional ⚑ (S10)`, 17 first-seen terms, **none canonized**), House Rules **+5 standing / +4 deferred**, Spell Usage. Deleted the 0-byte duplicate `01 PCs/Companions/Mr. Cat.md` so `[[Mr. Cat]]` resolves to one page. Vault Sync Status updated last with a full S10 matrix.
+- **Commit:** `6b7b288`
+- **Friction:** gen-fail — the Supabase MCP `execute_sql` was permission-denied **again**, on both `supabase` and `supabase-account2`, exactly as in the two Convo 1 passes. Nothing worked around it; this is now three consecutive automated runs blocked on the same thing. I wrote the `## S10` Roll Statistics block anyway but marked it **⚠ transcript-only, NOT ✅** with the reconciliation query inline, rather than letting a transcript reconstruction sit in the tracker looking archive-verified. **Stop trying this non-interactively — it needs an interactive session.**
+- **Friction:** gen-fail — compound `cd X && …` Bash calls were permission-blocked again (same as 2026-07-29 and the Phase A run), and a `for`-loop over tracker tails tripped a "simple_expansion" parser error. A PowerShell `Get-ChildItem | ForEach-Object` replacement then timed out at 5s. Worked by dropping shell iteration entirely: `Grep` for `^## ` to locate section anchors, then `Read` with `offset` to pull each tail. Faster than the shell approach and it surfaced the anchors directly.
+- **Next:** Re-run the 2026-06-15 Supabase roll queries interactively and rewrite the `## S10` block in `Roll Statistics S01-S10.md`. Then the `rectrixcaedere` website registries.
+- **Watch out:** ⚠️ **The website is not updated** — separate repo, separate deploy, out of scope for this automated run; both `ARC` registries plus header stats still need S10. ⚠️ Per the no-invention rule I deliberately did **not** canonize any of the 17 first-seen S10 proper nouns (Shathide, Absidy, Lucky, Taint, Cuck, Tink, Carl Senior/Jr., Karlsteiner…) — they're all parked under `## Provisional ⚑ (S10)` pending the DM. ⚑ New contradiction worth surfacing at the table: S02's "emeralds are the only way to kill a Beastmaster" is now directly contradicted in play.
 
 ### 2026-08-03 11:40 ET · Claude Code
 - **Changed:** Ran Convo 1 **Phase B** for Session 10 (061526) off the approved `_pipeline/S10/spellcheck.md`. Applied **26 of 29** rows with word-boundary matching (the 3 the approved table itself marks "do not apply without DM confirmation" / "not recommended" — `Karlsteiner`→`Carl Senior` 45%, `Tinkt— er`→`Taint— er` 40%, Bobby `master curator`→`master armorer` 35% — were left verbatim). Wrote the corrected transcript, the spell-check log, and the full 8-section canonical note **`01-Sessions/Session 10 — Never Truly Alone.md`** (title from Vega reading the Beast Master lore aloud; 5 alternates logged). Site-parser contract verified: all five `##` H2s present plus the Location row. Convo 2 handoff written to `_pipeline/S10/handoff.md`. No `.docx`.
