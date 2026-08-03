@@ -28,6 +28,9 @@ tags: [mechanics, homebrew, house-rules]
 | **Teleport infusion** | [[Samothy Smith-Wesson\|Samothy]] | Level-10 Artificer pick. Heard two ways: "teleport up to 15 feet anywhere a **previous creature** has been" (S10) and "anywhere an **enemy** has been" (S11). Used in combat in S11. DM deferred the surprise-attack interaction: "We'll talk about mechanics for that." | S10 |
 | **"Crit in stock"** | [[Deanna Smith-Wesson\|Deanna]] | She asks "Do I have a crit in stock?"; the DM confirms she does. She then chooses to shoot and miss. Mechanism not explained on the recording. | S10 |
 | **Blood trait / frenzy** | [[Beast Thrall]] (enemy) | "When reduced below 50 HP… he enters a **frenzy**." Described as "basically like a Barbarian's Rage… it gives advantage on hits." Beast thralls also "deal double damage to structures, doors, and other fortifications." | S11 |
+| **Point-blank vital organ** | [[Samothy Smith-Wesson\|Samothy]] | Player-invented, **DM-approved on the spot**: roll a **straight d20** alongside each point-blank shot; **a 20 hits a vital organ.** Rolled 9 and 10 in its debut — DM: "That's a negative, Ghost Rider." ⚑ The effect of a vital hit was never specified. | S11 |
+| **Punch-punch-kick flourish** | [[Vega Bloodroot\|Vega]] | Left punch, right punch, then a **bonus-action kick to the chest**. She asked; DM: "Yeah, we could do that. That sounds fun." ⚑ Damage/mechanics unspecified — reads as flavour on an existing attack routine. | S11 |
+| **Hookshot Arm Bracers** | All PCs (graduation gear); specced by [[Samothy Smith-Wesson\|Samothy]] | Re-stated in S11 as **two bracers, one per arm**, **bonus action**, **unlimited uses**, **one attunement slot**, **+1 AC**. ⚑ "Unlimited uses" contradicts the S03 item card's "4 charges + reload period." Also newly demonstrated: **firing a hook through a creature to pin it to the ground** (2d6+3), after which point-blank shots need no to-hit roll. | S03, respecced S11 |
 
 ---
 

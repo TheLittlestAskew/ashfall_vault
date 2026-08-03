@@ -18,6 +18,7 @@ CAMPAIGN ID: 7170962
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
+| 11 | [[Session 11 — A Delightful Chase]] | 06/22/2026 | Directly continuous with S10; long rest at the castle at the end | **10** (no level-up) | **Ambush in [[The Dead Zone]] — total party victory, 6 [[Beast Thrall]]s killed, no PC downed, no death saves.** 🛑 **A new antagonist: [[The Cloaked Figure]]** — telepathic, thrall-commanding, never entered combat, left with [[The Massive Thrall]] promising *"I can't wait till next time."* [[Vega Bloodroot]] takes 3 kills and **stows her greataxe mid-fight to finish bare-knuckle**; the **[[The Sun Shard\|Sun Shard]] resurfaces** after 4 sessions; **gems confirmed as currency**; the **eyed thrall variant** and the **frenzy "blood trait"** revealed; [[Flux]]'s **transformation project** opens. ⚑ **Roll archive never queried — 3rd consecutive** |
 | 10 | [[Session 10 — Never Truly Alone]] | 06/15/2026 | Continuous with S09 (same night); long rest at the end | 8→**10** ⚑ | **The library battle ENDS — party victory, no PC downed.** [[The Beast Master]] killed by Valerian (Call Lightning, from spider form) and his lore put on the record; **Abcde fled** ⚑; the whole restricted section looted (unread); **someone whispers Flux's name**; XP → **milestone**; automatics approved. ⚑ **Roll archive never queried** |
 | 09 | [[Session 09 — The Battle of the Veiled Dawn (PARTIAL RECORDING)]] ⚠ | 05/11/2026 | Immediately after S08 | 7→**8** | The library battle (Carl A & B, Lieutenant Dan, STD…); **Call Lightning debut**; Vega goes pure Barbarian; radiant gloves ⚑; outcome implied-won, unconfirmed ⚑ — **mic-only recording** |
 | 08 | [[Session 08 — Silence in the Library]] | 05/04/2026 | Days later ("weeks" real-time) | 7 | **Bobby's gear delivered + Sun Shard mounted**; soul-trap seal broken; Grand Library infiltrated (Cult of the Pale World); doors axed open → **15-enemy CLIFFHANGER** |
@@ -31,8 +32,8 @@ CAMPAIGN ID: 7170962
 | 01 | [[Session 01 — Graduation Day]] | 02/13/2026 | 2 days before Christmas (winter) | 4→5 | Graduated as Ashwardens; saved the gate civilians; met [[The Beast Tamer]]; spy revealed |
 | 00 | *(uncounted intro session — unrecorded)* | pre-02/13 | — | — | Boot camp; Valerian won Perma Inspiration |
 
-**🎉 CATCH-UP QUEUE EMPTY** — every recording through **2026-06-15** is processed. *(040226 = misfiled, different campaign — excluded, still needs re-homing ⚑.)*
-🛑 **The vault is NOT current with the roll archive as of S10** — the S10 rolls were never queried (MCP permission denied in both automated runs). See [[Roll Statistics S01-S10]].
+**🎉 CATCH-UP QUEUE EMPTY** — every recording through **2026-06-22** is processed. *(040226 = misfiled, different campaign — excluded, still needs re-homing ⚑.)*
+🛑 **The vault is NOT current with the roll archive as of S10 *or* S11** — neither session's rolls were ever queried (Supabase MCP permission denied in **three consecutive** automated runs). Both roll logs are transcript-only and the **sync-gap check is outstanding**. Root cause found in the S11 run: `.claude/settings.local.json` allowlists `mcp__plugin_supabase_supabase__execute_sql`, which matches **no connected server** — the live tool is `mcp__supabase__execute_sql`. **Fix the allowlist and one interactive pass clears both.** See [[Roll Statistics S01-S10]] and [[Roll Statistics S11-S20]].
 ⚑ **35-day gap between S09 (05/11) and S10 (06/15)** with an 8→10 double level-up and no recording on disk. **Possible unrecorded session** (the S04.5 shape) — which would make S10's *number* wrong. **Do not create an S09.5 stub without DM/Taylor confirmation.**
 
 ## Active Threads
@@ -87,11 +88,23 @@ CAMPAIGN ID: 7170962
 48. 🗒️ **The folded note** — taken from [[The Beast Master]]'s ashes, in a script nobody can read ("like hieroglyphics almost"). Held by [[Valerian Hellebore]], undeciphered. (S10)
 49. 💀 **The severed big-cat skull** — jaguar stature, tiger build, 4 fangs below / 2 above, **non-magical**, **cut from its body at the neck**, from an animal "at one point abundant in the area." Jade ball in its jaws. Why was it in the restricted section? See [[Unknown Great Cat]]. (S10)
 50. 🏃 **ABSIDY ESCAPED** — fled the library alive shortly after [[The Beast Master]] fell; referred to as *she*. The only survivor, which means the [[Cult of the Pale World]] very likely knows exactly what happened. (S10)
-51. 🔨 **BOBBY'S ARMORY RUN — next session.** All 7 PCs have custom weapons waiting at [[Bobby]]'s; [[Barrett Grimmskar]] has a green light on an **automatic**; [[Vega Bloodroot]] wants a **warhammer**. (S10)
+51. 🔨 **BOBBY'S ARMORY RUN** — ⚠ **PARTIALLY RESOLVED S11:** the 7 custom weapons were **collected** at the castle. **Still open:** [[Barrett Grimmskar]]'s **automatic** (green-lit, uncrafted) and [[Vega Bloodroot]]'s warhammer, now specified as a **double fist warhammer** (thread 61). The shop run itself carries to S12 (thread 64). (S10)
 52. ⚔️ **Carl Senior's fate** ⚑ — took a full Shatter (17), a Call Lightning (32) and two of Deanna's shots (11, 14) and is **never declared dead**, yet Cuck is confirmed the last enemy standing. One of those two statements is wrong. **Ask the DM.** (S10)
 53. ❓ **Karlsteiner** ⚑ — named twice in S10's first three minutes and never again. Real enemy, or an ASR artifact? (S10)
 54. 📈 **The level 8 → 10 jump** ⚑ — one award, plus a 35-day gap and no intervening recording. **Possible unrecorded session.** Also: XP is retired campaign-wide in favour of **milestone**. (S10)
-55. 🛑 **META: the S10 roll archive was never queried.** Supabase MCP permission denied in both automated runs; the S10 roll log is transcript-only and the **sync-gap check is outstanding**. Re-run interactively and reconcile [[Roll Statistics S01-S10]]. (S10)
+55. 🛑 **META: the S10 roll archive was never queried.** Supabase MCP permission denied in both automated runs; the S10 roll log is transcript-only and the **sync-gap check is outstanding**. Re-run interactively and reconcile [[Roll Statistics S01-S10]]. (S10) **⚠ S11 makes this three runs in a row — see thread 66.**
+56. 🛑 **WHO IS [[The Cloaked Figure]]?** A telepathic, thrall-commanding antagonist who ambushed the party in [[The Dead Zone]], **watched the entire fight without acting**, and left untouched with [[The Massive Thrall]] at his side: *"you led me on a delightful chase… I can't wait till next time."* **Unnamed, unidentified, undamaged, and he booked a rematch.** ⚑ Consistent with [[The Beast Tamer]] on behaviour; **none of it stated**; [[The Beast Master]] is dead. **DO NOT MERGE THE PAGES — ask the DM.** **The single most important open question in the vault.** (S11)
+57. 🐺 **[[The Massive Thrall]]** — larger than any of the six fought, appeared at the cloaked figure's side, **never acted**, vanished with him. ⚑ Distinct type, boss-tier, or just a big one? (S11)
+58. 👁️ **The eyed [[Beast Thrall]] variant** — DM: *"you do see that these ones have eyes. The normal ones did not."* **Confirms the S02 sighted/blind split** and makes the blind form the default. ⚑ **Does the sighted variant have a name?** (S11)
+59. 🧛 **[[Flux]]'s VAMPIRE TRANSFORMATION** — *"it's not disguising, it's— I would turn into one."* DM's terms: **dissect and learn the anatomy** of the **eyed** variant, a body may be taken *"back to the doctor"* (⚑ [[Dr. Wilson]]? unnamed), it works *"similar to"* Wild Shape, and **"you keep your normal stats."** [[Valerian Hellebore]] volunteered to assist. ⚑ **A full homebrew subsystem with no mechanics written yet.** This is the S02 corpse-study thread, finally moving. (S11)
+60. 💎 **GEMS ARE CURRENCY** — DM: *"gems are a currency in this place,"* traded by **raw vs cut** condition. Party holds **3 diamonds, 6 emeralds, 5 rubies**. ⚑ The jade ball is excluded. Note the collision with thread 10: [[Bobby]] wants those same emeralds for castle protection. (S11)
+61. 🔨 **[[Vega Bloodroot]]'s DOUBLE FIST WARHAMMER** — commissioned from [[Bobby]], **not yet acquired**. ⚑ "Double fist" = two-handed or a paired set? [[Samothy Smith-Wesson]] has offered to infuse it. (S11)
+62. ☀️ **The [[The Sun Shard\|Sun Shard]] is a damage rider.** First appearance since S07: **psychic base + an extra d6 radiant** on [[Vega Bloodroot]]'s gauntlets, built in by [[Samothy Smith-Wesson]]. The DM corrected *"Sunny Crystal"* → *"Sun Shard"* on the record. ⚑ **The item's canonical name is still unsettled** ("Solar Fist" is a glossary label nobody uses in play), and the campaign's stated central relic has now been discussed **entirely as a stat line**. (S11, closes S10's absence flag)
+63. 🐈 **[[Vega Bloodroot]] and [[Mr. Cat\|Mr. Cat, Esquire]]** — her declared downtime is to *"cultivate her relationship with Mr. Cat"* / *"She just wants to pet him a lot."* The only downtime declaration at the table not about equipment. (S11)
+64. 🛒 **THE ARMORY/SHOP RUN — next session's opener.** Custom weapons collected; shop inventory posted *"probably tomorrow"*; every PC holds **161 gp 90 sp**. ⚑ The split used **two different divisors** in one conversation (200 gp ÷ 6, 900 gp ÷ 7). *(Supersedes thread 51, partially resolved.)* (S11)
+65. 🩸 **Beast thrall combat properties, newly stated** — a **"blood trait" frenzy** below 50 HP (Rage-like, grants advantage) and **double damage to structures, doors and fortifications**. ⚑ Confirm "blood trait" is the DM's term. The fortification clause matters: these things know where [[The Walled Base (Museum-Castle)\|the castle]] is. (S11)
+66. 🛑 **META: THREE CONSECUTIVE UNQUERIED ROLL ARCHIVES.** S10, S11 Convo 1, and S11 Convo 2 all failed on Supabase MCP permission. **Root cause identified:** the settings allowlist names a server that doesn't exist. Both [[Roll Statistics S01-S10]] §S10 and [[Roll Statistics S11-S20]] §S11 are transcript-only and must be reconciled **together** in one interactive pass. (S11)
+67. ⚑ **META: a duplicate concurrent pipeline run** executed S11's Convo 1 Phase B twice on 2026-08-03 (16:35–16:36), writing the corrected transcript and spell-check log independently. Both verified identical and left in place. **Likely cause:** `Workflows/scripts/ashfall_pipeline_watch.js` and a manual launch firing the same prompt. **Worth a lock/guard before S12.** (S11)
 
 ## Resolved Threads
 
@@ -99,7 +112,13 @@ CAMPAIGN ID: 7170962
 - ~~The Grand Library battle (S08 cliffhanger → S09 → S10)~~ — ✅ **S10.** Party victory; no PC downed; 15 damage taken in total.
 - ~~The Beast Master~~ — ✅ **S10.** Killed by [[Valerian Hellebore]]'s Call Lightning; body reduced to ash; his lore is now on the record. ⚑ **Never spoke, never acted, never interrogated.**
 - ~~"Did we find the things?" (S09)~~ — ✅ **S10.** They took the entire restricted section. *(Reading it is now thread 46.)*
-- ~~META: the recording rig~~ — ✅ **S10.** Full-table audio captured.
+- ~~META: the recording rig~~ — ✅ **S10.** Full-table audio captured. *(Held through S11 — all 7 players + DM again.)*
+- ~~The Dead Zone ambush (S11)~~ — ✅ **S11, same session.** Six [[Beast Thrall]]s killed to the last; **no PC downed, no death saves, zero enemies escaped.** The handler walked away untouched (thread 56).
+- ~~The Sun Shard's four-session absence~~ — ✅ **S11.** It resurfaced — as a damage rider. *(Its canonical name and full profile remain open: thread 62.)*
+- ~~Bobby's 7 custom weapons, awaiting pickup~~ — ✅ **S11.** Collected at the castle. *(The rest of the armory run is thread 64.)*
+- ~~The S10 "200 gold, split unrecorded"~~ — ✅ **S11.** Split alongside the 900 gp party fund: **161 gp 90 sp per PC** ⚑ *(two divisors used — see [[Loot Tracker S11-S20]]).*
+- ~~The S02 sighted/blind beast thrall split~~ — ✅ **S11 confirmed on the record.** Blind is the default; the eyed variant exists and is the specimen [[Flux]] needs. *(Its name remains open: thread 58.)*
+- ~~The duplicate `Mr. Cat.md` page~~ — ✅ **Verified clean in the S11 run.** `03-Characters/01 PCs/Companions/` is empty; `02 NPCs/Mr. Cat.md` is the single canonical page.
 
 ## NPC Directory
 
@@ -128,6 +147,11 @@ CAMPAIGN ID: 7170962
 | Abcde ⚑ | 🔴 | Cultist — **FLED THE LIBRARY ALIVE** (referred to as *she*) | S10 — escaped mid-battle; at large |
 | Carl Senior ⚑ | ⚪ | Cultist — twin of the already-dead Carl Jr. | S10 — heavily damaged, **fate never declared** |
 | Karlsteiner ⚑ | ⚪ | Named twice in S10's opening minutes, never again | Unresolved — real enemy or ASR artifact? |
+| 🛑 [[The Cloaked Figure]] ⚑ **NEW** | 🔴 | **Unidentified telepath; commands [[Beast Thrall]]s.** Cloak and dark leathers | **S11 — vanished into the fog in [[The Dead Zone]], ALIVE and untouched.** Promised a return. ⚑ **Beast Tamer, or someone new? DO NOT GUESS** |
+| [[The Massive Thrall]] ⚑ **NEW** | 🔴 | Oversized beast thrall — never acted | S11 — left with the cloaked figure |
+| A vampire patrol (unnamed) | 🔴 | Several vampires, *"drifting through the ruins like hungry ghosts"* | S11 — passed the party during the stealth sequence; one sniffed toward them and moved on. **Never engaged** |
+| [[Dr. Wilson]] | 🟢 | Castle surgeon — ⚑ presumed *"the doctor"* named in S11's transformation terms (**unconfirmed**) | S11 — referenced off-screen |
+| [[Bobby]] | 🟢 | Dwarf master armorer ⚑ (*"master curator"*?) | S11 — referenced off-screen; **7 custom weapons delivered**, warhammer commissioned |
 
 ## Locations
 
@@ -137,7 +161,8 @@ CAMPAIGN ID: 7170962
 - [[The Old Hospital]] — 2 hrs east; floor 1 cleared, floors 2 + basement pending (S02)
 - [[Saint Ardas]] — the cursed church; explored S06–S07, crypt cleared (S08 wrap-up)
 - [[The Grand Library of the Veiled Dawn]] — 3-floor cult-run knowledge vault; **battle WON S10** — restricted section emptied and "coated in the blood of many, many cultists"; party long-rested inside it. 10-foot floors confirmed
-- **Factions:** [[Cult of the Pale World]] — page created S10
+- [[The Dead Zone]] — **page created S11.** The ruined ground between the library and the castle: ash, mud, collapsed walls, **parts actively on fire**, vampire patrols. Site of the S11 ambush. ⚑ Proper name and extent unconfirmed
+- **Factions:** [[Cult of the Pale World]] — page created S10 *(not mentioned in S11)*
 
 ## In-Game Timeline
 
@@ -146,20 +171,30 @@ CAMPAIGN ID: 7170962
 | Winter, 2 days before Christmas | S01 | Graduation; vampire attack; Beast Tamer encounter; long rest granted |
 | Next dawn (1 day before Christmas Eve, by inference) | S02 | Hampshire sweep; sorties dispatched (2-day rendezvous clock started); hospital floor 1; short rest |
 | [Unknown/Ambiguous] — same night as S08/S09, never dated on the record | S10 | The library battle ends; **long rest granted**; the party camps inside the restricted section under Zelda's Tiny Hut. Next session opens at [[The Walled Base (Museum-Castle)]] |
+| [Unknown/Ambiguous] — **directly continuous with S10**, never dated | S11 | The party leaves [[The Grand Library of the Veiled Dawn]] after its long rest, crosses [[The Dead Zone]], is ambushed for ~2 hours of the walk, and reaches [[The Walled Base (Museum-Castle)\|the castle]] for a **second long rest**. Downtime declared; shop inventory promised *"tomorrow"* — so **S12 opens the next in-game day**. ⚑ **In-game days since the start of the story: never stated, still unknown** |
 
 ## Setting
 
 Post-meteor **Britain** — "medieval England with a steampunk vibe" (S02). See [[Setting Primer]].
 
-## Party Snapshot (as of S10)
+## Party Snapshot (as of S11)
 
-All 7 PCs — **LEVEL 10** (S10: 8 → 10 in a single award ⚑; **XP retired, milestone from here on out**) · **Vega PURE BARBARIAN** (Rogue dip dropped S09) · [[Mr. Cat]] PERMANENT and now the party's de-facto guardian (2 consecutive saves) · +[[Lt. Hargraven]] (DM-run 8th — ⚑ *not present or mentioned in S10*) · [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] · [[Valerian Hellebore]] · [[Zelda Z Whipper]] — all carrying Bobby's elemental customs; **level-10 picks partly known** (Samothy: teleport infusion ⚑; Barrett: Piercer feat; Vega: Relentless Rage ⚑) · **7 more custom weapons waiting at [[Bobby]]'s** · [[Flux]] carrying the entire restricted section, unread.
+All 7 PCs — **LEVEL 10**, no level-up awarded in S11 (confirmed in play by [[Barrett Grimmskar]]: *"now that I'm level 10"*). Milestone advancement; XP retired at S10. **All 7 present, no absences.**
 
-⚑ **The [[Sun Shard]] / "Solar Fist" — the campaign's stated central relic — is not mentioned once in S10.** Recorded as an absence, not interpreted.
+[[Vega Bloodroot]] *(pure Barbarian; **bear** aspect stated S11)* · [[Barrett Grimmskar]] *(Piercer; ⚑ crit range played as **18**)* · [[Deanna Smith-Wesson]] · [[Flux]] · [[Samothy Smith-Wesson]] *(teleport infusion ⚑ wording still unresolved)* · [[Valerian Hellebore]] · [[Zelda Z Whipper]] · + [[Mr. Cat|Mr. Cat, Esquire]] — permanent, and now **3 consecutive sessions treated as a party member**; scored his first kill since S01 in S11.
+
+⚑ [[Lt. Hargraven]] (DM-run 8th member) is **not present or mentioned in S10 or S11** — two sessions running.
+
+**Wealth:** every PC holds **161 gp 90 sp**, plus a shared pool of **3 diamonds, 6 emeralds, 5 rubies** — which are now **spendable currency**, valued raw vs cut.
+**Gear:** Bobby's 7 elemental customs **collected**; [[Vega Bloodroot]]'s [[The Sun Shard|Sun Shard]] gauntlets confirmed at **psychic + 1d6 radiant**; [[Samothy Smith-Wesson]]'s bracers respecced (2, unlimited uses, +1 AC ⚑ contradicts the S03 card).
+**Unread, still:** the entire restricted section, five S08 books, the human-skin book, and the folded note — **four sessions of acquiring text, zero of reading it.**
+
+✅ **The [[The Sun Shard|Sun Shard]] absence flag from S10 is closed** — it reappeared in S11 after four sessions. ⚑ Recorded without interpretation: it reappeared **as a damage rider nobody could remember the wording of**, not as a story beat.
 
 ## Reference
 
-- [[Setting Primer]] · [[Names & Terms]] · [[House Rules & Rulings]] · [[Vault Sync Status]] · [[Cult of the Pale World]]
-- Trackers: [[Loot Tracker S01-S10]] · [[Quote Board S01-S10]] · [[Profanity Ledger S01-S10]] · [[Roll Statistics S01-S10]] · [[XP Tracker S01-S10]] *(retired at S10 — milestone)*
+- [[Setting Primer]] · [[Names & Terms]] · [[House Rules & Rulings]] · [[Vault Sync Status]] · [[DM Questions — Open]] · [[Cult of the Pale World]]
+- **Active trackers (S11–S20):** [[Loot Tracker S11-S20]] · [[Quote Board S11-S20]] · [[Profanity Ledger S11-S20]] · [[Roll Statistics S11-S20]] 🛑 *(archive-unverified)*
+- **Archived trackers (S01–S10):** [[Loot Tracker S01-S10]] · [[Quote Board S01-S10]] · [[Profanity Ledger S01-S10]] · [[Roll Statistics S01-S10]] · [[XP Tracker S01-S10]] *(retired at S10 — milestone)*
 
-> ⚑ **S10 is the LAST session in the S01-S10 tracker range.** S11 starts a new tracker file set: `Loot Tracker S11-S20.md`, `Quote Board S11-S20.md`, `Profanity Ledger S11-S20.md`, `Roll Statistics S11-S20.md`. Carry the Profanity running totals forward.
+> ✅ **Tracker rotation executed at S11.** The S11-S20 file set was created and the Profanity running totals were carried forward (Chase **201**, Taylor/Vega **177**, Taylor/DM **96**, Josh **52**, Doug **30**, Madi **29**, Christie **14**, Jill **3**). The S01-S10 files are closed and should not be appended to.

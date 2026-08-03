@@ -16,9 +16,9 @@
 
 It appeared at [[The Cloaked Figure]]'s side during his exit narration, **after** all six [[Beast Thrall]]s had already been killed:
 
-> "He rests a hand on his head in a — And a massive thrall appears by his side."
+> "He rests a hand on his head and a massive thrall appears by his side."
 
-⚑ **That line is cut mid-sentence in the recording** — the gesture the figure was making, and quite possibly *how* the creature was summoned or called, is lost. It is the single most story-critical garbled passage of S11 and needs an audio listen.
+✓ **Line resolved.** The transcriber emitted a garbled *"He rests a hand on his head **in a And** a massive thrall appears"*; **Taylor confirmed the true wording by listening to `02:05:09` on 2026-08-03.** The figure **rests a hand on the thrall's head** — a handler's gesture, delivered as the creature appears. Whether the touch *causes* the appearance or merely accompanies it is not stated.
 
 It **never entered combat, never acted, and took no damage.** Both it and its handler vanished into the fog moments later.
 
@@ -31,7 +31,7 @@ It **never entered combat, never acted, and took no damage.** Both it and its ha
 ## Open Threads
 
 - ⚑ **Is it a distinct creature type, a boss-tier thrall, or just a big one?** The DM used no proper noun.
-- ⚑ **Was it summoned, or was it already there?** The garbled entrance line sits exactly where the answer would be.
+- ⚑ **Was it summoned, or was it already there?** The resolved line — *"He rests a hand on his head and a massive thrall appears by his side"* — puts a **handler's touch** and the creature's appearance in the same sentence, but does not establish cause.
 - ⚑ **Does it have eyes?** [[The Cloaked Figure]]'s six thralls did; the DM noted *"the normal ones did not."* Unobserved here.
 - 🛑 **It left with a handler who promised to return.** Expect it back.
 

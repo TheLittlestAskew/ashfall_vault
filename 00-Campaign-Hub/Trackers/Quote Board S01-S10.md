@@ -2,6 +2,8 @@
 
 > VERBATIM only. Tags: [Funny] [Poignant] [DM Quip] [Banter] [Serious]
 
+> 🔒 **CLOSED at S10.** Do not append here — the active file is [[Quote Board S11-S20]].
+
 ## S01 — Graduation Day (02/13/2026)
 
 **[[The Beast Tamer]] (DM) · [Serious]**

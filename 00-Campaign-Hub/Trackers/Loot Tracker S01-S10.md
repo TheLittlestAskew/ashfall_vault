@@ -2,6 +2,8 @@
 
 > One section per session. Columns: Owner · Item · State/Context. ⚑ = flagged/unconfirmed.
 
+> 🔒 **CLOSED at S10.** Do not append here — the active file is [[Loot Tracker S11-S20]].
+
 ## S01 — Graduation Day (02/13/2026)
 
 | Owner | Item | State / Context |

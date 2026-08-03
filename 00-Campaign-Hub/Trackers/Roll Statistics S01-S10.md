@@ -2,6 +2,9 @@
 
 > Source: Supabase `ashfall_session_rolls` cross-referenced against corrected transcripts. DM rolls are transcript-only (not synced) and excluded from archive counts.
 
+> 🔒 **CLOSED at S10.** Do not append here — the active file is [[Roll Statistics S11-S20]].
+> 🛑 **§S10 below is transcript-only and still unreconciled** against the archive. Fix it in the same interactive pass as S11.
+
 ## S01 — Graduation Day (rolls keyed 2026-02-12)
 
 **Total archived rolls: 93** (92 in-session + 1 pre-session Zelda Dex save)

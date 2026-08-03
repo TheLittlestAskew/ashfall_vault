@@ -17,7 +17,9 @@
 
 > "So from the shadows, a figure steps forward, cloak and dark leathers, eyes gleaming with predatory delight."
 
-⚑ The DM's entrance narration is **cut mid-sentence** in the recording — *"He rests a hand on his head in a — And a massive thrall appears by his side"* — which makes this the single most story-critical garbled passage of the session. The gesture he was making is lost. **Needs an audio listen.**
+> "He rests a hand on his head and a massive thrall appears by his side."
+
+✓ **The entrance line is RESOLVED.** The transcriber emitted a garbled *"He rests a hand on his head **in a And** a massive thrall appears"*; **Taylor confirmed the true line by listening to `02:05:09` on 2026-08-03**. He **rests a hand on the thrall's head** — a handler's gesture, and the closest thing to evidence the session gives about the nature of his control.
 
 He speaks **telepathically**, brushing the edge of every mind at the table at once. He is described as taking **predatory delight** in the fight, and his own words frame the encounter as **entertainment**, not a battle.
 
@@ -48,7 +50,7 @@ He speaks **telepathically**, brushing the edge of every mind at the table at on
 - ⚑ **He was never hunting them — he was timing them.** The opening taunt invites them to run *for his amusement*; the closing line thanks them for the chase. Whether the ambush was a test, a cull, or a measurement is unstated.
 - ⚑ **Are the four sets of fresh tracks his?** [[Flux]]'s natural-20 Perception found four recent tracks heading the party's way, but **six** thralls attacked. Never reconciled in play.
 - ⚑ **Is he connected to the "eyed" [[Beast Thrall]] variant?** The thralls he commands have **eyes**; the DM noted *"the normal ones did not."* Whether that is his doing, his breeding, or coincidence is unknown.
-- ⚑ **The garbled entrance gesture** (line 1820 of the raw transcript) — resolve on a listen.
+- ✓ ~~The garbled entrance gesture~~ — **resolved 2026-08-03.** He rests a hand on the massive thrall's head. ⚑ Open follow-up: does the touch **summon** the creature, or is it just a handler's gesture?
 - ⚑ **Pattern worth noting:** this is the **second consecutive session** in which the session's actual threat contributes nothing mechanically. S10's [[The Beast Master]] died without taking a turn; S11's cloaked figure never takes one. The party has "beaten" two major antagonists without landing a single action on either.
 
 ## Related

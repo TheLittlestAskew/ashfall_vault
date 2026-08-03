@@ -114,3 +114,36 @@ S05 was a roleplay session (no archived casts). S06–S07 casts live in their se
 | [[Vega Bloodroot]] | **Eldritch Claw Tattoo** (+6 rider ×2) | Used twice after forgetting it entirely in S09: "I didn't use tattoo damage at all last time" |
 | [[Barrett Grimmskar]] | **Skin of Your Teeth** (Risk Die 1d8, reaction) | ⚑ Homebrew Gunslinger maneuver, **first recorded use** — insufficient to beat the incoming 22. [[Mr. Cat\|Mr. Cat, Esquire]] saved him instead |
 | [[Samothy Smith-Wesson]] | *(new level-10 infusion)* **Teleport** | ⚑ Wording garbled — "teleport up to 15 feet anywhere a previous creature has been." DM deferred the surprise-attack interaction. **Not canonized here.** |
+
+## S11 — A Delightful Chase (06/22/2026) ⚑ transcript-only (roll archive not queried — third consecutive)
+
+| Caster | Spell | Notes |
+|---|---|---|
+| [[Valerian Hellebore]] | **MOONBEAM (5th level) ×3 ticks** | The fight's decisive mechanic. Cast at 5th *"because I heard these things that, uh, have like 80 fucking health or some shit."* DC 17 Con. (1) Thrall C fails on **7** — 31 radiant **doubled to 62**. (2) Moved onto C, fails on **15** — 34 **doubled to 68. THRALL C DIES.** (3) Moved onto Thrall F, fails on **16** — 14 **doubled to 28**. **158 radiant total** |
+| [[Valerian Hellebore]] | **Spiny Shield** (1st level, reaction) ⚑ | Damage reduced to 2d4 (**8 taken**) and **6 piercing reflected** — *"deal 6 back to the little bitch who bit me."* ⚑ **Still no confirmed source** (homebrew/UA, open since S01) |
+| [[Valerian Hellebore]] | **Barkskin** (bonus action) | AC → **17** "as a base" |
+| [[Valerian Hellebore]] | **Starry Wisp** (opportunity attack via **War Caster**) | Missed on 14; **inspiration** spent to reroll — **still missed** |
+| [[Valerian Hellebore]] | *(declined)* **Polymorph → T-Rex** | Talked himself out of it on action economy: *"I'd have to wait another turn before I could attack"* |
+| [[Valerian Hellebore]] | *(cancelled)* **Cure Wounds** | Attempted as a bonus action, realised it is an Action in 2024, and cancelled. ⚑ Note [[Deanna Smith-Wesson]] was *allowed* to do exactly this later the same session |
+| [[Zelda Z Whipper]] | **Inflict Wounds (3rd level)**, DC 15 Con | Touch attack — *"he's right up on me."* Thrall A fails. **34 necrotic.** ⚑ **Off the standard Bard list**; Magical Secrets at 10 would cover it |
+| [[Zelda Z Whipper]] | **Infestation** (at will), Con save | Thrall F fails — **5 damage.** ⚑ **Off the standard Bard list** |
+| [[Zelda Z Whipper]] | **"Pins and Needles"** ⚑ | 🛑 **FIRST-SEEN, NO 2024 PHB MATCH, NO GLOSSARY ENTRY.** Save failed on a 5 → **8 damage.** ⚑ Sits inside a **held** spell-check row, so the passage is unreliable. **Do not canonize — confirm the name with the table first** |
+| [[Zelda Z Whipper]] | **Flame Blade** (bonus action) | Missed on 10, then hit Thrall A on 19 for **23**. Sheds **10 ft bright / 10 ft dim light** — and lighting the field is what prompted the DM's *"you do see that these ones have eyes. The normal ones did not"* |
+| [[Zelda Z Whipper]] | **Healing Word** (1st, bonus action) ×2 | Self-cast twice — **8**, then unstated |
+| [[Zelda Z Whipper]] | **Starry Wisp** · **Finger Guns** | vs Thrall A — 19 → **5** (rolled a 1: *"How is that only 5 damage?"*); 15 → **12** (*"Yes, I fingered it out"*) |
+| [[Deanna Smith-Wesson]] | **Protection from Evil and Good** ×2 | On [[Vega Bloodroot]] as a **held/reaction cast on a run-past** (*"you're supposed to tag her hands"*) and on [[Valerian Hellebore]] as a **bonus action**. Thralls attacked both at **disadvantage** — the quiet reason nobody went down |
+| [[Deanna Smith-Wesson]] | **Cure Wounds** ×2 | Valerian **16 HP**, cast **as a bonus action** ⚑ *(an Action in 2024 — DM allowed)*, described as the *Creation of Adam* fingertip touch. Then Vega ⚑ **"4" and "14" given on consecutive lines** — conflicting, unresolved |
+| [[Deanna Smith-Wesson]] | **Magic Weapon** | On her pistol: +1 to attack and damage |
+| [[Deanna Smith-Wesson]] | **Hail of Thorns** | With her shot at Thrall F (21 hit): **6** bullet + **2** thorns |
+| [[Flux]] | **Witch Bolt** (1st, then **2nd level**) | Thrall D 22 → damage rerolled on the DM's instruction ⚑ (*"just reroll. I mean, keep the damage before"* — ambiguous total). Auto-damage tick on Thrall C for **9**. Later at 2nd level on Thrall A: 23 → **6** (*"Jesus Christ… That was stupid"*) |
+| [[Flux]] | **Shield** (reaction) | AC → **22**, against the only nat 20 aimed at him. ⚑ DM adjudication garbled — *"That'd miss then"* then *"No, you're too far."* **Flux took 0 damage all session** |
+| [[Flux]] | **Finger Guns** ×3 | 14 miss · 22 → 8 · 16 → 11 |
+| [[Barrett Grimmskar]] | **Shocking Grasp** | Thrall E, "dirty 20" → **9** — cast purely to reposition without provoking. Set up the **Finger Guns** kill |
+| [[Barrett Grimmskar]] | **Finger Guns** ×2 | 15 → 8 (**THRALL E DIES**) and earlier chip damage |
+| [[Samothy Smith-Wesson]] | **Branding Smite (3rd level, bonus action)** | 13 → **doubled to 26 radiant**. ⚑ Same 3rd-level call as S10 — consistent player behaviour; still needs the archive to verify the slot |
+| [[Samothy Smith-Wesson]] | **Boot teleport infusion** | ⚑ **Wording changed again** — *"anywhere an **enemy** has been"* (S11) vs *"anywhere a **previous creature** has been"* (S10). Ran in combat a second time without resolution. **Still not canonized** |
+| [[Vega Bloodroot]] | **Rage** (bonus action) | Round one. Noted she forgot to long rest and had **no Eldritch Claw Tattoo up** |
+| [[Vega Bloodroot]] | **Savage Attacker** ×1 | Damage reroll 9 → **16** on the big turn |
+| [[Vega Bloodroot]] | **Great Weapon Master** (bonus attack) | **Natural 20 → 18.** The second nat 20 of the same turn |
+| [[Vega Bloodroot]] | **[[The Sun Shard\|Sun Shard]] rider** (+1d6 radiant) | Rolled **2**. ⚑ **First use since S07.** Base damage is **psychic** — DM: *"purple psychic. Purple is psychic"* |
+| [[Vega Bloodroot]] | **Menacing Attack** *(mentioned, not resolved)* | ⚑ Still the **unsourced maneuver** flagged in S09. Named as a plan for her next turn; never executed |

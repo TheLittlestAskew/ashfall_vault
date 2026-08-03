@@ -178,6 +178,30 @@
 
 **⚑ Correction to a prior entry:** the S08 glossary line **"Starry Wisp — Valerian's cantrip"** needs **widening, not correcting**. [[Zelda Z Whipper|Zelda]] casts it in S10; **both** Bard and Druid have Starry Wisp in the 2024 PHB.
 
+## S11 first-seen terms — ⚑ NONE CANONIZED
+
+> 🛑 **Everything below stays uncanonized pending DM/Taylor confirmation.** Original setting, no external canon, and the S11 **speaker map is unconfirmed** (the diarizer reassigned every letter between S10 and S11; **SPEAKER B is a catch-all** at 26 identified points). **Three approved spell-check rows were deliberately not applied.**
+
+| Term | Type | Notes |
+|---|---|---|
+| **Gems as currency** | **Economic rule** — ⚑ new | DM: *"gems are a currency in this place… You can trade them depending on the condition of the gem, whether it's like raw diamond or, you know, a cut diamond."* **Value depends on raw vs cut condition.** The party holds 3 diamonds, 6 emeralds, 5 rubies. ⚑ The **jade ball is excluded**: *"I wouldn't say that's a gem"* |
+| **"Blood trait"** | [[Beast Thrall]] statblock trait ⚑ | Below **50 HP** a beast thrall enters a **frenzy** — *"this is a blood trait that they have. It's basically like a Barbarian's Rage… it gives advantage on hits."* ⚑ **Confirm "blood trait" is the DM's actual term** and not a mishearing |
+| **Eyed beast thrall** | [[Beast Thrall]] variant ⚑ — **UNNAMED** | DM: *"you do see that these ones have eyes. The normal ones did not."* **Confirms the S02 sighted/blind split** and establishes the blind form as the *normal* one. ⚑ **Does the sighted variant have a name?** It is the specimen [[Flux]]'s transformation project needs |
+| **The Dead Zone** | Region — ⚑ proper name unconfirmed | Listed as a Region in this glossary since early sessions (*"Where Saint Ardas stands; no one returns"*) but only got a page at S11: [[The Dead Zone]]. ⚑ Is "the Dead Zone" an in-fiction name or party shorthand? |
+| **The cloaked figure** | Antagonist ⚑ — **UNNAMED, UNIDENTIFIED** | Telepath; commands beast thralls; cloak and dark leathers. Placeholder page at [[The Cloaked Figure]]. 🛑 **Is he [[The Beast Tamer]]? DO NOT MERGE without the DM.** [[The Beast Master]] died in S10, so it is not him |
+| **A massive thrall** | Creature ⚑ — **UNNAMED** | Larger than any of the six fought; appeared at the cloaked figure's side and never acted. Page at [[The Massive Thrall]]. ⚑ Distinct type or just a big specimen? |
+| **Sun Shard** *(vs "Sunny Crystal")* | Relic — ✓ **name reconfirmed on the record** | [[Valerian Hellebore]] guessed *"Sunny Crystal"*; the DM corrected him — *"Oh, Sun Shard"* — and [[Samothy Smith-Wesson]] echoed it. ⚑ **The item's canonical label is still unsettled**: the S08 glossary calls Vega's gauntlets the **"Solar Fist,"** a phrase nobody has used in play since. Damage profile now stated: **psychic base + an extra d6 radiant** |
+| **"Pins and Needles"** | Ability — **Zelda** | First-seen at 01:49:11. **No 2024 PHB match.** ✅ **Filed in [[Homebrew Abilities]] as canon-in-play** per the standing rule — an unmatched name is an ability Taylor hasn't been shown the card for, not an error. **Do not source-hunt and do not put it to the DM.** ⚑ The one real caveat: it sits inside a **held** spell-check row (*"a Nova Twins save"*), so the name itself could be a mishearing |
+| **Gut Shot** | Barrett's crit rider — ⚑ **third hearing** | Read out in full again: *"The projectile is lodged in the target for 1 minute. Speed is halved, have disadvantage on attack rolls unless they take a full action to dislodge the bullet."* **Three hearings now support canonizing `Gut Shot` over the S02 `Deck Shot` mishearing.** ⚑ But the S04 entry records it as a **19**-crit and he played it at **18** |
+| **Double fist warhammer** | Item ⚑ — commissioned | [[Vega Bloodroot]] to [[Bobby]]. ⚑ **"Double fist" = two-handed, or a paired set?** Never clarified |
+| **Totem Warrior** ≡ **Path of the Wild Heart** | Subclass equivalence ✓ | [[Vega Bloodroot]]'s player names her subclass by its **2014** name at 01:39:13. Her 2024 subclass is **Path of the Wild Heart**. **Not an error** — left verbatim per the Verbatim Quotes rule; the equivalence is recorded here. **Her animal aspect is the BEAR** — genuinely new |
+| Marie | ⚑ Unresolved — **recurring** | Appears in **both S10 and S11**, still with **no referent**. S11 context is household, not in-game (*"Marie's the twat"*). Two sessions running |
+| Gus · Moira · Hunter | ⚑ Unresolved | First-seen, no referents. "Hunter" appears three times in one 20-second block |
+| **A third "Taylor"** | ⚑ Disambiguation hazard | *"I gotta take Taylor back to his bed"* — someone in Zelda's household. **The vault must disambiguate this from Taylor-the-player and Taylor-the-DM before any script-format conversion hard-codes speaker names** |
+| "session 4" | ⚑ **NOT a session number** | At 02:15:31 the DM says *"So for this mission— or actually it'd be session 4."* He is counting **in-world missions/expeditions** while recapping the previous expedition's loot. **Do not let this contaminate session numbering** |
+
+**⚑ Held spell-check rows (S11) — not applied, need an audio listen:** `my O and F`→`my bow on F` (50%) · `she said`→`he said` (45%) · `Nova Twins save`→`have him make a save` (35%).
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

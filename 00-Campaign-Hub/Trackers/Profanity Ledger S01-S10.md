@@ -1,6 +1,7 @@
 # Profanity Ledger — Sessions 01–10
 
-> Counts from corrected transcripts (OOC life-chat sections excluded). Running totals update each session.
+> 🔒 **CLOSED at S10.** Do not append here — the active file is [[Profanity Ledger S11-S20]], and the running totals were carried forward into it.
+> Counts from corrected transcripts (OOC life-chat sections excluded).
 
 ## S01 — Graduation Day (02/13/2026)
 

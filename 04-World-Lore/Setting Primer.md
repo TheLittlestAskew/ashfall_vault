@@ -52,10 +52,40 @@ DM-supplied lore, read aloud at the table by [[Vega Bloodroot]] on a natural-20 
 
 A species **"at one point abundant in the area"** and evidently no longer. Known only from a single skull found in the restricted section of [[The Grand Library of the Veiled Dawn]]: jaguar-like stature, tiger-like build, 4 fangs below and 2 above, **severed at the neck**, non-magical, with a jade ball seated in its jaws. Unnamed and unexplained. See [[Unknown Great Cat]].
 
+## Gems are Currency *(S11 — a new economic rule)*
+
+DM, on the record: ***"gems are a currency in this place… You can trade them depending on the condition of the gem, whether it's like raw diamond or, you know, a cut diamond."***
+
+- Gems are **legal tender**, not merely valuables to be sold.
+- **Value depends on condition** — a raw stone and a cut stone of the same type trade differently.
+- ⚑ **The jade ball is explicitly excluded**: *"I wouldn't say that's a gem."* Whatever it is, it is not currency.
+- Party holdings at the time of the ruling: **3 diamonds, 6 emeralds, 5 rubies**, all from the restricted section of [[The Grand Library of the Veiled Dawn]].
+- Worth noting against the older lore: [[Bobby]] has wanted **precious jewels for castle protection**, and **emeralds** specifically, since S02. Gems now have two competing uses — spend them, or fortify with them.
+
+## Beast Thralls — statblock lore *(S11, the DM's disclosures in play)*
+
+The S11 ambush produced more mechanical worldbuilding about [[Beast Thrall]]s than every prior session combined:
+
+- 🩸 **The "blood trait."** Below **50 HP** a beast thrall **enters a frenzy** — *"basically like a Barbarian's Rage… it gives advantage on hits."* ⚑ Confirm the DM's term.
+- 🧱 **They deal double damage to structures, doors and fortifications.** A siege property, and a pointed one given the party lives behind the walls of [[The Walled Base (Museum-Castle)]].
+- 👁️ **There is an "eyed" variant.** DM: *"you do see that these ones have eyes. The normal ones did not."* This **confirms the S02 sighted/blind split** and establishes the **blind form as the default**. ⚑ The sighted variant has no name.
+- ☀️ **Radiant damage is doubled against them**, applied consistently all session — the decisive mechanic of the fight.
+- **~86 HP** per thrall.
+- 🧠 **Under a handler they execute tactics, not instinct.** DM: *"They don't attack like animals. They are moving with a purpose, circling, flanking, driving you into position."* **Herding.** The intelligence is the handler's, not the creature's.
+
+## The Handler Who Doesn't Fight *(S11)*
+
+[[The Cloaked Figure]] — unnamed, unidentified, **telepathic** — opened and closed the S11 ambush without ever entering it. He spoke into every mind at once (*"run, I want to see how far you get"*), watched his six thralls die over roughly two hours, then stepped out with [[The Massive Thrall]] beside him, said *"you led me on a delightful chase… I can't wait till next time,"* and vanished into the fog untouched.
+
+🛑 **His identity is deliberately unresolved.** Telepathy + thrall command + treating the party as sport is consistent with [[The Beast Tamer]] and with the S10 Beast Master psychic-bond lore above — **but nothing was stated.** [[The Beast Master]] is dead. **Do not merge the pages.**
+
+⚑ **Pattern worth naming:** this is the **second consecutive session** in which the actual threat contributes nothing mechanically. The party has now "beaten" two major antagonists without landing a single action on either.
+
 ## Geography (known)
 
 - [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*
 - [[Ruined City District]] — the city beyond the base's main gate. ⚑ city name unknown. *(S01)*
+- [[The Dead Zone]] — the ruined ground between [[The Grand Library of the Veiled Dawn]] and [[The Walled Base (Museum-Castle)]]. Silent, ash-and-mud, **partly on fire**, patrolled by vampires. Glossary line: *"Where Saint Ardas stands; no one returns."* ⚑ Extent undefined; ⚑ proper name unconfirmed. *(named earlier, first fully traversed S11)*
 - A north–south axis exists with scouting reports tracking vampire captains "way north." *(S01)*
 
 ## Open Questions
@@ -69,3 +99,11 @@ A species **"at one point abundant in the area"** and evidently no longer. Known
 - What great cat was **"abundant in the area,"** and what happened to it? *(S10)*
 - **Who or what whispers [[Flux]]'s name** in the Grand Library, from an empty space? *(S10)*
 - What language is the **folded note** from the Beast Master's ashes written in? *(S10)*
+- 🛑 **Who is [[The Cloaked Figure]]?** Telepathic, commands beast thralls, treats the party as sport, promised a return. **The single most important open question in the vault.** *(S11)*
+- **Does the "eyed" [[Beast Thrall]] variant have a name?** *(S11)*
+- **Is "blood trait" the DM's actual term** for the below-50-HP frenzy? *(S11)*
+- **What is [[The Massive Thrall]]** — a distinct creature type, a boss-tier thrall, or just a large one? *(S11)*
+- **Who or what was leaving the four sets of fresh tracks** in the Dead Zone? Six thralls attacked; four sets were found. *(S11)*
+- **Why are parts of the Dead Zone actively burning**, and who noticed? *(S11)*
+- **Is "the Dead Zone" an in-fiction proper name**, or party shorthand? *(S11)*
+- **What does [[Flux]]'s vampire transformation actually do?** The DM set terms (dissect the eyed variant, take a body to the doctor, works like Wild Shape, *"you keep your normal stats"*) but no subsystem exists yet. *(S11)*
