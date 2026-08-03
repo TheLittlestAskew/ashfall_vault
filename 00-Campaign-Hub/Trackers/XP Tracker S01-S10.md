@@ -2,12 +2,14 @@
 
 > Source: DM-awarded session XP, cross-referenced against session notes. Update after each session. **Shared party XP** — every PC gains the same amount each session, so all totals stay equal and the party levels in step. Leveling uses the standard D&D 2024 XP thresholds (table at bottom); total character level governs the threshold regardless of multiclass split.
 
+> 🛑 **THIS TRACKER IS RETIRED AS OF S10 (06/15/2026).** The DM switched the campaign to **milestone leveling** — Vega: "I thought we were going milestone." / DM: **"Yep, from here on out."** No further XP awards will be made. Kept for the S01–S09 historical record; leveling from S10 onward is tracked on the [[Campaign Dashboard]] sessions table.
+
 ## Party Standing
 | Field | Value |
 |---|---|
-| Current Total XP (per PC) | |
-| Current Party Level | |
-| XP to Next Level | |
+| Current Total XP (per PC) | ⚑ *n/a from S10 — milestone leveling* (last on-record figure: **23,480** at S06) |
+| Current Party Level | **10** (as of S10, 06/15/2026) |
+| XP to Next Level | ➖ *n/a — milestone* |
 
 ## Roster
 > All PCs share the party total above, so they share a level. Class split listed per character. (Only Vega's class is pre-filled — verified from her PC page; the rest await your data.)
@@ -35,8 +37,8 @@
 | S06 | | | | |
 | S07 | | | | |
 | S08 | | | | |
-| S09 | | | | |
-| S10 | | | | |
+| S09 | 2026-05-11 | ⚑ not on record (partial recording) | | **8** |
+| S10 — Never Truly Alone | 2026-06-15 | ⚑ amount never stated — DM: "enough XP for you guys to level up to level 10" | ➖ | **10** ⚑ *two-level jump; **XP → MILESTONE from here on out*** |
 
 ## XP Thresholds — D&D 2024
 | Level | Total XP | Level | Total XP |

@@ -19,6 +19,7 @@ Summoned via Samothy's smith's tools (S01 house rule). Crossed from equipment to
 - **S02:** Deflect-tanked for Vega (canceled a 20-damage claw); house rule set — Deflect cancels one attack of a multiattack.
 - **S03:** Named. Deflected for Vega and Samothy; one rend hit, one miss; flank-swept for ambushers. Vega: "Good boy, cat." / "I just like the cat."
 - **S05:** **MADE PERMANENT** (archived d20 = 19) — no more summoning; bronze, bobcat-sized.
+- **S10:** **Saved [[Barrett Grimmskar]] for the second consecutive session** — and this time from a hit that had *already landed*. Taint rolled a 22 against Barrett's AC 22 ("if you meet AC, you beat AC"); Barrett's **Skin of Your Teeth** Risk Die came up short; then [[Samothy Smith-Wesson]] pointed out Mr. Cat was **within 5 feet**, imposing **disadvantage on the attack**. Reroll: **7. Miss.** "Mr. Cat for the rescue!" / *"Thank you, Mr. Cat."* — thanked **by name, in character**, again. His own attack on Taint missed (12, at +7). ⚑ The DM initially gave him his own initiative slot; Samothy corrected it — **he acts on Samothy's turn**. Habitually kept physically beside Samothy, which is the only reason the 5-foot range was there to use.
 - **S08:** Volunteered (voluntold) to walk through the restricted section's electrified bars — **nat-1 Con save, 17 damage**, launched as a fully electrified projectile into Samothy's chest (11 to Samothy). "If Mr. Cat had fur, he would not be furry anymore." Revealed: **internal repair mechanism, 2d8+3 self-heal, 3/day**; HP 26.
 
 ## House Rules Attached

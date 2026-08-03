@@ -360,3 +360,145 @@
 
 **Taylor (Vega) · [Meta]**
 > "I would like to point out that no matter what we do, the session always ends with: well, you guys better make new characters next time."
+
+## S10 — Never Truly Alone (06/15/2026)
+
+> ⚑ Speaker attribution rests on the **unconfirmed** diarization map (see the session note's Archivist Notes). Lines marked **→ [Above-Table]** are out-of-character and excluded from public display per tracker convention.
+
+**Taylor (DM) · [DM Quip]**
+> "Um, I'll have you know Lucky's a girl and you're not supposed to hit girls."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Hey, equal rights and equal lefts, man."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Luck be a lady tonight."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "That was not a good roll. 6 lightning damage. Out of a possible 40. That was 2 2s and 2 1s. I'm crying. I didn't even know spiders could cry."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]**
+> "Oh no, it's a sad vampire boy."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]**
+> "Then cut to 30 minutes later where he just rips Barrett apart."
+
+**Taylor (DM) · [Important to Story]**
+> "Well, that's what the Beast Masters look like— very weak and frail."
+
+**Taylor (DM) · [DM Quip]**
+> "No, it's not Edward. He doesn't sparkle."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]**
+> "He just gets really ashy in the sunlight."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "I'm gonna let everybody know that there's a skinny twink downstairs who is, I think, coming after us."
+
+**[[Vega Bloodroot]] (Taylor) · [Important to Story]** — *the session's title line; read aloud from the DM's Beast Master lore. The speaker's own verbatim self-correction is preserved.*
+> "A Beast Master standing alone is vulnerable. A Beast Master with their thralls is Truly Never Alone, or Never Truly Alone."
+
+**[[Vega Bloodroot]] (Taylor) · [Serious]**
+> "He's probably got friends nearby, so we need to GTFO."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Mr. Cat for the rescue!"
+
+**[[Barrett Grimmskar]] (Doug) · [Poignant]** — *in character, second session running*
+> "Thank you, Mr. Cat."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Damn, I am fucking this guy up."
+
+**[[Valerian Hellebore]] (Chase) · [Serious]**
+> "I'm one of the few people that can reach him, so fuck it, we ball."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "I feel like we probably should have interrogated him. You're just here for the bookshelf? Because 2024 rules, I can talk, bitches."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Are you a black widow? Because you're taking him for everything he's got."
+
+**[[Vega Bloodroot]] (Taylor) · [Banter]**
+> "as he preps to hit me, she's gonna go, bring it on, whatever, you can't touch me."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "you can't even touch me, and then get like Smack to the face. You'll be like, well, shit, you touched me. Goddamn, that was a lucky shot."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — *the on-record anchor for Shathide's name*
+> "It's because he's a shithead."
+
+**Taylor (DM) · [DM Quip]** — ⚑ *self-correction preserved verbatim; the "Tinkt" hearing was deliberately not corrected*
+> "All right, and Tinkt— er, Shathide is dead."
+
+**[[Zelda Z Whipper]] (Christie) · [Banter]**
+> "I had been hitting him for so long. You stole my kill."
+
+**[[Valerian Hellebore]] (Chase) · [Banter]**
+> "Girl, welcome to my fucking— welcome to my fucking life."
+
+**Taylor (Vega) · → [Above-Table]**
+> "It was rolling like shit this whole campaign. I didn't get a kill for like the first like 6 episodes."
+
+**Doug (Barrett) · → [Above-Table]**
+> "There's some of us that keep forgetting that we have shit that we can do every fucking turn, like me forgetting that I have Savage Attacker and, uh, my new feat Piercer to reroll shitty damage."
+
+**[[Valerian Hellebore]] (Chase) · [Banter]**
+> "Have you tried not having so many options?"
+
+**[[Barrett Grimmskar]] (Doug) · [Banter]**
+> "But then, but then I don't have shit I can do."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]** — *the session's most-quoted line, echoed back by Valerian*
+> "He lives, but he dies."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant / Funny]**
+> "Cuck dies and there's nobody there to see it. I spit on him."
+
+**[[Barrett Grimmskar]] (Doug) / [[Vega Bloodroot]] (Taylor) · [Banter]**
+> "He enjoys that." / "He does, but he's too dead to enjoy it right now."
+
+**Taylor (DM) · [Serious]**
+> "What was a nice semi-clean library is now coated in the blood of many, many cultists."
+
+**[[Flux]] (Jill) · [Funny]** — *on taking the cursed-sounding item anyway*
+> "Um, the way that you said that, no, but I'm going to."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]**
+> "You can't separate the set."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Thralls. Beast Master go bye-bye?"
+
+**Taylor (DM) · [Important to Story]**
+> "you don't know what animal it is, but you do know that at one point this animal was abundant in the area."
+
+**Taylor (DM) · [Important to Story]**
+> "on the back of the skull where the neck would meet the spine, you can see where it was severed."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Vega gonna look at it and be like, just looks like pictures to me. Maybe he just likes to draw."
+
+**Taylor (DM) · [Important to Story]** — *the session's closing hook*
+> "you hear it again. This time you hear it more clear and it's saying your name. But you don't know where it's coming from."
+
+**[[Flux]] (Jill) · [Serious]**
+> "I ask Samothy, you hear that? Someone's saying my name."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Don't go into the light."
+
+**[[Flux]] (Jill) · [Serious]**
+> "If it keeps happening, then I'll worry about it."
+
+**Taylor (DM) · [Important to Story]**
+> "when we pick up again, you guys will be in the castle."
+
+**Taylor (Vega) / Taylor (DM) · → [Above-Table]**
+> "I thought we were going milestone." / "Yep, from here on out."
+
+**Taylor (Vega) · → [Above-Table]** — *quoting Lumalee, Super Mario Bros. Wonder*
+> "Everything's over now, and all that's left is you in the infinite void."
+
+**Taylor (Vega) · → [Above-Table]** — *the session's actual last word*
+> "This is a good stopping place."

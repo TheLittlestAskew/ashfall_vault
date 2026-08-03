@@ -30,6 +30,16 @@ A gust-of-wind **book was found** in the hospital's second floor (Samothy, barre
 
 One enchanted weapon per PC, **+2d6 elemental rider** (scales to 4d6 at level 12), **no attunement**: Vega — second brass knuckles (purple/psychic; now also the **Sun Shard mount**) · Flux — **Green Longbow of the Earth** (wind/knockback) · Deanna — dagger · Barrett — revolver · Christie/Zelda — whip · Samothy — dagger (+ his own Returning Weapon) · Valerian — quarterstaff. Elements partially unstated ⚑ (purple=psychic, green=wind confirmed; rest pending).
 
+## Next-Session Hook (S10 — referenced, not seen)
+
+Bobby doesn't appear in S10, but he is set up as **the opening business of the next session**:
+
+- **He is holding all 7 PCs' custom weapons** for pickup — DM: *"You guys all have weapons at Bobby's that you'll be getting next session."*
+- **Green-lit to craft an automatic weapon for [[Barrett Grimmskar]]** — DM: *"it should be fine for automatics… We can have Bobby craft you one."* (See [[House Rules & Rulings]].)
+- **Named as [[Vega Bloodroot]]'s warhammer source** — she asked the DM where to get one and was pointed straight at him.
+- ⚑ **DM: "I would talk to Bobby. Bobby's a master *curator* at this point."** The word `curator` was **left uncorrected** — the spell-check log flagged `master armorer` at only 35% confidence and marked it "do not apply without DM confirmation." Ask the DM which word he meant.
+- Note: [[Flux]] walked out of the library with **diamonds, rubies and emeralds** (S10) — Bobby has wanted precious jewels for castle protection, and emeralds specifically, since S02.
+
 ## Relationships
 
 - [[Abigail]] — she's been "trying to ride that mustache for years"; he threw her out of his shop for touching his stuff. The party coached her (bring alcohol, compliment the craftsmanship).

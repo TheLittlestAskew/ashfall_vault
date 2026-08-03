@@ -36,6 +36,22 @@
 - Thrall classes: [[Feral Vampire Thrall]] (human-shaped, drains) vs. [[Beast Thrall]] (massive, mauls; sighted and **blind** variants — blind ones hunt sound/heat). *(S02)*
 - **They take children alive.** No children among Hampshire's dead; carried out. Purpose unknown. *(S02)*
 
+## Beast Masters — the psychic bond *(S10, the session's one worldbuilding drop)*
+
+DM-supplied lore, read aloud at the table by [[Vega Bloodroot]] on a natural-20 Perception, with the DM confirming both player and character held the knowledge. See [[The Beast Master]].
+
+- Beast Masters are **thin, fragile and physically unimpressive** — *"very weak and frail."* Not muscle, not speed.
+- They carry a **rare psychic mutation** that bonds them to **vampire beast thralls**.
+- Through that bond they **see through a thrall's eyes**, **hear through its ears**, **issue commands instantly across great distances**, and **coordinate entire packs**.
+- Over **decades**, the link erodes the Beast Master: predatory behavior, animal mannerisms, pack mentality, and finally **no distinction between their own identity and their countless thralls**.
+- *"A Beast Master standing alone is vulnerable. A Beast Master with their thralls is Truly Never Alone, or Never Truly Alone."* ⚑ Both orderings are said in the same breath.
+- **Demonstrated in play:** one came up the stairs alone and died to a single spell without ever acting. The lore's own weakness condition, executed.
+- ⚑ **This complicates the S02 aura taxonomy and Bobby's emerald rule** — no aura was observed, and this Beast Master died to **lightning**, not emeralds. See [[The Beast Tamer]] for the open question set.
+
+## The Unknown Great Cat *(S10)*
+
+A species **"at one point abundant in the area"** and evidently no longer. Known only from a single skull found in the restricted section of [[The Grand Library of the Veiled Dawn]]: jaguar-like stature, tiger-like build, 4 fangs below and 2 above, **severed at the neck**, non-magical, with a jade ball seated in its jaws. Unnamed and unexplained. See [[Unknown Great Cat]].
+
 ## Geography (known)
 
 - [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*
@@ -48,3 +64,8 @@
 - What/who is the Mistress of Hunger?
 - Who is the spy among the recruits? *(S01)*
 - What does "Britannia" denote in-world? [Not yet established in any transcript]
+- Is **Beast Master** the same title as **[[The Beast Tamer|Beast Tamer]]**? *(open since S02; S10 gave evidence, not an answer)*
+- If **emeralds are "the only way to kill a Beastmaster"** *(S02, Bobby)*, why did Call Lightning work? *(S10)*
+- What great cat was **"abundant in the area,"** and what happened to it? *(S10)*
+- **Who or what whispers [[Flux]]'s name** in the Grand Library, from an empty space? *(S10)*
+- What language is the **folded note** from the Beast Master's ashes written in? *(S10)*

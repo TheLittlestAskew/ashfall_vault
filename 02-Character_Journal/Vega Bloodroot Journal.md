@@ -174,3 +174,28 @@
 > Housekeeping: I dropped the sneaking lessons. I was never going to be subtle. I am all Barbarian now, the way a river is all water. Also there are gloves now, something about burning light, and I want them near my knuckles if nobody claims them first.
 >
 > Did we find what we came for? I genuinely don''t know. I know we knocked, the hard way, and the library answered. The rest is for the next telling — and SOMEBODY should make sure the magic ear that records these nights is actually pointed at all of us next time.
+
+---
+
+> [!note]- S10 — Nobody there to see it. (Never Truly Alone)
+> **Still the library. Still the same night.**
+>
+> I found him before he found us. Down the stairs, thin as a bad idea, all knuckle and hollow — the kind of thin that isn't hunger, it's *design*. I told the others what he was, because for once I was the one who knew. A Beast Master. Not muscle. Not speed. Something worse and quieter: a man who gets inside animals and drives them. Sees what they see. Hears what they hear. Sends them ahead of him like a thought he had.
+>
+> And here's the part that stuck in my teeth. Go long enough at it and you stop being able to tell where you end and the pack starts. You forget which mouth is yours. A Beast Master standing alone is a stick you could break. A Beast Master with his beasts is never truly alone.
+>
+> He came up alone.
+>
+> The druid got him. Went down as a spider, small enough that nobody looked twice, and pulled the sky down on his head. There was nothing left to bury. Just ash on the floor and a folded scrap of paper in it, covered in marks that aren't any writing I know. Looks like drawings. Maybe he just liked to draw.
+>
+> The one I'd been trading with — I told him to bring it on. Told him he couldn't touch me. He touched me. Fine. Lucky shot. He was the last one standing, and then he wasn't, and there was nobody left in the whole bloody room to watch it happen. So I spat on him. Somebody had to witness something.
+>
+> The others got theirs. The metal cat took a blade meant for the gunslinger, second time now he's put himself between one of us and the end of us. The bard is furious that the druid took a kill she'd been working on all night. I didn't say anything. I went six fights without one. She'll live.
+>
+> What was a clean library is a slaughterhouse. The changeling filled a bag with every book, scroll, and bright stone in the room, and took a skull too — some big cat, four fangs below and two above, an animal that used to be everywhere around here and isn't anymore. Somebody cut its head off. There's a jade ball sitting in its jaws like it was put there on purpose. It isn't magic. It's just a head somebody kept.
+>
+> Then the changeling went pale. Said he heard his own name whispered from a corner with nothing in it. Twice. He shrugged it off and told a joke. I watched him do it. I know what shrugging it off looks like from the inside.
+>
+> We're sleeping here, under the bard's dome, in the room where we killed everyone. Tomorrow the castle. I want a warhammer. I'm told to go see the dwarf.
+>
+> One of them ran. She got out while there was still a door. I keep thinking about the pale one coming up those stairs by himself, and how the book said that's exactly when they're easiest to kill.

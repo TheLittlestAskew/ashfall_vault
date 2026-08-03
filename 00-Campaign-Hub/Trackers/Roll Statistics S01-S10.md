@@ -196,3 +196,54 @@ Per-roll color in [[Session 08 — Silence in the Library]]'s predecessor note (
 - **Biggest archived hit:** Vega 26-to-hit chain (17+9+5 + tattoo d6) — and the post-grapple 19/25 spite combo.
 - **Most dramatic line of dice:** Flux's Performance nat 1 → Persuasion nat 1 → Investigation NAT 20 (28).
 - Party reached **LEVEL 8** (Vega max HP 69 on mic).
+
+## S10 — Never Truly Alone (rolls keyed 2026-06-15) 🛑 ARCHIVE NOT QUERIED
+
+> 🛑 **THIS SECTION IS TRANSCRIPT-ONLY AND UNVERIFIED — the single biggest gap in the S10 sync.**
+> The `ashfall_session_rolls` view was **never queried**, in Convo 1 *or* Convo 2: the Supabase MCP permission was not granted in either automated run (both the `supabase` and `supabase-account2` servers were attempted; no local credentials exist to route around it — `.env` holds only `DDB_COBALT`).
+> **Consequences:** no roll total or individual die value below is archive-verified · **no archive-only rolls are represented at all** (quick mechanical rolls that were never spoken aloud simply do not appear) · no null-character rolls were resolved by `user_id` · and **the sync-gap check is OUTSTANDING, not passed** — we do not know whether Taylor has synced 06/15 to the archive.
+> **Counts below are "roll events heard on the recording," not archived rolls.** They are not comparable to the S01–S09 numbers above, which are archive-derived. **Re-run `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-06-15';` interactively and reconcile this whole section.**
+
+**Total reconstructed from transcript: ~90 roll events** (PCs + DM-controlled enemies) across ~57 minutes of combat.
+
+| Character | Roll events ⚑ | Nat 20s | Nat 1s | Highlights |
+|---|---|---|---|---|
+| [[Samothy Smith-Wesson]] | ~14 | **2** | 0 | **DOUBLE NAT 20 IN ONE TURN**, both into Lucky — crit for **40**, then Finger Guns crit for **34**. "Damn, I am fucking this guy up." **Lucky dies.** ⚑ Crit arithmetic doesn't reconcile on the recording ("2d10 5, so 25… so that's 40") |
+| [[Vega Bloodroot]] | ~14 | **1** (Perception) | 0 | The **natural-20 Perception** that surfaced [[The Beast Master]] a full round before he could act — the party's single biggest advantage all night. 30-damage turn on Cuck, then a 42-damage round (Eldritch Claw Tattoo +6 ×2, Reckless declared), then **kills Cuck last** |
+| [[Barrett Grimmskar]] | ~9 | 0 | 0 | 26→19 opener ("Jesus Christ, superstar!"); **kills Taint** (17→7, 23→9). First recorded use of the Gunslinger maneuver **Skin of Your Teeth** ⚑ (Risk Die 1d8 — *insufficient*, then [[Mr. Cat]] saved him anyway) |
+| [[Deanna Smith-Wesson]] | ~9 | 0 | 0 | Steady pistol work: Taint 19→4, Carl Senior 18→11 and 17→14 (Vex). ⚑ **One kill the DM confirms but never names a target for** (00:34:57) — she asked about Taint, but Barrett kills Taint six minutes later |
+| [[Flux]] | ~9 | 0 | 0 | **Kills Shirley** with a 22-damage bow shot from atop the bookcases. **Perception 22 (advantage)** → hears his own name whispered from an empty space, twice. **Identify** on the big-cat skull: no magic |
+| [[Valerian Hellebore]] | ~6 | 0 | 0 | ⚡ **2 KILLS — the most at the table**: [[The Beast Master]] (Dex save 12 vs DC 16, failed) and **Shathide** (32 damage), both by **Call Lightning**, both from **spider Wild Shape**. Also the campaign's saddest roll: **6 lightning damage out of a possible 40** (2,2,1,1) — "I didn't even know spiders could cry" |
+| [[Zelda Z Whipper]] | ~5 | 0 | 0 | Starry Wisp 19→9 radiant ⚑ (glossary lists Starry Wisp under Valerian since S08 — **both** Bard and Druid have it; widen the note, don't correct it). **Shatter at 3rd level** between Carl Senior and Shathide: 17 full / 8 half. Passive Perception 19. **Lost the Shathide kill to Valerian** and said so |
+| [[Mr. Cat\|Mr. Cat, Esquire]] | ~1 | 0 | 0 | Missed Taint (12) — but **imposed disadvantage on Taint's guaranteed hit on Barrett**, forcing a reroll of 7. Second consecutive session saving a PC |
+| DM (enemies) | ~23 | **1** (Cuck, crit on Vega) | 0 | Shathide also rolled a **nat 20 on a Con save** against Zelda's Shatter |
+
+### Session Records
+
+- **Natural 20s: 4** — Samothy ×2 (same turn, both into Lucky), Vega ×1 (Perception), and one **against** the party (Cuck's crit on Vega, landing immediately after she taunted him: "well, shit, you touched me. Goddamn, that was a lucky shot"). Plus Shathide's nat-20 Con save.
+- **Natural 1s: 0** on the recording ⚑ — but with no archive query, absence of evidence only.
+- **Highest single damage: 40** ([[Samothy Smith-Wesson]], crit) → 34 (Samothy, Finger Guns crit) → 32 ([[Valerian Hellebore]]) → 30 ([[Vega Bloodroot]], two-attack turn).
+- **Most kills: [[Valerian Hellebore]], 2** (the Beast Master and Shathide) — both Call Lightning, both from spider form.
+- **Total party damage taken: 15** — *all of it [[Vega Bloodroot]]* (6 + 9). Nobody else took a single point.
+- **No healing. No death saves. No PC downed.** No resources noted spent beyond one Risk Die and a handful of slots.
+- **Party reached LEVEL 10** — a **two-level jump** from S09's confirmed level 8, in one award ⚑. XP → **milestone** "from here on out."
+
+### Initiative Orders
+
+> **No initiative was rolled this session** — the combat carries over from S09, so no d20s exist for it. Order inferred from the DM's turn calls (per the project-instructions initiative rule); opportunity attacks not treated as order changes.
+
+Zelda → Shathide → Cuck → Taint → Samothy (+ Mr. Cat on his turn) → Valerian → Deanna → Flux → Carl Senior → Vega → Barrett → Lucky → *(back to Zelda)*.
+
+⚑ **Discrepancy preserved, not reconciled:** S09 logged Zelda 24 → **Valerian 19 → Samothy 19** → Deanna 18 → Flux 14 → Vega 12 → Barrett 11. The S10 order matches on every PC **except Samothy and Valerian, who are swapped** — they tied at 19 in S09. Whether the tie was re-resolved between sessions is unknown. **Ask the DM.**
+
+### Archive Flags
+
+- 🛑 **Archive never queried.** Re-run Step 4 and reconcile this entire section. Everything above is a transcript reconstruction.
+- 🛑 **Sync-gap check outstanding.** `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls;` was never run — we do not know whether 06/15 rolls exist in the archive at all.
+- ⚑ **Branding Smite at "3rd level for 2d6"** (Samothy). 2024 Branding Smite is 2nd level / 2d6, +1d6 per slot above. Probably a player under-count; needs the archive.
+- ⚑ **Vega calls Relentless Rage at party level 10.** That's a **Barbarian 11** feature in the 2024 PHB, and S09 confirmed she went pure Barbarian (so Barbarian 10 here) — one short. Mishear, player error, or DM allowance. Flagged, not corrected.
+- ⚑ **Deanna's "crit in stock"** (00:34:42) — she asks "Do I have a crit in stock?", the DM confirms she does, and she then declares "I'm gonna shoot and miss." **This mechanic is documented nowhere in the vault.** Ask the table.
+- ⚑ **Valerian's Beast Master damage was rolled, voided and rerolled** on the record ("Nope, roll it again. That's my bad." / "The third.") — the archive would show which value stuck.
+- ⚑ **One unattributed Con save (15)**, requested by the DM "for no particular reason" at 00:54, target never named, consequence never revealed.
+- ⚑ **The DM clears dead tokens by narrating "dead, dead, dead"** down the initiative list — the root cause of the unattributable kills. **Carl Senior is never declared dead** despite Cuck being confirmed the last enemy standing.
+- ⚑ **Zero DM rolls in the archive again** (standing since S08) — the DM rolls physical dice off-camera.

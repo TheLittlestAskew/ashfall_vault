@@ -75,6 +75,23 @@
 | **Rage persists across the session seam** | Vega entered S09 still Raging from S08's door demolition | S09 |
 | **Simultaneous-roll tie** | "If I'm the one being attacked, if we rolled the same thing, then I win" (defender wins ties ⚑ context partial) | S09 |
 
+## Standing Rules Added S10
+
+| Rule | Detail | Source |
+|---|---|---|
+| **XP → MILESTONE** | The campaign is off XP permanently. Vega: "I thought we were going milestone." / DM: **"Yep, from here on out."** [[XP Tracker S01-S10]] is retired accordingly | S10 |
+| **Automatic weapons approved** | DM: *"it should be fine for automatics… We can have Bobby craft you one."* Granted to [[Barrett Grimmskar]]; [[Bobby]] to craft. ⚑ No mechanics specified yet | S10 |
+| **"If you meet AC, you beat AC"** | An attack roll **equal to** AC hits. Stated flatly when Taint's 22 met Barrett's AC 22 | S10 |
+| **10-foot floors** | Ruled on the record, correcting a player's "standard 12-foot floors" assumption. Governs vertical distances in [[The Grand Library of the Veiled Dawn]] and presumably elsewhere | S10 |
+| **Steel Defender proximity → disadvantage** | [[Mr. Cat\|Mr. Cat, Esquire]] being within **5 feet** imposed **disadvantage on an attack that had already hit**, forcing a reroll (22 → 7, miss). Applied *retroactively* within the same resolution | S10 |
+
+## Deferred / Pending Rulings (S10)
+
+- ⚑ **Samothy's teleport infusion × surprise attack** — DM explicitly deferred: *"We'll talk about mechanics for that."* Infusion wording itself is garbled on the recording; **do not enter into `05-Mechanics` until confirmed.**
+- ⚑ **Deanna's "crit in stock"** — she asks whether she has one, the DM confirms she does, and she then chooses to "shoot and miss." The mechanic exists at the table but is **documented nowhere in the vault.** Ask the table.
+- ⚑ **Vega's Relentless Rage at party level 10** — a Barbarian 11 feature in the 2024 PHB, and she's pure Barbarian 10. Mishear, player error, or a DM allowance? Flagged, not corrected.
+- ⚑ **Emeralds vs. Beast Masters.** [[Bobby]]'s S02 lore — "emeralds are the only way to kill a Beastmaster" — is contradicted in practice: S10's [[The Beast Master|Beast Master]] died to **Call Lightning**, no emerald involved. Either the lore is wrong, incomplete, or means something else. **Ask the DM.**
+
 ## One-Off Rulings (S08)
 
 - **Magic detection by ear:** the library's no-magic rule is enforced via **verbal components** — whisper-casting + a covering noise (the cough) beats it. *(S08)*

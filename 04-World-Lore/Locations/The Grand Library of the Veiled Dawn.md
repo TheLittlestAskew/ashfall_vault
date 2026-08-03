@@ -21,6 +21,32 @@ Human devotees of the vampire overlords. Purpose: **guard forbidden knowledge, d
 
 **NO MAGIC** — enforced by ear (verbal components draw an instant "*shh, no magic*"). No coughing either. Guards: ~15 cultists, door guard (Josh), roaming patrols on a 2.5-minute circuit — "not counting any vampire thralls or beast thralls, and now that I've said something, I won't tell you if there are."
 
+## Architecture Confirmed in Play (S10)
+
+The S10 battle nailed down the restricted section's physical layout, most of it via sightline questions to the DM:
+
+- **Open banister landings** overlooking the floors below — you can see down them, shoot down them, and spit down them.
+- **Climbable bookcases** — [[Flux]] fought the whole battle from on top of them.
+- **Book stacks deep enough to hide in** — [[Valerian Hellebore]] moved through them in spider Wild Shape.
+- **A railing** [[Samothy Smith-Wesson]] shot over when [[Barrett Grimmskar]] blocked the stairs.
+- **Staircases connecting the floors**, one of which became the party's chokepoint — held by [[Vega Bloodroot]], Barrett and [[Mr. Cat\|Mr. Cat, Esquire]].
+- **10-FOOT FLOORS** — ruled on the record. A player assumed "standard 12-foot floors"; **DM: "10-foot floor."**
+
+The fight was won on **vertical control**, not damage: elevation and separation, with line of sight as the limiting resource.
+
+## Status (after S10 — BATTLE OVER, party victorious)
+
+**The S08 cliffhanger / S09 battle ENDS HERE.** ~57 minutes of S10 finish it. **Party victory, no PC downed**, total party damage taken **15** (all [[Vega Bloodroot]]'s).
+
+DM: *"What was a nice semi-clean library is now coated in the blood of many, many cultists."*
+
+- **Dead on the floor:** Lucky ([[Samothy Smith-Wesson]]), Shirley ([[Flux]]), Taint ([[Barrett Grimmskar]]), Shathide **and [[The Beast Master]]** ([[Valerian Hellebore]]), Cuck ([[Vega Bloodroot]], last standing), one unnamed ([[Deanna Smith-Wesson]] ⚑ target never named). The Beast Master's body is **ash**.
+- ⚑ **Absidy fled** — the only enemy to leave the building alive. The [[Cult of the Pale World]] very likely knows exactly what happened here.
+- ⚑ **Carl Senior is never declared dead**, despite Cuck being confirmed the last enemy standing.
+- **The S09 question is answered:** the restricted-section haul was **the entire restricted section** — all its books and scrolls, into [[Flux]]'s bag of holding, plus diamonds/rubies/emeralds and a **severed big-cat skull with a jade ball in its jaws** (non-magical — see [[Unknown Great Cat]]). **200 gold** total off the bodies, and a **folded, unreadable note** from the Beast Master's ashes. **None of the books have been read.**
+- ⚑ **The whisper.** [[Flux]] passed a Perception check (advantage, **22**) and heard **his own name** whispered twice from an empty space in this room. Source unknown. He ignored it. **The library is not finished with them.**
+- **The party long-rested here**, camping inside [[Zelda Z Whipper|Zelda]]'s ritual-cast **Tiny Hut**, in the room where they killed everyone. They leave for [[The Walled Base (Museum-Castle)]] next session.
+
 ## Status (after S09 ⚠ partial recording)
 
 S08: restricted-section doors **smashed open** (Vega's greataxe + Valerian's nat-20 Starry Wisp); library alerted; five books taken + the human-skin book. S09: **the battle was fought here** — cultists (Carl A & B, Frankie, Lieutenant Dan, STD…) vs. the party; Call Lightning indoors; ~90 minutes of combat. **Outcome strongly implied won but unconfirmed** ⚑ (mic-only recording) — restricted-section haul unknown beyond the radiant gloves ⚑ and Vega's unanswered "Did we find the things?"

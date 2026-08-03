@@ -40,6 +40,18 @@ Tall, gaunt. Corpse-pale skin; sunken **gold** eyes. Bloody ritual scars drippin
 
 [[Lt. Hargraven]] (S02) identified **light-blue magical auras** as the signature of a **Beast Master** — a vampire class that controls beasts; **dark red** marks a Vampire Master; theory holds Beast Masters are "closer to being a human." A Beast Master's footprints toured [[Hampshire]] the night of the attack and vanished mid-step. **Whether "the Beast Tamer" is a Beast Master (or the same role under another name) is PENDING DM confirmation.** Note: Bobby's lore (S02) — **emeralds are the only way to kill a Beastmaster**.
 
+## S10 Development — a Beast Master, finally seen ⚑ (question STILL open)
+
+S10 put an actual **Beast Master** on screen and killed him: see [[The Beast Master]]. The DM-supplied lore (read aloud by [[Vega Bloodroot]] on a natural-20 Perception) describes a **rare psychic mutation** bonding the Beast Master to **vampire beast thralls** — seeing through their eyes, hearing through their ears, commanding instantly at great distance, coordinating whole packs — which over decades erodes them into predatory, pack-minded creatures who can no longer separate themselves from their thralls.
+
+**This did not resolve the standing question.** Points of contact and friction, recorded without interpretation:
+
+- **Physique contradicts.** S10's Beast Master is *"very weak and frail,"* emaciated, "a sad vampire boy." The Beast Tamer is a **captain** who taunted the party about their weakness and expects to duel Vega when she "grows up." ⚑ Not obviously the same kind of creature.
+- **No aura was observed** in S10 — the light-blue/dark-red taxonomy was never invoked, so the S02 test wasn't applied.
+- **Emeralds were not involved.** S10's Beast Master died to **Call Lightning**, plainly, with no emerald anywhere near it. ⚑ Either the S02 "only way to kill a Beastmaster" lore is wrong, incomplete, or means something other than "only way." **Ask the DM — this now has direct evidence against it.**
+- **"Beast Master" is now used as an individual, not just a class** — a usage shift worth confirming.
+- ⚑ The **[[Hampshire]] Beast Master** (S02, light-blue aura, vanishing footprints) was never connected to S10's corpse by anyone at the table.
+
 ## Open Threads
 
 - Promised personal duel with the party "in the near future"

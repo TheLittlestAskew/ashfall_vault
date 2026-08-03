@@ -6,7 +6,7 @@
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
 | **Race**              | Half-Elf                                                                                             |
 | **Class**             | Fighter / Ranger (Monster Slayer per roster — ⚑ confirm subclass on sheet)                           |
-| **Level**             | 5 as of S01                                                                                          |
+| **Level**             | **10** as of S10 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑)                                      |
 | **Signature weapons** | Pistol (weapon mastery — Vex: hit grants advantage on next attack vs. target) · short sword · dagger |
 | **Family**            | Younger twin of [[Samothy Smith-Wesson]] (she shoved him aside to graduate first)                    |
 | User_ID               | 109912548                                                                                            |
@@ -24,6 +24,7 @@ Notebook/paper graduation item ("handy dandy notebook" — properties unrevealed
 
 ## Key Events
 
+- **S10: steady fire through a bad sightline.** Spent the battle across the staircase with **line of sight as her limiting resource** — blocked from Tink, blocked by the stairs, repositioning to support [[Samothy Smith-Wesson]]. Landed Taint (19→4), missed Cuck (10), then put two into **Carl Senior** (18→11; 17→14 with Vex). "That's my turn." ⚑ **The DM confirms a kill of hers at 00:34:57 but never names the target** — she asked about Taint, yet [[Barrett Grimmskar]] kills Taint six minutes later. Unresolved; root cause is the DM clearing dead tokens with a blanket "dead, dead, dead" down the initiative list. ⚑ **"Do I have a crit in stock?"** — she asks, the DM confirms she does, and she then declares "I'm gonna shoot and miss." **This mechanic is documented nowhere in the vault.** Ask the table.
 - **S09 (⚠ partial recording):** Pistol volleys all battle (best: 23→11), one nat-1 ("it just rolled over" energy, again), plus a **pre-combat nat 20** on the mystery group d20s ⚑. Initiative drama: rolled a 3, rerolled to 18.
 - **S08:** Her **magic paper finally showed its power**: a renewable forged letter from bishop Aloysius that walked all seven of them through the library's front door ("Thanks, Josh, you're a G"). Copied the broken **soul-trap seal** into her regular notebook. Spent the back half hiding from the Watch Captain hunting "Deanna, the leader" (stealth 13 — passed). Her Silence sphere never got its moment: "I wish I would have had a chance to cast it." Also: custom **dagger** delivered (Bobby ⚑ element unstated).
 - **S04:** Drought BROKEN — two kills' worth of damage including **one-shotting Beast A** (while her player substitute-DM'd the whole fight). Found ritual dagger #2 (smoky wood, water-deity text; Religion 18). Madi's substitute-DM stint: open rolls, self-added monsters, "I'm only the substitute DM. I don't have all of the teacher's notes."

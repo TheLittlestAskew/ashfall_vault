@@ -151,6 +151,32 @@
 | Carl A & Carl B, Frankie, Lieutenant Dan, Kletoris, STD, Penis, Balls, Vegeta, Charlie | Token renames | The S09 enemy roster, as christened by the table ("We're all children") — not canon NPC names |
 | 2024 grapple escape | Rule | Save vs DC 8+prof+str (replaces opposed checks) — adopted at-table S09 |
 
+## Provisional ⚑ (S10 — ALL first-seen, ALL awaiting DM confirmation)
+
+> 🛑 **Do not canonize any of these unasked.** This is an original setting with no external canon to check against; every name below is a first hearing off a diarized transcript whose **speaker map is itself unconfirmed**. Three approved spell-check rows were deliberately *not* applied for exactly this reason (see the S10 spell-check log).
+
+| Term | Type | Notes |
+|---|---|---|
+| **Beast Master** *(as an individual)* | Title → **individual** ⚑ | **Usage shift.** The vault has logged "Beast Master" as a *class* since S02. S10 uses it as a person: "the Beast Master," killed, looted. Page created at [[The Beast Master]]. ⚑ Still unresolved: is this the same title as [[The Beast Tamer]]? (Open since S02.) |
+| Shathide | Enemy token ⚑ | Pun **anchored on the record** — Vega: "It's because he's a shithead." Killed by Valerian. ⚑ The DM's own self-correction "Tinkt— er, Shathide is dead" was left uncorrected at 40% confidence |
+| Absidy | Enemy token ⚑ | Referred to as **she** throughout. **FLED — still at large**, the only enemy to escape the library |
+| Shirley | Enemy token ⚑ | Killed by Flux. ⚑ **Possibly a matched pair** — Flux asks "Are *they* within 5 feet of Zelda?" then "I hit the right one" |
+| Lucky | Enemy token ⚑ | Killed by Samothy (double nat 20). ⚑ **Pronoun conflict**: DM says "Lucky's a girl and you're not supposed to hit girls," then calls it "**his** turn" two rounds later |
+| Taint | Enemy token ⚑ | Killed by Barrett. DM's eulogy: "Bye-bye, tank" |
+| Cuck | Enemy token ⚑ | Killed by Vega — **last enemy standing**; she spat on the body |
+| Tink | Enemy token ⚑ | ⚑ **Separate enemy, or a mishearing of Taint?** This one decides three spell-check rows. Deanna is blocked from targeting "Tink" at 00:08 |
+| Carl Senior / Carl Jr. | Enemy tokens ⚑ | Carl Jr. already dead before this session ("He's about to be reunited with Carl Jr."). ⚑ **S09 logged the twins as "Carl A" and "Carl B"** — rename, or a different pair? ⚑ **Carl Senior is never declared dead** despite Cuck being the confirmed last enemy standing |
+| Karlsteiner | ⚑ Unresolved | Named **twice in the first three minutes and never again**. Real enemy, or an ASR artifact? The approved spell-check row `Karlsteiner`→`Carl Senior` (45%) was **deliberately not applied** |
+| **Skin of Your Teeth** | Homebrew maneuver — **Barrett** ⚑ | Gunslinger maneuver, quoted in full at 00:26:05; spend a Risk Die (1d8) as a reaction to raise AC against an incoming hit. **First recorded use** — insufficient against a 22 |
+| "Crit in stock" | Mechanic ⚑ — **Deanna** | She asks "Do I have a crit in stock?", the DM confirms she does. **Documented nowhere in the vault.** Ask the table |
+| Teleport infusion | Infusion ⚑ — **Samothy** | Level-10 pick; wording garbled ("teleport up to 15 feet anywhere a previous creature has been"). DM deferred the surprise-attack interaction: "We'll talk about mechanics for that" |
+| Relentless Rage | Feature ⚑ — **Vega** | Called at party level 10; that's a **Barbarian 11** feature in the 2024 PHB. Mishear, player error, or DM allowance — flagged, not corrected |
+| The unknown great cat | Species ⚑ | Unnamed. "At one point this animal was abundant in the area." Page at [[Unknown Great Cat]] |
+| The folded note | Item ⚑ | From the Beast Master's ashes; "a language you can't understand, so it's like hieroglyphics almost." Held by Valerian, undeciphered |
+| **Milestone leveling** | Rule change | XP retired campaign-wide — DM: "Yep, from here on out" |
+
+**⚑ Correction to a prior entry:** the S08 glossary line **"Starry Wisp — Valerian's cantrip"** needs **widening, not correcting**. [[Zelda Z Whipper|Zelda]] casts it in S10; **both** Bard and Druid have Starry Wisp in the 2024 PHB.
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

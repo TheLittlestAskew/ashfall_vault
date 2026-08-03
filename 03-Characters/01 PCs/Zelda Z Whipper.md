@@ -6,7 +6,7 @@
 | ------------------- | ---------------------------------------------------- |
 | **Race**            | Halfling                                             |
 | **Class**           | Bard (College of the Moon — ⚑ homebrew/UA, confirm)  |
-| **Level**           | 5 as of S01                                          |
+| **Level**           | **10** as of S10 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑) |
 | **Signature magic** | Starry Wisp · Bane · Thunderwave                     |
 | **Demeanor**        | Relentlessly cheerful — skips, cartwheels, mood ring |
 | User_ID             | 107276273                                            |
@@ -23,6 +23,7 @@ Mood ring (graduation item — "Ooh, my mood ring!") · grappling-hook bracers �
 
 ## Key Events
 
+- **S10: area control from the banister — and a stolen kill.** First in the initiative order ("back to the top would be Zelda"). Held **Fear** on Carl Senior (he failed a 9 vs DC 14 and had to **Dash away**), chipped Shathide all night with **Starry Wisp** (19→9 radiant) ⚑ *the glossary has logged Starry Wisp as [[Valerian Hellebore]]'s since S08 — **both** Bard and Druid have it in the 2024 PHB; widen the glossary note rather than correcting it*, then dropped Fear ("I don't think I can move it") to move to the banister and cast **Shatter at 3rd level** centered between Carl Senior and Shathide (DC 14 Con): Shathide made it on a **natural 20** (half, 8), Carl Senior failed on 13 (full, 17). Then **[[Valerian Hellebore]] killed Shathide out from under her** with Call Lightning, and she said so on the spot: *"I had been hitting him for so long. **You stole my kill**."* Dodged an enemy's two attacks (17 vs her AC 18) and **stuck her tongue out at it**. Passive Perception 19, collected by the DM who never said why ⚑. Closed the night **ritual-casting Tiny Hut** so the party could long-rest inside the room they'd just emptied.
 - **S09 (⚠ partial recording):** **Won initiative (24)** — first to act against the library cult. Zero archived attack rolls; her actual turns (support? Moonbeam? whip debut?) are lost to the mic-only recording ⚑. One pre-combat nat 1 on the mystery group d20s.
 - **S08:** Custom **whip** delivered (Bobby ⚑ element unstated). A homebrew-data-entry night — **zero archived rolls** — but her spell list drove the planning: **Knock** prepared (vetoed: audible 300 ft), Detect Magic on standby. "Size doesn't matter." Joined ~1 minute late (kiddo escaped their room).
 - **S04:** "Oh, a **slutty 20**" (perception). Starry Wisp 14→28 under the DM's from-the-car sun ruling. Looted the sailor ward (3 emeralds, ruby, 10 gp — Sailor's Rite lore). Opened "her Moonbeam" as a blue-tinted light source ⚑ (College of the Moon feature, name unknown). Co-victim of the empty-room comedy.

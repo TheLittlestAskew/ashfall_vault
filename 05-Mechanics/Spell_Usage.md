@@ -97,3 +97,20 @@ S05 was a roleplay session (no archived casts). S06–S07 casts live in their se
 | [[Flux]] | **Witch Bolt** (18→7) + Finger Guns (18→9) | Witch Bolt''s first appearance on a recorded session (previously S04.5 archive-only) |
 | [[Vega Bloodroot]] | Eldritch Claw Tattoo (d6 riders ×4 archived) | Pure-Barbarian debut |
 | [[Zelda Z Whipper]] / [[Deanna Smith-Wesson]] | ⚑ unknown | Zelda''s support + "Did you heal me or something?" — caster unidentified (recording gap) |
+
+## S10 — Never Truly Alone (06/15/2026) ⚑ transcript-only (roll archive not queried)
+
+| Caster | Spell | Notes |
+|---|---|---|
+| [[Valerian Hellebore]] | **CALL LIGHTNING ×3** | All cast **from Wild Shape (spider)** via the magic action, concentration held. (1) Absidy + Shirley, DC 16 Dex — **6 damage out of a possible 40** (2,2,1,1): "I didn't even know spiders could cry." (2) **[[The Beast Master]]** — Dex save 12 vs DC 16, failed. **KILL.** Damage rolled, voided and rerolled on the record ⚑. (3) Carl Senior + Shathide, both failed, **32 — Shathide dies.** |
+| [[Zelda Z Whipper]] | **Starry Wisp** (19 → 9 radiant) | vs Shathide. ⚑ The S08 glossary logs Starry Wisp as Valerian's — **both Bard and Druid have it in the 2024 PHB**; widen the note, don't correct it |
+| [[Zelda Z Whipper]] | **Fear** (DC 14 Wis) | Carl Senior failed on 9 → forced to **Dash away**; Shathide failed on 4 → ran. Dropped mid-fight ("I don't think I can move it") to free concentration for Shatter |
+| [[Zelda Z Whipper]] | **Shatter (3rd level)**, DC 14 Con | Centered between Carl Senior and Shathide. Shathide **nat 20** (half, 8); Carl Senior failed on 13 (full, **17**) |
+| [[Zelda Z Whipper]] | **Tiny Hut** (ritual) | Session close — the party long-rests inside it, in the room where they killed everyone |
+| [[Samothy Smith-Wesson]] | **Branding Smite** (bonus action, 5 radiant) | ⚑ Player calls it **3rd level for 2d6**; 2024 Branding Smite is 2nd level / 2d6 (+1d6 per slot above). Probably an under-count — **needs archive verification (blocked)** |
+| [[Samothy Smith-Wesson]] | **Finger Guns** (bonus action) | **NAT-20 CRIT for 34** (4d6 = 24, +10) — the killing blow on Lucky, and his *second* nat 20 of the same turn |
+| [[Flux]] | **Finger Guns** ×2 | vs Shathide (23 → 7), vs Taint (14 → 7) |
+| [[Flux]] | **Identify** | On the jade ball + big-cat skull: **no magic.** "It's just a plain skull." See [[Unknown Great Cat]] |
+| [[Vega Bloodroot]] | **Eldritch Claw Tattoo** (+6 rider ×2) | Used twice after forgetting it entirely in S09: "I didn't use tattoo damage at all last time" |
+| [[Barrett Grimmskar]] | **Skin of Your Teeth** (Risk Die 1d8, reaction) | ⚑ Homebrew Gunslinger maneuver, **first recorded use** — insufficient to beat the incoming 22. [[Mr. Cat\|Mr. Cat, Esquire]] saved him instead |
+| [[Samothy Smith-Wesson]] | *(new level-10 infusion)* **Teleport** | ⚑ Wording garbled — "teleport up to 15 feet anywhere a previous creature has been." DM deferred the surprise-attack interaction. **Not canonized here.** |

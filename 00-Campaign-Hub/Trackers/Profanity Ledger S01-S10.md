@@ -129,16 +129,43 @@
 | Taylor (Vega) | 9 | 9 | 1 | 1 | 0 | **20** |
 | *everyone else* | — | — | — | — | — | *unrecorded* |
 
-## Running Totals (through S09, attributed only — S09 adds Taylor's 20)
+## S10 — Never Truly Alone (06/15/2026)
+
+> ⚑ Attribution rests on the **unconfirmed** speaker map (see the session note's Archivist Notes). Counts are from the corrected transcript. Full audio this session — all 7 players + DM captured, so this one *is* a fair fight (unlike S09).
+> Column conventions: **fuck** folds in *fucking / fucker*; **shit** folds in *shitty / shithead*.
+
+| Speaker | fuck | shit | bitch | damn/goddamn | motherfucker | Session Total |
+|---|---|---|---|---|---|---|
+| Taylor (Vega) | 5 | 7 | 0 | 1 | 0 | **13** |
+| Chase (Valerian) | 8 | 3 | 2 | 0 | 0 | **13** |
+| Doug (Barrett) | 2 | 5 | 0 | 2 | 0 | **9** |
+| Josh (Samothy) | 2 | 0 | 0 | 3 | 0 | **5** |
+| Taylor (DM) | 1 | 1 | 0 | 3 | 0 | **5** |
+| Madi (Deanna) | 1 | 1 | 0 | 1 | 0 | **3** |
+| Christie (Zelda) | 1 | 0 | 0 | 0 | 0 | **1** |
+| Jill (Flux) | 0 | 0 | 0 | 0 | 0 | **0** |
+
+**Session total: 49.** **Session champions (tie): Chase and Taylor (Vega), 13 each** — a quiet night by this table's standards (S08 alone was 93). A 73-minute session with ~57 minutes of tidy, winning combat doesn't generate much swearing.
+
+**Uncounted / off-schema:**
+- Josh (Samothy) — **"ass"** ×1 ("crazy-ass movement," the new teleport infusion). No column for it.
+- Doug (Barrett) — **"shitty"** counted in the *shit* column ("Piercer to reroll shitty damage").
+- Taylor (Vega) — **"shithead"** counted in the *shit* column; it's the on-record anchor for Shathide's name.
+- **Blasphemy (tracked separately from profanity):** "Jesus Christ" ×3 (DM ×1 as "Jesus Christ, superstar!", Vega ×1, Deanna ×1); "God forbid" ×1 (Valerian).
+- [[Flux]] recorded **zero** profanity — the only clean sheet at the table.
+
+## Running Totals (through S10, attributed only — S09 counts Taylor's 20 alone, mic-only)
 
 | Speaker | Total |
 |---|---|
-| Chase | **166** |
-| Taylor (Vega) | 148 |
-| Taylor (DM) | 83 |
-| Josh | 43 |
-| Madi | 21 |
-| Doug | 20 |
-| Christie | 11 |
+| Chase | **179** |
+| Taylor (Vega) | 161 |
+| Taylor (DM) | 88 |
+| Josh | 48 |
+| Doug | 29 |
+| Madi | 24 |
+| Christie | 12 |
 | Jill | 3 |
 | *Unattributed pool* | *50* |
+
+**Campaign single-session record still stands: Chase, 40 (S08).**

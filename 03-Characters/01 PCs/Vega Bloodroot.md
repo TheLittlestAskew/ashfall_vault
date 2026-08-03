@@ -5,8 +5,8 @@
 |                      |                                                                                |
 | -------------------- | ------------------------------------------------------------------------------ |
 | **Race**             | Half-Orc                                                                       |
-| **Class**            | Barbarian (Path of the Wild Heart) / Rogue 1                                   |
-| **Level**            | 5 as of S01 (Barb 3/Rogue 1 → took Barbarian 4 at S01 level-up, eyeing a feat) |
+| **Class**            | **Barbarian (Path of the Wild Heart) — PURE** (Rogue dip dropped on the record, S09) |
+| **Level**            | **10** as of S10 (was 5 at S01; 8 at S09; **8 → 10 in a single award** ⚑)      |
 | **Signature weapon** | Greataxe                                                                       |
 | **AC**               | 14 (+1 bracers = 15) as of S01                                                 |
 | **Appearance note**  | "Your character looks like a half-orc Indiana Jones" — DM, S01                 |
@@ -40,6 +40,10 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 - First blood taken in stride — quipped through her first kill ("Not today, Satan") but registered being drenched in vampire blood ("Oh gross, can't wait to take a shower").
 - **S02 — the quiet caretaker under the sass:** took over Hampshire's body-disposal unprompted — staked the dead, piled them for the pyre, no speeches ("It needed doing"). Said nothing to Valerian in his parents' doorway; some things don't need the Regina George voice.
 - **S02 — record swing:** 47 damage on a reckless nat-20 crit, narrated as full liquefaction ("there's somebody else still alive on this battlefield… lock eyes with him and just kind of smile"). Self-identified the party role: "That would be me for sure. **I am the fist.**"
+- **S10 — the one who knows.** For the first time she is the party's *lore source*, not its blunt instrument: a natural-20 Perception surfaces [[The Beast Master]], the DM confirms both player and character have the knowledge, and she reads the whole of it aloud to the table — immediately and completely, holding nothing back for leverage. The Regina George voice doesn't show up for it.
+- **S10 — witness as the point.** She kills the last enemy in the room and there is **nobody left alive to see it**, so she spits on the corpse. That's the whole gesture: supplying, herself, the witness the moment lacked. It rhymes directly with the S02 pyre detail — the unglamorous thing nobody's watching still gets done, and it still counts.
+- **S10 — taunt, then own it.** "bring it on, whatever, you can't touch me" → immediate natural-20 crit to the face → "well, shit, you touched me. Goddamn, that was a lucky shot." No sulking, no retcon. The pride that goads her into fights (her sheet's stated flaw) is now openly a bit she's in on.
+- **S10 — generosity in the kill economy.** When [[Zelda Z Whipper|Zelda]] loses a kill to [[Valerian Hellebore]] and says so, Vega defuses it by volunteering her own humiliation: she went **six sessions without a single kill**. She spent S03 furious about exactly that. She now spends it as currency to cool someone else down.
 
 ## Build Notes
 
@@ -54,6 +58,7 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 
 ## Key Events
 
+- **S10: THE ONE WHO KNEW.** A **natural-20 Perception** spotted [[The Beast Master]] on the floor below a full round before he could act — the party's single biggest advantage of the battle — and the DM confirmed *both player and character* held the lore. She read it aloud to the table: the psychic mutation, the thrall-bond, the decades-long erosion of self, and the line the session takes its name from — *"A Beast Master standing alone is vulnerable. A Beast Master with their thralls is Truly Never Alone, or Never Truly Alone."* Warned the party first ("there's a skinny twink downstairs who is, I think, coming after us" → "He's probably got friends nearby, so we need to GTFO"). **Killed Cuck — the last enemy standing** (19→13, Reckless 26→18; 33 for the round) after a 42-damage round that finally used the **Eldritch Claw Tattoo** (+6 ×2) she forgot entirely last session. Taunted Cuck ("you can't touch me"), immediately ate his **natural-20 crit**, and owned it out loud. **The only PC to take damage all session: 15 total**, both hits hers. Then, with nobody alive left in the room to witness it, **spat on the body**. Level **8 → 10**; called **Relentless Rage** ⚑ (a Barbarian 11 feature — flagged, not corrected). Shopping for a **warhammer**, directed to [[Bobby]].
 - **S09 (⚠ partial recording): PURE BARBARIAN.** Dropped the Rogue dip on the record ("I haven't been able to use it") — the rebuild question open since S02, closed. **Level 8 (max HP 69).** Entered the battle still Raging from the S08 door. The grapple saga vs "STD": two failed advantage checks (one ate a nat 1), a wasted inspiration, then the 2024 escape-save rules surfaced — adv 20, free, *"Get off of me!"* — followed by 19 + 25 damage "because fuck you." Debuted a superiority-die **menacing attack** (DC 15 frightened) ⚑ source unknown, and Savage Attacks rerolls. Most archived rolls at the table (31).
 - **S08:** Geared up: **second brass knuckles (purple/psychic 2d6)** — "the old one-two" — and **THE SUN SHARD mounted on her gauntlets** ("Solar Fist," Samothy's infusion). The Watch Captain called Deanna her "boss": *"You think just because I'm an orc that I need a boss?"* — tripped him down a staircase (dex 14) then flirt-escorted him in circles for an hour as the party's decoy. And when the clever plans all fizzled: **Raged and axed the restricted-section doors open** (25/17 + 23/21, ate 13 electric feedback), waking the whole library. "Daddy told me to go, so I went."
 - **S04: FIRST KILL.** Finished the last beast thrall of the 2F brawl with the double-bladed scimitar — "Chance! Hooray! I did it! … I killed somebody." Nat-20 investigation found the Gary photo (and left it unlooted). Now level 6.
@@ -66,6 +71,9 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 > "Yes, I say not today, Satan." *(S01)*
 > "Chop chop, motherfucker!" *(S01)*
 > "I'm not dealing with the devil until it becomes entirely necessary." *(S01)*
+> "A Beast Master standing alone is vulnerable. A Beast Master with their thralls is Truly Never Alone, or Never Truly Alone." *(S10 — reading the lore aloud; the session's title line)*
+> "Cuck dies and there's nobody there to see it. I spit on him." *(S10)*
+> "well, shit, you touched me. Goddamn, that was a lucky shot." *(S10)*
 
 ## Relationships
 

@@ -113,3 +113,21 @@
 |---|---|---|
 | ⚑ unknown | **Mystery gloves — radiant damage** ("To radiant damage? …it adds it to what?") | Identified mid-battle; presumably restricted-section loot; owner + properties unconfirmed — ask the table |
 | ⚑ | **Restricted-section haul — UNKNOWN** | Flux's nat-20 Investigation (28) found *something*; Vega on mic: "Did we find the things?" — unanswered. Ask the table |
+
+## S10 — Never Truly Alone (06/15/2026)
+
+> The S09 "did we find the things?" question is **answered here**: yes — the whole restricted section. ⚑ Roll archive not queried this session; item values/quantities are transcript-only.
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Flux]] | **Books and scrolls of the entire restricted section** | In the **bag of holding**. Gathered across two full turns *during* combat plus the aftermath — "anything I can get my hands on." **NONE HAVE BEEN READ.** This is the relic / [[Sun Shard]] lore the party came for. |
+| [[Flux]] | **Diamonds, rubies and emeralds** | From the restricted section. Quantity and value **unstated** ⚑. *(Note: [[Bobby]] wants jewels for castle protection, and emeralds are the S02-stated "only way to kill a Beastmaster.")* |
+| [[Flux]] | **Jade ball (~1 lb) seated in a big-cat skull** | Took the whole assembly — "You can't separate the set." **Identify: NO MAGIC** — "just a plain skull." See [[Unknown Great Cat]]. Taken deliberately on principle: "the way that you said that, no, but I'm going to." |
+| [[Valerian Hellebore]] | **Folded note in an unknown script** | Looted from **[[The Beast Master]]'s ashes**. "It's in a language you can't understand, so it's like hieroglyphics almost." Kept expressly to find someone who can decipher it. **Undeciphered.** Vega's read: "just looks like pictures to me. Maybe he just likes to draw." |
+| Party (unassigned) | **200 gold** | Total across **all** bodies, not per body. Split unrecorded ⚑ |
+| [[Vega Bloodroot]] | **Eldritch Claw Tattoo** | Used **twice** (+6 damage each) — after explicitly noting she forgot it entirely last session |
+| [[Barrett Grimmskar]] | **Risk Dice (1d8)** — Gunslinger | Spent one on **Skin of Your Teeth** (first recorded use ⚑); insufficient to beat the incoming 22 |
+| [[Vega Bloodroot]] | **Warhammer** — ⏳ *NOT acquired* | Requested from the DM; directed to [[Bobby]]. Next-session pickup |
+| [[Barrett Grimmskar]] | **Automatic weapon** — ⏳ *approved, NOT acquired* | DM: "it should be fine for automatics… We can have Bobby craft you one" |
+| All 7 PCs | **Custom weapons at [[Bobby]]'s** — ⏳ *NOT acquired* | "You guys all have weapons at Bobby's that you'll be getting next session" |
+| [[Samothy Smith-Wesson]] | **Teleport infusion** (new, level-10 pick) | ⚑ Wording garbled in transcript ("teleport up to 15 feet anywhere a previous creature has been"). Get the real text before it enters `05-Mechanics`. DM deferred the surprise-attack interaction: "We'll talk about mechanics for that." |
