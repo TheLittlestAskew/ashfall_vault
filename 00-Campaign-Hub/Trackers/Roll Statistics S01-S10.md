@@ -213,17 +213,17 @@ Per-roll color in [[Session 08 — Silence in the Library]]'s predecessor note (
 | [[Barrett Grimmskar]] | ~9 | 0 | 0 | 26→19 opener ("Jesus Christ, superstar!"); **kills Taint** (17→7, 23→9). First recorded use of the Gunslinger maneuver **Skin of Your Teeth** ⚑ (Risk Die 1d8 — *insufficient*, then [[Mr. Cat]] saved him anyway) |
 | [[Deanna Smith-Wesson]] | ~9 | 0 | 0 | Steady pistol work: Taint 19→4, Carl Senior 18→11 and 17→14 (Vex). ⚑ **One kill the DM confirms but never names a target for** (00:34:57) — she asked about Taint, but Barrett kills Taint six minutes later |
 | [[Flux]] | ~9 | 0 | 0 | **Kills Shirley** with a 22-damage bow shot from atop the bookcases. **Perception 22 (advantage)** → hears his own name whispered from an empty space, twice. **Identify** on the big-cat skull: no magic |
-| [[Valerian Hellebore]] | ~6 | 0 | 0 | ⚡ **2 KILLS — the most at the table**: [[The Beast Master]] (Dex save 12 vs DC 16, failed) and **Shathide** (32 damage), both by **Call Lightning**, both from **spider Wild Shape**. Also the campaign's saddest roll: **6 lightning damage out of a possible 40** (2,2,1,1) — "I didn't even know spiders could cry" |
-| [[Zelda Z Whipper]] | ~5 | 0 | 0 | Starry Wisp 19→9 radiant ⚑ (glossary lists Starry Wisp under Valerian since S08 — **both** Bard and Druid have it; widen the note, don't correct it). **Shatter at 3rd level** between Carl Senior and Shathide: 17 full / 8 half. Passive Perception 19. **Lost the Shathide kill to Valerian** and said so |
+| [[Valerian Hellebore]] | ~6 | 0 | 0 | ⚡ **2 KILLS — the most at the table**: [[The Beast Master]] (Dex save 12 vs DC 16, failed) and **Shithead** (32 damage), both by **Call Lightning**, both from **spider Wild Shape**. Also the campaign's saddest roll: **6 lightning damage out of a possible 40** (2,2,1,1) — "I didn't even know spiders could cry" |
+| [[Zelda Z Whipper]] | ~5 | 0 | 0 | Starry Wisp 19→9 radiant ⚑ (glossary lists Starry Wisp under Valerian since S08 — **both** Bard and Druid have it; widen the note, don't correct it). **Shatter at 3rd level** between Carl Senior and Shithead: 17 full / 8 half. Passive Perception 19. **Lost the Shithead kill to Valerian** and said so |
 | [[Mr. Cat\|Mr. Cat, Esquire]] | ~1 | 0 | 0 | Missed Taint (12) — but **imposed disadvantage on Taint's guaranteed hit on Barrett**, forcing a reroll of 7. Second consecutive session saving a PC |
-| DM (enemies) | ~23 | **1** (Cuck, crit on Vega) | 0 | Shathide also rolled a **nat 20 on a Con save** against Zelda's Shatter |
+| DM (enemies) | ~23 | **1** (Cuck, crit on Vega) | 0 | Shithead also rolled a **nat 20 on a Con save** against Zelda's Shatter |
 
 ### Session Records
 
-- **Natural 20s: 4** — Samothy ×2 (same turn, both into Lucky), Vega ×1 (Perception), and one **against** the party (Cuck's crit on Vega, landing immediately after she taunted him: "well, shit, you touched me. Goddamn, that was a lucky shot"). Plus Shathide's nat-20 Con save.
+- **Natural 20s: 4** — Samothy ×2 (same turn, both into Lucky), Vega ×1 (Perception), and one **against** the party (Cuck's crit on Vega, landing immediately after she taunted him: "well, shit, you touched me. Goddamn, that was a lucky shot"). Plus Shithead's nat-20 Con save.
 - **Natural 1s: 0** on the recording ⚑ — but with no archive query, absence of evidence only.
 - **Highest single damage: 40** ([[Samothy Smith-Wesson]], crit) → 34 (Samothy, Finger Guns crit) → 32 ([[Valerian Hellebore]]) → 30 ([[Vega Bloodroot]], two-attack turn).
-- **Most kills: [[Valerian Hellebore]], 2** (the Beast Master and Shathide) — both Call Lightning, both from spider form.
+- **Most kills: [[Valerian Hellebore]], 2** (the Beast Master and Shithead) — both Call Lightning, both from spider form.
 - **Total party damage taken: 15** — *all of it [[Vega Bloodroot]]* (6 + 9). Nobody else took a single point.
 - **No healing. No death saves. No PC downed.** No resources noted spent beyond one Risk Die and a handful of slots.
 - **Party reached LEVEL 10** — a **two-level jump** from S09's confirmed level 8, in one award ⚑. XP → **milestone** "from here on out."
@@ -232,7 +232,7 @@ Per-roll color in [[Session 08 — Silence in the Library]]'s predecessor note (
 
 > **No initiative was rolled this session** — the combat carries over from S09, so no d20s exist for it. Order inferred from the DM's turn calls (per the project-instructions initiative rule); opportunity attacks not treated as order changes.
 
-Zelda → Shathide → Cuck → Taint → Samothy (+ Mr. Cat on his turn) → Valerian → Deanna → Flux → Carl Senior → Vega → Barrett → Lucky → *(back to Zelda)*.
+Zelda → Shithead → Cuck → Taint → Samothy (+ Mr. Cat on his turn) → Valerian → Deanna → Flux → Carl Senior → Vega → Barrett → Lucky → *(back to Zelda)*.
 
 ⚑ **Discrepancy preserved, not reconciled:** S09 logged Zelda 24 → **Valerian 19 → Samothy 19** → Deanna 18 → Flux 14 → Vega 12 → Barrett 11. The S10 order matches on every PC **except Samothy and Valerian, who are swapped** — they tied at 19 in S09. Whether the tie was re-resolved between sessions is unknown. **Ask the DM.**
 

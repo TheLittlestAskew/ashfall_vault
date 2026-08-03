@@ -18,7 +18,7 @@ CAMPAIGN ID: 7170962
 
 | # | Title | Real Date | In-Game Time | Level | Key Outcome |
 |---|---|---|---|---|---|
-| 10 | [[Session 10 — Never Truly Alone]] | 06/15/2026 | Continuous with S09 (same night); long rest at the end | 8→**10** ⚑ | **The library battle ENDS — party victory, no PC downed.** [[The Beast Master]] killed by Valerian (Call Lightning, from spider form) and his lore put on the record; **Absidy fled** ⚑; the whole restricted section looted (unread); **someone whispers Flux's name**; XP → **milestone**; automatics approved. ⚑ **Roll archive never queried** |
+| 10 | [[Session 10 — Never Truly Alone]] | 06/15/2026 | Continuous with S09 (same night); long rest at the end | 8→**10** ⚑ | **The library battle ENDS — party victory, no PC downed.** [[The Beast Master]] killed by Valerian (Call Lightning, from spider form) and his lore put on the record; **Abcde fled** ⚑; the whole restricted section looted (unread); **someone whispers Flux's name**; XP → **milestone**; automatics approved. ⚑ **Roll archive never queried** |
 | 09 | [[Session 09 — The Battle of the Veiled Dawn (PARTIAL RECORDING)]] ⚠ | 05/11/2026 | Immediately after S08 | 7→**8** | The library battle (Carl A & B, Lieutenant Dan, STD…); **Call Lightning debut**; Vega goes pure Barbarian; radiant gloves ⚑; outcome implied-won, unconfirmed ⚑ — **mic-only recording** |
 | 08 | [[Session 08 — Silence in the Library]] | 05/04/2026 | Days later ("weeks" real-time) | 7 | **Bobby's gear delivered + Sun Shard mounted**; soul-trap seal broken; Grand Library infiltrated (Cult of the Pale World); doors axed open → **15-enemy CLIFFHANGER** |
 | 07 | [[Session 07 — The Sun Shard]] | 04/20/2026 | Same expedition | 7 | **SUN SHARD CLAIMED**; vampire slaves (V-brand) revealed; silent sniffing thralls; library heist planned |
@@ -125,7 +125,7 @@ CAMPAIGN ID: 7170962
 | The rooftop figure ⚑ | 🔴 | Pale, long coat — vanished | S08 — Saint Ardas rooftop |
 | [[The Beast Master]] ⚑ (unnamed) | ⚫ | Vampire — psychic beast-thrall controller | **S10 — DEAD**, Grand Library lower floor; body ash |
 | [[Mr. Cat\|Mr. Cat, Esquire]] | 🟢 | [[Samothy Smith-Wesson]]'s Steel Defender — party guardian | S10 — beside Samothy; **saved Barrett, 2nd session running** |
-| Absidy ⚑ | 🔴 | Cultist — **FLED THE LIBRARY ALIVE** (referred to as *she*) | S10 — escaped mid-battle; at large |
+| Abcde ⚑ | 🔴 | Cultist — **FLED THE LIBRARY ALIVE** (referred to as *she*) | S10 — escaped mid-battle; at large |
 | Carl Senior ⚑ | ⚪ | Cultist — twin of the already-dead Carl Jr. | S10 — heavily damaged, **fate never declared** |
 | Karlsteiner ⚑ | ⚪ | Named twice in S10's opening minutes, never again | Unresolved — real enemy or ASR artifact? |
 

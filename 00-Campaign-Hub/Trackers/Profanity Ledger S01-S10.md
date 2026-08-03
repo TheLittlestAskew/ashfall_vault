@@ -150,7 +150,7 @@
 **Uncounted / off-schema:**
 - Josh (Samothy) — **"ass"** ×1 ("crazy-ass movement," the new teleport infusion). No column for it.
 - Doug (Barrett) — **"shitty"** counted in the *shit* column ("Piercer to reroll shitty damage").
-- Taylor (Vega) — **"shithead"** counted in the *shit* column; it's the on-record anchor for Shathide's name.
+- Taylor (Vega) — **"shithead"** counted in the *shit* column; it's the on-record anchor for Shithead's name.
 - **Blasphemy (tracked separately from profanity):** "Jesus Christ" ×3 (DM ×1 as "Jesus Christ, superstar!", Vega ×1, Deanna ×1); "God forbid" ×1 (Valerian).
 - [[Flux]] recorded **zero** profanity — the only clean sheet at the table.
 

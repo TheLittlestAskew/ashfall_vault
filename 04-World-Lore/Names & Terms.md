@@ -148,24 +148,25 @@
 | Spellfire Flare | Spell — **BARRETT'S** | Archive-confirmed S09 (2d10, +6 to hit). The S04 "Flux nat-20 one-shot" attribution needs re-examination ⚑ |
 | Menacing attack (Vega) | Maneuver ⚑ | Superiority die, DC 15 Wis or frightened — source unknown ("a new Barbarian feature called Vega Bloodroot") |
 | The radiant gloves | Item ⚑ | "Adds radiant damage… to what?" — identified mid-battle; owner unknown |
-| Carl A & Carl B, Frankie, Lieutenant Dan, Kletoris, STD, Penis, Balls, Vegeta, Charlie | Token renames | The S09 enemy roster, as christened by the table ("We're all children") — not canon NPC names |
+| Carl A & Carl B, Frankie, Lieutenant Dan, Kletoris, STD, Penis, Balls, Vegeta, Charlie | Token renames | The S09 enemy roster, as christened by the table ("We're all children") — not canon NPC names. ✓ **Carl A = Carl Senior, Carl B = Carl Jr.** in S10 (confirmed by Taylor 2026-08-03) |
 | 2024 grapple escape | Rule | Save vs DC 8+prof+str (replaces opposed checks) — adopted at-table S09 |
 
-## Provisional ⚑ (S10 — ALL first-seen, ALL awaiting DM confirmation)
+## S10 first-seen terms — enemy names now CONFIRMED, the rest still ⚑
 
-> 🛑 **Do not canonize any of these unasked.** This is an original setting with no external canon to check against; every name below is a first hearing off a diarized transcript whose **speaker map is itself unconfirmed**. Three approved spell-check rows were deliberately *not* applied for exactly this reason (see the S10 spell-check log).
+> ✓ **2026-08-03 — Taylor confirmed the enemy roster spellings:** `Taint`, `Shithead`, `Abcde`, `Cuck`, `Shirley`, `Lucky`. Two of these overturned what the spell-check proposed — the transcriber's `Shathide` is really **Shithead** (the pun was the name all along) and `Absidy` is really **Abcde**. `Tink` was **not** a separate enemy; it was a mishearing of `Taint`. Rows marked ✓ below are settled.
+>
+> 🛑 **Everything still marked ⚑ stays uncanonized.** This is an original setting with no external canon to check against, and the transcript's **speaker map remains unconfirmed**. Two approved spell-check rows were deliberately *not* applied (see the S10 spell-check log).
 
 | Term | Type | Notes |
 |---|---|---|
 | **Beast Master** *(as an individual)* | Title → **individual** ⚑ | **Usage shift.** The vault has logged "Beast Master" as a *class* since S02. S10 uses it as a person: "the Beast Master," killed, looted. Page created at [[The Beast Master]]. ⚑ Still unresolved: is this the same title as [[The Beast Tamer]]? (Open since S02.) |
-| Shathide | Enemy token ⚑ | Pun **anchored on the record** — Vega: "It's because he's a shithead." Killed by Valerian. ⚑ The DM's own self-correction "Tinkt— er, Shathide is dead" was left uncorrected at 40% confidence |
-| Absidy | Enemy token ⚑ | Referred to as **she** throughout. **FLED — still at large**, the only enemy to escape the library |
-| Shirley | Enemy token ⚑ | Killed by Flux. ⚑ **Possibly a matched pair** — Flux asks "Are *they* within 5 feet of Zelda?" then "I hit the right one" |
-| Lucky | Enemy token ⚑ | Killed by Samothy (double nat 20). ⚑ **Pronoun conflict**: DM says "Lucky's a girl and you're not supposed to hit girls," then calls it "**his** turn" two rounds later |
-| Taint | Enemy token ⚑ | Killed by Barrett. DM's eulogy: "Bye-bye, tank" |
-| Cuck | Enemy token ⚑ | Killed by Vega — **last enemy standing**; she spat on the body |
-| Tink | Enemy token ⚑ | ⚑ **Separate enemy, or a mishearing of Taint?** This one decides three spell-check rows. Deanna is blocked from targeting "Tink" at 00:08 |
-| Carl Senior / Carl Jr. | Enemy tokens ⚑ | Carl Jr. already dead before this session ("He's about to be reunited with Carl Jr."). ⚑ **S09 logged the twins as "Carl A" and "Carl B"** — rename, or a different pair? ⚑ **Carl Senior is never declared dead** despite Cuck being the confirmed last enemy standing |
+| Shithead | Enemy token ✓ | Spelling confirmed by Taylor. The pun **is** the name — Vega: "It's because he's a shithead." Killed by Valerian. The transcriber heard it as `Shathide`; corrected vault-wide 2026-08-03 |
+| Abcde | Enemy token ✓ | Spelling confirmed by Taylor (the joke is the alphabet). Transcriber heard it as `Absidy`; corrected vault-wide 2026-08-03. Referred to as **she** throughout. **FLED — still at large**, the only enemy to escape the library |
+| Shirley | Enemy token ✓ | Spelling confirmed. **One creature, confirmed by Taylor** — Flux's "Are *they* within 5 feet of Zelda?" / "I hit the right one" was not a matched pair. Killed by Flux |
+| Lucky | Enemy token ✓ | Spelling confirmed. Killed by Samothy (double nat 20). ⚑ **Pronoun conflict still open**: DM says "Lucky's a girl and you're not supposed to hit girls," then calls it "**his** turn" two rounds later |
+| Taint | Enemy token ✓ | Spelling confirmed. Killed by Barrett. DM's eulogy: "Bye-bye, tank." **`Tink` was the same token misheard** — Deanna's blocked shot at 00:08 and the DM's "Taint— er, Shithead is dead" self-correction both refer to Taint |
+| Cuck | Enemy token ✓ | Spelling confirmed. Killed by Vega — **last enemy standing**; she spat on the body |
+| Carl Senior / Carl Jr. | Enemy tokens ✓ | **Confirmed by Taylor: Carl Senior = `Carl A`, Carl Jr. = `Carl B`** from the S09 roster (see the token-renames row above). Not a different pair. Carl Jr. already dead before this session ("He's about to be reunited with Carl Jr."). ⚑ **Carl Senior is never declared dead** despite Cuck being the confirmed last enemy standing |
 | Karlsteiner | ⚑ Unresolved | Named **twice in the first three minutes and never again**. Real enemy, or an ASR artifact? The approved spell-check row `Karlsteiner`→`Carl Senior` (45%) was **deliberately not applied** |
 | **Skin of Your Teeth** | Homebrew maneuver — **Barrett** ⚑ | Gunslinger maneuver, quoted in full at 00:26:05; spend a Risk Die (1d8) as a reaction to raise AC against an incoming hit. **First recorded use** — insufficient against a 22 |
 | "Crit in stock" | Mechanic ⚑ — **Deanna** | She asks "Do I have a crit in stock?", the DM confirms she does. **Documented nowhere in the vault.** Ask the table |

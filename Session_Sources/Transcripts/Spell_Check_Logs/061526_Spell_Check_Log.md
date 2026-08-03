@@ -21,13 +21,13 @@
 | 8 | `I will really cast` → `I will ritual cast` | 1050 | 75% | Tiny Hut is a ritual; party settling for a long rest |
 | 9 | L66 re-segmentation (punctuation only) | 66 | 70% | `yeah. Chase, is my background to your satisfaction?` — Chase answers next line |
 | 10 | L70 `on Are` → `on— are` (punctuation/caps only) | 70 | 70% | Spurious mid-question capital; DM answers the question |
-| 11 | `Shafid` → `Shathide` | 194 | 60% | Dominant in-session form (7×) |
-| 12 | `Shifteed` → `Shathide` | 668 | 60% | Second Shatter target, named 4 lines later |
-| 13 | `Shatid` → `Shathide` | 674 | 60% | Same target mid-Shatter resolution |
-| 14 | `Shathid` → `Shathide` | 732, 772 | 60% | Variant of dominant form |
-| 15 | `Shadid` → `Shathide` | 752 | 60% | Same target (disadvantage rider) |
-| 16 | `Absity` → `Absidy` | 502 | 60% | Dominant form (4×); the creature that flees |
-| 17 | `Absinthe` → `Absidy` | 948 | 60% | Same creature, same sentence topic |
+| 11 | `Shafid` → `Shithead` | 194 | 60% | Dominant in-session form (7×) |
+| 12 | `Shifteed` → `Shithead` | 668 | 60% | Second Shatter target, named 4 lines later |
+| 13 | `Shatid` → `Shithead` | 674 | 60% | Same target mid-Shatter resolution |
+| 14 | `Shathid` → `Shithead` | 732, 772 | 60% | Variant of dominant form |
+| 15 | `Shadid` → `Shithead` | 752 | 60% | Same target (disadvantage rider) |
+| 16 | `Absity` → `Abcde` | 502 | 60% | Dominant form (4×); the creature that flees |
+| 17 | `Absinthe` → `Abcde` | 948 | 60% | Same creature, same sentence topic |
 | 18 | `Karl Senior` → `Carl Senior` | 668, 772 | 60% | S09 glossary attests `Carl`; dominant form 7× |
 | 19 | `Carl Sr.` → `Carl Senior` | 810 | 60% | Abbreviation of dominant form |
 | 20 | `Carl Senior. Crossing's` → `Carl Senior's` | 210 | 55% | ASR split of the possessive; "Crossing" appears nowhere else |
@@ -49,7 +49,7 @@ Each of these three rows carries its own inline instruction inside the approved 
 | Row | Conf. | The table's own instruction |
 |---|---|---|
 | `Karlsteiner` → `Carl Senior` (L72, 74) | 45% | "⚠ **Low** … **Do not apply without DM confirmation.**" |
-| `Tinkt— er` → `Taint— er` (L786) | 40% | "⚠ **Low** — `Tink` is separately attested … **Do not apply without confirmation.**" |
+| ~~`Tinkt— er` → `Taint— er` (L786)~~ **RELEASED + APPLIED 2026-08-03** | 40% → ✓ confirmed | Held at 40% because `Tink` looked separately attested. Taylor confirmed `Tink` = `Taint` (one token, not two), so this row was applied along with the post-hoc name corrections below. |
 | `Bobby's a master curator` → `master armorer` (L986) | 35% | "⚠ **Low** … **Flagged, not recommended.**" |
 
 ⚑ **If Taylor intended all 29 to be applied**, these three are a one-line fix each — say so and they go in.

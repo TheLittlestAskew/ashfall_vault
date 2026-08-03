@@ -425,11 +425,11 @@
 **[[Vega Bloodroot]] (Taylor) · [Funny]**
 > "you can't even touch me, and then get like Smack to the face. You'll be like, well, shit, you touched me. Goddamn, that was a lucky shot."
 
-**[[Vega Bloodroot]] (Taylor) · [Funny]** — *the on-record anchor for Shathide's name*
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — *the on-record anchor for Shithead's name*
 > "It's because he's a shithead."
 
-**Taylor (DM) · [DM Quip]** — ⚑ *self-correction preserved verbatim; the "Tinkt" hearing was deliberately not corrected*
-> "All right, and Tinkt— er, Shathide is dead."
+**Taylor (DM) · [DM Quip]** — ✓ *self-correction preserved verbatim; the transcriber's "Tinkt" hearing was confirmed by Taylor as `Taint` on 2026-08-03*
+> "All right, and Taint— er, Shithead is dead."
 
 **[[Zelda Z Whipper]] (Christie) · [Banter]**
 > "I had been hitting him for so long. You stole my kill."

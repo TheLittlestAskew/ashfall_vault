@@ -8,7 +8,10 @@
 # Corrections applied: 26 of the 29 rows in the approved `_pipeline/S10/spellcheck.md`.
 #   3 rows were NOT applied because the approved table itself marks them "do not apply
 #   without DM confirmation" / "flagged, not recommended": Karlsteiner→Carl Senior (45%),
-#   Bobby "master curator"→"master armorer" (35%), "Tinkt— er"→"Taint— er" (40%).
+#   Bobby "master curator"→"master armorer" (35%).
+# 2026-08-03 post-hoc: Taylor confirmed the enemy names. "Shathide"→"Shithead",
+#   "Absidy"→"Abcde", "Tink"/"Tinkt"→"Taint" (one token, not two) applied here
+#   and vault-wide. The raw transcript retains the original ASR hearings.
 #   See `Spell_Check_Logs/061526_Spell_Check_Log.md`.
 # ⚠ NOT converted to script format. `flags.md` §2 states the SPEAKER A–H → character
 #   mapping is INFERRED and must be confirmed before script format hard-codes names.
@@ -78,7 +81,7 @@
 
 [00:02:40] SPEAKER A: Alrighty, it's the spider's turn.
 
-[00:02:43] SPEAKER D: Okay, first of all, good job, Tails. Love the background, very cool, very awesome. Um, surprising absolutely nobody, I'm calling lightning on— are Absidy and Shirley on the same level?
+[00:02:43] SPEAKER D: Okay, first of all, good job, Tails. Love the background, very cool, very awesome. Um, surprising absolutely nobody, I'm calling lightning on— are Abcde and Shirley on the same level?
 
 [00:03:07] SPEAKER A: Yes. So is Karlsteiner.
 
@@ -86,7 +89,7 @@
 
 [00:03:16] SPEAKER E: Nope.
 
-[00:03:23] SPEAKER D: So I'm gonna call lightning on Absidy and Shirley, and I'm gonna go ahead and need them to make a— I believe it's 14, but let me double-check. I know, it's 16, a DC 16 dex save.
+[00:03:23] SPEAKER D: So I'm gonna call lightning on Abcde and Shirley, and I'm gonna go ahead and need them to make a— I believe it's 14, but let me double-check. I know, it's 16, a DC 16 dex save.
 
 [00:03:36] SPEAKER A: A dex save.
 
@@ -94,7 +97,7 @@
 
 [00:03:48] SPEAKER G: All right.
 
-[00:03:49] SPEAKER A: For Absidy, 13 and 12. Damn, Shirley got a 16. Dice hit in the corner and stayed there.
+[00:03:49] SPEAKER A: For Abcde, 13 and 12. Damn, Shirley got a 16. Dice hit in the corner and stayed there.
 
 [00:04:08] SPEAKER D: Well, means to breathe, so one's taking full and one's taking half. That was not a good roll. 6 lightning damage. Out of a possible 40. That was 2 2s and 2 1s. I'm crying. I didn't even know spiders could cry.
 
@@ -190,7 +193,7 @@
 
 [00:08:52] SPEAKER H: Yes. Okay.
 
-[00:08:57] SPEAKER E: The only thing obstructing your view would be the staircase. So I could not shoot them from where I'm at? You could, but you'd have to Okay, I want to try to shoot Tink. Can I shoot Tink? No, you've got to clear his abilities. Sweet. I'm gonna shoot Taint. Oh, actually, I have 2 attacks, so I'm gonna shoot Taint and I'm gonna shoot Cuck. Here we go, let's do this. Uh, for Taint, 19, right?
+[00:08:57] SPEAKER E: The only thing obstructing your view would be the staircase. So I could not shoot them from where I'm at? You could, but you'd have to Okay, I want to try to shoot Taint. Can I shoot Taint? No, you've got to clear his abilities. Sweet. I'm gonna shoot Taint. Oh, actually, I have 2 attacks, so I'm gonna shoot Taint and I'm gonna shoot Cuck. Here we go, let's do this. Uh, for Taint, 19, right?
 
 [00:09:56] SPEAKER H: 4 damage.
 
@@ -202,7 +205,7 @@
 
 [00:10:30] SPEAKER A: Uh, Flux, you're up.
 
-[00:10:33] SPEAKER G: Okay, I'm going to, um, fire at Shathide.
+[00:10:33] SPEAKER G: Okay, I'm going to, um, fire at Shithead.
 
 [00:11:00] SPEAKER B: 11.
 
@@ -210,7 +213,7 @@
 
 [00:11:01] SPEAKER E: I didn't think so.
 
-[00:11:06] SPEAKER G: All right, I will Finger Guns at Shathide.
+[00:11:06] SPEAKER G: All right, I will Finger Guns at Shithead.
 
 [00:11:17] SPEAKER E: 23.
 
@@ -218,7 +221,7 @@
 
 [00:11:24] SPEAKER G: 7 damage. Okay, um, and I'm just gonna go back to the— I'm gonna climb up on top so I'm on top of the bookcases, and that's the end of my turn.
 
-[00:11:37] SPEAKER A: Alrighty, he's dead. Carl Senior's gonna run over here to back up Shathide. He needs to make a wisdom save.
+[00:11:37] SPEAKER A: Alrighty, he's dead. Carl Senior's gonna run over here to back up Shithead. He needs to make a wisdom save.
 
 [00:12:00] SPEAKER E: Zelda, she lost her phone.
 
@@ -344,7 +347,7 @@
 
 [00:24:00] SPEAKER E: Okay, okay, now let's see. Gonna—
 
-[00:24:22] SPEAKER H: I will attempt to Starry Wisp Shathide still. How hurt does he look?
+[00:24:22] SPEAKER H: I will attempt to Starry Wisp Shithead still. How hurt does he look?
 
 [00:24:29] SPEAKER A: Uh, good, not great.
 
@@ -358,7 +361,7 @@
 
 [00:24:45] SPEAKER H: And that is my action.
 
-[00:24:46] SPEAKER A: And that's Shathide's turn next, and he's just gonna attack. Oh, wisdom save. It's a 4, so run away. That's his turn. Let's see, dead. Dead cuck is going to attack Vega. Stupid character sheet. That's an 8 to hit.
+[00:24:46] SPEAKER A: And that's Shithead's turn next, and he's just gonna attack. Oh, wisdom save. It's a 4, so run away. That's his turn. Let's see, dead. Dead cuck is going to attack Vega. Stupid character sheet. That's an 8 to hit.
 
 [00:25:20] SPEAKER F: No, sir.
 
@@ -510,7 +513,7 @@
 
 [00:33:47] SPEAKER D: Fuck, my bad. I feel like we probably should have interrogated him. You're just here for the bookshelf? Because 2024 rules, I can talk, bitches.
 
-[00:33:58] SPEAKER A: And with that, Absidy disappears.
+[00:33:58] SPEAKER A: And with that, Abcde disappears.
 
 [00:34:06] SPEAKER C: Yeah, she got scared because I was fucking up her friends.
 
@@ -676,13 +679,13 @@
 
 [00:43:16] SPEAKER G: Okay.
 
-[00:43:19] SPEAKER H: Um, with that being said, I'm gonna move forward to about here, and I'm gonna cast Shatter on— I'm gonna cast it like in the middle of Carl Senior and Shathide and get them Okay, Shatter's one of my favorite spells. It's a Con 14. I'm casting it at 3rd level.
+[00:43:19] SPEAKER H: Um, with that being said, I'm gonna move forward to about here, and I'm gonna cast Shatter on— I'm gonna cast it like in the middle of Carl Senior and Shithead and get them Okay, Shatter's one of my favorite spells. It's a Con 14. I'm casting it at 3rd level.
 
 [00:43:56] SPEAKER F: Cool, and I say that coming from somebody who doesn't like— like to use spells. I like Shatter.
 
 [00:44:06] SPEAKER H: Okay.
 
-[00:44:06] SPEAKER A: Shathide got a nat 20.
+[00:44:06] SPEAKER A: Shithead got a nat 20.
 
 [00:44:08] SPEAKER H: Fucker. They'll still take half damage.
 
@@ -694,7 +697,7 @@
 
 [00:44:27] SPEAKER H: Oh, it's a 14, so he takes full damage. All right, 17 damage.
 
-[00:44:35] SPEAKER A: And half for Shathide, which we'll just call 8. All right, anything else?
+[00:44:35] SPEAKER A: And half for Shithead, which we'll just call 8. All right, anything else?
 
 [00:44:58] SPEAKER H: Um, so I probably moved like— what, that's— yeah, that's probably all my movement.
 
@@ -732,7 +735,7 @@
 
 [00:47:35] SPEAKER D: He's in the bookshelf.
 
-[00:47:36] SPEAKER C: So can I see Shathide and Carl Senior from that, that position?
+[00:47:36] SPEAKER C: So can I see Shithead and Carl Senior from that, that position?
 
 [00:47:44] SPEAKER A: See? Yes, you definitely see both of them. Yep.
 
@@ -740,7 +743,7 @@
 
 [00:47:56] SPEAKER F: Jesus Christ.
 
-[00:48:01] SPEAKER C: Oh yeah, I have plenty of range to shoot those guys. Okay, I guess I'll shoot at Shathide since he's closer to Zelda. That's a, that's a 12.
+[00:48:01] SPEAKER C: Oh yeah, I have plenty of range to shoot those guys. Okay, I guess I'll shoot at Shithead since he's closer to Zelda. That's a, that's a 12.
 
 [00:48:19] SPEAKER A: That does not hit this time.
 
@@ -760,7 +763,7 @@
 
 [00:49:02] SPEAKER F: There's a literal holiday on Friday.
 
-[00:49:03] SPEAKER C: Uh, I think that's all I can do for now, but, uh, Shathide has disadvantage on their next attack roll.
+[00:49:03] SPEAKER C: Uh, I think that's all I can do for now, but, uh, Shithead has disadvantage on their next attack roll.
 
 [00:49:12] SPEAKER A: Alrighty-roo.
 
@@ -780,11 +783,11 @@
 
 [00:49:57] SPEAKER A: Okay.
 
-[00:49:59] SPEAKER D: As a little spider. And then on my way, I'm going to zap the— hopefully zap the shit out of Carl Senior and Shathide. We're gonna have to make some DC 16 dex saves. Without the accents, that is dex save DC 16.
+[00:49:59] SPEAKER D: As a little spider. And then on my way, I'm going to zap the— hopefully zap the shit out of Carl Senior and Shithead. We're gonna have to make some DC 16 dex saves. Without the accents, that is dex save DC 16.
 
-[00:50:23] SPEAKER A: Uh, Shathide failed.
+[00:50:23] SPEAKER A: Uh, Shithead failed.
 
-[00:50:26] SPEAKER D: That sucks for Shathide.
+[00:50:26] SPEAKER D: That sucks for Shithead.
 
 [00:50:28] SPEAKER F: It's because he's a shithead.
 
@@ -794,7 +797,7 @@
 
 [00:50:44] SPEAKER D: 32.
 
-[00:50:45] SPEAKER A: All right, and Tinkt— er, Shathide is dead.
+[00:50:45] SPEAKER A: All right, and Taint— er, Shithead is dead.
 
 [00:50:52] SPEAKER H: I had been hitting him for so long. You stole my kill.
 
@@ -952,11 +955,11 @@
 
 [01:01:32] SPEAKER F: Thralls. Beast Master go bye-bye?
 
-[01:01:35] SPEAKER A: Absidy left.
+[01:01:35] SPEAKER A: Abcde left.
 
 [01:01:37] SPEAKER F: Did she leave when we killed the Beast Master?
 
-[01:01:44] SPEAKER A: Chase killed the Beast Master already, and then shortly after that, to Absidy left.
+[01:01:44] SPEAKER A: Chase killed the Beast Master already, and then shortly after that, to Abcde left.
 
 [01:01:51] SPEAKER F: Okay, that's what I said.
 

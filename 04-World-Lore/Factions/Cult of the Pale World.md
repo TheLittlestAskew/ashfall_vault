@@ -32,11 +32,11 @@ Priests / monks → **bishops** (2 handmaidens; the "[[The Beast Tamer|Beast Tam
 
 - **S08 — infiltration.** The party entered under a forged signature, worked the no-magic rule, and finally axed the restricted-section doors open. Five books + the human-skin book taken. Library alerted; **~15 enemies** converged.
 - **S09 — the battle begins.** ⚠ Partial recording. Cultists (table-named Carl A & B, Frankie, Lieutenant Dan, STD…) vs. the party across the restricted section.
-- **S10 — the massacre.** The battle ends in **party victory**. The DM's own framing: *"What was a nice semi-clean library is now coated in the blood of many, many cultists."* Confirmed dead: Lucky, Shirley, Taint, Shathide, Cuck, and **the Beast Master**. ⚑ **Absidy fled and is still at large** — the only escapee, which means the cult very likely knows exactly what happened. ⚑ Carl Senior's fate is never declared. No PC was downed.
+- **S10 — the massacre.** The battle ends in **party victory**. The DM's own framing: *"What was a nice semi-clean library is now coated in the blood of many, many cultists."* Confirmed dead: Lucky, Shirley, Taint, Shithead, Cuck, and **the Beast Master**. ⚑ **Abcde fled and is still at large** — the only escapee, which means the cult very likely knows exactly what happened. ⚑ Carl Senior's fate is never declared. No PC was downed.
 
 ## Open Threads
 
-- ⚑ **Absidy escaped** to report. (S10)
+- ⚑ **Abcde escaped** to report. (S10)
 - ⚑ **Gregory** — missing 2 days as of S08, destination secret; never resurfaced.
 - ⚑ **The murder-cardinal** — unidentified.
 - ⚑ **[[Aloysius]]** — named but never met.

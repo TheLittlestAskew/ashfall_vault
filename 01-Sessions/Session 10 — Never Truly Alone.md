@@ -59,15 +59,15 @@ One of them ran. She got out while there was still a door. I keep thinking about
 
 **A cold open, mid-swing.** The recording starts on the second half of an enemy attack roll — no recap, no session-open chatter. This is the [[Session 09 — The Battle of the Veiled Dawn (PARTIAL RECORDING)|S09]] battle still running in the restricted section of [[The Grand Library of the Veiled Dawn]], and roughly the first 57 minutes are its final rounds.
 
-**The enemy roster is table-christened**, in the S09 tradition: **Lucky** (whom the DM insists is a girl — "you're not supposed to hit girls" — and then refers to as *his* turn two rounds later ⚑), **Taint**, **Cuck**, **Shathide** (pun anchored on the record: "It's because he's a shithead"), **Carl Senior** (whose twin Carl Jr. is already dead — "He's about to be reunited with Carl Jr."), **Shirley**, **Absidy**, and one **Karlsteiner** who is named twice in the opening minutes and never again ⚑.
+**The enemy roster is table-christened**, in the S09 tradition: **Lucky** (whom the DM insists is a girl — "you're not supposed to hit girls" — and then refers to as *his* turn two rounds later ⚑), **Taint**, **Cuck**, **Shithead** (pun anchored on the record: "It's because he's a shithead"), **Carl Senior** (whose twin Carl Jr. is already dead — "He's about to be reunited with Carl Jr."), **Shirley**, **Abcde**, and one **Karlsteiner** who is named twice in the opening minutes and never again ⚑.
 
-**The big bad walks in downstairs.** [[Valerian Hellebore]], in Wild Shape as a spider, opens with Call Lightning on Absidy and Shirley and rolls 2-2-1-1 out of a possible 40 — "I'm crying. I didn't even know spiders could cry." The DM then reveals what has entered the library on the lower floor: a **Beast Master** — a vampire the DM shows in party chat and the table immediately reads as pathetic. "Oh no, it's a sad vampire boy." "He just gets really ashy in the sunlight." "No, it's not Edward. He doesn't sparkle."
+**The big bad walks in downstairs.** [[Valerian Hellebore]], in Wild Shape as a spider, opens with Call Lightning on Abcde and Shirley and rolls 2-2-1-1 out of a possible 40 — "I'm crying. I didn't even know spiders could cry." The DM then reveals what has entered the library on the lower floor: a **Beast Master** — a vampire the DM shows in party chat and the table immediately reads as pathetic. "Oh no, it's a sad vampire boy." "He just gets really ashy in the sunlight." "No, it's not Edward. He doesn't sparkle."
 
 **Vega is the one who knows.** [[Vega Bloodroot]] rolls a **natural 20 Perception** to confirm he's there, then — DM-confirmed that both player *and* character have the knowledge — reads the Beast Master lore aloud to the table: they are thin, fragile, physically unimpressive, and carry a **rare psychic mutation** that bonds them to **vampire beast thralls**. They see through a thrall's eyes, hear through its ears, issue commands instantly across great distances, and coordinate entire packs. Over decades the link erodes them: predatory behavior, animal mannerisms, pack mentality, and eventually no distinction between their own identity and their countless thralls. *"A Beast Master standing alone is vulnerable. A Beast Master with their thralls is Truly Never Alone, or Never Truly Alone."* Vega's read on the tactical situation: "He's probably got friends nearby, so we need to GTFO."
 
-**He came alone, and he died alone.** Valerian — "I'm one of the few people that can reach him, so fuck it, we ball" — calls lightning down on the Beast Master. Dex save 12 against DC 16, failed. The kill is confirmed later by the DM ("Chase killed the Beast Master already"), and the corpse is ash by the time anyone loots it. **Absidy flees** immediately after and is *not* killed — the one enemy who leaves the building alive.
+**He came alone, and he died alone.** Valerian — "I'm one of the few people that can reach him, so fuck it, we ball" — calls lightning down on the Beast Master. Dex save 12 against DC 16, failed. The kill is confirmed later by the DM ("Chase killed the Beast Master already"), and the corpse is ash by the time anyone loots it. **Abcde flees** immediately after and is *not* killed — the one enemy who leaves the building alive.
 
-**The rest of the room falls.** [[Samothy Smith-Wesson]] runs a string of advantage attacks into Lucky and lands **two natural 20s in one turn** (40, then 34 via Finger Guns) to put him down — "Damn, I am fucking this guy up." [[Flux]] drops Shirley with a 22-damage bow shot from atop the bookcases. [[Barrett Grimmskar]] finally kills Taint ("It's about damn time"), the DM's eulogy being "Bye-bye, tank." Valerian's second Call Lightning kills **Shathide** — stealing the kill from [[Zelda Z Whipper|Zelda]], who had been chipping at him all night with Starry Wisp and Shatter ("I had been hitting him for so long. **You stole my kill**"). And **Vega kills Cuck last**, after taunting him ("bring it on, whatever, you can't touch me") and immediately eating a natural-20 crit for her trouble. "Cuck dies and there's nobody there to see it. I spit on him."
+**The rest of the room falls.** [[Samothy Smith-Wesson]] runs a string of advantage attacks into Lucky and lands **two natural 20s in one turn** (40, then 34 via Finger Guns) to put him down — "Damn, I am fucking this guy up." [[Flux]] drops Shirley with a 22-damage bow shot from atop the bookcases. [[Barrett Grimmskar]] finally kills Taint ("It's about damn time"), the DM's eulogy being "Bye-bye, tank." Valerian's second Call Lightning kills **Shithead** — stealing the kill from [[Zelda Z Whipper|Zelda]], who had been chipping at him all night with Starry Wisp and Shatter ("I had been hitting him for so long. **You stole my kill**"). And **Vega kills Cuck last**, after taunting him ("bring it on, whatever, you can't touch me") and immediately eating a natural-20 crit for her trouble. "Cuck dies and there's nobody there to see it. I spit on him."
 
 **Mr. Cat saves Barrett, again.** Taint's 22 meets Barrett's AC exactly ("if you meet AC, you beat AC"); Barrett burns a Risk Die on the Gunslinger maneuver **Skin of Your Teeth** and it isn't enough — then Samothy points out [[Mr. Cat|Mr. Cat, Esquire]] is within 5 feet and imposes **disadvantage on the hit**. Reroll: 7. Miss. "Mr. Cat for the rescue!" / "Thank you, Mr. Cat."
 
@@ -95,26 +95,26 @@ Opens **mid-combat, mid-round**, with no recap: the second half of an enemy atta
 
 - **00:00** — Cold open mid-round. An enemy's second attack (18) misses [[Barrett Grimmskar]].
 - **00:00–00:02** — [[Samothy Smith-Wesson]] presses Lucky with Vex advantage; misses on 12, hits on 17 for 15 piercing, adds a 3rd-level **Branding Smite** for 5 radiant ⚑ (see mechanical flags).
-- **00:02–00:05** — [[Valerian Hellebore]] (Wild Shape **spider**) opens **Call Lightning** on Absidy and Shirley, DC 16 Dex. Absidy fails (13, 12); Shirley makes it (16). Six damage out of a possible forty. Spider grief.
+- **00:02–00:05** — [[Valerian Hellebore]] (Wild Shape **spider**) opens **Call Lightning** on Abcde and Shirley, DC 16 Dex. Abcde fails (13, 12); Shirley makes it (16). Six damage out of a possible forty. Spider grief.
 - **00:05–00:08** — The party realizes "the big bad" has entered the library. Only Zelda and Samothy passed the earlier perception check. The DM posts the **Beast Master** portrait to party chat; the table roasts him.
-- **00:08–00:10** — [[Deanna Smith-Wesson]]'s turn: line of sight blocked by the staircase; blocked from targeting Tink; shoots **Taint** (19 → 4) and misses her second shot at **Cuck** (10). Runs closer to Samothy.
-- **00:10–00:11** — [[Flux]] misses Shathide with the bow (11), lands **Finger Guns** (23 → 7), and **climbs on top of the bookcases**.
-- **00:11–00:12** — **Carl Senior** moves up to back Shathide and fails Zelda's Fear save (9 vs DC 14) — forced to **Dash away**.
+- **00:08–00:10** — [[Deanna Smith-Wesson]]'s turn: line of sight blocked by the staircase; blocked from targeting Taint; shoots **Taint** (19 → 4) and misses her second shot at **Cuck** (10). Runs closer to Samothy.
+- **00:10–00:11** — [[Flux]] misses Shithead with the bow (11), lands **Finger Guns** (23 → 7), and **climbs on top of the bookcases**.
+- **00:11–00:12** — **Carl Senior** moves up to back Shithead and fails Zelda's Fear save (9 vs DC 14) — forced to **Dash away**.
 - **00:12–00:19** — **[[Vega Bloodroot]]'s big turn.** Natural-20 Perception confirms the Beast Master ("skinny dude," "boyo"). Repositions to the far side of Barrett. Two hits on **Cuck** (15 and 17) for **30**. Warns the party — "there's a skinny twink downstairs who is, I think, coming after us" — and **reads the Beast Master lore aloud** to table and party alike.
 - **00:19–00:21** — Mr. Cat's initiative slot skipped (he acts on Samothy's turn). [[Barrett Grimmskar]] unloads on "the tank" (26 → 19, 16 → 10) and falls back to the party.
 - **00:22–00:24** — **Lucky** jumps Samothy with disadvantage and whiffs both attacks (12, 3). "Lucky wasn't so lucky."
-- **00:24** — [[Zelda Z Whipper|Zelda]] hits Shathide with **Starry Wisp** (19 → 9 radiant). Shathide then rolls a 4 on his Wisdom save and **runs away**.
+- **00:24** — [[Zelda Z Whipper|Zelda]] hits Shithead with **Starry Wisp** (19 → 9 radiant). Shithead then rolls a 4 on his Wisdom save and **runs away**.
 - **00:25–00:28** — **Cuck** clips Vega for 6. **Taint** meets Barrett on the stairs with a 22 — exactly Barrett's AC. Barrett's **Skin of Your Teeth** Risk Die comes up short; **Mr. Cat imposes disadvantage**, the reroll is a 7, and the attack misses.
 - **00:28–00:31** — Samothy's **double-nat-20 turn** on Lucky: crit for 40, hit for 11, Finger Guns crit for 34. **Lucky dies.** Mr. Cat then misses Taint (12).
-- **00:31–00:34** — Valerian calls lightning on **the Beast Master**. Dex save 12 vs DC 16 — failed. **The Beast Master dies.** Valerian's immediate regret: "I feel like we probably should have interrogated him." **Absidy flees** the fight.
+- **00:31–00:34** — Valerian calls lightning on **the Beast Master**. Dex save 12 vs DC 16 — failed. **The Beast Master dies.** Valerian's immediate regret: "I feel like we probably should have interrogated him." **Abcde flees** the fight.
 - **00:34–00:35** — Deanna misses, then hits; the DM calls a kill ⚑ (target ambiguous — see Archivist Notes).
 - **00:35–00:37** — Flux drops **Shirley** with a 22-damage bow shot and tags Taint with Finger Guns (14 → 7).
 - **00:37–00:39** — Vega's 42-damage round, including her **Eldritch Claw Tattoo** rider (+6 twice) and a declared **Reckless Attack**.
 - **00:39–00:41** — Barrett kills **Taint** (17 → 7, 23 → 9). "Barrett destroyed the tank."
-- **00:42–00:45** — Zelda drops Fear, moves to the banister, and casts **Shatter at 3rd level** between Carl Senior and Shathide (DC 14 Con). Shathide **nat 20** (half, 8); Carl Senior fails on 13 (full, 17).
+- **00:42–00:45** — Zelda drops Fear, moves to the banister, and casts **Shatter at 3rd level** between Carl Senior and Shithead (DC 14 Con). Shithead **nat 20** (half, 8); Carl Senior fails on 13 (full, 17).
 - **00:45–00:46** — An enemy closes on Zelda and misses twice (17 vs AC 18). Zelda sticks her tongue out. **Cuck crits Vega** for 9 immediately after Vega taunts him.
-- **00:46–00:49** — Samothy, blocked from the stairs by Barrett, shoots over the railing at Shathide (miss 12, hit 17 → 14) and imposes disadvantage on Shathide's next attack.
-- **00:49–00:51** — Valerian descends three floors as a spider, heading for the ashes, and zaps **Carl Senior and Shathide** on the way (DC 16 Dex, both fail, both rolled the same). **32 damage — Shathide dies.** Zelda: "You stole my kill."
+- **00:46–00:49** — Samothy, blocked from the stairs by Barrett, shoots over the railing at Shithead (miss 12, hit 17 → 14) and imposes disadvantage on Shithead's next attack.
+- **00:49–00:51** — Valerian descends three floors as a spider, heading for the ashes, and zaps **Carl Senior and Shithead** on the way (DC 16 Dex, both fail, both rolled the same). **32 damage — Shithead dies.** Zelda: "You stole my kill."
 - **00:51–00:52** — Kill-economy banter; Barrett confesses to forgetting Savage Attacker and his new **Piercer** feat every turn.
 - **00:52–00:54** — Deanna hits **Carl Senior** twice (18 → 11, Vex, 17 → 14).
 - **00:54–00:55** — Flux spends his turn filling the **bag of holding**. The DM asks for an unattributed Con save (15) ⚑ "for no particular reason."
@@ -130,7 +130,7 @@ Opens **mid-combat, mid-round**, with no recap: the second half of an enemy atta
 
 - **Alone / not alone — the session's spine.** The Beast Master's lore is explicitly about a creature that is only vulnerable when it has nobody. He walks up the stairs by himself and dies to a single spell. Cuck dies with "nobody there to see it." Flux hears his own name spoken by an empty corner. ⚑ *Observed motif — the DM has not asserted a connection between these three, and none is claimed here.*
 - **Witness as a form of respect (and disrespect).** Vega's response to killing the last enemy in an empty room is to **spit on him** — supplying, herself, the witness the moment lacked. It rhymes with her S02 pyre detail: the unglamorous work nobody's watching still gets done.
-- **The kill economy.** Kill-stealing is now a live table currency — Zelda loses Shathide to Valerian and says so; Valerian vents about losing kills to Samothy all campaign; Vega, who "didn't get a kill for like the first like 6 episodes," is the one who tells her she'll live. The S04-dormant kill contest is functionally back.
+- **The kill economy.** Kill-stealing is now a live table currency — Zelda loses Shithead to Valerian and says so; Valerian vents about losing kills to Samothy all campaign; Vega, who "didn't get a kill for like the first like 6 episodes," is the one who tells her she'll live. The S04-dormant kill contest is functionally back.
 - **Mr. Cat as the party's guardian.** Second consecutive session where the Steel Defender is the reason a PC doesn't take a hit. The table thanks him by name, in character.
 - **Anticlimax, honestly.** The battle that was S08's cliffhanger and S09's whole session ends quietly, ~57 minutes in, and the remaining third of the night is loot, level-up admin, and a *Madeline* cartoon tangent. The session closes on tiredness, not on a beat.
 - ⚑ **The campaign's stated emotional core — defiant hope, the Sun Shard, the "Solar Fist" — does not appear anywhere in this session.** Recorded as an absence, not interpreted.
@@ -142,7 +142,7 @@ Opens **mid-combat, mid-round**, with no recap: the second half of an enemy atta
 - 🗒️ **NEW — the folded note.** Taken from the Beast Master's ashes; written in a script nobody at the table can read ("like hieroglyphics almost"). Held by [[Valerian Hellebore]], undeciphered.
 - 🗣️ **NEW — the whispering.** [[Flux]] passed a Perception check (advantage, 22) and heard **his own name** whispered twice from an empty space. Source unknown. He deliberately ignored it.
 - 💀 **NEW — the severed big-cat skull.** Jaguar-like in stature, tiger-like in build, 4 fangs below and 2 above; **non-magical**; **cut from its body at the neck**; from an animal "at one point abundant in the area." Held by [[Flux]] with a jade ball in its jaws. Why it was in the restricted section is unanswered.
-- 🏃 **NEW — Absidy escaped.** Fled the fight rather than dying, shortly after the Beast Master fell. Still at large. ⚑ Referred to as *she* throughout.
+- 🏃 **NEW — Abcde escaped.** Fled the fight rather than dying, shortly after the Beast Master fell. Still at large. ⚑ Referred to as *she* throughout.
 - ⚔️ **OPEN — Carl Senior's fate.** Took a full-damage Shatter (17), a Call Lightning (32) and two of Deanna's shots (11, 14), and is **never explicitly declared dead**, yet Cuck is confirmed the last enemy standing. ⚑ Needs the DM.
 - ❓ **OPEN — Karlsteiner.** Named twice in the first three minutes, never again, never resolved. ⚑ Real enemy, or an ASR artifact?
 - 🏰 **NEW — the castle.** Next session opens at [[The Walled Base (Museum-Castle)]] per the DM.
@@ -161,13 +161,13 @@ The party never formally splits — but it is **spread vertically across three f
 |---|---|---|---|
 | Upper landing / stair chokepoint | [[Vega Bloodroot]], [[Barrett Grimmskar]], [[Mr. Cat\|Mr. Cat, Esquire]] | Hold the stairs against Taint and Cuck; keep the melee off the casters | **Success** — Taint and Cuck both killed here; no PC downed |
 | Atop the bookcases | [[Flux]] | Elevated ranged support, then loot the restricted section during combat | **Success** — killed Shirley; bag of holding filled |
-| Banister / upper floor, near the stairwell | [[Zelda Z Whipper\|Zelda]], [[Samothy Smith-Wesson]] | Area control (Fear, Shatter) and ranged fire over the railing | **Success** — Lucky killed; Carl Senior and Shathide both softened |
+| Banister / upper floor, near the stairwell | [[Zelda Z Whipper\|Zelda]], [[Samothy Smith-Wesson]] | Area control (Fear, Shatter) and ranged fire over the railing | **Success** — Lucky killed; Carl Senior and Shithead both softened |
 | Across the staircase, lower vantage | [[Deanna Smith-Wesson]] | Ranged fire despite obstructed line of sight; move to support Samothy | **Success** — hits on Taint and Carl Senior; one confirmed kill ⚑ (target ambiguous) |
-| Descending floors → book stacks → the ashes | [[Valerian Hellebore]] (Wild Shape: spider) | Reach the Beast Master (the only PC who could), then descend to loot the body | **Success** — killed the Beast Master *and* Shathide; recovered the folded note |
+| Descending floors → book stacks → the ashes | [[Valerian Hellebore]] (Wild Shape: spider) | Reach the Beast Master (the only PC who could), then descend to loot the body | **Success** — killed the Beast Master *and* Shithead; recovered the folded note |
 
 ## NPCs
 
-> Enemy tokens (Lucky, Taint, Cuck, Shathide, Carl Senior, Shirley, Absidy, Karlsteiner) are tabled under **Logs → Encounters**. All are first-seen names awaiting DM confirmation ⚑.
+> Enemy tokens (Lucky, Taint, Cuck, Shithead, Carl Senior, Shirley, Abcde, Karlsteiner) are tabled under **Logs → Encounters**. All are first-seen names awaiting DM confirmation ⚑.
 
 | Name | Race/Class | Affiliations | Last Interaction | Last Known Location | Status |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@ The party never formally splits — but it is **spread vertically across three f
 
 ## Reputation & Relationships
 
-- **Party ↔ [[Cult of the Pale World]]:** unambiguously hostile and now bloody. The DM's own framing — "the blood of many, many cultists" — makes this a massacre on cult ground, in the cult's most protected room. No survivors are noted among the cultists; **Absidy is the only escapee**, which means the cult very likely knows exactly what happened.
+- **Party ↔ [[Cult of the Pale World]]:** unambiguously hostile and now bloody. The DM's own framing — "the blood of many, many cultists" — makes this a massacre on cult ground, in the cult's most protected room. No survivors are noted among the cultists; **Abcde is the only escapee**, which means the cult very likely knows exactly what happened.
 - **Internal — the kill economy.** [[Zelda Z Whipper|Zelda]] openly accuses [[Valerian Hellebore]] of stealing her kill; Valerian redirects the grievance at [[Samothy Smith-Wesson]] ("does 5 damage and kills, huh?"); [[Vega Bloodroot]] defuses it by volunteering her own six-session drought. Friendly, but it's a real ledger now.
 - **[[Barrett Grimmskar]] ↔ [[Mr. Cat|Mr. Cat, Esquire]]:** second session running that Mr. Cat is why Barrett didn't take a hit. Barrett thanks him **by name, in character**.
 - **[[Vega Bloodroot]] ↔ the party:** she is the party's lore source this session — the only one who knows what a Beast Master is (DM-confirmed for both player and character) — and she chooses to share it immediately and completely rather than hold it.
@@ -206,7 +206,7 @@ The party never formally splits — but it is **spread vertically across three f
 
 | Enemies | Location | Party/Allies Present | Trigger | Outcome |
 |---|---|---|---|---|
-| **Lucky**, **Taint**, **Cuck**, **Shathide**, **Carl Senior**, **Shirley**, **Absidy**, **Karlsteiner** ⚑, **the Beast Master**, plus unnamed already-dead cultists | [[The Grand Library of the Veiled Dawn]] — restricted section and the floors below | All 7 PCs + [[Mr. Cat\|Mr. Cat, Esquire]] | **Continuation** — the fight begun in S08's cliffhanger and run through S09; the recording joins it already in progress | **Party victory.** Confirmed kills: Lucky ([[Samothy Smith-Wesson]]), Shirley ([[Flux]]), Taint ([[Barrett Grimmskar]]), Shathide + the Beast Master ([[Valerian Hellebore]]), Cuck ([[Vega Bloodroot]], last standing), 1 unnamed ([[Deanna Smith-Wesson]] ⚑). **Absidy fled.** Carl Senior's fate ⚑ unstated. Karlsteiner ⚑ never resolved. No PC downed; no deaths; no healing recorded. |
+| **Lucky**, **Taint**, **Cuck**, **Shithead**, **Carl Senior**, **Shirley**, **Abcde**, **Karlsteiner** ⚑, **the Beast Master**, plus unnamed already-dead cultists | [[The Grand Library of the Veiled Dawn]] — restricted section and the floors below | All 7 PCs + [[Mr. Cat\|Mr. Cat, Esquire]] | **Continuation** — the fight begun in S08's cliffhanger and run through S09; the recording joins it already in progress | **Party victory.** Confirmed kills: Lucky ([[Samothy Smith-Wesson]]), Shirley ([[Flux]]), Taint ([[Barrett Grimmskar]]), Shithead + the Beast Master ([[Valerian Hellebore]]), Cuck ([[Vega Bloodroot]], last standing), 1 unnamed ([[Deanna Smith-Wesson]] ⚑). **Abcde fled.** Carl Senior's fate ⚑ unstated. Karlsteiner ⚑ never resolved. No PC downed; no deaths; no healing recorded. |
 
 ### Initiative
 
@@ -215,7 +215,7 @@ The party never formally splits — but it is **spread vertically across three f
 | Character | Initiative Roll | Turn Order |
 |---|---|---|
 | [[Zelda Z Whipper\|Zelda "Z" Whipper]] | [Unknown/Ambiguous] — not rolled on camera | **1** — DM: "back to the top would be Zelda" |
-| Shathide | [Unknown/Ambiguous] | 2 (enemy) |
+| Shithead | [Unknown/Ambiguous] | 2 (enemy) |
 | Cuck | [Unknown/Ambiguous] | 3 (enemy) |
 | Taint | [Unknown/Ambiguous] | 4 (enemy) |
 | [[Samothy Smith-Wesson]] | [Unknown/Ambiguous] | **5** |
@@ -227,7 +227,7 @@ The party never formally splits — but it is **spread vertically across three f
 | [[Vega Bloodroot]] | [Unknown/Ambiguous] | **10** |
 | [[Barrett Grimmskar]] | [Unknown/Ambiguous] | **11** — last in the order; Zelda follows |
 | Lucky | [Unknown/Ambiguous] | 12 (enemy; between Barrett and Zelda) |
-| Absidy, Shirley, Karlsteiner | [Unknown/Ambiguous] | Slots never stated |
+| Abcde, Shirley, Karlsteiner | [Unknown/Ambiguous] | Slots never stated |
 
 > ⚑ **Cross-reference to S09** (preserved as a discrepancy, not reconciled): S09 logged initiative as Zelda 24 → Valerian 19 → Samothy 19 → Deanna 18 → Flux 14 → Vega 12 → Barrett 11. The S10 order matches on every PC **except Samothy and Valerian, who are swapped** — they tied at 19 in S09. Whether the tie was re-resolved between sessions is unknown. Ask the DM.
 
@@ -237,7 +237,7 @@ The party wins decisively and pays almost nothing for it. Across ~57 minutes of 
 
 Strategically the win rests on **vertical control**: Flux on the bookcases, Samothy shooting over the railing, Zelda area-controlling from the banister, Vega and Barrett corking the stairwell, and Valerian — as a spider, the only PC who could physically reach the lower floor — deleting the session's actual threat before it ever engaged. **The Beast Master never took a turn, never spoke, and never deployed a thrall.** The party's single greatest advantage was Vega's natural-20 Perception, which surfaced him a full round before he could act.
 
-The costs are informational, not mechanical: **Absidy escaped** to report, the Beast Master died **un-interrogated** (Valerian says so out loud), and the note he was carrying is unreadable. The party leaves with the entire restricted section in a bag and no idea what any of it says.
+The costs are informational, not mechanical: **Abcde escaped** to report, the Beast Master died **un-interrogated** (Valerian says so out loud), and the note he was carrying is unreadable. The party leaves with the entire restricted section in a bag and no idea what any of it says.
 
 ### Full Roll Log
 
@@ -250,15 +250,15 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Samothy Smith-Wesson]] | Attack vs Lucky (advantage) | 17 | Hit |
 | [[Samothy Smith-Wesson]] | Damage | 15 piercing | — |
 | [[Samothy Smith-Wesson]] | Branding Smite (3rd level), bonus action | 5 radiant | ⚑ Player states 3rd level for 2d6; 2024 Branding Smite is 2nd level / 2d6 |
-| [[Valerian Hellebore]] | Call Lightning — Absidy & Shirley | DC 16 Dex | Cast from Wild Shape (spider) via magic action, concentration held |
-| Absidy (DM) | Dex save | 13, 12 | **Failed** — full damage |
+| [[Valerian Hellebore]] | Call Lightning — Abcde & Shirley | DC 16 Dex | Cast from Wild Shape (spider) via magic action, concentration held |
+| Abcde (DM) | Dex save | 13, 12 | **Failed** — full damage |
 | Shirley (DM) | Dex save | 16 | **Passed** — half damage |
 | [[Valerian Hellebore]] | Lightning damage | **6** (2,2,1,1 of a possible 40) | "I didn't even know spiders could cry." |
 | [[Deanna Smith-Wesson]] | Attack vs Taint | 19 | Hit |
 | [[Deanna Smith-Wesson]] | Damage | 4 | — |
 | [[Deanna Smith-Wesson]] | Attack vs Cuck | 10 | Miss |
-| [[Flux]] | Bow vs Shathide | 11 | Miss |
-| [[Flux]] | Finger Guns vs Shathide | 23 | Hit |
+| [[Flux]] | Bow vs Shithead | 11 | Miss |
+| [[Flux]] | Finger Guns vs Shithead | 23 | Hit |
 | [[Flux]] | Damage | 7 | Then climbs atop the bookcases |
 | Carl Senior (DM) | Wisdom save vs Zelda's **Fear** | 9 vs DC 14 | **Failed** — must Dash away |
 | [[Vega Bloodroot]] | **Perception** | **natural 20** ("dirty 20") | Confirms the Beast Master is present and visible |
@@ -273,9 +273,9 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | Enemy (DM) | Wisdom save | 15 | **Passed** (Zelda confirms the DC) |
 | Lucky (DM) | Attack vs Samothy (disadvantage) | 12 | Miss |
 | Lucky (DM) | Attack vs Samothy (disadvantage) | 3 | Miss — "Lucky wasn't so lucky" |
-| [[Zelda Z Whipper\|Zelda]] | **Starry Wisp** vs Shathide | 19 | Hit ⚑ glossary lists Starry Wisp under Valerian (S08); both Bard and Druid have it |
+| [[Zelda Z Whipper\|Zelda]] | **Starry Wisp** vs Shithead | 19 | Hit ⚑ glossary lists Starry Wisp under Valerian (S08); both Bard and Druid have it |
 | [[Zelda Z Whipper\|Zelda]] | Damage | 9 radiant | — |
-| Shathide (DM) | Wisdom save vs Fear | 4 | **Failed** — runs away |
+| Shithead (DM) | Wisdom save vs Fear | 4 | **Failed** — runs away |
 | Cuck (DM) | Attack vs Vega | 8 | Miss |
 | Cuck (DM) | Attack vs Vega | 16 | Hit |
 | Cuck (DM) | Damage | 6 | — |
@@ -292,7 +292,7 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Valerian Hellebore]] | **Call Lightning** vs the Beast Master | DC 16 Dex | "I'm one of the few people that can reach him, so fuck it, we ball" |
 | The Beast Master (DM) | Dex save | 12 | **Failed** |
 | [[Valerian Hellebore]] | Damage | **30**, then rerolled ⚑ ("Nope, roll it again. That's my bad." / "The third.") | **THE BEAST MASTER DIES** — confirmed at 01:01:44 |
-| Absidy (DM) | — | — | **Flees the fight** immediately after; not killed |
+| Abcde (DM) | — | — | **Flees the fight** immediately after; not killed |
 | [[Deanna Smith-Wesson]] | Attack | Miss (declared) | — |
 | [[Deanna Smith-Wesson]] | Attack | Hit | DM: "That one hits… he's dead" ⚑ **target ambiguous** — she asked about Taint, but Barrett kills Taint later |
 | [[Flux]] | Bow vs Shirley | 19 | Hit |
@@ -309,22 +309,22 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Barrett Grimmskar]] | Damage | 7 | — |
 | [[Barrett Grimmskar]] | Attack vs Taint | 23 | Hit |
 | [[Barrett Grimmskar]] | Damage | 9 | **Taint dies.** "It's about damn time." |
-| [[Zelda Z Whipper\|Zelda]] | **Shatter** (3rd level), centered between Carl Senior and Shathide | DC 14 Con | Drops Fear first ("I don't think I can move it") |
-| Shathide (DM) | Con save | **natural 20** | Passed — half damage |
+| [[Zelda Z Whipper\|Zelda]] | **Shatter** (3rd level), centered between Carl Senior and Shithead | DC 14 Con | Drops Fear first ("I don't think I can move it") |
+| Shithead (DM) | Con save | **natural 20** | Passed — half damage |
 | Carl Senior (DM) | Con save | 13 | **Failed** — full damage |
-| [[Zelda Z Whipper\|Zelda]] | Damage | **17** (Carl Senior full) / **8** (Shathide half) | — |
+| [[Zelda Z Whipper\|Zelda]] | Damage | **17** (Carl Senior full) / **8** (Shithead half) | — |
 | Enemy "she" (DM) | Attack vs Zelda | 17 | Miss (AC 18) |
 | Enemy "she" (DM) | Attack vs Zelda | Miss | Zelda sticks her tongue out |
 | Cuck (DM) | Attack vs Vega | **natural 20** | Crit — landing immediately after Vega's "you can't touch me" |
 | Cuck (DM) | Damage | 5, then 9 ⚑ | Vega: "well, shit, you touched me" |
-| [[Samothy Smith-Wesson]] | Attack vs Shathide (over the railing) | 12 | Miss |
-| [[Samothy Smith-Wesson]] | Attack vs Shathide | 17 | Hit |
+| [[Samothy Smith-Wesson]] | Attack vs Shithead (over the railing) | 12 | Miss |
+| [[Samothy Smith-Wesson]] | Attack vs Shithead | 17 | Hit |
 | [[Samothy Smith-Wesson]] | Damage | 14 | — |
-| [[Samothy Smith-Wesson]] | Bonus action (unnamed) | — | Imposes **disadvantage on Shathide's next attack roll** |
-| [[Valerian Hellebore]] | **Call Lightning** vs Carl Senior & Shathide | DC 16 Dex | Cast while descending three floors toward the ashes |
-| Shathide (DM) | Dex save | Failed | — |
+| [[Samothy Smith-Wesson]] | Bonus action (unnamed) | — | Imposes **disadvantage on Shithead's next attack roll** |
+| [[Valerian Hellebore]] | **Call Lightning** vs Carl Senior & Shithead | DC 16 Dex | Cast while descending three floors toward the ashes |
+| Shithead (DM) | Dex save | Failed | — |
 | Carl Senior (DM) | Dex save | Failed | "Funnily enough, they both rolled the same" |
-| [[Valerian Hellebore]] | Damage | **32** | **Shathide dies.** Zelda: "You stole my kill." |
+| [[Valerian Hellebore]] | Damage | **32** | **Shithead dies.** Zelda: "You stole my kill." |
 | [[Deanna Smith-Wesson]] | Attack vs Carl Senior | 18 | Hit |
 | [[Deanna Smith-Wesson]] | Damage | 11 | — |
 | [[Deanna Smith-Wesson]] | Pistol vs Carl Senior (Vex) | 17 | Hit |
@@ -339,9 +339,9 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Flux]] | **Identify** — the big-cat skull | — | **No magic.** "It's just a plain skull." |
 
 **Roll trends (transcript-derived, unverified):**
-- **Natural 20s: 4** — Samothy ×2 (both on the same turn, both into Lucky), Vega ×1 (Perception, spotting the Beast Master), and one *against* the party (Cuck's crit on Vega). Shathide also rolled a nat 20 on a Con save.
+- **Natural 20s: 4** — Samothy ×2 (both on the same turn, both into Lucky), Vega ×1 (Perception, spotting the Beast Master), and one *against* the party (Cuck's crit on Vega). Shithead also rolled a nat 20 on a Con save.
 - **Highest single damage: 40** ([[Samothy Smith-Wesson]], crit) — followed by 34 (Samothy), 32 ([[Valerian Hellebore]]), 30 ([[Vega Bloodroot]], two-attack turn).
-- **Most kills: [[Valerian Hellebore]], 2** (the Beast Master and Shathide) — both by Call Lightning, both from spider form.
+- **Most kills: [[Valerian Hellebore]], 2** (the Beast Master and Shithead) — both by Call Lightning, both from spider form.
 - **Damage taken by the party: 15 total** ([[Vega Bloodroot]], 6 + 9). Nobody else took a point.
 - **No healing, no death saves, no downed PCs** anywhere in the session.
 - ⚑ **[[Deanna Smith-Wesson]]'s "crit in stock"** (00:34:42) is a mechanic not previously logged in the vault — she asks "Do I have a crit in stock?", the DM says yes, and she then declares "I'm gonna shoot and miss."
@@ -375,7 +375,7 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Vega Bloodroot]] | "as he preps to hit me, she's gonna go, bring it on, whatever, you can't touch me." | Banter |
 | [[Vega Bloodroot]] | "you can't even touch me, and then get like Smack to the face. You'll be like, well, shit, you touched me. Goddamn, that was a lucky shot." | Funny |
 | [[Vega Bloodroot]] | "It's because he's a shithead." | Funny |
-| Taylor (DM) | "All right, and Tinkt— er, Shathide is dead." | DM quip ⚑ *(self-correction preserved verbatim; the "Tinkt" hearing was deliberately not corrected)* |
+| Taylor (DM) | "All right, and Taint— er, Shithead is dead." | DM quip ✓ *(self-correction preserved verbatim; the transcriber's "Tinkt" hearing was confirmed by Taylor as `Taint` on 2026-08-03)* |
 | [[Zelda Z Whipper\|Zelda]] | "I had been hitting him for so long. You stole my kill." | Banter |
 | [[Valerian Hellebore]] | "Girl, welcome to my fucking— welcome to my fucking life." | Banter |
 | [[Vega Bloodroot]] | "It was rolling like shit this whole campaign. I didn't get a kill for like the first like 6 episodes." | → above-table |
@@ -410,7 +410,7 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Vega Bloodroot]] | shit | 6 | Spotting the stairs; taking Cuck's crit; the kill-drought vent; the tattoo idea; praising D&D Beyond's dice display; Relentless Rage |
 | [[Vega Bloodroot]] | fuck | 4 | "Fuck you, Cuck"; "he looks emaciated as fuck"; forgetting her own sentence; the June 15 fireworks |
 | [[Vega Bloodroot]] | fucking | 1 | "Maybe she gets scared because Chase is fucking up her friends" |
-| [[Vega Bloodroot]] | shithead | 1 | Explaining Shathide's name — the pun's on-record anchor |
+| [[Vega Bloodroot]] | shithead | 1 | Explaining Shithead's name — the pun's on-record anchor |
 | [[Vega Bloodroot]] | goddamn | 1 | After Cuck's crit — "that was a lucky shot" |
 | [[Valerian Hellebore]] | fuck | 5 | Target selection ("fuck it, we ball"); missing the interrogation; the stubbed toe; 5th-level spells |
 | [[Valerian Hellebore]] | fucking | 3 | The kill-steal vent (×2); "5th level Druid spells fucking suck" |
@@ -429,7 +429,7 @@ The costs are informational, not mechanical: **Absidy escaped** to report, the B
 | [[Deanna Smith-Wesson]] | fuck | 1 | Barrett's failed Risk Die |
 | [[Deanna Smith-Wesson]] | shit | 1 | Mid-banter, "Oh shit" |
 | [[Deanna Smith-Wesson]] | damn | 1 | Mr. Cat's miss |
-| [[Zelda Z Whipper\|Zelda]] | fucker | 1 | Shathide's nat-20 Con save against her Shatter |
+| [[Zelda Z Whipper\|Zelda]] | fucker | 1 | Shithead's nat-20 Con save against her Shatter |
 | [[Flux]] | — | 0 | **No profanity recorded this session** |
 
 Blasphemy (tracked separately from profanity): "Jesus Christ" ×3 (DM ×1 as "Jesus Christ, superstar!", Vega ×1, Deanna ×1), "God forbid" ×1 (Valerian).
@@ -461,12 +461,14 @@ The table did **not** name this session in play, so titles were generated from t
 - ⚑ **Starry Wisp attribution.** The glossary (S08) records it as **Valerian's** cantrip; here **Zelda** casts it. Both Bard and Druid have it in the 2024 PHB — the glossary note just needs widening, not correcting.
 - ⚑ **Deanna's "crit in stock."** She asks "Do I have a crit in stock?", the DM confirms, and she then chooses to "shoot and miss." This mechanic is not documented anywhere in the vault. For `05-Mechanics`.
 - ⚑ **Samothy's new teleport infusion** ("teleport up to 15 feet anywhere a previous creature has been") is garbled in transcription. Get the real wording before it enters `05-Mechanics`. DM deferred the surprise-attack interaction: "We'll talk about mechanics for that."
-- ⚑ **First-seen proper nouns awaiting DM confirmation** before entering the Names & Terms glossary: **Shathide** (pun anchored: "he's a shithead"), **Absidy** (*she*; fled, at large), **Shirley** (⚑ possibly a matched pair — Flux asks "Are *they* within 5 feet" then "I hit the right one"), **Lucky** (⚑ pronoun conflict: DM says "Lucky's a girl," then "that is **his** turn"), **Taint**, **Cuck**, **Tink** (⚑ separate enemy or a mishearing of Taint? This one decides three spell-check rows), **Carl Senior / Carl Jr.** (⚑ S09 logged the twins as **Carl A & Carl B** — rename or a different pair?), **Karlsteiner** (⚑ named twice at 00:03, never again), **Skin of Your Teeth** (Gunslinger maneuver, quoted in full at 00:26:05), and **Beast Master** as an individual rather than a class.
+- ✓ **First-seen enemy names — CONFIRMED by Taylor 2026-08-03:** **Shithead** (the pun *is* the name: "he's a shithead"), **Abcde** (*she*; fled, at large), **Shirley** (**one creature**, not a matched pair — Flux's "I hit the right one" resolved), **Lucky**, **Taint** (**`Tink` was the same token misheard**, not a separate enemy), **Cuck**, and **Carl Senior / Carl Jr. = S09's `Carl A` / `Carl B`** (same pair, renamed). Entered in Names & Terms.
+- ⚑ **Still awaiting DM confirmation:** **Karlsteiner** (named twice at 00:03, never again — real enemy or ASR artifact?), **Skin of Your Teeth** (Gunslinger maneuver, quoted in full at 00:26:05), **Beast Master** as an individual rather than a class, and **Lucky's pronoun conflict** (DM says "Lucky's a girl," then "that is **his** turn").
 - ⚑ **Who did Deanna kill at 00:34:57?** She asks about Taint, the DM says "That one hits… he's dead" — but Barrett kills Taint six minutes later. Unresolved.
 - ⚑ **Carl Senior is never declared dead**, yet Cuck is confirmed the last enemy standing. One of those two statements is wrong.
 - ⚑ **The DM clears dead tokens by narrating "dead, dead, dead"** while walking the initiative list (00:22:19, 00:22:54, 00:41). This makes several kills unattributable and is the root cause of the two flags above. Worth asking the DM to call kills explicitly.
 - ⚑ **Speaker map unconfirmed → script-format conversion deferred.** The corrected transcript keeps the diarizer's `SPEAKER A`–`H` labels rather than the ALL-CAPS script format, because `flags.md` §2 marks the character mapping as inferred. Converting would hard-code unverified attribution. **Specific contradiction:** at 01:08:51 the line *"I wish my name was Madeline instead of **Madison**"* is assigned to SPEAKER F, but F is established as Taylor/Vega at 00:16:01 ("Me as in Taylor, or me as in Vega?"). Resolve before conversion.
-- ⚑ **Three approved spell-check rows were deliberately NOT applied**, because the approved table itself marks each "do not apply without DM confirmation" / "not recommended": `Karlsteiner`→`Carl Senior` (45%), `Tinkt— er`→`Taint— er` (40%), Bobby's `master curator`→`master armorer` (35%). If Taylor intended all 29, these are one-line fixes.
+- ⚑ **Two approved spell-check rows remain deliberately NOT applied**, because the approved table marks each "do not apply without DM confirmation" / "not recommended": `Karlsteiner`→`Carl Senior` (45%) and Bobby's `master curator`→`master armorer` (35%). Still unanswered.
+- ✓ **2026-08-03 — enemy names confirmed by Taylor and corrected vault-wide.** Two overturned what the spell-check proposed: `Shathide` is really **Shithead** and `Absidy` is really **Abcde**. `Tink` was **not** a separate enemy — it was `Taint` misheard, which retroactively applied the third previously-held row. `Cuck`, `Shirley`, `Lucky` confirmed as transcribed. The raw transcript at `Session_Sources/Transcripts/Raw_Unedited/10-061526_raw_transcript.md` deliberately still carries the original ASR hearings.
 - ⚑ **No Vega voice guide exists.** The `⟦FILL: Vega voice guide⟧` token is still open in both `Project_Instructions.md` and `Convo_1_Instructions.md` — the Ashfall analog of the `kit-pov-journal` skill has never been built. This session's POV Journal is written in the register established by the S01–S03 entries. One-time setup item.
 - ⚑ **The Sun Shard / "Solar Fist" — the campaign's stated central relic — is not mentioned once this session.** Recorded as an absence.
 - ⚑ **Vault housekeeping:** `Mr. Cat.md` exists in **both** `03-Characters/02 NPCs/` and `03-Characters/01 PCs/Companions/`. Duplicate page; pick one and redirect. (Backlinks in this note resolve to whichever Obsidian prefers.)

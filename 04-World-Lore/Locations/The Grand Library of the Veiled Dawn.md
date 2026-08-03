@@ -40,8 +40,8 @@ The fight was won on **vertical control**, not damage: elevation and separation,
 
 DM: *"What was a nice semi-clean library is now coated in the blood of many, many cultists."*
 
-- **Dead on the floor:** Lucky ([[Samothy Smith-Wesson]]), Shirley ([[Flux]]), Taint ([[Barrett Grimmskar]]), Shathide **and [[The Beast Master]]** ([[Valerian Hellebore]]), Cuck ([[Vega Bloodroot]], last standing), one unnamed ([[Deanna Smith-Wesson]] ⚑ target never named). The Beast Master's body is **ash**.
-- ⚑ **Absidy fled** — the only enemy to leave the building alive. The [[Cult of the Pale World]] very likely knows exactly what happened here.
+- **Dead on the floor:** Lucky ([[Samothy Smith-Wesson]]), Shirley ([[Flux]]), Taint ([[Barrett Grimmskar]]), Shithead **and [[The Beast Master]]** ([[Valerian Hellebore]]), Cuck ([[Vega Bloodroot]], last standing), one unnamed ([[Deanna Smith-Wesson]] ⚑ target never named). The Beast Master's body is **ash**.
+- ⚑ **Abcde fled** — the only enemy to leave the building alive. The [[Cult of the Pale World]] very likely knows exactly what happened here.
 - ⚑ **Carl Senior is never declared dead**, despite Cuck being confirmed the last enemy standing.
 - **The S09 question is answered:** the restricted-section haul was **the entire restricted section** — all its books and scrolls, into [[Flux]]'s bag of holding, plus diamonds/rubies/emeralds and a **severed big-cat skull with a jade ball in its jaws** (non-magical — see [[Unknown Great Cat]]). **200 gold** total off the bodies, and a **folded, unreadable note** from the Beast Master's ashes. **None of the books have been read.**
 - ⚑ **The whisper.** [[Flux]] passed a Perception check (advantage, **22**) and heard **his own name** whispered twice from an empty space in this room. Source unknown. He ignored it. **The library is not finished with them.**
