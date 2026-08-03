@@ -39,6 +39,11 @@ and reconcile **both** transcript-only roll logs together — `Roll Statistics S
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-08-03 19:58 ET · Codex
+- **Changed:** Replaced the condensed Session 12 recap DOCX with a **full-fidelity Word version of the complete canonical note**. It now carries the source metadata, POV Journal, Summary, every section/table/quote, Threads, Archivist Notes, and Related links from `Session 12 — Only the Relics Can End Their Rule.md`. Structural check: 293 paragraphs, 9 tables, all major canonical-section markers present; accessibility audit has 0 findings. Visual render QA remains unavailable because LibreOffice is missing in this runtime.
+- **Commit:** `a4a6bdc`
+- **Next:** Use the full Session 12 DOCX as the complete session reference.
+
 ### 2026-08-03 19:54 ET · Codex
 - **Changed:** Added a casual, player-facing **Session 12** DOCX recap at `01-Sessions/Session 12 — Only the Relics Can End Their Rule.docx`. It distills the Dawnkeep attack, three-relic quest, shopping/downtime wins, and immediate hooks into a skimmable table-reference packet. Structural accessibility check passed without high-severity findings. Visual render QA could not run because LibreOffice is unavailable in this runtime.
 - **Commit:** `71bc998`
