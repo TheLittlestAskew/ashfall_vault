@@ -335,6 +335,20 @@ function approve() {
 // ── MAIN ──
 if (process.argv.includes('--approve')) { approve(); process.exit(0); }
 
+// ── ONE-OFF MODE:  node ashfall_pipeline_watch.js --file <mp3> ──
+// Watch mode uses ignoreInitial, so a recording already sitting in the folder
+// never fires. This is the entry point for backlogged mp3s.
+const fileFlag = process.argv.indexOf('--file');
+if (fileFlag !== -1) {
+  const arg = process.argv[fileFlag + 1];
+  if (!arg)                                  { console.error('--file needs a path to an .mp3'); process.exit(1); }
+  const mp3 = path.resolve(arg);
+  if (!mp3.toLowerCase().endsWith('.mp3'))   { console.error(`Not an .mp3: ${mp3}`);            process.exit(1); }
+  if (!fs.existsSync(mp3))                   { console.error(`Not found: ${mp3}`);              process.exit(1); }
+  processRecording(mp3);
+  process.exit(0);
+}
+
 fs.mkdirSync(PIPELINE_DIR, { recursive: true });
 banner('Ashfall Pipeline Watcher — Option B  (watching for new .mp3)');
 log(`Watching: ${RECORDINGS}`);

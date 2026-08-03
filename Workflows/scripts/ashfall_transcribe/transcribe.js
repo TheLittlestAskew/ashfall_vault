@@ -330,9 +330,10 @@ async function submitTranscription(audioUrl, speakersExpected) {
   const requestBody = {
     audio_url: audioUrl,
 
-    // Use Universal-3 Pro for best accuracy + keyterms support,
-    // fall back to Universal-2 if U3 Pro can't handle the audio
-    speech_models: ["universal-3-pro", "universal-2"],
+    // Use Universal-3.5 Pro for best accuracy + keyterms support,
+    // fall back to Universal-2 if it can't handle the audio.
+    // (universal-3-pro was deprecated by AssemblyAI — 400s on submit.)
+    speech_models: ["universal-3-5-pro", "universal-2"],
 
     // ── Ashfall Campaign Vocabulary ──
     keyterms_prompt: ASHFALL_KEYTERMS,
@@ -411,7 +412,7 @@ function formatTranscript(transcriptData, sourceFileName) {
   lines.push(`# Source: ${sourceFileName}`);
   lines.push(`# Transcribed: ${new Date().toISOString()}`);
   lines.push(`# Audio duration: ${Math.round(transcriptData.audio_duration / 60)} minutes`);
-  lines.push(`# Model: ${transcriptData.speech_model || "universal-3-pro"}`);
+  lines.push(`# Model: ${transcriptData.speech_model || "universal-3-5-pro"}`);
   lines.push(`# Confidence: ${(transcriptData.confidence * 100).toFixed(1)}%`);
   lines.push("");
   lines.push("---");
