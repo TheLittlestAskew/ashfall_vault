@@ -1,9 +1,45 @@
-# Ashfall Britannia Session Transcript
+# Ashfall Britannia Session Transcript — CORRECTED
+# Session: 12 · Session date: 06/29/2026 (062926)
 # Source: 062926 Ashfall Recording.mp3
 # Transcribed: 2026-08-03T21:33:13.552Z
 # Audio duration: 123 minutes
 # Model: universal-3-5-pro
 # Confidence: 95.7%
+# Corrections applied: 11 of the 16 proposed rows in the approved
+#   `_pipeline/S12/spellcheck.md` — 13 edit operations (rows 8 and 11 each cover two
+#   transcript lines). 5 rows were NOT applied:
+#     row 12  Cirrus / Sirus / Ceres Dawnwalker — the approved table carries NO proposal
+#             ("pick one — no proposal"). Three hearings in one session; needs the DM's
+#             written lore, not a guess. All three left exactly as heard.
+#     row 13  "Blessings of Erona" → "Blessings of Aurona" (45%) — "Flag, do not apply."
+#     row 14  "you know Bobby" → "you know Marvin" (40%) — "Flagged, not recommended."
+#             A DM misspeak, not an ASR error; Verbatim Quotes Only preserves it.
+#     row 15  "Argo Mas" (874) — table marks it "(unrecoverable)", no proposal.
+#             Candidate for [inaudible]; left exactly as heard.
+#     row 16  "Pentagon" → "pen" (40%) — the row's own reason notes that lines 140 and
+#             146 only work if "Pentagon" was actually said. Deliberate table joke.
+#     row 17  "Sun Shard 2" → "Sun Shard, chapter 2" (55%) — HELD as ambiguous.
+#             Applying the table's literal Proposed string to line 1740 ("I sent
+#             Chapter 2 of the Sun Shard 2 somewhere") yields a duplicated clause; the
+#             row's stated intent (drop a duplicated numeral) is a different edit than
+#             its Proposed cell. Not resolvable in a non-interactive run.
+#   Full applied/held ledger: `Spell_Check_Logs/062926_Spell_Check_Log.md`.
+# ⚠ NOT converted to script format, and OOC / bio-break content is NOT stripped.
+#   `_pipeline/S12/flags.md` §2 (flag 15) states the SPEAKER A–H → character mapping is
+#   INFERRED and must be confirmed before script format hard-codes names. The diarizer
+#   has now produced a THIRD distinct letter assignment in three sessions — this is
+#   neither the S10 nor the S11 map. Original diarizer labels are preserved, matching
+#   the S10 and S11 corrected transcripts.
+#   Inferred (UNCONFIRMED) S12 mapping:
+#     A = Deanna Smith-Wesson · B = Flux · C = Vega Bloodroot · D = Valerian Hellebore
+#     E = Taylor (DM) · F = Barrett Grimmskar · G = Zelda "Z" Whipper · H = Samothy Smith-Wesson
+# ⚠ A THIRD "Taylor" is confirmed at the table (1034–1044): Taylor-the-DM,
+#   Taylor-the-player (Vega), and Madi addressing the DM as "husband Taylor".
+#   Disambiguate in the vault before any speaker name is hard-coded.
+# ⚠ Large stretches of this session are the DM speaking IN VOICE as Bobby Ironbrand,
+#   Grant, Charlotte, and Lt. Hargraven, with no speech tags. Clear in-voice runs:
+#   Hargraven 476–498 · Bobby 546–694 · Grant 1228–1332 · Charlotte 1350–1556.
+#   The read-aloud lore text (360–464) is NARRATION, not an NPC.
 
 ---
 
@@ -359,7 +395,7 @@
 
 [00:16:02] SPEAKER E: All right, so last session you guys finished the fight outside of the dead zone. So, uh, the wind carries the smell of smoke long before the castle comes into view. You step slowly As the tree line thins, revealing Dawnkeep Castle silhouetted against a bruised sky. Its once proud banners hang in tatters, its outer walls are scorched black, and the great oak doors lie splintered on the ground like broken bones. The courtyard is a graveyard. Bodies, human and vampire alike, are strewn across the stone. Some lie where they fell in battle, weapons still clutched in stiffening hands. Others are twisted together, locked in death as they were in life. Blood paints the ground in dark streaks, dying— drying in the heat of the day. A single torch flickers near the entrance, its flames struggling against the wind. The castle is silent. As you step through the shattered doorway, the air inside is heavy, thick with the metallic scent of blood and the faint perfume of old magic. Furniture's overturned, maps torn from walls, and claw marks gouged deep into the stone. Every room tells the same story: desperate fight, a hopeless defense. A fallen soldier slumps against a pillar— I'm sorry, a fallen soldier slumps against a pillar, barely clinging to life. His eyes flutter open as the party approaches. They came from the sky, he rasps. Wings, wings of shadow. We couldn't stop them. His head falls forward. His final breath leaves him in silence. Uh, the war—
 
-[00:17:46] SPEAKER H: spare the dying on him?
+[00:17:46] SPEAKER H: Spare the Dying on him?
 
 [00:17:47] SPEAKER E: Sure.
 
@@ -443,7 +479,7 @@
 
 [00:25:13] SPEAKER D: Okay.
 
-[00:25:14] SPEAKER E: Uh, the book falls to the ground, opens up, and writing starts to appear. Uh, let's see. And the text says, in the age before shadow, the world knew the light of Aurona, and her chosen bore the relics that held back the night. The Sun Shard appears first, held by— held aloft by Cirrus Dawnwalker. Where he walked, dawn followed. With the shard, he broke the siege of Hollow Reach, casting a dome of daylight that burned for 3 days and 3 nights. The Blade of Sunfire blazes next, wielded by Queen Elandria Brightsteel. Sorry, choking. Its flames spared the living but devoured the undead. With it, she struck down the first vampire general. Then the Greaves of Burning Grasp, worn by Theros and Emberborn. His hands seared through undead flesh, and no vampire lord could escape his hold. The 3 champions stand together, relics blazing. When the relics were united, dawn broke across the world even at midnight. The vampire lords fell. As you turn the next— or the next page turns on its own. But victory came at a cost. The Sun Shard shattered. The blade was stolen by a traitor. And Theros walked into the mountains with the Greaves and was never seen again. The last line pulses like a heartbeat. If the vampires rise again, only the relics can end their rule.
+[00:25:14] SPEAKER E: Uh, the book falls to the ground, opens up, and writing starts to appear. Uh, let's see. And the text says, in the age before shadow, the world knew the light of Aurona, and her chosen bore the relics that held back the night. The Sun Shard appears first, held by— held aloft by Cirrus Dawnwalker. Where he walked, dawn followed. With the shard, he broke the siege of Hollow Reach, casting a dome of daylight that burned for 3 days and 3 nights. The Blade of Sunfire blazes next, wielded by Queen Alandra Brightsteel. Sorry, choking. Its flames spared the living but devoured the undead. With it, she struck down the first vampire general. Then the Greaves of Burning Grasp, worn by Theros Emberborn. His hands seared through undead flesh, and no vampire lord could escape his hold. The 3 champions stand together, relics blazing. When the relics were united, dawn broke across the world even at midnight. The vampire lords fell. As you turn the next— or the next page turns on its own. But victory came at a cost. The Sun Shard shattered. The blade was stolen by a traitor. And Theros walked into the mountains with the Greaves and was never seen again. The last line pulses like a heartbeat. If the vampires rise again, only the relics can end their rule.
 
 [00:26:44] SPEAKER B: We have the Sun Shard, all right, already, correct?
 
@@ -495,7 +531,7 @@
 
 [00:32:45] SPEAKER F: Alrighty.
 
-[00:32:45] SPEAKER E: Alright, the book flips to the next page and it pulls up the— it starts talking about the 3 relics. The first one is the Sun Shard. Type is divine crystal. Magic, pure radiant energy. Past uses: the Sun Shard was carried by Aurona's chosen champion, a monk named Ceres Dawnwalker. It allowed him to summon daylight in places of eternal night, weakening vampire armies. The shard could cleanse corrupted land, restoring life where vampires had drained it. Key historical moment: during the Siege of Hollow Reach, Ceres Raised the shard and created a dome of sunlight that lasted 3 days, burning thousands of vampires and turning the tide of the war. The second relic is the Blade of Sunfire. It's a radiant longsword, magic flames that burn only the undead. It was last wielded by Queen Alandra Brightsteel. The blade could cut through vampire regeneration, preventing them from healing. Its flames grew hotter the more undead surrounded it. Uh, Elandra used the blade to slay the first vampire general, ending his centuries-long reign of terror. The 3rd relic is the Greaves of Burning Grasp. Uh, it's radiant armor. It grants superhuman speed, strength, and the ability to grip and burn undead flesh. Past uses: worn by the giant warrior Warrior Theros Emberborn. He used the Greaves to grapple vampire lords, pinning them while others struck killing blows. Uh, the Greaves left sun-shaped burn marks on anything he touched. Uh, key historical moment: Theros held down the Vampire Queen's lieutenant while Alendria struck down— struck the final blow with the Blade of the Sunfire. And that's all I have for that for you guys to take notes. To the castle. All right, so after all that, Lieutenant Hargraven, uh, lets you know that he's Gotta bounce. He's gotta go do Lt. Hargraven shit, and he recommends you go get supplies before you go on your next journey and to make sure you come see him in the war room before you leave.
+[00:32:45] SPEAKER E: Alright, the book flips to the next page and it pulls up the— it starts talking about the 3 relics. The first one is the Sun Shard. Type is divine crystal. Magic, pure radiant energy. Past uses: the Sun Shard was carried by Aurona's chosen champion, a monk named Ceres Dawnwalker. It allowed him to summon daylight in places of eternal night, weakening vampire armies. The shard could cleanse corrupted land, restoring life where vampires had drained it. Key historical moment: during the Siege of Hollow Reach, Ceres raised the shard and created a dome of sunlight that lasted 3 days, burning thousands of vampires and turning the tide of the war. The second relic is the Blade of Sunfire. It's a radiant longsword, magic flames that burn only the undead. It was last wielded by Queen Alandra Brightsteel. The blade could cut through vampire regeneration, preventing them from healing. Its flames grew hotter the more undead surrounded it. Uh, Elandra used the blade to slay the first vampire general, ending his centuries-long reign of terror. The 3rd relic is the Greaves of Burning Grasp. Uh, it's radiant armor. It grants superhuman speed, strength, and the ability to grip and burn undead flesh. Past uses: worn by the giant warrior Warrior Theros Emberborn. He used the Greaves to grapple vampire lords, pinning them while others struck killing blows. Uh, the Greaves left sun-shaped burn marks on anything he touched. Uh, key historical moment: Theros held down the Vampire Queen's lieutenant while Alandra struck down— struck the final blow with the Blade of the Sunfire. And that's all I have for that for you guys to take notes. To the castle. All right, so after all that, Lieutenant Hargraven, uh, lets you know that he's Gotta bounce. He's gotta go do Lt. Hargraven shit, and he recommends you go get supplies before you go on your next journey and to make sure you come see him in the war room before you leave.
 
 [00:35:28] SPEAKER G: Thank you.
 
@@ -891,9 +927,9 @@
 
 [01:01:22] SPEAKER F: So just again, sorry, regular is how much?
 
-[01:01:25] SPEAKER E: $25.
+[01:01:25] SPEAKER E: 25 gold.
 
-[01:01:27] SPEAKER F: $25, and special is $75?
+[01:01:27] SPEAKER F: 25 gold, and special is 75?
 
 [01:01:31] SPEAKER E: Yep, and if you bring back your casings, you get a discount.
 
@@ -1139,7 +1175,7 @@
 
 [01:15:40] SPEAKER C: You guys, my AI just accused me of being a pothead. I mean I just asked it to break down the law for me, and it was like, do you want me to look up qualifications? And I was like, I'm already qualified, you know, the kidney stones. And it was like, ha, the kidney stones, right? Oh no, sorry, it says, ha, the kidney stones, classic. Fuck you.
 
-[01:16:27] SPEAKER E: All right, so let's see, Grant's probably safe to hit. Make that note. Okay, anything else?
+[01:16:27] SPEAKER E: All right, so let's see, Grant's Probably Safe Toolkit. Make that note. Okay, anything else?
 
 [01:16:45] SPEAKER G: Nope, that is all for, for That's all her money.
 
@@ -1221,7 +1257,7 @@
 
 [01:20:39] SPEAKER H: I got you a dollar.
 
-[01:20:45] SPEAKER D: Here's $1 to save us $20 and therefore cost you $20. $19 total.
+[01:20:45] SPEAKER D: Here's 1 gold to save us 20 and therefore cost you 20. 19 total.
 
 [01:20:51] SPEAKER B: $25 each. I was hoping he would give them to us for $50 each.
 
@@ -1305,7 +1341,7 @@
 
 [01:25:33] SPEAKER E: And then you said the Smoke Snap Capsule for dramatic exits. I do like that one, that one's pretty cool. Anybody else?
 
-[01:25:53] SPEAKER C: Did you get my, um, probably safe fox?
+[01:25:53] SPEAKER C: Did you get my, um, probably safe box?
 
 [01:25:59] SPEAKER E: Yes, one for Vega too. Okay, I will get with you on the items. I'm gonna try to make them different, so if they're the same rolls, I'll be re-rolling.
 
@@ -1319,7 +1355,7 @@
 
 [01:26:57] SPEAKER D: He's gone robot.
 
-[01:27:01] SPEAKER E: And since you guys have been so nice to Grant and you say you're going to be repeat customers, he'll give you the Probably Save toolkit for 200 instead of 300. You'll get the new friend discount.
+[01:27:01] SPEAKER E: And since you guys have been so nice to Grant and you say you're going to be repeat customers, he'll give you the Probably Safe toolkit for 200 instead of 300. You'll get the new friend discount.
 
 [01:27:13] SPEAKER G: Oh, I need to add $100 to this.
 
@@ -1359,7 +1395,7 @@
 
 [01:30:55] SPEAKER B: Okay.
 
-[01:30:56] SPEAKER E: Does it all over again, and then she goes, hmm, this one I'm not 100% sure. It's either, uh, fuck, uh, Firebolt or Fireball. It's kind of hard to tell, they're so similarly made. So I would be careful with this one when you throw it. Hands you the next one. Um, she does this for the 4th time and she goes, okay, this one will let you speak with animals. That one's always handy. And then this last one— We can already talk to Valerian. This last one I had some trouble with, but it's just Growth.
+[01:30:56] SPEAKER E: Does it all over again, and then she goes, hmm, this one I'm not 100% sure. It's either, uh, fuck, uh, Fire Bolt or Fireball. It's kind of hard to tell, they're so similarly made. So I would be careful with this one when you throw it. Hands you the next one. Um, she does this for the 4th time and she goes, okay, this one will let you speak with animals. That one's always handy. And then this last one— We can already talk to Valerian. This last one I had some trouble with, but it's just Growth.
 
 [01:31:53] SPEAKER H: Growth.
 
@@ -1387,7 +1423,7 @@
 
 [01:32:36] SPEAKER G: What?
 
-[01:32:41] SPEAKER E: Sorry, she does have hate. She can tell you. Uh, so yeah, the growth potion, if you drink it, you'll grow. If you throw it at somebody, they'll grow. If you were to pour it on like a plant, a sapling, that would grow to full grown.
+[01:32:41] SPEAKER E: Sorry, she does have haste. She can tell you. Uh, so yeah, the growth potion, if you drink it, you'll grow. If you throw it at somebody, they'll grow. If you were to pour it on like a plant, a sapling, that would grow to full grown.
 
 [01:33:03] SPEAKER A: Okay, how long does it last?
 
