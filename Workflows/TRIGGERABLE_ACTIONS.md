@@ -161,9 +161,34 @@ standard pipeline:
 ## 7. OS-level trigger
 
 ### Scheduled task "Ashfall Pipeline Watcher"
-- **What:** Would run `start-watcher-hidden.vbs` at logon so the watcher is always up (hidden).
-- **Status:** **not registered.** Create it by double-clicking `Install-AshfallTask.cmd` (§1).
-- **Manage (once created):** Task Scheduler → "Ashfall Pipeline Watcher" (Run / End / Disable).
+- **What:** Runs `start-watcher-hidden.vbs` at logon so the watcher is always up (hidden),
+  surviving restarts.
+- **State:** `Running` — ✅ **registered 2026-08-28.** It had never been installed: the scripts
+  were all complete but no scheduled task existed, so Ashfall's automation had been fully dead
+  while SITL and WTFF ran. Verified by reading back the task *and* the processes: task
+  `Running`, plus a `wscript.exe` wrapper and a `node.exe` running `ashfall_pipeline_watch.js`.
+  A watcher is only healthy when **both** processes exist.
+- 🛑 **Required settings. Do NOT let these fall back to the Windows defaults.**
+  This is a long-running logon watcher, and the defaults `schtasks /Create` applies will
+  kill it:
+
+  | Setting | Must be | Windows default | What the default does to you |
+  |---|---|---|---|
+  | `ExecutionTimeLimit` | `PT0S` (no limit) | `PT72H` | Kills the watcher every 3 days |
+  | `RestartCount` | `3`, interval `PT1M` | `0` | Never comes back after a kill |
+  | `StopIfGoingOnBatteries` | `False` | `True` | Dies the moment you unplug |
+  | `DisallowStartIfOnBatteries` | `False` | `True` | Won't start at all on battery |
+
+  `Install-AshfallTask.cmd` now applies all four automatically and prints them back for
+  checking. ⚠️ **This section exists because the sibling WTFF watcher was found dead on
+  2026-08-28 from exactly this** — killed at its 72h limit (last result `0x800705B4`), with
+  `RestartCount=0` so it never recovered, and its `node` child left **orphaned and still
+  running**, so Task Scheduler reported `Ready` while a stray watcher held the files.
+- **Verify:** `Get-ScheduledTask -TaskName 'Ashfall Pipeline Watcher' | Select-Object -ExpandProperty Settings`
+- **Manage:** Task Scheduler → "Ashfall Pipeline Watcher" (Run / End / Disable). To restart the
+  watcher by hand instead, stop the `node.exe` running `ashfall_pipeline_watch.js` and re-launch
+  `start-watcher-hidden.vbs`. 🛑 Always stop the old `node.exe` first — starting the task
+  while an orphan is alive gives you two watchers on the same folder.
 
 ---
 
