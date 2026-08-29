@@ -1,0 +1,42 @@
+{
+  "version": 1,
+  "generated_at": "2026-08-29T21:39:36.229Z",
+  "sessions": [
+    {
+      "n": "10",
+      "t": "Never Truly Alone",
+      "d": "2026-06-15",
+      "lbl": "June 15, 2026",
+      "f": "01-Sessions/Session 10 — Never Truly Alone.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S01-S10.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S01-S10.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S01-S10.md"
+      }
+    },
+    {
+      "n": "11",
+      "t": "A Delightful Chase",
+      "d": "2026-06-22",
+      "lbl": "June 22, 2026",
+      "f": "01-Sessions/Session 11 — A Delightful Chase.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S11-S20.md"
+      }
+    }
+  ],
+  "legacy_validation_issues": [
+    "S03: missing public-site heading ## NPCs.",
+    "S04: missing public-site heading ## NPCs.",
+    "S04.5: missing public-site heading ## Metadata.",
+    "S04.5: missing public-site heading ## Threads.",
+    "S04.5: missing public-site heading ## NPCs.",
+    "S04.5: missing required public tracker block(s): Quote Board, Profanity Ledger.",
+    "S05: missing public-site heading ## NPCs.",
+    "S05: missing public-site heading ## Archivist Notes.",
+    "S05: missing required public tracker block(s): Loot Tracker.",
+    "S09: missing public-site heading ## NPCs."
+  ]
+}

@@ -131,7 +131,8 @@ Work in this order:
 5. **PC pages** — all present PCs updated (abilities, inventory, relationships, events, quotes).
 6. **NPC pages** — new created, existing updated.
 7. **Locations / Flora-Fauna / Mechanics** — as applicable.
-8. **Website session sync (rectrixcaedere.com)** — **SEPARATE REPO** (`TheLittlestAskew/rectrixcaedere`), *not* the vault; deploy on its own. The new session must be added to **two** hardcoded `ARC` registries (kept in lockstep on `n`/`d`/`lbl`/`t`/`f`). The tracker + Vega panels populate from the vault files you already wrote above (Quote Board / Loot / Profanity `## S0N` blocks, and Vega's `## Key Events` `- **S0N` bullet) — keep those formats exact or the site panels blank.
+8. **Public website session sync (rectrixcaedere.com)** — after the Campaign Dashboard and all tracker blocks are complete, run `node Workflows/scripts/generate_public_session_index.mjs --self-test` and then `node Workflows/scripts/generate_public_session_index.mjs`. The command fails closed for any new session (S10+) missing its Markdown note, the five site-parser H2 headings, or a Quote Board / Loot / Profanity block. It writes `00-Campaign-Hub/Public Session Index.json`, which Rectrix loads live after this one-time site deployment. Commit and push this vault file with the session work; do not mark Website session entry ✅ until the raw GitHub URL returns the index entry and its note.
+   - The tracker + Vega panels populate from the vault files you already wrote above (Quote Board / Loot / Profanity `## S0N` blocks, and Vega's `## Key Events` `- **S0N` bullet). Keep those formats exact or the site panels blank.
    - **`ashfall-britannia/session.html` → `ARC`:**
      ```js
      {n:'##',d:'YYYY-MM-DD',lbl:'Month D, YYYY',t:'<display title>',
@@ -191,7 +192,7 @@ A session is fully synced when every row is ✅ (or ➖ if not applicable):
 | 11 | Locations | `04-World-Lore/Locations/*.md` | New created, revisited updated |
 | 12 | Flora/Fauna | `07-Flora_Fauna/` | New created, existing updated |
 | 13 | Mechanics | `00-Campaign-Hub/House Rules & Rulings.md` | New rulings (if any) |
-| 14 | Website session entry | `rectrixcaedere` → `ashfall-britannia/session.html` (`ARC`) **and** `archive.html` (`ARC` + header stats) | New entry in **both** `ARC`s (matching `n`/`d`/`lbl`/`t`/`f`); tracker + Vega panels populated; deployed (separate repo). ➖ only if the site reader doesn't exist yet |
+| 14 | Website session entry | `00-Campaign-Hub/Public Session Index.json` → rectrixcaedere live readers | The generated index contains the session, all public parser inputs validate, the vault is pushed, and the raw index plus note URL return successfully. ➖ only if the site reader doesn't exist yet |
 
 **Vault Sync Status updated LAST**, with ✅/➖ for all columns and a change-log entry.
 

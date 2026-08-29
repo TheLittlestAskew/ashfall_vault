@@ -21,9 +21,11 @@ Do all of the following without stopping:
 
 3. SURGICAL EDITS ONLY. Before appending to any file, read its tail to confirm the anchor. Use targeted oldText/newText edits. NEVER full-rewrite a large file (this kind of mistake previously destroyed a journal in SITL). Backstory sections and the journal are append-only with session-tagged entries.
 
-4. Update 00-Campaign-Hub/Vault Sync Status.md LAST: ✅ / ➖ for every checklist column plus a dated change-log entry.
+4. Run `node Workflows/scripts/generate_public_session_index.mjs --self-test`, then `node Workflows/scripts/generate_public_session_index.mjs`. It must succeed before marking the Website session entry complete; it fails if any new session lacks its Markdown note, the five public parser H2s, or Quote Board / Loot / Profanity blocks.
 
-5. Commit and push. From the vault root run:
+5. Update 00-Campaign-Hub/Vault Sync Status.md LAST: ✅ / ➖ for every checklist column plus a dated change-log entry.
+
+6. Commit and push. From the vault root run:
    git add -A && git commit -m "S{{NN}} — automated session sync" && git push
    (Public repo: confirm no secrets/.env are staged before committing.)
 
