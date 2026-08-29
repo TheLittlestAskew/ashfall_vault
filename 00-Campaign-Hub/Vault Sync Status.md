@@ -95,7 +95,94 @@
 10. ⚑ **STILL CARRIED:** no Vega voice guide (`⟦FILL⟧`, **4 sessions overdue**) · `⟦FILL: player languages / accents⟧` (**5 sessions**) · the orphan `040226 Ashfall Brittania Recording_transcript.md` · the **level 8 → 10 jump / possible unrecorded session** · **`master curator` vs `master armorer`** · **`Karlsteiner`** · **Carl Senior never declared dead** · **Deanna's unnamed S10 kill**.
 11. ⚑ **S11 is the FIRST session in the `S11-S20` range.** Rotation is done; the S01-S10 files are marked 🔒 CLOSED and should not be appended to. Next rotation at **S21**.
 
-### 🛑 "S13" — RULED **NOT A SESSION**. NO PROPAGATION PERFORMED (08/28/2026)
+### 🛑 "S13" (062926) — RULED **NOT A SESSION**, SECOND CONSECUTIVE. NO PROPAGATION PERFORMED (08/29/2026)
+
+A second automated Convo 2 run was launched for **Session 13, ISO 2026-06-29**. It was **stopped
+before any session propagation**, for the same reason as the 062226 run the day before: there is no
+Session 13. **`13-062926_raw_transcript.md` is a second AssemblyAI run of the audio already archived
+as [[Session 12 — Only the Relics Can End Their Rule|Session 12]].**
+
+**Verified independently this run** — re-derived from the raw files, not inherited from the handoff:
+
+| Check | `12-062926_raw_transcript.md` | `13-062926_raw_transcript.md` |
+|---|---|---|
+| `# Source:` | `062926 Ashfall Recording.mp3` | **identical** |
+| Audio duration · model | 123 min · `universal-3-5-pro` | **identical on both** |
+| Confidence | 95.7% | 95.8% |
+| First line of play | `Test, test.` | **identical** |
+| Last line | `Bye.` · `[02:02:44] SPEAKER G` | **identical** |
+| Lines / words | 1,836 / 15,243 | 1,820 / 15,213 |
+| Transcribed | 2026-08-03T21:33:13Z | **2026-08-29T02:59:40Z** |
+
+Same recording, transcribed twice, 26 days apart. The 0.2% word delta and 16 fewer speaker turns are
+normal run-to-run ASR variance. **The date is also wrong for an S13** — weekly cadence (S10 061526 ·
+S11 062226 · S12 062926) puts the real one near **070626**.
+
+🛑 **TWO PHANTOM SESSIONS IN A ROW IS A PIPELINE DEFECT, NOT A COINCIDENCE.** The 08/28 run rejected a
+re-transcription of S11's audio; this run rejected a re-transcription of S12's. **Fix whatever feeds
+`transcribe.js` its work list before running it again** — that is the root cause of two wasted cycles.
+
+| # | Item | "S13" (062926) | Why |
+|---|---|---|---|
+| 1 | Session Note | ➖ | Session does not exist — audio is S12's |
+| 2 | Corrected Transcript | ➖ | `13_062926_corrected.md` filed by Convo 1; a second-run artifact, not a new session |
+| 3 | Campaign Dashboard | ➖ | No new events. A row would falsify the session log |
+| 4 | Loot Tracker | ➖ | No new loot |
+| 5 | Quote Board | ➖ | No new quotes |
+| 6 | Profanity Ledger | ➖ | Duplicate counts would corrupt campaign-wide running totals |
+| 7 | Roll Stats | ➖ | No new rolls — **and the archive is still unreachable** (see below) |
+| 8 | POV Journal | ➖ | A second Vega entry for one night is fabrication |
+| 9 | PC Pages (×7) | ➖ | No new descriptors surfaced — handoff records "none" |
+| 10 | NPC Pages | ➖ | No new NPCs |
+| 11 | Locations | ➖ | No new locations |
+| 12 | Flora/Fauna | ➖ | No new creatures |
+| 13 | House Rules & Rulings | ➖ | No new rulings |
+| — | Setting Primer / Names & Terms | ➖ | No confirmed new worldbuilding — all of it is already keyed to S12 |
+| 14 | Website session entry | ➖ | Nothing to publish. **S10, S11 and S12 all remain outstanding** on `rectrixcaedere` |
+
+**S12 propagation audited this run — and it is genuinely absent, not merely unmarked.** Because the
+audio on this recording *is* Session 12's, `Project_Instructions.md` → *Existing Notes Handling*
+makes the correct action "audit propagation and fill only the gaps." The audit was run:
+
+- `grep` for `S12`/`Session 12` across every vault `.md` returns **only** the Campaign Dashboard
+  (which has **no S12 row** — the sessions table stops at S11), `Roll Statistics S11-S20` (a
+  Supabase-blocker note that merely *mentions* S12), this file, `HANDOFF.md`, and the corrected
+  transcript + spell-check logs.
+- **No `## S12` block exists in any of the four `S11-S20` trackers.**
+- No S12 journal entry, no S12 PC Key Events bullets, no S12 glossary block.
+
+🛑 **The gap could NOT be filled this run — blocked, not declined.** The only non-inventive source is
+the approved `Session 12 — ….docx`, and **the sandbox refused every attempt to execute the extractor**
+(`python <script> <args>` → "This command requires approval"; bare `python --version` runs fine), with
+no approval possible in a non-interactive run. The two other routes were both rejected on principle:
+regenerating S12 from `13_062926_corrected.md` would create **a second, divergent account of one
+session**, and Convo 2 is explicitly forbidden from re-reading transcripts. **Nothing was invented.**
+
+> 🔧 **Ready-to-run fix for Taylor.** `Workflows/scripts/docx_to_text.py` was written this run to
+> convert the approved `.docx` to text (paragraphs → newlines, table cells → pipes, stdlib only).
+> Run it interactively from the vault root:
+> ```
+> python Workflows/scripts/docx_to_text.py "01-Sessions/Session 12 — Only the Relics Can End Their Rule.docx" "_pipeline/s12_docx.txt"
+> ```
+> Then turn that text into `01-Sessions/Session 12 — Only the Relics Can End Their Rule.md`, keeping
+> the five site-parser H2s (`## Metadata` with a Location row, `## Summary`, `## Threads`, `## NPCs`,
+> `## Archivist Notes`) or the site panels blank.
+> ⚠️ **Unverified — the sandbox blocked every execution attempt this run, including its own
+> `--selftest`.** Run `python Workflows/scripts/docx_to_text.py --selftest` first; it builds throwaway
+> `.docx` files in a temp dir and checks the happy path plus four failure modes. This is the
+> highest-value unblock in the vault: **S12 is `.docx`-only, so it cannot render on the public site at all.**
+
+🛑 **SUPABASE RE-TESTED THIS RUN — STILL UNAUTHORIZED. SIXTH CONSECUTIVE RUN.** `mcp__supabase__execute_sql`
+was called directly (`SELECT MAX(timestamp_iso), COUNT(*) FROM ashfall_session_rolls`) and returned
+`Unauthorized. Please provide a valid access token to the MCP server via the --access-token flag or
+SUPABASE_ACCESS_TOKEN.` — **no permission prompt was raised**, which independently **confirms the
+08/28 diagnosis and re-confirms that S11's allowlist theory was wrong.** The cause is an unset
+`SUPABASE_ACCESS_TOKEN` interpolating to empty in `.mcp.json`. **One line in `.env` (already
+gitignored) clears a backlog now four sessions deep.** No rolls were fabricated.
+
+---
+
+### 🛑 "S13" (062226) — RULED **NOT A SESSION**. NO PROPAGATION PERFORMED (08/28/2026)
 
 An automated Convo 2 run was launched for **Session 13, ISO 2026-06-22**. It was **stopped before any
 session propagation**, because there is no Session 13. **`13-062226_raw_transcript.md` is a second
@@ -196,7 +283,14 @@ backlog:
 6. ⚑ **Still no Vega voice guide** (`⟦FILL: Vega voice guide⟧` open in both instruction files). One-time setup item.
 7. ✅ **Resolved this run:** the duplicate `03-Characters/01 PCs/Companions/Mr. Cat.md` (0 bytes) was **deleted**; `03-Characters/02 NPCs/Mr. Cat.md` is now the single canonical page.
 
-**Last synced session:** **S11 — A Delightful Chase (06/22/2026)** · **CATCH-UP QUEUE EMPTY 🎉** *(but see the three-session roll-archive gap above)*
+**Last fully synced session:** **S11 — A Delightful Chase (06/22/2026)**
+🛑 **THE CATCH-UP QUEUE IS NOT EMPTY.** *(An earlier "QUEUE EMPTY 🎉" here was corrected 08/29/2026.)*
+**S12 — Only the Relics Can End Their Rule (06/29/2026) is transcribed but NOT propagated:** no
+markdown session note, no Dashboard row, no `## S12` block in any tracker, no journal entry, no PC
+Key Events. It is the **real blocker**, it sits directly upstream of the genuine Session 13, and
+because it is `.docx`-only it **cannot render on the public site at all**. See the 062926 ruling
+block above for the audit and the ready-to-run extractor. *(Also see the roll-archive gap, now four
+sessions deep and six runs unqueried.)*
 
 ## Catch-Up Queue (chronological)
 
@@ -219,6 +313,7 @@ backlog:
 | 062926 | 🛑 **S12 — Only the Relics Can End Their Rule — UNFINISHED.** `.docx` only (retired format), **no markdown note**, **no `## S12` block in any tracker**. Upstream of the real S13 |
 | *(none — 070626?)* | ⬜ **The genuine Session 13 has not been recorded or located.** Weekly cadence puts it near 07/06/2026 |
 | 062226 *(re-run)* | ➖ **`13-062226_raw_transcript.md` — NOT A SESSION.** Second ASR pass of S11's audio, mis-numbered by the transcriber. Ruled 08/28/2026; no propagation. Duplicate file left in `Raw_Unedited/` for Taylor to resolve |
+| 062926 *(re-run)* | ➖ **`13-062926_raw_transcript.md` — NOT A SESSION.** Second ASR pass of **S12's** audio, mis-numbered by the transcriber. Ruled 08/29/2026; no propagation. **Second phantom in a row — the transcriber's work list is the defect.** Duplicate file left in `Raw_Unedited/` for Taylor to resolve |
 
 Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Halloween one-shot / intro session?) ⚑ confirm with Taylor.
 
@@ -252,7 +347,8 @@ Roll archive also holds sessions on 2025-11-08/12 (pre-recording era — Hallowe
 
 | Date | Session | Action |
 |---|---|---|
-| 08/28/2026 | "S13" → **ruled not a session** | **Propagation REFUSED, not performed (automated, Claude Code native FS).** `13-062226_raw_transcript.md` was independently verified as a **second ASR run of [[Session 11 — A Delightful Chase]]'s audio** — identical source file, duration, model, confidence and first line of play; the 062226 date is also wrong for an S13 (weekly cadence puts the real one near 070626). Writing a Session 13 would have duplicated S11's quotes, loot, profanity totals, rolls and worldbuilding under a false session key **and pushed it to a public repo the live site reads** — the **No Session Contamination** constraint. **S11 propagation was audited instead and found complete with zero gaps** (all four `S11-S20` trackers, all 7 PC pages, journal, Dashboard, glossary). **3 files annotated, 1 corrected:** [[Session 11 — A Delightful Chase]] (+2 Archivist Notes — the full two-run cross-check, and the **disputed "Pins and Needles" attribution**), [[Names & Terms]] (**`Hunter` struck and flagged as a candidate ASR hallucination** — three occurrences in run 1, **zero** in run 2 of the same audio), [[Zelda Z Whipper]] (her authorship of "Pins and Needles" flagged as unsettled), and **this file** — where S11's Supabase diagnosis was **corrected**. 🛑 **THE FIVE-RUN ROLL-ARCHIVE BLOCKER IS NOW DIAGNOSED:** not the allowlist (S11's conclusion, disproven — the call raised no permission prompt), but an **unset `SUPABASE_ACCESS_TOKEN`**, which `.mcp.json` interpolates to empty. **One line in `.env` fixes it.** No rolls fabricated. ⚠ Not actioned, Taylor's call: the duplicate raw transcript, `_pipeline/state.json` stuck on the phantom S13, and **S12 unfinished (`.docx`-only, no markdown note, no tracker blocks)**. |
+| 08/29/2026 | "S13" (062926) → **ruled not a session — second consecutive** | **Propagation REFUSED, not performed (automated, Claude Code native FS).** `13-062926_raw_transcript.md` was independently verified as a **second ASR run of [[Session 12 — Only the Relics Can End Their Rule\|Session 12]]'s audio** — identical `# Source: 062926 Ashfall Recording.mp3`, 123-min duration, `universal-3-5-pro` model, identical first line of play (`Test, test.`) and last line (`Bye.` at `[02:02:44] SPEAKER G`); 1,836/15,243 vs 1,820/15,213 lines/words is ordinary run-to-run variance. Transcribed 26 days apart. The 062926 date is also wrong for an S13 (weekly cadence puts the real one near **070626**). Writing a Session 13 would have duplicated S12's quotes, loot, profanity totals, rolls and worldbuilding under a false session key **and pushed it to a public repo the live site reads** — the **No Session Contamination** constraint. 🛑 **This is the second phantom session in two days** (08/28 rejected a re-run of S11's audio); **the transcriber's work list is the defect, not the sessions.** **S12 propagation audited instead — and found genuinely absent, not merely unmarked:** a vault-wide `grep` for `S12`/`Session 12` returns no Dashboard row (the table stops at S11), **no `## S12` block in any of the four `S11-S20` trackers**, no journal entry, no PC Key Events. 🛑 **The gap could not be filled — blocked, not declined:** the only non-inventive source is the approved `.docx`, and **the sandbox refused every attempt to execute an extractor** with no approval possible non-interactively; regenerating from `13_062926_corrected.md` was rejected because it would create a second divergent account of one session, and Convo 2 may not re-read transcripts. **Nothing invented.** **1 file created** (`Workflows/scripts/docx_to_text.py` — a ready-to-run but **unverified** `.docx`→text converter with a `--selftest` block, the highest-value unblock since S12 is `.docx`-only and **cannot render on the site at all**; the sandbox blocked every execution attempt, including the self-test) and **this file updated** — new 062926 ruling block with the evidence table, disposition table and S12 audit; the **misleading "CATCH-UP QUEUE EMPTY 🎉" corrected** (S12 is unfinished and is the real blocker); catch-up queue row added. 🛑 **Supabase re-tested and still `Unauthorized` — sixth consecutive run, and no permission prompt was raised, which confirms the 08/28 root cause (unset `SUPABASE_ACCESS_TOKEN`) and re-confirms S11's allowlist theory was wrong. One line in `.env` clears a four-session backlog.** No rolls fabricated. ⚠ Not actioned, Taylor's call: the duplicate raw transcript, `_pipeline/state.json` still stuck, and the L1316 `$100` artifact awaiting one approval line. |
+| 08/28/2026 | "S13" (062226) → **ruled not a session** | **Propagation REFUSED, not performed (automated, Claude Code native FS).** `13-062226_raw_transcript.md` was independently verified as a **second ASR run of [[Session 11 — A Delightful Chase]]'s audio** — identical source file, duration, model, confidence and first line of play; the 062226 date is also wrong for an S13 (weekly cadence puts the real one near 070626). Writing a Session 13 would have duplicated S11's quotes, loot, profanity totals, rolls and worldbuilding under a false session key **and pushed it to a public repo the live site reads** — the **No Session Contamination** constraint. **S11 propagation was audited instead and found complete with zero gaps** (all four `S11-S20` trackers, all 7 PC pages, journal, Dashboard, glossary). **3 files annotated, 1 corrected:** [[Session 11 — A Delightful Chase]] (+2 Archivist Notes — the full two-run cross-check, and the **disputed "Pins and Needles" attribution**), [[Names & Terms]] (**`Hunter` struck and flagged as a candidate ASR hallucination** — three occurrences in run 1, **zero** in run 2 of the same audio), [[Zelda Z Whipper]] (her authorship of "Pins and Needles" flagged as unsettled), and **this file** — where S11's Supabase diagnosis was **corrected**. 🛑 **THE FIVE-RUN ROLL-ARCHIVE BLOCKER IS NOW DIAGNOSED:** not the allowlist (S11's conclusion, disproven — the call raised no permission prompt), but an **unset `SUPABASE_ACCESS_TOKEN`**, which `.mcp.json` interpolates to empty. **One line in `.env` fixes it.** No rolls fabricated. ⚠ Not actioned, Taylor's call: the duplicate raw transcript, `_pipeline/state.json` stuck on the phantom S13, and **S12 unfinished (`.docx`-only, no markdown note, no tracker blocks)**. |
 | 08/03/2026 | S11 | **Full propagation (automated, Claude Code native FS).** **7 created** — the entire `S11-S20` tracker set ([[Loot Tracker S11-S20]], [[Quote Board S11-S20]], [[Profanity Ledger S11-S20]], [[Roll Statistics S11-S20]]) plus [[The Dead Zone]], [[The Cloaked Figure]] and [[The Massive Thrall]]. **24 updated** — Dashboard (S11 row, **threads 56–67 opened**, 7 moved to Resolved, NPC directory +5, locations, timeline, Party Snapshot rewritten, tracker Reference rotated); journal; **all 7 PC pages** (Vega +6 Inner Life, +6 quotes, +6 relationships, Items block, **bear aspect**); [[Mr. Cat]], [[Bobby]], [[Dr. Wilson]], [[The Beast Tamer]]; [[Beast Thrall]] (substantially rewritten with the DM's new statblock disclosures); [[The Grand Library of the Veiled Dawn]], [[The Walled Base (Museum-Castle)]]; [[Setting Primer]], [[Names & Terms]] (`## S11 first-seen terms` ×15); [[House Rules & Rulings]] **+10 standing / +8 deferred**; [[Homebrew Abilities]] +3; `Spell_Usage` +29 rows; [[DM Questions — Open]] +5/−2; 4 tracker pointer stubs rotated; 4 S01-S10 tracker files marked 🔒 closed; the session note corrected twice. **Party clears the Dead Zone ambush 6–0 and reaches the castle; a new telepathic antagonist opens the campaign's central question; gems become currency; the Sun Shard resurfaces after 4 sessions.** 🛑 **Roll archive NOT queried — third consecutive run — but the ROOT CAUSE was identified: the settings allowlist names a Supabase server that doesn't exist.** 🛑 **[[The Cloaked Figure]]'s identity deliberately NOT guessed — placeholder page held, pages not merged.** ⚠ Website (`rectrixcaedere`) not updated for S10 or S11 — separate repo/deploy. |
 | 08/03/2026 | S10 | **Full propagation (automated, Claude Code native FS).** 3 created ([[The Beast Master]], [[Cult of the Pale World]], [[Unknown Great Cat]]); 20 updated (Dashboard — S10 row, threads 38/44/45 resolved + **46–55 opened**, NPC directory +5, locations, timeline, party → **LEVEL 10**; 5 trackers incl. XP Tracker **retired to milestone**; journal; **all 7 PC pages** — Key Events + **7 stale "level 5 as of S01" tables corrected**; Mr. Cat, Bobby, Beast Tamer; Grand Library, Walled Base; Setting Primer, Names & Terms `## Provisional ⚑ (S10)` ×17 terms; House Rules **+5 standing / +4 deferred**; Spell Usage); 1 deleted (the 0-byte duplicate `01 PCs/Companions/Mr. Cat.md`). Battle resolved, [[The Beast Master]] lore canonized, **Abcde at large**, the whispering opened. 🛑 **Roll archive NOT queried — Supabase MCP permission denied in this run too; the S10 Roll Stats block is transcript-only and the sync-gap check remains outstanding.** ⚠ Website (`rectrixcaedere`) not updated — separate repo/deploy. |
 | 06/09/2026 | Naming consolidation | **"Beast Binder" → "Beast Tamer" vault-wide** — the captain's own clan self-title; "Beast Binder" was an S01 note mis-transcription (never said in play). Fixed ~16 files: Dashboard, House Rules, Roll Stats, this file, Vega's Journal, 6 PC pages, Hargraven, The Beast Tamer NPC page (H1), Names & Terms (de-confused the 3-variant tangle — S08 "Beast Tamer" = same title, possible Cult-bishop link), Spell Usage, Feral Vampire Thrall. Also resolved: parlor gun = **Peter Pistol**. Open Q unchanged: is Beast Tamer = Beast Master? (DM). Source: transcript re-pass of S01–S04. |
