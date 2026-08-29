@@ -87,6 +87,12 @@ and reconcile **both** transcript-only roll logs together — `Roll Statistics S
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-08-29 17:40 ET · Codex
+- **Changed:** Added the generated `Public Session Index.json` contract and validator. Convo 2 now fails closed if a new session lacks a Markdown note, required public headings, or Quote/Loot/Profanity blocks; Rectrix consumes the pushed index live.
+- **Commit:** `08637d3`
+- **Next:** Push this vault commit, then verify Rectrix loads Sessions 10 and 11 from the raw index; dashboard roll-data automation awaits Taylor’s explicit public-data approval.
+- **Watch out:** S12 is still a `.docx`, so it is intentionally not eligible for the public index. Legacy S01–S09 parser defects are recorded in the index but do not block new S10+ publication.
+
 ### 2026-08-29 00:40 ET · Claude Code (phantom-cause correction)
 - **Changed:** Rewrote the `▶ DO NEXT` header and block to retract the "the transcriber's work list is the defect" conclusion, which was **wrong**, and replaced it with an ordered, actionable list. Struck (did not delete) the two load-bearing false claims so the reasoning stays auditable.
 - **Commit:** see next commit on this branch
