@@ -87,6 +87,16 @@ and reconcile **both** transcript-only roll logs together — `Roll Statistics S
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-08-30 12:20 ET · Claude Code (all_sessions; two data problems found)
+- **Changed:** `generate_public_session_index.mjs` now also emits **`all_sessions`** — every session, number and date only (12 entries, including 04.5). The curated `sessions` list is unchanged. This was needed because **rectrixcaedere's `dashboard.html?c=3` was reporting "SESSIONS LOGGED: 2"** while showing 1,681 live rolls: it read the count from `sessions`, which only carries S10+. **It now correctly reads 12.**
+- **Commit:** `7c2c99c` (site side: `rectrixcaedere@330a8bb`)
+- **Verification:** ✓ Self-test passes. ✓ Confirmed on the live domain: Ashfall dashboard **1,681 rolls / 12 sessions**, was 2.
+- **Watch out:** 🔴 **Two genuine data problems surfaced while checking this — neither is fixed, and both need Taylor.**
+  **(1) The index's session dates are off by one day from the roll dates for S01, S02 and S04.** The index says S01 = **2026-02-13**; the archive has **93 rolls on 2026-02-12** and none on the 13th. Same shape for S02 (index 02-17, rolls 02-16, 125 rolls) and S04 (index 03-04, rolls 03-03, 81 rolls). Cause: `generate_public_session_index.mjs` reads dates from **`Campaign Dashboard.md`**, while the site's own hardcoded `ARC` uses the **roll** dates — and `ARC` has `d:'2026-02-12'` for S01. ⚠️ **This means per-session roll tallies on `ashfall-britannia/session.html` and `archive.html` are querying the wrong day for those three sessions** and will be showing zero or wrong counts. Fix the Dashboard dates, or teach the generator to prefer the roll date.
+  **(2) ~400 rolls exist for sessions the vault has no record of.** `ashfall_session_rolls` holds rolls on **2026-08-03 (63), 2026-08-17 (103) and 2026-08-27 (235)** — all **after S11 (2026-06-22)**, the last session in the Campaign Dashboard. There are also older orphans: 2025-11-08, 2025-11-12 (**196 rolls**), 2026-04-15, 2026-06-04, 2026-06-08 (95), 2026-06-29. Either sessions 12+ have been played and never written up, or the roll sync is pulling from another campaign. **Worth checking before the next session note is written.**
+  ⚠️ Because of both, **`sessionRollsOnly` is deliberately OFF for Ashfall** in `app.js` — enabling it would have silently dropped **1,037 real rolls** from the dashboard. SITL has it on. Turn Ashfall's on only after the dates reconcile.
+- **Next:** Unchanged — see the DO NEXT block above.
+
 ### 2026-08-29 17:40 ET · Codex
 - **Changed:** Added the generated `Public Session Index.json` contract and validator. Convo 2 now fails closed if a new session lacks a Markdown note, required public headings, or Quote/Loot/Profanity blocks; Rectrix consumes the pushed index live.
 - **Commit:** `08637d3`
