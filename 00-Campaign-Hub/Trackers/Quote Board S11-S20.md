@@ -211,6 +211,188 @@
 **[[Vega Bloodroot]] (Taylor) · [Poignant / Funny]** — *the only downtime declaration at the table that isn't about equipment*
 > "during downtime, Vega would like to, um, uh, cultivate her relationship with Mr. Cat." / "She just wants to pet him a lot."
 
+## S13 — The Cartographer of the Underkeep (08/02/2026)
+
+> ⚑ **Speaker attribution is INFERRED and not settled** — the diarizer labelled A–H with no names, and **SPEAKER A does not resolve cleanly.** See the session note's Archivist Notes before treating any attribution here as final.
+> ⚑ **Session 12 was never processed**, so this file jumps S11 → S13.
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Important to Story]** — *through the barricaded door, before he will open it*
+> "If you're enthralled, you can't come in. If you're not enthralled, prove it."
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Important to Story]** — ⭐ **the session title**
+> "Marrowin Quill. Cartographer of the Underkeep. Keeper of lines, recorder of lies, the stone tells."
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Important to Story]**
+> "You're looking for the tunnels beneath the city, the veins. Dangerous business, foolish business, necessary business."
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Serious]** — *why the catacombs cannot be fully mapped*
+> "they change, they breathe, they remember"
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Important to Story]** — *on the [[Lantern Spine]]; the warning the party half-remembered one session later*
+> "Vampires added that. Blue flame, cold flame. Don't trust it. It burns without heat, but it hungers."
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Poignant]**
+> "Sometimes lines are older than others. Some symbols are warnings, some are apologies."
+
+**[[Marrowin Quill]] (voiced by Taylor (DM)) · [Funny]**
+> "It's not that I don't like you, but I don't like strangers in my house for longer than they have to be in here."
+
+**Taylor (DM) · [Serious]** — *the descent*
+> "carved by hands that feared what they were creating"
+
+**Taylor (DM) · [Important to Story]** — *the warding symbols on the stairway*
+> "some scratched out as if someone tried to undo their own magic"
+
+**Taylor (DM) · [Serious]** — *the [[Ossuary Approach]]; every row symmetrical but one*
+> "old kings built this, lined the walls with skulls so their enemies would feel watched."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — *settling the vote on whether to wait for the second map*
+> "I say this with all due respect to the women in this group, y'all being a bunch of pussies, let's just go in the fucking catacombs."
+
+**[[Deanna Smith-Wesson]] (Madi) · [Funny]** — *killing Bonewraith A*
+> "not today, you spooky bitch"
+
+**Taylor (DM) · [Serious]** — ⚑ *the memory echo; the earliest in-world testimony about the veins, never followed up*
+> the sound of ancient workers arguing about the horrors below, moments before their deaths
+
+**Taylor (DM) · [Serious]** → **[Above-Table]** — *ending the session early*
+> "I think that's a good place to stop for the night. I am starting to not feel very good at all."
+
+## S14 — An Angel with a Shotgun (08/17/2026)
+
+> ✅ **Attribution is SOLID this session** — seven PC pages plus the DM exactly fill the eight diarized speakers, the DM addresses three players by name on air, and [[Eiluned Lulu Denulie|Lulu]]'s two archived rolls independently confirm her player.
+> 🛑 **[[Deanna Smith-Wesson]] dies in this session.** Several lines below are the table's coping humour in the minutes after. They are recorded verbatim because that is what the room actually sounded like.
+
+**Taylor (DM) · [Serious]** — *opening the [[Lantern Spine]]*
+> "It's a long corridor illuminated by lanterns burning with cold blue flame. The light bends shadows unnaturally, stretching them into shapes that don't match the party's."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny / Serious]** — *the detaching shadows*
+> "Am I going crazy? Did I just blink? Because it looked like my shadow blinked."
+
+**Taylor (DM) · [Important to Story]** — *on [[Samothy Smith-Wesson]]'s natural 20 Insight*
+> "One section of the wall subtly expands and contracts as if inhaling the cold flame."
+
+**Taylor (DM) · [Important to Story]** — *Detect Magic on the lanterns*
+> "Their sole purpose must be light."
+
+**[[Deanna Smith-Wesson]] (Madi) · [Poignant]** — 🛑 *shouted down a passage where nobody is standing, minutes before it kills her*
+> "Don't worry guys, I almost got this open."
+
+**Taylor (DM) · [Serious]** — 🛑 **the death**
+> "All your blasting and hammering away at things trying to widen the tunnel have caused it to collapse on top of you. You try to reach out for the end of the tunnel but are unsuccessful because you slip on the dirt beneath you... and piece by piece a rock falls."
+
+**Taylor (DM) · [Poignant]**
+> "Thankfully Mr. Cat was able to run as fast as he can, but it cost him one of his 9 lives."
+
+**The table / [[Deanna Smith-Wesson]] (Madi) · [Funny]** — ⭐ **the session title**, seconds after the death
+> "Well, now she's an angel with a shotgun." / "I'm an angel with a shotgun."
+
+**Taylor (DM) · [Serious]** — *the body*
+> "It looks like a mosquito that you smashed against your arm like a pancake."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *Revivify fails*
+> "You go to cast Revivify on her and nothing happens. You don't feel the presence of the magic come out of you or be used from you."
+
+**[[Zelda Z Whipper\|Zelda "Z" Whipper]] (Christie) · [Poignant]** — *casting it again, and again*
+> "I'm just doing it over and over again, like, why am I— why wouldn't it work?"
+
+**[[Samothy Smith-Wesson]] (Josh) / Taylor (DM) · [Important to Story]** — *the seven fused curses*
+> "Curse is like an onion is what you're saying?" / "Yep."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** → **[Above-Table]** — *asking the DM, repeatedly, not to do this*
+> "Why are we doing this? Just let her be alive. This is so unnecessary."
+
+**Taylor (DM) · [Serious]** → **[Above-Table]**
+> "Not the player I thought was gonna die tonight."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Poignant]** → **[Above-Table]** — 🛑 *asked to roleplay his twin's death*
+> "Nobody expects me to roleplay this. Like, I can't."
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]** — *and the line that gave the party its in-fiction answer*
+> "some people don't process grief right away because they know that they can't."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Poignant]**
+> "We're not in a place where we can grieve. We gotta get out of here first."
+
+**[[Eiluned Lulu Denulie\|Lulu]] (Madi) · [Funny / Poignant]** — *her introduction, unprompted*
+> "I've been told I can be really blunt and kind of socially awkward. Sometimes I overshare."
+
+**[[Eiluned Lulu Denulie\|Lulu]] (Madi) · [Poignant]** — 🛑 *why she was heading for the [[Watcher's Pit]]*
+> "I just wanted to go to the Watcher's Pit because I was trapped down here and I thought maybe it would be a way to just kind of take a short nap off a long cliff."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** → **[Above-Table]** — *playing his own hostility out loud*
+> "he's like threatened that she might replace him, and he doesn't like the idea of not being needed or wanted. Especially since he has no parents anymore."
+
+**[[Vega Bloodroot]] (Taylor) / Taylor (DM) · [Funny]** — *resolving whether a water elemental counts as submerged*
+> "So essentially he's asking you, is water wet?" / "Yeah, water is wet, as a matter of fact."
+
+**Taylor (DM) · [Important to Story]** — *the last image of the session*
+> "There's a massive iron grate at the bottom. It vibrates slightly, pulsing with a heartbeat-like glow."
+
+## S15 — Only Those Who Bleed Fire (08/27/2026)
+
+> ✅ Attribution corroborated by the roll archive — all seven PCs plus the `Zombie A`/`Zombie B` tokens appear under `session_date = 2026-08-27`.
+
+**Taylor (DM) · [Important to Story]** — *the hidden chamber*
+> "The strange symbols glow faintly on the floor and the walls are not magical, but reacting to the heat of the chamber."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *the biggest unanswered question in the [[Old Shrine]]*
+> "You realize that the symbols are protective wards meant to keep something in, not out."
+
+**Taylor (DM) · [Important to Story]** — ⭐ **the session title**, the warning in the relic chamber
+> "the only those who bleed fire may walk the path of Emberborn is what the warning said."
+
+**[[Barrett Grimmskar]] (Doug) · [Poignant / Important to Story]** — ⭐ *the clearest consequence of S14 anywhere in the campaign*
+> "Just sidebar, I vote we stick together because last time Deanna got separated from the group, she died."
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]** — *the other half of it*
+> "And the last time Lulu was separated from her group, they fucking left her."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]** — *choosing the ominous red-lit path*
+> "Nothing fun ever happened taking the safe road."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]** → **[Above-Table]** — ⚠️ *calling out his own table for agreeing to send the newest player in first*
+> "let's make Madi, who just lost a character and had to just make a new one, go first"
+
+**Taylor (DM) · [Important to Story]** — *on a natural 20 Nature check*
+> "these creatures are like nothing you've ever seen or heard of before through rumors or anything."
+
+**The table · [Funny]** → **[Above-Table]** — *within seconds of [[Eiluned Lulu Denulie|Lulu]] dropping to 0*
+> "She's with Deanna now." / "She was only here for a few minutes." / "We hardly knew her." / "Weeks from now, somebody's gonna go, hey, you guys remember Lulu?"
+
+**[[Valerian Hellebore]] (Chase) · [Funny]** — *after [[Zelda Z Whipper\|Zelda]] healed her anyway*
+> "To be fair, as I cast Cure Wounds on Lulu, I did cast it with my foot on her."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *revealing the [[Boilborn]]*
+> "The Boilborn. What you're fighting now. They're not zombies."
+
+**Taylor (DM) · [Important to Story]** → **[Above-Table]** — *the design intent, and the honest verdict*
+> "I made this enemy specifically to fight the barbarian. And the barbarian didn't take as much damage as I thought the barbarian was gonna take tonight."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — ⭐ *going for the sword*
+> "Fuck it, I'm at full health. I touch it."
+
+**Taylor (DM) · [Important to Story]** — *the price of grabbing it*
+> "As you grab the hilt, you feel a stabbing pain in your palm. Blood starts to run down the blade and your hand locks to the hilt. You cannot let go."
+
+**Taylor (DM) · [Important to Story]** — ⭐ *the relic comes free*
+> "The sword rips free from the stone. Flames erupt all along the blade. The chamber shakes as the heartbeat light extinguishes."
+
+**[[Vega Bloodroot]] (Taylor) / Taylor (DM) · [Important to Story]** — 🛑 *the curse, recorded verbatim on purpose*
+> "Why cursed? Does it hurt me?" / "No." / "Okay, it just looks cool?" / "Yeah." / "Are you lying to me right now?" / "No."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** → **[Above-Table]**
+> "I feel like for something that was designed to hurt me and for me to come out on the other side the way that I did — definitely deserved that sword."
+
+**Taylor (DM) · [Important to Story]** — *the mine*
+> "They are all here for you guys to take. That's why I brought you here."
+
+**[[Valerian Hellebore]] (Chase) · [Banter]** — *rounding on Zelda after the Teleportation Circle*
+> "Deanna died and you could have teleported us this whole time?"
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]** — *once Flux explained anchoring*
+> "This is the part where you say thank you, Z, for getting us the fuck out of there."
+
 ## Related
 
-- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Vault Sync Status]]
+- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Vault Sync Status]]

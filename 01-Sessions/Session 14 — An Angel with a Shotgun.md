@@ -53,7 +53,7 @@ Meanwhile [[Deanna Smith-Wesson]] is somewhere else entirely. She took the narro
 
 The mimics do not survive the party's first turn. Zelda opens with **Guiding Bolt** (16 radiant) plus a Finger Guns bonus action for 8 force. Flux's new bow lands 5 + 2d6 with **10 feet of knockback and a 10-foot speed reduction**. Valerian casts **Depth Charge** — *"a pulse of thunder"* audible 300 feet away — for 25, killing Mimic A outright and rattling the whole mine. Barrett burns **Adrenaline Rush** to close 60 feet. Samothy shoots twice, the second on a natural 20, and kills Mimic B.
 
-Behind the wall the mimics were nesting in hangs an enormous vampire-made tapestry: ***The Last Fight of Queen Elandra***. Flux recognises the weapon depicted in it — the **[[Blade of Sunfire]]** — and the DM confirms it.
+Behind the wall the mimics were nesting in hangs an enormous vampire-made tapestry: ***The Last Fight of Queen Elandra***. Flux recognises the weapon depicted in it — the ****Blade of Sunfire**** — and the DM confirms it.
 
 ### The tunnel
 
@@ -177,7 +177,7 @@ From the Old Shrine on, the party moves as one group of seven (six PCs plus Lulu
 |---|---|---|
 | [[Eiluned "Lulu" Denulie]] | ⭐ **New PC, not an NPC** — recorded here because she is introduced as a stranger. Circle of the Land druid, lightning. Blunt, socially awkward, overshares. Anti-vampire. 🛑 Disclosed suicidal intent regarding the Watcher's Pit. Abandoned by her previous party. | **Joined the party** |
 | [[Marrowin Quill]] | Not present. His S13 map is what the party is navigating by, and his warning about the walls is what Flux recalls at the breathing wall. | Referenced |
-| Queen Elandra | Subject of the vampire-made tapestry, *The Last Fight of Queen Elandra*, found behind the mimics' wall. Depicted wielding the **[[Blade of Sunfire]]**. ⚠️ Name uncertain — the DM said "Elandra" then "Alandra." | Historical / referenced |
+| Queen Elandra | Subject of the vampire-made tapestry, *The Last Fight of Queen Elandra*, found behind the mimics' wall. Depicted wielding the ****Blade of Sunfire****. ⚠️ Name uncertain — the DM said "Elandra" then "Alandra." | Historical / referenced |
 | The Old Shrine figure | Bearded man, long hair painted blonde, in carved painted stone. Unidentified. ⚠️ The inscription around his base is untranslated. | Unidentified |
 | Grant / Charlotte | Still referenced; the S13 retcon about their shopping list **still has not been resolved**. | Off-screen |
 | The Artificer / The Alchemist | Flux is looking for materials they requested. The DM went to look up the list and never returned with it. | Off-screen |

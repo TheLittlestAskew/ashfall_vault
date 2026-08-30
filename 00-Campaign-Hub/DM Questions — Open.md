@@ -95,3 +95,45 @@ These came out of the pipeline but need Taylor, not the DM:
 - ⚑ **The S11 speaker map is unconfirmed too**, and the diarizer **reassigned every letter between S10 and S11**. **SPEAKER B is a catch-all** absorbing DM adjudications and other players' rolls at 26 identified points — so every B-attributed quote and profanity count (mapped to Deanna/Madi) carries that risk. The S11 corrected transcript was also left in diarizer labels rather than script format. See `_pipeline/S11/flags.md` §2.
 - ⚑ **Three S11 spell-check rows deliberately not applied** (the approved table forbids it without an audio listen): `my O and F`→`my bow on F` (50%), `she said`→`he said` (45%), `Nova Twins save`→`have him make a save` (35%). The third overlaps the **"Pins and Needles"** passage.
 - ⚑ **Website (`rectrixcaedere`) is not updated for S10 *or* S11.** Separate repo, separate manual deploy: add both to `ashfall-britannia/session.html` **and** `archive.html` `ARC` registries and bump the header stats.
+
+---
+
+## S13–S15 (added 2026-08-30)
+
+### ⭐ Ask first — these block two session notes
+
+- 🛑 **`Rite of the Dawning Radiance` — did Flux actually cast it in S13, and is Sunward Blessing still live?** The S13 note records her casting it as a ritual, granting the party **Sunward Blessing** (necrotic resistance, advantage vs. charm/fear/vampiric domination, +1d6 radiant). S14's opening ten minutes establish it is a **5th-level** spell that only appeared as 1st through a D&D Beyond content-sharing glitch, and that **Flux is not taking it**. Sunward Blessing is never mentioned again. **Three readings: the cast stands and the buff expired · the cast stands and the buff was forgotten during S14's combats · the cast itself was the mistake being corrected.** 🛑 **The S13 note has deliberately NOT been amended pending your answer.**
+- 🛑 **[[Eiluned Lulu Denulie|Lulu]]'s subclass — Circle of the Land or Wildfire?** She introduces herself **in-fiction** in S14 as *"Circle of the Land"*; in S15 she plays a **Wildfire Druid**, and the change is discussed out of character (*"No, I changed it"*). **The S14 note has deliberately NOT been amended.** Suggested fix, if you agree: leave the S14 line and append *"— retconned to Wildfire Druid in S15,"* rather than rewriting history.
+- 🛑 **Do purity filters work on a corpse?** You deferred this in S14 — *"I don't know if it's gonna work on her dead body... I'll ask my other DM friend"* — and it never came back. **It gates whether [[Deanna Smith-Wesson]] can be raised at all.**
+
+### Naming and spelling
+
+- 🛑 **What is the relic sword actually called?** [[Vega Bloodroot]] pulled it in S15 and it has **no name on the record**. The only candidate is a player's line, *"the blade of fire, radiant longsword."* The session note and [[Loot Tracker S11-S20]] currently call it "the burning longsword."
+- ⚑ **`Underkeep` or `Underdeep`?** Still unresolved from S13. [[Marrowin Quill]] calls himself *"Cartographer of the **Underkeep**"*; you said **Underdeep** twice out of character in S13 and three more times in S14. Two places, or one mishearing?
+- ⚑ **Queen `Elandra` or `Alandra`?** You said both in one breath naming the S14 tapestry, *The Last Fight of Queen …*, and corrected yourself mid-sentence.
+- ⚑ **`Aurona`** — the goddess whose blessing is on [[Deanna Smith-Wesson]]'s daggers. Rendered as "Aurona", "Auronas" and "Aurona Blessed Relic". ⚑ Any connection to the **unnamed fire deity** buried under the [[Old Shrine]]?
+- ⚑ **Confirm `Boilborn`** (spelling taken from audio only), and **`Emberborn`** — is Emberborn an individual or a title?
+- ⚑ **Confirm the surname `Quill`.** You spelled *M-A-R-R-O-W-I-N* letter by letter on air, which settled the first name, but "Quill" appears only in the earlier misheard renderings.
+- ⚑ **`Bonewraith` or `bone wraith`?** Both casings appear in the S13 source.
+
+### Mechanics
+
+- ⚑ **[[Boilborn]] boil-burst — what triggers it?** It fired on [[Vega Bloodroot]]'s first melee hit and **not** her second, after an Insight check suggested it wouldn't recur. Once per creature, once per round, or your call in the moment?
+- ⚑ **What was the mid-combat penalty for grabbing the sword?** You said you had an outcome written for anyone who grabbed it during the fight and nobody tried. Failing the three Strength saves outside combat cost 3d6 necrotic — what would it have been inside?
+- ⚑ **Please send the relic list in text.** You read *"Blades, Sunshard, Fire, Solar, Greaves"* aloud at S14 01:33 and it went by too fast to transcribe. It is the closest thing to a full relic inventory the campaign has produced.
+- ⚑ **Please post the obsidian tablet's contents** — you said twice you would send them to Discord after S15, and they were never read aloud.
+- ⚑ **`Pins and Needles`, `Spellfire Flare`, `Ballistic Smite`, `Depth Charge`** — none match a published book. Homebrew, DM-granted, or third-party content? Recorded as canon-in-play either way.
+
+### Story
+
+- ⚑ **What were the [[Old Shrine]]'s wards keeping IN?** Never answered, and the party looted the room and left.
+- ⚑ **Does the three-day clock still run?** Stated in S14; the party has since withdrawn to base via Teleportation Circle. Can they get back in?
+- ⚑ **How does [[Marrowin Quill]] map places he has never been?** The most interesting thing about him and nobody asked in play.
+- ⚑ **Is [[Deanna Smith-Wesson]]'s memory-blocked knowledge of [[The Beast Tamer]]'s true name lost with her?** She was the only one who had it.
+
+### Vault / pipeline
+
+- ✅ **RESOLVED: the roll-archive permission blocker.** S13–S15 were all queried on 2026-08-30 via `mcp__supabase-cutter__execute_sql` (project `vtrtyagltwdrbastpppl`). The old allowlist entry `mcp__plugin_supabase_supabase__execute_sql` matches no connected server. ⚠️ **S11's numbers remain transcript-only.**
+- ⚑ **[[Deanna Smith-Wesson]] has ZERO archived rolls for S13**, in a session where she killed a Bonewraith. Either she rolled physical dice or the sync missed her.
+- 🛑 **PRIVACY — a standing policy decision.** Three consecutive transcripts have carried significant out-of-character personal information about real people; all of it was redacted per Taylor's per-session rulings, with unredacted originals kept in gitignored `_pipeline/`. **Standing recommendation: gitignore `Session_Sources/Transcripts/Raw_Unedited/` the way `Recordings/` already is.** ⚠️ **17 transcripts are already public and have not been audited.**
+- ⚑ **Session 12 is still `.docx`-only** — no Dashboard row, no tracker blocks, absent from the website. The session index jumps S11 → S13.

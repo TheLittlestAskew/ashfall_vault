@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T08:36:29.309Z",
+  "generated_at": "2026-08-30T21:20:00.021Z",
   "all_sessions": [
     {
       "n": "01",
@@ -49,6 +49,18 @@
     {
       "n": "11",
       "d": "2026-06-22"
+    },
+    {
+      "n": "13",
+      "d": "2026-08-02"
+    },
+    {
+      "n": "14",
+      "d": "2026-08-17"
+    },
+    {
+      "n": "15",
+      "d": "2026-08-27"
     }
   ],
   "sessions": [
@@ -70,6 +82,42 @@
       "d": "2026-06-22",
       "lbl": "June 22, 2026",
       "f": "01-Sessions/Session 11 — A Delightful Chase.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S11-S20.md"
+      }
+    },
+    {
+      "n": "13",
+      "t": "The Cartographer of the Underkeep",
+      "d": "2026-08-02",
+      "lbl": "August 2, 2026",
+      "f": "01-Sessions/Session 13 — The Cartographer of the Underkeep.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S11-S20.md"
+      }
+    },
+    {
+      "n": "14",
+      "t": "An Angel with a Shotgun",
+      "d": "2026-08-17",
+      "lbl": "August 17, 2026",
+      "f": "01-Sessions/Session 14 — An Angel with a Shotgun.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S11-S20.md"
+      }
+    },
+    {
+      "n": "15",
+      "t": "Only Those Who Bleed Fire",
+      "d": "2026-08-27",
+      "lbl": "August 27, 2026",
+      "f": "01-Sessions/Session 15 — Only Those Who Bleed Fire.md",
       "trackers": {
         "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
         "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
