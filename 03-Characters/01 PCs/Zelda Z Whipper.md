@@ -1,3 +1,7 @@
+---
+aliases: ['Zelda "Z" Whipper', "Zelda", "Z"]
+---
+
 # Zelda "Z" Whipper
 
 **Played by:** Christie
