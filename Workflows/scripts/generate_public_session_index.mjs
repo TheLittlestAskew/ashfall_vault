@@ -102,7 +102,11 @@ async function buildIndex() {
   const blockers = failures.filter((issue) => /^S(\d+(?:\.\d+)?):/.exec(issue) && Number(RegExp.$1) >= 10);
   failures.forEach((issue) => { if (!blockers.includes(issue)) legacyIssues.push(issue); });
   if (blockers.length) throw new Error(`Public session index not written:\n- ${blockers.join('\n- ')}`);
-  return { version: 1, generated_at: new Date().toISOString(), sessions: entries.filter((entry) => Number(entry.n) >= 10), legacy_validation_issues: legacyIssues };
+  // Every session, number and date only — for the roll dashboard's session count,
+  // date range and per-session chart. Carries no title or path, so it can cover the
+  // full campaign without republishing the legacy sessions the filter below excludes.
+  const allSessions = sessions.map((session) => ({ n: session.n, d: session.d }));
+  return { version: 1, generated_at: new Date().toISOString(), all_sessions: allSessions, sessions: entries.filter((entry) => Number(entry.n) >= 10), legacy_validation_issues: legacyIssues };
 }
 
 async function main() {
