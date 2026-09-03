@@ -40,6 +40,12 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-09-02 22:20 ET · Claude Code (TOOLS.md tool inventory added)
+- **Changed:** Added `TOOLS.md` (18 active rows) — Obsidian + its 4 plugins, AssemblyAI, the Ashfall Pipeline Watcher scheduled task, chokidar, BurntToast, Supabase + the vault-scoped `supabase` MCP server, `docx_to_text.py`, and the rest. `AGENTS.md` gained a `### TOOLS.md` subsection so Codex maintains it too. One of 13 project tables that `septentrion-sync` v4 rolls into the vault's new `The Toolbox.md`.
+- **Commit:** `51f0b0e`
+- **Next:** Unchanged. See the block above this log.
+- **Watch out:** The four Obsidian-plugin rows carry `~` inferred dates from plugin folder timestamps, not measured use, so they'll drift into the master table's 90-day stale section without meaning the plugins are unused. That's a known limit of inferring plugin usage, not a signal to uninstall anything.
+
 ### 2026-08-31 11:20 ET · Claude Code (publish made deterministic)
 - **Changed:** Applied the same publish fix found in `sitl_vault`. `Publish-Ashfall.cmd` now regenerates `Public Session Index.json` **before** committing and aborts the publish if it fails; `ashfall_pipeline_watch.js` gains a **publish** stage that regenerates + commits + pushes in code at the end of `approve()`; `ashfall_status_window.ps1` derives its step total rather than hardcoding "of 4".
 - **Commit:** `7540159`
