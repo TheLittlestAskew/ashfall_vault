@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-08-30T21:20:00.021Z",
+  "generated_at": "2026-09-04T04:29:20.877Z",
   "all_sessions": [
     {
       "n": "01",
@@ -61,6 +61,10 @@
     {
       "n": "15",
       "d": "2026-08-27"
+    },
+    {
+      "n": "16",
+      "d": "2026-09-03"
     }
   ],
   "sessions": [
@@ -118,6 +122,18 @@
       "d": "2026-08-27",
       "lbl": "August 27, 2026",
       "f": "01-Sessions/Session 15 — Only Those Who Bleed Fire.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S11-S20.md"
+      }
+    },
+    {
+      "n": "16",
+      "t": "What the Fuck",
+      "d": "2026-09-03",
+      "lbl": "September 3, 2026",
+      "f": "01-Sessions/Session 16 — What the Fuck.md",
       "trackers": {
         "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
         "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
