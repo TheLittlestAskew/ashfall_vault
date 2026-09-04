@@ -6,7 +6,7 @@
 | --------------------- | --------------------------------------------------- |
 | **Race**              | Changeling                                          |
 | **Class**             | Bard / Rogue (Arcane Trickster)                     |
-| **Level**             | **10** as of S10 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑) |
+| **Level**             | **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature weapons** | Longbow · Finger Guns (force cantrip, bonus action) |
 | User_ID               | 109467614                                           |
 | Character_ID          | 159788044                                           |
@@ -21,6 +21,10 @@
 Flux's Fantabulous Flipside Frock (graduation item; worn) · grappling-hook bracers · longbow — see [[Loot Tracker S01-S10]].
 
 ## Key Events
+
+- **S16: SILVERY BARBS — the mechanical hinge of the session.** ⭐ When "[[Valerian Hellebore]]" **passed** his Charisma save against [[Samothy Smith-Wesson]]'s **Zone of Truth**, Flux burned **Silvery Barbs** to force a reroll at the lower result — *"he has to reroll it and take the lower"* — **and he failed.** 🛑 **Everything the party learned about [[The Doppelganger]] this session flows from that one reaction.** Without it the impostor walks.
+  Also: a **natural 20 Insight (→30)** in the mural corridor that established the party was being watched from somewhere unfindable and that *"the air around you feels heavy with anger… like violence"*; a **Perception 25** at camp that caught the ridgeline creature **moving away**; offered **Enlarge** during the standoff (**not cast**).
+  ⚠️ **He opened the bag of holding to show a superior officer his dead colleague — and could not remember her name.** He argued for **killing** the prisoner. Level **10 → 12** ⚑ off-screen.
 
 - **S15: THE EYES OF THE PARTY, AND SHE NEARLY DIED FOR IT.** Spotted the hidden chamber on **passive Perception** (*"one of the walls in the room looks off. It just— it's funky"*) and warned everyone — *"hopefully it's not another mimic."* Rolled the Insight (21) clearing [[Eiluned Lulu Denulie|Lulu]] of being a mimic, and asked to see her teeth. In the mine she used **Mold Earth** on every gem vein to strip the surrounding earth, **giving the entire party advantage** on the Strength checks — the single most efficient action of the session.
   🛑 **She almost died.** A [[Boilborn]] **Rupture Burst** hit her for **30**, and she said afterward: *"If I wouldn't have had the Tough feat, I would have been dead."* Two natural 1s on the night, one of them a Finger Guns that hit [[Zelda Z Whipper|Zelda]] for 5 instead.

@@ -36,6 +36,13 @@ The DM's read-aloud for it is consistently one of held breath rather than emptin
   **All six thralls were killed. No PC was downed and no death saves were rolled.** With the field clear, the cloaked figure stepped out of the shadows with **[[The Massive Thrall]]** at his side, said *"you led me on a delightful chase… I can't wait till next time,"* and **vanished into the fog** without ever entering combat.
   The party then cleared the Dead Zone and reached [[The Walled Base (Museum-Castle)]] for a long rest.
 
+## Events (S16)
+
+- **The party crossed it eastbound**, outbound from [[The Walled Base (Museum-Castle)]] toward the [[Broken Crown Mountains]]. No encounter — the crossing is not described in detail.
+- 🛑 **NEW GEOGRAPHY: the [[Broken Crown Mountains]] are visible from the Dead Zone.** [[Lt. Hargraven]], pointing east: *"I've I'm surprised you haven't seen them so far."* **This is the first time anything has been placed on the horizon beyond it** — the Dead Zone has been a boundary until now, and it turns out to have a far side you can see.
+- The mountains lie **two days by wagon** past it.
+- ⚠️ Beyond the Dead Zone the land changes: **warming air, scarce wildlife, massive claw marks on trees and boulders** from the revolted [[Beast Thrall]]s, then blackened ground and sulfur as the volcano approaches.
+
 ## Open Threads
 
 - 🛑 **[[The Cloaked Figure]] is still out here**, unnamed and undamaged, with a promise to return.

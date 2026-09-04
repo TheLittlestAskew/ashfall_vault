@@ -6,7 +6,7 @@
 | --------------------- | ----------------------------------------------------------------------------------------- |
 | **Race**              | Half-Elf                                                                                  |
 | **Class**             | Artificer (Battle Smith) / Ranger                                                         |
-| **Level**             | **10** as of S10 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑)                           |
+| **Level**             | **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature weapons** | Pistol (mastery — Vex) · Enspelled semi-automatic · Parlor Gun (⚑ "Peter Pistol"/"Tanya") |
 | **AC**                | 17 ("I can add 5 to my AC at any time, bud. Try me.")                                     |
 | **Family**            | Older twin of [[Deanna Smith-Wesson]]                                                     |
@@ -25,6 +25,11 @@
 The "Power Pole" (graduation stick) · grappling-hook bracers · Enspelled semi-automatic pistol · Parlor Gun (concealed one-shot) · smith's tools — see [[Loot Tracker S01-S10]].
 
 ## Key Events
+
+- **S16: HUNTER'S SENSE ENDED THE STANDOFF.** ⭐ After forty minutes in which the impostor never told a deliberate lie and gave up nothing, Samothy used **Hunter's Sense** — an action with no roll and no counter — and the DM answered: ***"He's a changeling."*** — *"Genetically altered changeling."* 🛑 **That is the moment the party stopped arguing and started knowing.** He also cast the **Zone of Truth** the whole ambush was built around, and spent a **Lucky point** trying to impose disadvantage on one of the impostor's saves (*"Damn, didn't work"*).
+  **He read the S15 obsidian tablet out loud**, closing that thread and opening the setting: wards, **[[Tharos Emberborn]]**, a fire deity's burial site, and *"the graves lie where the mountain bleeds fire."* Then he asked the question that broke the world open — *"doesn't it also say in there that he's a pre-vampire hero? So what was there before the vampires that they needed heroes for?"* — which produced **the Second Vampire War** and the sealed records of the first.
+  At the volcano he used **smith's tools rather than brute force** on the black glass, rolled a **d100 → 51**, and took **51 pieces of raw obsidian**. Gave [[Vega Bloodroot]] **+4 via Flash of Genius** on the trap floor. Confirmed he carries **the Book of Varona** ⚑ — *"I have the book that, um, only I can read."*
+  ⚠️ **He processes his twin's death in total deadpan** — *"Yeah, my sister died. What's up?"* / *"Yes, having a boulder of a time."* — and **accepted [[Eiluned Lulu Denulie|Lulu]] into the party in the first five minutes** by simply being asked. 🛑 **Then he shot out both the prisoner's kneecaps** and offered to drag him on a rope: *"Like, your kneecaps, they don't exist anymore unless I want them to exist."* / *"I do not negotiate with terrorists."* Level **10 → 12** ⚑ off-screen.
 
 - **S15: THE TABLET, AND ALL THREE LUCKY POINTS.** Cast **Identify** on the [[Old Shrine]]'s hieroglyphics (establishing they glow from *heat*, not magic) and **took the obsidian tablet** off the altar — ⚑ whose contents the DM said twice he would post to Discord and never read aloud. Stacked **Slayer's Prey**, later **Hunter's Mark**, and ground down two [[Boilborn]] with Vex and Sap plus **Ballistic Smite**; **natural 20 pistol for 31**. Tried to **Catapult the sword out of the stone** (denied — *"it wouldn't come out of the stone"*), which prompted the table's discovery that a longsword weighs three pounds and a minor crisis of faith about it.
   On the rope bridge he burned **all three Lucky points** on a single Acrobatics check to turn a 7 into an 11, then rolled a **natural 20** on the Con save. Also had to place [[Mr. Cat]] on the map himself: *"since the DM didn't care to put him in the game, I had to."*

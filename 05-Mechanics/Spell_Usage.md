@@ -147,3 +147,36 @@ S05 was a roleplay session (no archived casts). S06–S07 casts live in their se
 | [[Vega Bloodroot]] | **Great Weapon Master** (bonus attack) | **Natural 20 → 18.** The second nat 20 of the same turn |
 | [[Vega Bloodroot]] | **[[The Sun Shard\|Sun Shard]] rider** (+1d6 radiant) | Rolled **2**. ⚑ **First use since S07.** Base damage is **psychic** — DM: *"purple psychic. Purple is psychic"* |
 | [[Vega Bloodroot]] | **Menacing Attack** *(mentioned, not resolved)* | ⚑ Still the **unsourced maneuver** flagged in S09. Named as a plan for her next turn; never executed |
+
+## 🛑 GAP — S13, S14 and S15 have no Spell Usage block
+
+This file jumps **S11 → S16**. The three intervening sessions were never logged here. **Nothing was invented to fill the gap** — each session note carries its own roll log and can be mined for it. See [[Vault Sync Status]].
+
+## S16 — What the Fuck (09/03/2026) 🛑 transcript-only — roll archive NOT queried
+
+> 🛑 **The archive returned `Unauthorized`.** Every row below is transcript-derived and provisional. ⚠️ **The diarizer misattributes bare roll numbers**, so casters marked ⚑ were corrected from context, not from the speaker label.
+> ⭐ **Zero attack rolls and zero weapon damage this session.** Every damage roll came from a spell or a trap.
+> 🛑 **All "Valerian" casting this session is [[The Doppelganger]]**, not [[Valerian Hellebore]].
+
+| Caster | Spell | Notes |
+|---|---|---|
+| [[Samothy Smith-Wesson]] | **ZONE OF TRUTH** (DC 14 Cha) | ⭐ **The spell the whole ambush was built around.** [[The Doppelganger]] **passed** at +2 — then [[Flux]]'s Silvery Barbs forced a reroll and **he failed.** ⚠️ **Everyone in the zone rolled**, and the DM offered inspiration to anyone rolling a 20: *"If y'all roll 20s, I am not the doppelganger."* Observed saves: **20→15**, **22**, **15** |
+| [[Flux]] | ⭐ **SILVERY BARBS** (reaction) | 🛑 **THE MECHANICAL HINGE OF THE SESSION.** Forced the impostor to reroll a **successful** Zone of Truth save and take the lower — *"he has to reroll it and take the lower."* Without this, nothing else in the session happens |
+| [[Samothy Smith-Wesson]] | **Hunter's Sense** (action, **no roll**) | 🛑 ***"He's a changeling. Genetically altered changeling."*** No save, no counter. **This is what ended the standoff** |
+| [[Zelda "Z" Whipper]] | **Detect Thoughts** ×4 (DC 15 Wis) | Blocked three times — a *"dirty 17"*, a **27**, and a **17 + Guidance** (⚠️ [[Samothy Smith-Wesson]] spent a **Lucky point** to impose disadvantage on that one: *"Damn, didn't work"*) — then **landed on the fourth: 13 vs DC 15, FAILED.** *"His mind is just scattered."* 🛑 **Found a tower and a tied-up Val** |
+| [[Zelda "Z" Whipper]] | **Detect Evil and Good** (30 ft) | 🛑 **The only reason anyone saw the [[Undead Centipede-Worms]]** feeding on the sleeping party |
+| [[Zelda "Z" Whipper]] | **Tiny Hut** (ritual) | Cast *after* the worms were driven off — she had it the whole time. Ended the night safely |
+| [[Zelda "Z" Whipper]] | **Counterspell (4th level)** | 🛑 **FAILED** — the impostor cast **Depth Charge at 6th**. ⚠️ The rules text read aloud here is labelled *Hunter's Mark* in the transcript, a **held, uncorrected** spell-check row (L2290) |
+| [[Eiluned "Lulu" Denulie]] | **Entangle** | Opened the ambush. ⚠️ Its ending is what let the impostor stomp and cast Depth Charge |
+| [[Eiluned "Lulu" Denulie]] | **Pins and Needles** ×2 ⚑ | **Con save DC 15.** The impostor **failed** (+Guidance, +1) — **left arm shut down**, then a leg; **d8 damage** rolled. ⚠️ **Third data point for Lulu's authorship** — the vault also records this as Zelda's (S11). See [[Homebrew Abilities]]. [[Samothy Smith-Wesson]] rolled **14** on his own Con save |
+| [[Eiluned "Lulu" Denulie]] | **Inflict Wounds** | Hit — **12 necrotic**. **Inspiration spent** to reroll |
+| [[Eiluned "Lulu" Denulie]] | **Burning Hands** | Aimed at the impostor **in fly form**, *"to try to burn his wings off."* ⚑ Outcome not stated |
+| [[Eiluned "Lulu" Denulie]] | **Pass Without Trace** | +10 Stealth for the party on the trap floor. ⚠️ **DM ruled it does NOT apply to saves** — filed in [[House Rules & Rulings]] |
+| [[The Doppelganger]] | **Depth Charge (6th level)** ×2 | 🛑 Beat a 4th-level Counterspell. **DC 17 Con, 27 damage** to those who failed. Party saves observed: **18, 18, 18, 15→rerolled lower, 24.** ⚠️ **Individual pass/fail assignments are not cleanly recoverable from the diarized labels.** Cast a second time on dropping Wild Shape; **he passed his own** (Con **15**) |
+| [[The Doppelganger]] | **Wild Shape → fly** | Escape attempt — *"You think you saw a random-ass fly in a room full of spinning wild-ass chains."* ⭐ **[[Vega Bloodroot]] caught him on a natural 20** |
+| [[The Doppelganger]] | **Guidance** (self-cast) | Used repeatedly to buff his own saves under interrogation |
+| [[The Doppelganger]] | **Produce Flame** | Destroyed one [[Undead Centipede-Worms\|undead worm]] at camp; the rest scattered. ⚑ Damage value not stated |
+| [[The Doppelganger]] | **Dispel Magic** *(threatened, never cast)* | *"Don't fucking cast spells on me."* |
+| [[Samothy Smith-Wesson]] | **Flash of Genius** (+4) | Given to [[Vega Bloodroot]] on the trap floor — part of why she mapped 3/4 of the plates |
+| [[Vega Bloodroot]] | **Rage** *(held, no attacks)* | ⭐ **Raged and held the rage across the entire glyph room without making a single attack roll.** Her only "casting" this session |
+| [[Flux]] | **Enlarge** *(offered, not cast)* | Con save DC 14 quoted — ⚠️ **the DC line is a held spell-check row** (L2356) |

@@ -162,6 +162,54 @@
 - ⚑ **Boil-burst trigger conditions unresolved** — it fired on [[Vega Bloodroot]]'s first melee hit and not her second, after an Insight check suggested it wouldn't recur. Once per creature, per round, or DM discretion? Materially affects whether melee is viable against [[Boilborn]].
 - ⚑ **Misty Step vs grapple** was researched live and settled correctly by the table in S15 (speed 0 ≠ restrained; nothing prevents teleportation). Worth promoting to [[House Rules & Rulings]].
 
+## S16 — What the Fuck (rolls keyed 2026-09-03) 🛑 ARCHIVE NOT QUERIED — BLOCKED
+
+> 🛑 **THIS SECTION IS DELIBERATELY UNPOPULATED. It is blocked, not skipped, and nothing here is invented.**
+
+**The archive could not be reached in Convo 1 or Convo 2.** `mcp__supabase__execute_sql` returned:
+
+> `Unauthorized. Please provide a valid access token to the MCP server via the --access-token flag or SUPABASE_ACCESS_TOKEN.`
+
+Neither standing query was executed:
+```sql
+SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-09-03';
+SELECT MAX(timestamp_iso) FROM ashfall_session_rolls;
+```
+
+🛑 **Whether a sync gap exists is UNKNOWN.** This is an **access failure**, not a confirmed missing sync — we do not know whether Taylor's post-session sync ran.
+
+### 🛑 REGRESSION — this worked three sessions ago
+
+**S13, S14 and S15 were all queried successfully on 2026-08-30** via **`mcp__supabase-cutter__execute_sql`** on project `vtrtyagltwdrbastpppl` (see *Archive Flags (S13–S15)* above). That route was **retried this run and is now gated behind an ungranted permission** that cannot be approved in a non-interactive session; `mcp__supabase-account2__execute_sql` is gated the same way. The allowlisted `supabase` server connects but has no token.
+
+**Two independent fixes, either of which clears S16:**
+1. Add `SUPABASE_ACCESS_TOKEN=sbp_…` to the vault `.env` (already gitignored) so the `supabase` server starts authorized, **or**
+2. Allowlist `mcp__supabase-cutter__execute_sql` in `.claude/settings.local.json` — that is the call that actually worked for S13–S15.
+
+### What exists instead
+
+**~45 rolls are reconstructed from the transcript only**, in the *Full Roll Log* of [[Session 16 — What the Fuck]], every row flagged provisional. **They are deliberately NOT summarised into per-character statistics here** — doing so would present transcript guesses in the same table shape as archive-verified data for S13–S15, which is exactly the failure this file exists to prevent.
+
+⚠️ **The diarizer misattributes bare roll numbers** to whoever was speaking (confirmed at L338, L1416, L1430, L1478, L2280), so per-character counts from the transcript are **not trustworthy at all** this session. The archive is authoritative for who rolled; this transcript is not.
+
+### Qualitative observations safe to record
+
+These come from narrated outcomes, not from counting:
+
+- **Zero attack rolls. Zero weapon damage rolls.** No initiative was ever rolled — **the first Ashfall session with no combat**. Every damage roll came from a spell (Produce Flame, Inflict Wounds, Depth Charge) or a trap.
+- **Three natural 20s observed**, all in the final forty minutes: [[Flux]]'s Insight (→30) in the mural cave, and the Strength/Dex pair on [[Vega Bloodroot]] that held and then **caught the doppelganger out of the air**.
+- **Inspiration was spent at least four times**, a direct consequence of the table-wide grant in the first five minutes. ⚠️ **A second table-wide grant carries into S17.**
+- **[[The Doppelganger]] rolled at least eleven saves and passed most of them.** He lost on the only one that mattered because [[Flux]]'s **Silvery Barbs** made him roll it twice.
+- ⚑ **"322 to grapple"** (L2454) is an **impossible total** — likely 32 or 22. **The DM accepted it**, so the value is load-bearing and cannot simply be discarded.
+- **Party level: 12** — up from 10, off-screen, between sessions.
+
+### To do when the token is restored
+
+1. Run both queries above for `2026-09-03`.
+2. Build the per-character table in this file, matching the S13–S15 format.
+3. Reconcile against the session note's *Full Roll Log* and **correct every ⚑ attribution** — expect several to be wrong.
+4. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`), and the archive **undercounts d20s** because several players roll physical dice.
+
 ## Related
 
-- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Vault Sync Status]] · [[DM Questions — Open]]
+- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]] · [[DM Questions — Open]]

@@ -126,6 +126,52 @@
 ⚠️ **Taylor (Vega) is closing.** She out-swore Chase over these three sessions (+66 to +61) and has cut his lead from 24 to 19. On current trend she takes the campaign lead inside three or four sessions.
 **Chase has now passed 250 campaign-wide** — the first player to do so.
 
+## S16 — What the Fuck (09/03/2026)
+
+> 🛑 **UNIT CHANGE — READ BEFORE COMPARING.** The roll archive was unreachable this session and there is no per-word instance counter, so these figures are **transcript lines containing the word**, counted against the corrected transcript. **That is a floor, not a total** — several lines contain multiple instances. Every earlier session in this file counts *instances*. **S16 numbers are therefore lower bounds and are not like-for-like with S11–S15.**
+> 🛑 **The session's top speaker is [[The Doppelganger]], not [[Valerian Hellebore]].** The character is an impostor; **the player is still Chase**, so the running totals below are unaffected by the reveal.
+> ⚠️ **`shit` was not broken down by speaker** and sits in the unattributed pool.
+
+| Speaker | fuck | shit | bitch | damn/goddamn | motherfucker | Session Total |
+|---|---|---|---|---|---|---|
+| Chase ([[The Doppelganger]], as "Valerian") | **68** | — | **11** | — | *(incl. in fuck)* | **≥79** |
+| Christie (Zelda) | 8 | — | 0 | — | 0 | **≥8** |
+| Josh (Samothy) | 7 | — | 1 | — | 0 | **≥8** |
+| Taylor (Vega) | 7 | — | 0 | — | 0 | **≥7** |
+| Taylor (DM) | 4 | — | 2 | — | 0 | **≥6** |
+| Madi (Lulu) | 1 | — | 0 | — | 0 | **≥1** |
+| Doug (Barrett) | 1 | — | 0 | — | 0 | **≥1** |
+| Jill (Flux) | 0 | — | 0 | — | 0 | **0** |
+| *Unattributed pool* | — | *16* | — | — | — | *16* |
+
+**Session total: ≥126 lines** — 96 containing "fuck", 14 "bitch", 16 "shit".
+🛑 **Session champion: Chase, ≥79 — and that is 71% of the session's profanity from one speaker.** It is concentrated in the interrogation, where it functions as **characterisation**: the impostor's panic register. It is also the source of all three *"What the fuck, Richard?"*
+⚠️ **Densest stretch by a wide margin is 01:45–02:10**, the interrogation.
+⚠️ **[[Vega Bloodroot]]'s 7 is low for her.** It peaks at the trap floor (*"Fuck, it's the exact same"*) and at *"what the fuck, you guys?"* when [[Samothy Smith-Wesson]] offers to shoot the kneecaps.
+⚠️ **[[Flux]] posts another clean sheet** — her first zero since the streak ended in S15.
+⚠️ **Madi's single "fuck" was above-table**, to the DM, on the kids-take-after-their-mother joke.
+
+## Running Totals (through S16, attributed only)
+
+> ⚑ **These totals skip Session 12**, which was never processed. They also carry S09's mic-only caveat and S13's provisional attribution.
+> 🛑 **MIXED UNITS FROM S16 ONWARD.** S11–S15 deltas are instance counts; the S16 delta is a **line-count floor**. Totals below are therefore **lower bounds**, not exact. Recompute S16 by instance if the transcript is ever re-counted.
+
+| Speaker | Total | Δ since S15 |
+|---|---|---|
+| Chase (Valerian → [[The Doppelganger]]) | **≥341** | +≥79 |
+| Taylor (Vega) | **≥250** | +≥7 |
+| Taylor (DM) | **≥127** | +≥6 |
+| Josh (Samothy) | **≥90** | +≥8 |
+| Doug (Barrett) | **≥48** | +≥1 |
+| Madi (Deanna → Lulu) | **≥39** | +≥1 |
+| Christie (Zelda) | **≥33** | +≥8 |
+| Jill (Flux) | **4** | +0 |
+| *Unattributed pool* | *≥66* | *+16* |
+
+🛑 **NEW CAMPAIGN SINGLE-SESSION RECORD: Chase, ≥79** — smashing his own S08 record of 40. ⚠️ **The unit differs, but the comparison survives it**: 79 *lines* containing the word means **at least** 79 instances, so the record holds as a floor even against instance-counted sessions.
+⚠️ **Taylor (Vega) crosses 250** — but her closing run on Chase **reversed hard this session** (+7 to his +79). His lead goes from 19 back out to ≥91.
+**Chase is the first player past 300 campaign-wide.**
+
 ## Related
 
-- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Vault Sync Status]]
+- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]]

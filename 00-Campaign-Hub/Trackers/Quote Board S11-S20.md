@@ -393,6 +393,131 @@
 **[[Barrett Grimmskar]] (Doug) · [Funny]** — *once Flux explained anchoring*
 > "This is the part where you say thank you, Z, for getting us the fuck out of there."
 
+## S16 — What the Fuck (09/03/2026)
+
+> 🛑 **Attribution is transcript-only — the roll archive could not be queried.** The diarizer also misattributes bare roll numbers; quote attributions here follow the S16 speaker map documented in the corrected transcript header.
+> 🛑 **Everything "[[Valerian Hellebore]]" says in character this session belongs to [[The Doppelganger]]** and is attributed to him below. The player is still Chase.
+> ⚠️ **Above-table lines are marked →** and are excluded from public display.
+
+**[[Samothy Smith-Wesson]] (Josh) · [Poignant / Funny]** — ⭐ *the flattest grief in the campaign, the morning after his twin died*
+> "Oh yeah, I heard Val throwing a bitch fit. Yeah, my sister died. What's up?"
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Yes, having a boulder of a time."
+
+**Taylor (DM) · [Important to Story]** — *the last line of the obsidian tablet*
+> "And that the final symbol on the tablet reads, the graves lie where the mountain bleeds fire."
+
+**Taylor (DM), as [[Lt. Hargraven]] · [Important to Story]** — 🛑 *the hero, and the relics, named for the first time*
+> "Tharos Emberborn, he was the wielder of the Grieveflame, the Flame Greaves. He was the legendary hero that helped with the Vampire War."
+
+**Taylor (DM) · [Important to Story]** — 🛑 **the war is numbered for the first time**
+> "This is the Second Vampire War." / "It's titled The Second Coming."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *the biggest lore reveal in the vault since S01*
+> "A lot of the lore and facts of the first Vampire War were taken and sealed away, and society eventually just forgot that vampires were even a thing outside of like fairy tales and folklore."
+
+**Taylor (DM), as [[Lt. Hargraven]] · [DM Quip]** — *shown [[Deanna Smith-Wesson]]'s body in a bag of holding*
+> "I'm trying to understand as to why you would put her in a bag of holding, but I fear that's just going to bring many more questions that we just— I don't, I don't feel like I want to know the answers to."
+
+**[[Flux]] (Jill) · [Poignant]** — *the answer*
+> "We were hoping to be able to bring her back, but, uh, we don't think that's gonna happen. That's why we had her in here."
+
+**Taylor (DM), as [[Lt. Hargraven]] · [Funny / Important to Story]** — *why he can't come along*
+> "I'm having to go and explain why, say, you destroyed a perfectly good library. Or desecrated a few temples, some graves, things like that, you know, I have to answer for that."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Banter]** — *on [[Lt. Hargraven]]*
+> "He's our PR manager."
+
+**[[The Doppelganger]] (Chase), as "[[Valerian Hellebore]]" · [Funny]** — ⭐ *said three times across the session; the source of the session title*
+> "What the fuck, Richard? Is what they would have heard in my head, but they didn't pass their check."
+
+**Taylor (DM) · [Serious]** — *[[Eiluned "Lulu" Denulie]]'s watch*
+> "During your watch, you find a silhouette moving along the ridgeline, hunched, moving quickly, and it seems to be moving incorrect for a human."
+
+**Taylor (DM) · [Serious]** — *what [[Zelda "Z" Whipper]] alone could see*
+> "So there are bugs near you that are not of the living sort… it looks like they're leeching your aura or your life force away from you."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Wait, what? You had Tiny Hut so we didn't have to be fed off of by weird little things?"
+
+**[[The Doppelganger]] (Chase), as "[[Valerian Hellebore]]" · [Banter]**
+> "Had Val sleeping on the fucking ground and you had a Tiny Hut this whole time?"
+
+**Taylor (DM), [[Samothy Smith-Wesson]] and [[The Doppelganger]] · [Funny / Dark]** — *the beast thralls' method, and where it went*
+> "It's like a monster from A Quiet Place, but, you know, for vampires. So it tears open a section of your body and then literally sucks all the blood out within 3 seconds, and you die a bloodless death." / "A leather bag of nothing." / "Like Deanna." / "Yeah, like Deanna. Poor Deanna."
+
+**Taylor (DM) · [Important to Story]** — *the murals*
+> "The mural in front of you shows vampires descending on the city like a plague… you see Tharos Emberborn, greaves blazing, charging into battle."
+
+**Taylor (DM) · [Important to Story]** — *the second reading*
+> "You realize that this was a sanctuary of a fire deity whose name was Emberos."
+
+**Taylor (DM) · [Serious]** — *[[Flux]]'s natural 20 Insight*
+> "You know you're being watched, but you can't figure out from where because the cave is so vast… the air around you feels heavy with anger, you know, like violence."
+
+**[[Vega Bloodroot]] (Taylor) · [Serious]** — ⭐ *after walking the trap floor first and mapping it*
+> "I'll explain to everybody what I see so that they can tell, um, themselves also where the pressure plates are, or they could, um, follow my foot— follow my path if they need to."
+
+**[[The Doppelganger]] (Chase) · [Important to Story]** — 🛑 *he names the Zone of Truth loophole out loud and then uses it for forty minutes*
+> "It just guards from deception… If everyone's lying, I don't have to answer shit."
+
+**[[The Doppelganger]] (Chase) · [Serious]**
+> "It's cute that you guys all planned this together."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) and [[The Doppelganger]] (Chase) · [Funny]** — ⭐ *the best evasion of the session, and technically true*
+> "When did you see Val for the first time?" / "When I— the same day I looked into a mirror for the first time."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "The whole point of a doppelganger is that they look the same, my guy."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** → **[Above-Table]** — *player narration of her own dissent*
+> "Vega is not sure that Val is a problem, yet she's just like going along with it because somebody's gotta tell the truth… okay, this has become very uncomfortable."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** — ⭐ *the objection nobody answered*
+> "I was told we were just gonna restrain you."
+
+**[[The Doppelganger]] (Chase) · [Serious]**
+> "You're freaking me out. Can you just please get off of me? Like, I cannot. I'm like about to have a panic attack."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *answering [[Samothy Smith-Wesson]]'s Hunter's Sense — the thing that settled it*
+> "He's a changeling." / "Genetically altered changeling."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *what [[Zelda "Z" Whipper]] found in his head*
+> "As you're deep diving through his memories and all the naked people he's picturing, um, you come across a tower And a tied-up Val. Those are the last 2 images."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Serious / Dark]**
+> "Like, your kneecaps, they don't exist anymore unless I want them to exist."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "I do not negotiate with terrorists."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Dark / Poignant]** — ⭐ *the session's darkest comfort*
+> "And then he'll be with his parents, it will be okay. We made it through Deanna, we will be fine."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) and [[The Doppelganger]] (Chase) · [Important to Story]**
+> "What's your goal here?" / "Chaos."
+
+**[[The Doppelganger]] (Chase) · [Important to Story]** — 🛑 *the master*
+> "You think I'm some just mindless zombie who follows master's orders? No. He pays me well." / "He made me."
+
+**[[The Doppelganger]] (Chase) · [Important to Story]** — ⭐ **the line of the session**
+> "I've been with you for weeks." / "And none of you noticed."
+
+**[[The Doppelganger]] (Chase) · [Important to Story]** — 🛑 *confirms he manipulated party decisions*
+> "You really should have figured this out, oh, I don't know, when I was steering you away from whatever the fuck that was in the woods, but sure."
+
+**[[The Doppelganger]] (Chase) · [Serious]**
+> "You caught me after 3 weeks… Imagine what I saw. Imagine what I did. Imagine the chaos I sowed."
+
+**[[Vega Bloodroot]] (Taylor) and Taylor (DM) · [Important to Story]** — ⭐ *the iconic moment: a natural 20 midair catch, and she didn't squeeze*
+> "I'm literally restraining him single-handedly, might I add." / "And she caught him as a fly in midair, which was amazing."
+
+**Taylor (DM) · [DM Quip]** → **[Above-Table]** — *closing the session; the grant carries into S17*
+> "Yes, and next session everyone has inspiration because this has been very entertaining."
+
+⚠️ **Excluded from this board and from public display:** everything self-marked *"above table"* by its speaker (00:22:52, 00:31:50, 01:55:22, 02:02:05, 02:29:23), the whole post-session debrief (02:29:47 onward), the mute/headset troubleshooting, and all real-world personal content. See the S16 spell-check log §5–6.
+
 ## Related
 
-- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Vault Sync Status]]
+- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]]

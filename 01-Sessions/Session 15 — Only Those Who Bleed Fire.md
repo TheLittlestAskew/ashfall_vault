@@ -318,6 +318,10 @@ The fight and the dice carried it. Densest stretches are the four-nat-1 opening 
 
 ### Continuity Flags, Missing Info & Ambiguities
 
+- 🛑 **APPENDED 2026-09-03 AFTER S16 — "VALERIAN" IN THIS SESSION IS NOT VALERIAN.** [[Session 16 — What the Fuck]] establishes that **[[Valerian Hellebore]] was replaced by a changeling impostor before this session began** and had already been embedded for roughly three weeks. **Everything attributed to "Valerian" in this note — every quote, every roll, every action — belongs to [[The Doppelganger]].** In particular, **the hostility toward [[Eiluned Lulu Denulie|Lulu]] recorded here was the impostor**, confirmed above-table in S16 as deliberate impostor characterisation rather than Valerian's own behaviour.
+  ⚠️ **THIS NOTE HAS DELIBERATELY NOT BEEN REWRITTEN, AND SHOULD NOT BE.** `No Session Contamination` applies: this is the record of what happened at the table on 08/27/2026, and the party genuinely believed they were dealing with Valerian. **This annotation is the correct fix — a rewrite would destroy the record of the deception working.**
+  ⚑ **The real Valerian was, throughout this session, a captive in an unidentified tower.** He does not know [[Deanna Smith-Wesson]] is dead. See [[The Doppelganger]] and [[Valerian Hellebore]].
+
 - 🛑 **Lulu's subclass contradicts the Session 14 note.** S14 records her introducing herself as **Circle of the Land**; in S15 she plays a **Wildfire Druid**, and the change is discussed out of character — *"didn't this bitch say she was a fucking Circle of the Land?"* / *"No, I changed it."* The DM explains her sheet was refreshed because she hadn't had access to everything when she built it in about five minutes. **The S14 note has NOT been amended.** Recommended fix: append *"— retconned to Wildfire Druid in S15"* rather than rewriting history. See `_pipeline/S15/flags.md` §2.
 - 🛑 **`Rite of the Dawning Radiance` (S13 vs S14) is still unresolved** and still needs a DM ruling. Neither note has been amended.
 - ⚠️ **`Underkeep` vs `Underdeep`** — neither word appears this session. Unresolved since S13.

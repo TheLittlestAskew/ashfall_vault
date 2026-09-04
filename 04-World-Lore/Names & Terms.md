@@ -203,6 +203,42 @@
 
 **⚑ Held spell-check rows (S11) — not applied, need an audio listen:** `my O and F`→`my bow on F` (50%) · `she said`→`he said` (45%) · `Nova Twins save`→`have him make a save` (35%).
 
+## 🛑 GLOSSARY GAP — S12, S13, S14 and S15 have NO section in this file
+
+**This file jumps S11 → S16.** Four sessions of first-seen terms were never added, four sessions after those notes shipped.
+
+⚠️ **This has a measurable cost and it showed up in S16's spell-check:** `Emberborn`, `Eiluned` and `Depth Charge` were all **capped at 60% confidence** despite being used confidently and repeatedly across the vault — because there was no glossary entry to check them against. The glossary is *the* canonical reference for an original setting with no external canon, and it is four sessions stale.
+
+➡️ **Recommended: run a glossary catch-up pass for S12–S15 before adding anything further.** The source material exists — each session note carries its own first-seen list. **Nothing was invented to fill this gap.**
+
+## S16 first-seen terms — ⚑ NONE CANONIZED
+
+> 🛑 **Everything below stays uncanonized pending DM/Taylor confirmation.** Original setting, no external canon, and the S16 **speaker map is session-specific** — the diarizer re-lettered again (the DM was **B** in S14, **A** in S15, **F** in S16). **Never carry a speaker map between sessions.**
+> 🛑 **Four approved spell-check rows were HELD, not applied** (the approved table's own heading reads *"low confidence, flagged not fixed"*): `Hunter's Mark → Counterspell` (L2290) · `blackened by salt → ash` (L1136) · `carousel → con save` (L2402) · `Vita Con 14` (L2356). **If those were meant to be applied, it is a one-minute re-run.** See the S16 spell-check log §3.
+
+| Term | Type | Notes |
+|---|---|---|
+| **Tharos Emberborn** | Historical figure ⚑ — 🛑 **FOUR RENDERINGS, TWO SESSIONS** | A *pre-vampire hero*, *"the legendary hero that helped with the Vampire War."* 🛑 **The vault has already recorded a different spelling:** `Theros Emberborn` was applied at 60% in the **S12** spell-check and stands in the corrected S12 transcript. S16 gives `Thalos` (L94), `Tharos` (L144) and `Tharos'` (L1340); **`Tharos` was applied as the S16 majority hearing.** Two sessions, two different majority hearings, **no glossary entry to arbitrate.** 🛑 **THIS IS A DM QUESTION. Do not retro-edit either transcript until he rules.** Page at [[Tharos Emberborn]] |
+| **the Grieveflame** / **the Flame Greaves** | Relic(s) ⚑ | *"he was the wielder of the Grieveflame, the Flame Greaves."* ⚑ **One name or two?** Reads as either an apposition (one relic) or a list (two). The party's objective for all of S16 — **not retrieved** |
+| **the Sunfire blade** | Weapon ⚑ | From the tomb murals: it **pierced the vampire lord atop a stone altar** and was *"left embedded in the altar as a seal."* ⚑ **Possibly the same sword [[Vega Bloodroot]] pulled in S15** — also unnamed, also embedded. **Ask the DM.** ⚑ Note also S14's *"Blade of Sunfire"* in the Queen Elandra tapestry — **a third possible reference to the same weapon, never reconciled** |
+| **Emberos** | Deity ⚑ | *"a sanctuary of a fire deity whose name was Emberos."* Page at [[Emberos]]. ⚑ Possibly the S15 [[Old Shrine]] fire deity — **do not merge without the DM** |
+| **the Broken Crown Mountains** / **the King's Mountain** | Region ⚑ | Formerly one mountain pass, *"and then a great earthshake came and fractured it."* East, past [[The Dead Zone]] and **visible from it**. Page at [[Broken Crown Mountains]] |
+| **the Book of Varona** | Item ⚑ | DM: *"someone has the Book of Varona. I can't remember who."* [[Samothy Smith-Wesson]]: *"I have the book that, um, only I can read."* 🛑 **First name for the party's unreadable book — but which physical item is unconfirmed.** ⚑ Note the S16 garble at L240, *"You're gonna give me some time, Varona"*, left verbatim |
+| **The Second Vampire War** / **The Second Coming** | 🛑 **Setting-defining** ⚑ | *"This is the Second Vampire War."* / *"It's titled The Second Coming."* The current war is **numbered for the first time**, and the records of the first were *"taken and sealed away."* See [[Setting Primer]] |
+| **Circle spells** | Mechanic ⚑ | First-seen label, **no 2024 PHB match.** Two effects described by [[Samothy Smith-Wesson]]: shared concentration between casters, and **+1,000 ft range per secondary caster up to a 1-mile cap.** ✅ **Filed as canon-in-play in [[Homebrew Abilities]]** per the standing rule — **do not source-hunt, do not put to the DM.** Only the label is new |
+| **Cloak of Many Fashions** *(vs "Cloak of Fashion")* | Item ⚠️ — **vault-side conflict** | The transcript says **Many Fashions** at 02:01:56, matching his DDB sheet. **This glossary, the S01 note, [[Loot Tracker S01-S10]] and [[Valerian Hellebore]]'s page all say "Cloak of Fashion."** ⚠️ **The transcript is probably the correct one.** **Ask the DM for the in-fiction name**, then fix in one pass |
+| **"genetically altered changeling"** | Creature descriptor ⚑ | The DM's phrasing for [[The Doppelganger]], via [[Samothy Smith-Wesson]]'s Hunter's Sense. ⚑ **Never explained.** Is this a distinct creature type, a modification, or flavour? |
+| **Richard** | ⚑ **NO REFERENT** | From the session's running catchphrase, said three times: *"What the fuck, Richard?"* ⚑ **Richard appears nowhere else in the campaign.** In-joke, real person, or in-fiction name — unknown |
+| **"Doc"** | ⚑ Unresolved — **possibly the table's name for the DM** | Appears at 01:59:57 and 02:31:55, and once in the S15 raw transcript. ⚑ **Disambiguation hazard** if a speaker map is ever hard-coded |
+| **The tower** | Location ⚑ — **UNIDENTIFIED** | Seen only inside [[The Doppelganger]]'s memory; holds the real [[Valerian Hellebore]], tied up. [[Zelda "Z" Whipper]]'s History check (an **8**, which the DM gave her anyway): *"The tower is very familiar. You think you saw it just recently."* 🛑 **Never identified on the record — and it is the party's highest-priority lead** |
+| **The undead centipede-worms** | Creature ⚑ — **UNNAMED** | Long, worm/centipede-like undead vermin that **leech life force from sleepers** and are **invisible without Detect Evil and Good.** Page at [[Undead Centipede-Worms]] (descriptive placeholder title) |
+| **Pins and Needles** *(attribution)* | Ability — ⚠️ **third data point → Lulu** | [[Eiluned Lulu Denulie|Lulu]] casts it **twice** in S16. The vault has it as **Zelda's (S11)** *and* **Lulu's (S15)**. **S16 corroborates Lulu; S11 is now the outlier.** ⚑ Likely settled, but it is a DM ruling |
+| ⚑ **Unrecoverable garbles, left verbatim** | — | L240 *"You're gonna give me some time, Varona"* · L598 *"It's the ant"* · L676 *"Mina doesn't have to be rushed"* · L868 *"Naruto"* · L1228 *"Purchase of my life"* · L1368 ***"Do we want Sturdy?"*** (⚑ **ability name or adjective — load-bearing; [[Vega Bloodroot|Vega]] goes first on it**) · L1758 *"Barrett casts gun"* · L1828 *"Who said I was wearing a scarf?"* · L2028 *"dirty talk"* (⚑ possibly *"dirty 21"*) · L2100 *"Give me a truth spray"* · L2454 ***"322 to grapple"*** (⚑ **impossible total, likely 32 or 22 — the DM accepted it, so the value matters**) · L2632 *"the Wild Shape players have heard of me."* **Zero `[inaudible]` markers in this transcript** |
+
+**⚠️ Correction to the S15 record:** S15's flag packet listed *"Hobo Kage"* among household names and read it as an affectionate name for a player. S16 at 01:26:36 makes plain that **Hobo Kage and Caramel are dogs** — *"Sometimes we think Madi's dog can actually hear."* **The redaction stands; the reasoning was wrong.**
+
+**⚠️ The source recording misspells the campaign a third distinct way** — `090326 Ashfall Brittnia Recording.mp3`, against the canonical **Britannia** and the DDB registry's **Brittania**.
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

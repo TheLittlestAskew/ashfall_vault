@@ -86,6 +86,27 @@
 | **10-foot floors** | Ruled on the record, correcting a player's "standard 12-foot floors" assumption. Governs vertical distances in [[The Grand Library of the Veiled Dawn]] and presumably elsewhere | S10 |
 | **Steel Defender proximity → disadvantage** | [[Mr. Cat\|Mr. Cat, Esquire]] being within **5 feet** imposed **disadvantage on an attack that had already hit**, forcing a reroll (22 → 7, miss). Applied *retroactively* within the same resolution | S10 |
 
+## Standing Rules Added S16
+
+| Rule | Detail | Source |
+|---|---|---|
+| 🛑 **Pass Without Trace does not apply to saves** | The DM ruled it explicitly during [[Vega Bloodroot]]'s run at the [[The Volcano Tomb\|glyph-room]] trap floor: the **+10 applies to Stealth checks only**, not to saving throws against the traps. ⚠️ **This matters mechanically** — it is why her **Dex save of 16** still set off a pressure plate while the party was under the spell | S16 |
+| **Zone of Truth guards deception only** | Established in play and stated out loud **by the target**: *"It just guards from deception… If everyone's lying, I don't have to answer shit."* A creature that fails the save **cannot state a deliberate falsehood, but is under no obligation to answer**, and may deflect with questions indefinitely. ⚠️ **[[The Doppelganger]] used this for forty minutes without once lying**, and the DM let it stand | S16 |
+| **Silvery Barbs vs. a passed save** | [[Flux]] used **Silvery Barbs** to force [[The Doppelganger]] to **reroll a successful Charisma save and take the lower result** — *"he has to reroll it and take the lower"* — and the DM allowed it. 🛑 **This is the mechanical hinge the entire session turns on.** Recorded because it converted a won save into a lost one against a major NPC | S16 |
+| **Table-wide inspiration, twice in one session** | Granted at `00:04:39` for the roleplay opening, and again at close: *"next session everyone has inspiration because this has been very entertaining."* ⚠️ **The second grant explicitly carries into S17** — which is a deliberate exception to the **S11 standing rule that inspiration expires at end of session** | S16 (qualifying S11) |
+| **Obsidian: value and craftability** | Raw obsidian is **on the gem list at 15 gp per piece.** It is **not magical on its own but can be infused**, and can be crafted into weapons for *"a plus to whatever weapon it is… with bonus damage for slicing and piercing."* Crafting deferred to **downtime**, DM-approved. Quantity is rolled — [[Samothy Smith-Wesson]] rolled a **d100 → 51 pieces**, using smith's tools rather than force | S16 |
+| **Silver as a diagnostic** | A **silver bullet pressed to bare skin produced a reaction** from a disguised changeling. ⚠️ The DM first ruled the test landed on the **Cloak of Many Fashions** and only allowed the reaction once it was established the bullet touched **skin** — so **the contact surface matters** | S16 |
+| **Hunter's Sense pierces a shapechange** | [[Samothy Smith-Wesson]]'s **Hunter's Sense** (an action, no roll) returned the target's true type through a three-week impersonation: *"He's a changeling."* 🛑 **No save, no counter.** Recorded because it is the hard counter to shapechanger infiltration and the party now knows it | S16 |
+
+## Deferred / Pending Rulings (S16)
+
+- 🛑 **DO ELVES SLEEP? — OPEN, AWAITING THE DM.** The tell that exposed [[The Doppelganger]] was that "Valerian" **slept**. The table then argued the 2024 PHB text on elven trance **well and on both sides** — the sticking point being whether *"can"* and *"if"* make sleeping **a possibility rather than a prohibition** (*"the can and if there make it a possibility rather than a mandatory"*). 🛑 **The table correctly deferred it to the DM rather than winning it, and he has not ruled.** ⚠️ **This is load-bearing**: if elves may sleep, [[Zelda "Z" Whipper]]'s entire chain of suspicion rested on a false premise and happened to be right anyway.
+- ⚑ **"Circle spells"** — [[Samothy Smith-Wesson]] describes **shared concentration between casters** and **+1,000 ft of range per secondary caster up to a 1-mile cap**. First-seen label, **no 2024 PHB match**. ✅ **Filed as canon-in-play in [[Homebrew Abilities]] per the standing rule — deliberately NOT put to the DM**, since this vault does not ask about homebrew wording. Recorded here only so the ruling trail is complete.
+- ⚑ **Counterspell at 4th vs. a 6th-level cast.** [[Zelda "Z" Whipper]]'s Counterspell failed against **Depth Charge at 6th**. ⚠️ The rules text read aloud at that moment is **labelled *Hunter's Mark* in the transcript** — a **held, uncorrected** spell-check row (L2290). **The mechanic resolved correctly; the quotation is unreliable.**
+- ⚑ **"322 to grapple"** (L2454) — an **impossible d20 total** that **the DM accepted** (*"That'll probably do it"*). Likely 32 or 22. Because he accepted it, the true value is load-bearing and cannot simply be discarded. **Left verbatim.**
+- ⚑ **Pins and Needles attribution** — S16 is the **third data point and it favours [[Eiluned Lulu Denulie|Lulu]]**, making the S11 attribution to [[Zelda "Z" Whipper|Zelda]] the outlier. See [[Homebrew Abilities]]. **Likely settled, but it is a DM ruling.**
+- ⚑ **`Cloak of Many Fashions` vs `Cloak of Fashion`** — transcript and DDB sheet say *Many Fashions*; four vault files say *Cloak of Fashion*. **Vault-side reconciliation pending the in-fiction name.**
+
 ## Standing Rules Added S11
 
 | Rule | Detail | Source |

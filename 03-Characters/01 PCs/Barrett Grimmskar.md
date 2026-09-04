@@ -6,7 +6,7 @@
 | --------------------- | ------------------------------------------------ |
 | **Race**              | Orc                                              |
 | **Class**             | Gunslinger / Spellslinger (homebrew — ⚑ confirm) |
-| **Level**             | **10** as of S10 (5 at S01, gained Extra Attack + "Deck Shot"; 8 at S09; **8 → 10 in one award** ⚑) |
+| **Level**             | **12** as of S16 (5 at S01, gained Extra Attack + "Deck Shot"; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature weapons** | Revolver ("TGC") · Finger Guns (force cantrip)   |
 | **Crit range**        | 19–20 on ranged attacks ⚑ — **played as 18–20 in S11**; range change unconfirmed |
 | User_ID               | 117269013                                        |
@@ -24,6 +24,9 @@
 Barrett's Directional Doohickey (graduation item — weather-vane compass, finds north) · grappling-hook bracers · revolver "TGC" + 30 extra rounds — see [[Loot Tracker S01-S10]].
 
 ## Key Events
+
+- **S16: THE SILVER BULLET, PRESSED NOT FIRED.** ⭐ **His one contribution decided the session.** With the party unable to break "[[Valerian Hellebore]]" under Zone of Truth, Barrett took a **silver bullet and pressed it against him** rather than shooting it — the DM initially ruled it landed on the **Cloak of Many Fashions**, and then, once it was established the bullet touched **skin**, **there was a reaction.** He did it that way on purpose: *"he didn't want to shoot it into you and be wrong."* 🛑 **A diagnostic, not an attack, against someone he still half-believed was a friend.**
+  He also **grappled the impostor** in the opening ambush before handing him off to [[Vega Bloodroot]], and later held him with her on **opposed Strength checks totalling 24, including a natural 20**. **Zero attack rolls, zero shots fired all session.** Level **10 → 12** ⚑ off-screen.
 
 - **S15: A 42-DAMAGE CRIT, AND FRIENDLY FIRE.** Swapped from his Magnum to his **fire revolver** and landed a crit on Zombie B for **42** (19 piercing + 23 fire, max-plus-reroll), applying **Gut Shot** — speed halved, disadvantage on attacks. ⚠️ Then cast **Spellfire Flare** (2d10 radiant, ignores half and three-quarters cover), **missed**, and the DM ruled the fiery ball hit **both the [[Boilborn]] and [[Zelda Z Whipper|Zelda]] for 16.** Ran the archive's second-worst dice night at the table — **13 d20s, two natural 1s** — including three consecutive 13s, which the DM offered to convert into a nat-20 result if he rolled a fourth. He rolled 27.
   ⭐ He also made the call that shaped the session: **the party did not split up** — *"I vote we stick together because last time Deanna got separated from the group, she died."* And he was the only PC to check on [[Valerian Hellebore]] about his hostility to [[Eiluned Lulu Denulie|Lulu]], offering two options: *"she probably needs somebody who can teach her to be better. Or we can use her as bait."*

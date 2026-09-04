@@ -81,6 +81,54 @@ The S11 ambush produced more mechanical worldbuilding about [[Beast Thrall]]s th
 
 ⚑ **Pattern worth naming:** this is the **second consecutive session** in which the actual threat contributes nothing mechanically. The party has now "beaten" two major antagonists without landing a single action on either.
 
+## 🛑 THE FIRST VAMPIRE WAR — the setting gets a history *(S16)*
+
+**This is the largest single addition to the setting since S01.** All of it comes from the S15 obsidian tablet, read out by [[Samothy Smith-Wesson]], and [[Lt. Hargraven]]'s decoding of it.
+
+**The war the party is fighting is the SECOND.**
+
+> *"This is the Second Vampire War."*
+> *"It's titled The Second Coming."*
+
+🛑 **And the first one was deliberately erased:**
+
+> *"A lot of the lore and facts of the first Vampire War were taken and sealed away, and society eventually just forgot that vampires were even a thing outside of like fairy tales and folklore."*
+
+**Someone chose that.** The reason nobody was ready for the vampires is that the record of the last time was **taken and sealed** — which makes the historical archive itself an active adversary, and retroactively explains why a world at war has almost no vampire lore in it. ⚑ **Who sealed the records, and why, is unknown and unasked.**
+
+### [[Tharos Emberborn]] ⚑ — the pre-vampire hero
+
+- *"the legendary hero that helped with the Vampire War"*, and explicitly a **pre-vampire hero** — which is what prompted [[Samothy Smith-Wesson]]'s question: *"what was there before the vampires that they needed heroes for?"*
+- Wielder of ⚑ **the Grieveflame** and **the Flame Greaves** *(one relic or two — unresolved)*.
+- The tomb murals show him **charging into battle with his greaves blazing** and **leading a last stand inside the volcano**.
+- ⚑ **His name is not canonized** — four renderings across two sessions. See [[Names & Terms]].
+
+### [[Emberos]] ⚑ — a fire deity
+
+- **[[The Volcano Tomb]] was his sanctuary before it was a tomb.** Named by a Religion check on the murals.
+- His worshippers were a **fire-worshipping tribe** who ruled the volcano and **vanished over 1,000 years ago**. ⚑ *"Fire deities"* was said in the plural — he may be one of several.
+- ⚑ **Possibly the same as the unnamed pre-vampire fire deity buried beneath the [[Old Shrine]] (S15). Do not merge without the DM.**
+
+### The Sunfire blade and the seal
+
+The murals show **the Sunfire blade piercing the vampire lord atop a stone altar, and left embedded in the altar as a seal.** ⚠️ **A seal implies something still worth keeping sealed.** ⚑ Possibly the same weapon [[Vega Bloodroot]] pulled free in S15 — also unnamed, also embedded. **Never stated; ask the DM.**
+
+### The meteor, dated at last
+
+⭐ **The meteor and the dust cloud that darkened the world happened when the PCs were children** — the DM, on the record: *"that's when you guys were kids."* This is the **first date anchor** the campaign has for its own catastrophe.
+
+### [[Broken Crown Mountains]] ⚑ — new geography
+
+Formerly **the King's Mountain**, a single pass until *"a great earthshake came and fractured it."* East, **two days by wagon**, past [[The Dead Zone]] — and **visible from it**. At its base: a volcano, inactive for years but still smoking and raining ash, with a **river of obsidian, black glass**, and a tomb halfway up.
+
+### The Book of Varona ⚑
+
+The DM: *"someone has the Book of Varona. I can't remember who."* [[Samothy Smith-Wesson]] believes it is *"the book that, um, only I can read."* 🛑 **The first time the party's unreadable book has had a name** — and it is **not confirmed which physical item it is.**
+
+### Beast thralls can break their bonds *(S16)*
+
+A population of **feral vampire beast thralls east** *"turned on their beast tamer, or their beast master, and ran east… tore him to shreds, and then vanished."* Confirmed in the field by claw marks and a mauled elk. **The handler bond is not permanent.** See [[Beast Thrall]].
+
 ## Geography (known)
 
 - [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*
@@ -107,3 +155,16 @@ The S11 ambush produced more mechanical worldbuilding about [[Beast Thrall]]s th
 - **Why are parts of the Dead Zone actively burning**, and who noticed? *(S11)*
 - **Is "the Dead Zone" an in-fiction proper name**, or party shorthand? *(S11)*
 - **What does [[Flux]]'s vampire transformation actually do?** The DM set terms (dissect the eyed variant, take a body to the doctor, works like Wild Shape, *"you keep your normal stats"*) but no subsystem exists yet. *(S11)*
+- 🛑 **WHO SEALED THE RECORDS OF THE FIRST VAMPIRE WAR, AND WHY?** The single biggest new question in the setting. *(S16)*
+- 🛑 **Who is the doppelganger's "master"?** He *"made"* him and *"pays me well."* Unnamed, undescribed. *(S16)*
+- 🛑 **Where is the tower**, and why does [[Zelda "Z" Whipper]] recognise it — *"you saw it just recently"*? *(S16)*
+- **Is [[Emberos]] the same deity as the unnamed pre-vampire fire deity beneath the [[Old Shrine]]?** *(S15/S16)*
+- **Is the Sunfire blade the same weapon [[Vega Bloodroot]] pulled in S15?** Both unnamed, both embedded. *(S16)*
+- **Is "Emberborn" an individual or a title?** Open since S15, still unanswered. *(S15/S16)*
+- ⚑ **Is the Grieveflame one relic or two?** *"the Grieveflame, the Flame Greaves"* — read as either an apposition or a list. *(S16)*
+- ⚑ **What is the Book of Varona, physically?** *(S16)*
+- ⚑ **What watches inside [[The Volcano Tomb]]?** Growls that never come from the same direction twice, air *"heavy with anger."* Never seen. *(S16)*
+- ⚑ **Who is the ridgeline figure**, and is it the necromancer behind the [[Undead Centipede-Worms]]? The doppelganger admitted **steering the party away from it.** *(S16)*
+- ⚑ **What is a "genetically altered" changeling?** *(S16)*
+- ⚑ **When was the great earthshake** that broke the King's Mountain, and who were its kings? *(S16)*
+- ⚑ **Where is the altar** the Sunfire blade was left in as a seal? *(S16)*

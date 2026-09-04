@@ -76,6 +76,27 @@
 | [[Barrett Grimmskar]] | **Fire revolver** (alongside the Magnum) | Swapped to mid-fight; landed a crit for **42** (19 piercing + 23 fire) plus **Gut Shot** |
 | ✅ Closed | **The Artificer & Alchemist's materials** | [[Flux]] asked again and the DM ruled it out: *"nothing down here is of use to them."* **Thread closed** |
 
+## S16 — What the Fuck (09/03/2026)
+
+> 🛑 **Roll archive NOT queried** — `Unauthorized`, no `SUPABASE_ACCESS_TOKEN`. Quantities below are from the transcript and the DM's read-aloud.
+> ⭐ **The obsidian tablet from S15 was finally read out**, closing that thread — and its hidden compartment produced two new items.
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Samothy Smith-Wesson]] | 🆕 **51 pieces of raw obsidian** | **Acquired S16** on a **d100 roll → 51**, worked loose from the black-glass cave walls with **smith's tools** rather than smashed. Varying shapes; some usable as **arrowheads or spear tips**. **15 gp each raw** (on the gem list). ⚑ **Not magical on its own, but it can be infused.** Craftable into weapons for *"a plus to whatever weapon it is… with bonus damage for slicing and piercing."* Stored in the bag of holding — the DM confirmed *"the obsidian will be fine in the bag of holding."* ⚠️ **Crafting deferred to downtime**, DM-approved |
+| [[Samothy Smith-Wesson]] | **Obsidian tablet** (from S15) | ✅ **CONTENTS READ OUT THIS SESSION — the S15 flag is closed.** Protective wards; **[[Tharos Emberborn]]** named as a *pre-vampire hero*; a burial site sacred to *an old fiery deity*; and the riddle — *a mountain shaped like a broken crown, a river of black glass, a cavern mouth marked by three flame sigils, a coffin surrounded by burning chains* — closing on ***"the graves lie where the mountain bleeds fire."*** [[Lt. Hargraven]] then found a **hidden compartment** inside it |
+| Party (shared) | 🆕 **Charred map fragment** | From the tablet's hidden compartment. Shows **a cave entrance lit by 3 torches — 2 on the side, 1 up top — in the base of a mountain.** ✅ **Matched on sight** at the volcano. ⚑ **Distinct from the S15 charred map fragment**, which showed sewer/tunnel lines — *this vault now records two* |
+| Party (shared) | 🆕 **Fire-etched sigil** | From the same compartment. [[Lt. Hargraven]]: *"this sigil looks like it could be some type of key or be stuck on a wall. I would take that."* 🛑 **Carried into [[The Volcano Tomb]] and never used** |
+| [[Samothy Smith-Wesson]] ⚑ | **The Book of Varona** | The DM: *"someone has the Book of Varona. I can't remember who."* Samothy: *"I have the book that, um, only I can read."* ⚑ 🛑 **UNRESOLVED WHICH PHYSICAL ITEM THIS IS** — possibly the S05 book bound to him, or the S08 dusty red book. **This is the first time the book has had a name** |
+| [[Vega Bloodroot]] | **The burning longsword** *(unnamed)* | Carried from S15. 🛑 **Still unnamed** — above-table candidates were read out and **none adopted**. 🛑 **The DM tied the tomb's warning to it unprompted:** *"only those who bleed fire may walk the path of… Emberborn"* → *"this ties directly into the sword that Vega has."* ⚑ **Possibly the Sunfire blade of the murals** — never stated |
+| [[The Doppelganger]] | **Cloak of Many Fashions** | ⚠️ Named on the record at 02:01:56. **The vault records this item as "Cloak of Fashion"** in [[Names & Terms]], the S01 note, [[Loot Tracker S01-S10]] and [[Valerian Hellebore]]'s page; his DDB sheet says **Many Fashions**. 🛑 **Reconciliation needed — the transcript is probably right. Ask the DM for the in-fiction name.** It **blocked [[Barrett Grimmskar]]'s first silver-bullet test** |
+| [[Zelda "Z" Whipper]] | **Silver-tipped daggers** | Used to threaten [[The Doppelganger]] — *"This is one of my silver-tipped daggers."* **Plural stated.** ⚑ First explicit record of them being silver |
+| [[Barrett Grimmskar]] | **Silver bullet** | 🛑 **Used diagnostically, not fired** — pressed to skin and **produced a noticeable reaction**, which is one of the two things that broke the impostor's cover. He *"didn't want to shoot it into you and be wrong"* |
+| [[Flux]] | **Bag of holding** (containing [[Deanna Smith-Wesson]]) | Opened to show [[Lt. Hargraven]] the body. ⚑ Also proposed as obsidian storage, and referred to once as *"Deanna's leather sack"* |
+| [[Eiluned "Lulu" Denulie]] | **Hookshot bracer** | ⚠️ **Confirmed she does NOT have one** — *"She's bracerless."* [[Flux]] proposed giving her [[Deanna Smith-Wesson]]'s. ⚑ **Never confirmed as transferred** |
+| [[The Doppelganger]] | *(pockets)* | 🛑 **Searched by [[Zelda "Z" Whipper]]. Empty.** *"You go through his pockets and there's nothing in them."* No papers, no orders, no coin |
+| 🛑 Not retrieved | **The Grieveflame / the Flame Greaves** | ⚑ **One relic or two?** The party's stated objective for the entire session. **The tomb was never entered.** Still in [[The Volcano Tomb]], presumably past the chain room |
+
 ## Related
 
-- [[Loot Tracker S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Vault Sync Status]]
+- [[Loot Tracker S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]]

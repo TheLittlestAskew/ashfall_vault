@@ -232,3 +232,42 @@
 > Next time, he says.
 >
 > Good. Let him come where I can reach him.
+
+---
+
+> 🛑 **GAP — S13, S14 and S15 have no journal entry.** This file jumps **S11 → S16**, four sessions. The missing entries are **not lost**: each exists in full in the *POV Journal* section of [[Session 13 — The Cartographer of the Underkeep]], [[Session 14 — An Angel with a Shotgun]] and [[Session 15 — Only Those Who Bleed Fire]], and need only be copied into this file in the callout format above. **Nothing was invented to fill the gap.** ⚠️ S14 is [[Deanna Smith-Wesson]]'s death and S15 is the relic — the two biggest beats of the run are the ones missing here.
+
+---
+
+> [!note]- S16 — I am the fist. (What the Fuck)
+> Deanna is in a bag. I want to write that down plainly, because everyone else has been talking around it for a day and a half and the talking around it is worse than the thing.
+>
+> The morning went badly for everyone but me, on account of I slept through most of it. Zelda came apart on the new one before breakfast. Val came out of his room wrapped in a blanket telling us all to shut up. Samothy said *my sister died, what's up* like he was reporting the weather, and I don't think a single one of us knew what to do with our hands. Then the bird man showed up and made it a mission again, which is the kindest thing anybody did all day.
+>
+> Here is what we know now: a mountain shaped like a broken crown, a river of black glass, three flames over a door, a coffin wrapped in burning chains. *The graves lie where the mountain bleeds fire.* And a name — Emberborn, who carried the greaves, who fought the war. There was a war before this one. Nobody remembers it because somebody made sure nobody would. That is the part I keep turning over. Not the monsters. The forgetting.
+>
+> And the warning: *only those who bleed fire may walk the path of Emberborn.* I have a sword that took my blood to come loose. I did not say anything. I don't need to say everything.
+>
+> Two days east. First night, the new one shook me awake with a hand over her own mouth and I was up and asking left or right, above or level, before I was properly awake. That is not a thing I decided to become. Something crooked was out on the ridge and it left before we could go get it, and I wanted to go get it, and we didn't. Meanwhile there were dead worms in the grass drinking us while we slept. Zelda burned one and the rest ran off. Zelda also had a house in her pocket the whole time and remembered it afterward. I'm choosing to find that funny.
+>
+> Second day: an elk torn open by something that wasn't a bloodsucker, claw marks in the trees the whole road, and the bird man's story about the beasts that turned on the man who owned them and ran east. East is where we're going. Fine.
+>
+> The mountain is warm to the touch and the stone runs like glass. Inside, the walls tell it: the city going under, Emberborn charging in with his legs on fire, a blade through the lord of them and left standing in the altar so it would stay shut. A fire god's house, turned into a grave. Something in there watched us the whole time and never showed itself, and the air was angry in a way I recognised.
+>
+> They asked who was walking the trap floor first. Nobody had to ask twice. I went in hot and stayed hot, ate one gout of flame with my name on it, and then I found the seams — most of them, not all — and I marked them and I told everybody exactly what I could see and where to put their feet. That is the job. That has always been the job.
+>
+> Then we came to the room with the burning chains, and my friends jumped Val.
+>
+> I want to be honest about my part, since honesty was the whole point of the exercise. I did not think he was a problem. I helped anyway, because somebody had to be able to answer straight and because if I was wrong I'd rather be wrong holding him than wrong watching. But it got ugly fast. They put needles in his arm. They put a hole in him. They put a silver bullet on his skin and there was something under it that shouldn't have been. And he was begging us to get off him, and I said *I was told we were just going to restrain you,* and nobody looked at me.
+>
+> He went small and winged and I caught him out of the air blind, closed my hand, didn't squeeze. I've held him down single-handed since. I would like that on the record too — that when I finally got proof, I still didn't squeeze.
+>
+> Because it wasn't him. Samothy looked at him properly and it wasn't him. Zelda went into his head and found a tower and our Val tied up in it, and the thing wearing his face stopped bothering. *Weeks*, it said. *And none of you noticed.* Asked what it wanted: **chaos**. Asked why: *he made me, and he pays me well.* It says it was steering us away from the thing in the woods. I believe that part.
+>
+> Weeks. It slept on the ground beside me. It made me laugh.
+>
+> Samothy has offered to take its kneecaps. Zelda has a silver dagger against its cheek. The new one is trying to buy it. Everybody is very sure and very loud and I am standing here holding a thing that knows where my friend is, and I am the only reason it is still in one piece.
+>
+> I am the fist. I have never once been the one who decides where it lands. I am starting to think that was the arrangement all along, and that nobody ever asked me if I agreed to it.
+>
+> We stopped there. Nothing is finished. Val is in a tower somewhere and Deanna is still in the bag.

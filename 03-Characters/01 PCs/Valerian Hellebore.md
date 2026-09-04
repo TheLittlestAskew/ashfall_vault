@@ -1,12 +1,19 @@
 # Valerian Hellebore
 
+> 🛑 **READ THIS FIRST — DISAMBIGUATION (added S16).**
+> **Valerian has not been present at the table since S14.** Everything "Valerian" said and did **in character in S15 and S16 belongs to [[The Doppelganger]]**, a changeling impostor who wore his face for roughly three weeks and was exposed in [[Session 16 — What the Fuck]].
+> **The real Valerian is alive, tied up in a tower**, seen only inside the impostor's memory. He **does not know [[Deanna Smith-Wesson]] is dead.**
+> ⚠️ **The S15 note has NOT been retro-edited and must not be** — `No Session Contamination` applies. In particular, **S15's hostility toward [[Eiluned Lulu Denulie|Lulu]] was the impostor**, confirmed above-table as deliberate characterisation, and the S15 record stands as played.
+> ⚑ **The impostor's page name is provisional and awaiting Taylor's ruling.** **DO NOT MERGE the two pages.**
+
 **Played by:** Chase
 
 |                     |                                                             |
 | ------------------- | ----------------------------------------------------------- |
 | **Race**            | Elf                                                         |
 | **Class**           | Druid (Circle of the Land)                                  |
-| **Level**           | **10** as of S10 (5 at S01, gained Wild Resurgence + 3rd-level spells; 8 at S09; **8 → 10 in one award** ⚑) |
+| **Level**           | **10** as of S10 (5 at S01, gained Wild Resurgence + 3rd-level spells; 8 at S09; **8 → 10 in one award** ⚑). ⚠️ **The party reached 12 in S16, but Valerian was not there for it** — whether he levels off-screen is ⚑ [Unknown/Ambiguous] |
+| **Status**          | 🛑 **CAPTIVE (S16).** Held in an unidentified tower; alive as of the memory [[Zelda "Z" Whipper]] read. Off-screen for two sessions |
 | **Signature magic** | Starry Wisp · Moonbeam · Spiny Shield (⚑ homebrew reaction) |
 | **Languages**       | Common, Druidic, Elvish, Goblin                             |
 | User_ID             | 106010515                                                   |
@@ -29,6 +36,11 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 - Won the boot-camp **training competition** ("the magic of loopholes" — teleported through the obstacle course); holder of the **Perma Inspiration**.
 
 ## Key Events
+
+- **S16: HE WAS NEVER HERE — AND HE HASN'T BEEN FOR TWO SESSIONS.** 🛑 **Everything attributed to "Valerian" in S15 and S16 is [[The Doppelganger]].** The impostor was exposed in the chain room of [[The Volcano Tomb]]: [[Zelda "Z" Whipper]] suspected him twenty minutes in (**elves don't sleep, and he slept**), the party ambushed him, [[Flux]]'s **Silvery Barbs** forced a failed Zone of Truth save, and [[Samothy Smith-Wesson]]'s **Hunter's Sense** named him — *"He's a changeling."*
+  🛑 **The real Valerian is alive and tied up in a tower.** [[Zelda "Z" Whipper]] deep-dived the impostor's memory and found *"a tower And a tied-up Val. Those are the last 2 images"*, then rolled History: **the tower is very familiar — she saw it recently.** ⚑ **Never identified.** The impostor **would not give up the location.**
+  ⚠️ **He does not know [[Deanna Smith-Wesson]] is dead.** He has missed her death, her non-revival, [[Eiluned Lulu Denulie|Lulu]] joining the party, the relic, and the entire journey east.
+  ⚠️ His **Cloak of Many Fashions** was worn by the impostor and blocked [[Barrett Grimmskar]]'s first silver-bullet test. **Finding him is now the party's highest-priority open thread.**
 
 - **S15: CALL LIGHTNING, EVERY ROUND — and the worst he has treated anyone.** Rolled a **natural 20 on Nature (29)** to identify the [[Boilborn]] and learned **nothing** (*"like nothing you've ever seen or heard of before"*). Cast **Call Lightning at 5th level** and re-triggered it every single round for the rest of the fight, targeting pairs — the bulk of the party's damage. Also **Shillelagh**, **Stone Shape** (plotting to cut a gem door out of the mine wall and have [[Vega Bloodroot]] kick it off its hinges), and a **vomit attack** the DM allowed for 1d6 acid on the rule of gross.
   ⚠️ **His treatment of [[Eiluned Lulu Denulie|Lulu]] escalated sharply.** He proposed testing the shrine sigils with **her** blood rather than his own; suggested she **walk into the unexplored corridor first** (*"maybe Lulu should go first"*), which Chase then called out at his own table; announced he would *"start picking over her corpse"* when she dropped; declined to let anyone spend a potion on her (*"it's fine, it's her time"*); and, when [[Zelda Z Whipper|Zelda]] healed her anyway, clarified he cast Cure Wounds *"with my foot on her."* He also rounded on Zelda at the session's end — *"Deanna died and you could have teleported us this whole time?"* — and apologised once [[Flux]] explained anchoring.

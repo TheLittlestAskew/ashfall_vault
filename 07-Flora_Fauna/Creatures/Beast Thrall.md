@@ -34,6 +34,24 @@ Large creatures ("much bigger than Zelda" — popping them with a toothpick, per
 
 Controlled by **Beast Masters** (light-blue magical auras; emerald-vulnerable). [[The Beast Tamer]] "trains and maintains all the vampire beasts" — relationship to the Beast Master class ⚑ pending DM.
 
+## The Revolted Thralls (S16) — a feral population east
+
+🛑 **A distinct, uncontrolled population of beast thralls exists east of [[The Dead Zone]], and they killed their own handler.**
+
+[[Lt. Hargraven]]'s briefing before the party left: rumour holds that feral vampire beast thralls out east are ones that *"turned on their beast tamer, or their beast master, and ran east… tore him to shreds, and then vanished."*
+
+**Confirmed in the field the same session:**
+
+- **Massive claw marks on trees and boulders** the entire road east — a Survival check read them as thrall marks.
+- A **half-eaten elk, torn apart with feral brutality.** ⚠️ A **Nature check ruled out vampires** — a *predator* did this. A **History check** then tied the marks and the kill to Hargraven's rumour: **these are the thralls that revolted.**
+- Claw marks are also **gouged into the walls inside [[The Volcano Tomb]]**, alongside scattered bones.
+
+⚠️ **They were never seen.** No encounter, no initiative. The party passed through their territory and reached the volcano unopposed.
+
+**What this establishes:** beast thralls are **not permanently bound to a handler** — the control can break, and when it broke these ones killed the handler and left. That is a direct qualification of everything the vault records about [[The Beast Tamer]] and [[The Beast Master]]'s psychic bond. ⚑ **Whether the revolt was spontaneous, caused, or the handler's death came first is unstated.**
+
+⚑ **They hunt by sound** — recorded in the session note; the DM's description of the vampire feeding method (*"it tears open a section of your body and then literally sucks all the blood out within 3 seconds, and you die a bloodless death"*) was likened at the table to *"a monster from A Quiet Place, but… for vampires."*
+
 ## Record
 
 - **S02:** 3 blind beast thralls slain at [[The Old Hospital]] — kills: Barrett (Finger Guns ×2), Vega (47-damage nat-20 crit), Valerian (Shocking Grasp execution). Flux retained a corpse for **changeling form study**.

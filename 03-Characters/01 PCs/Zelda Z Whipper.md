@@ -10,7 +10,7 @@ aliases: ['Zelda "Z" Whipper', "Zelda", "Z"]
 | ------------------- | ---------------------------------------------------- |
 | **Race**            | Halfling                                             |
 | **Class**           | Bard (College of the Moon — ⚑ homebrew/UA, confirm)  |
-| **Level**           | **10** as of S10 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑) |
+| **Level**           | **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature magic** | Starry Wisp · Bane · Thunderwave                     |
 | **Demeanor**        | Relentlessly cheerful — skips, cartwheels, mood ring |
 | User_ID             | 107276273                                            |
@@ -26,6 +26,11 @@ aliases: ['Zelda "Z" Whipper', "Zelda", "Z"]
 Mood ring (graduation item — "Ooh, my mood ring!") · grappling-hook bracers · two light weapons + pistol — see [[Loot Tracker S01-S10]].
 
 ## Key Events
+
+- **S16: SHE WAS RIGHT FROM MINUTE TWENTY, AND SHE DROVE THE WHOLE INVESTIGATION.** ⭐ **Zelda caught [[The Doppelganger]] on a mundane tell — elves don't sleep, and he slept.** *"He has this look in his eye where he actually looks sleepy."* Two Insight checks (**21**, **18**) both said something was off. She then spent the entire session trying to prove it: **Detect Thoughts four times**, rebuffed on the first three (a *"dirty 17"*, a **27**, and a **17 with self-cast Guidance**) before landing the fourth — *"His mind is just scattered"* — and **deep-diving his memory to find a tower and a tied-up Val**, the last two images in his head. Her **History check on the tower was an 8** and ⚠️ **the DM gave it to her anyway**: *"The tower is very familiar. You think you saw it just recently."*
+  On the road she cast **Detect Evil and Good** on watch and was **the only person who could see the [[Undead Centipede-Worms]]** feeding on every sleeper — then **remembered she had Tiny Hut**, ritually cast it, and ended the night safely (to [[Vega Bloodroot]]'s exasperation). Woke the party to warn them: *"Val gets a kick in the ass. Everybody else is gentle."*
+  In the chain room she **Counterspelled Depth Charge at 4th level and failed** (he'd cast at 6th), held a **silver-tipped dagger** to his cheek, and **searched his pockets — empty.** 🛑 She argued to **keep him alive** while [[Flux]] and [[Eiluned Lulu Denulie|Lulu]] argued to kill him, and delivered the session's darkest comfort: *"And then he'll be with his parents, it will be okay. We made it through Deanna, we will be fine."*
+  ⚠️ Also: too short to kick a door open, so she kicked it and left. Level **10 → 12** ⚑ off-screen.
 
 - **S15: SHE BROUGHT LULU BACK TWICE, AND GOT EVERYONE HOME.** Opened with **Guiding Bolt for 22** and a Finger Guns bonus action. Got **grappled** by a [[Boilborn]] and took 3d6 poison a round until the table researched, live and correctly, whether **Misty Step escapes a grapple** — a grapple sets speed to 0 but doesn't restrain, and nothing in the condition prevents teleportation. She popped free.
   ⭐ **She is the only reason [[Eiluned Lulu Denulie|Lulu]] is alive.** Revived her from 0 twice — Cure Wounds at 3rd plus a **Bardic Inspiration** die for extra healing both times — then **Mass Healing Word** across five of the party. Closed the session with **Teleportation Circle** back to base, which drew [[Valerian Hellebore]]'s *"Deanna died and you could have teleported us this whole time?"* until [[Flux]] pointed out you can only teleport to an anchor you have already established, and a new one takes about a year. ⚠️ Also took **16 friendly-fire damage** from [[Barrett Grimmskar]]'s missed Spellfire Flare and 5 more from Flux's nat-1 Finger Guns. Rolled a natural 1 on initiative and rerolled it as a halfling.

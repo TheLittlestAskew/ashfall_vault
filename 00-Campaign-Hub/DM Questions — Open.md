@@ -137,3 +137,49 @@ These came out of the pipeline but need Taylor, not the DM:
 - ⚑ **[[Deanna Smith-Wesson]] has ZERO archived rolls for S13**, in a session where she killed a Bonewraith. Either she rolled physical dice or the sync missed her.
 - 🛑 **PRIVACY — a standing policy decision.** Three consecutive transcripts have carried significant out-of-character personal information about real people; all of it was redacted per Taylor's per-session rulings, with unredacted originals kept in gitignored `_pipeline/`. **Standing recommendation: gitignore `Session_Sources/Transcripts/Raw_Unedited/` the way `Recordings/` already is.** ⚠️ **17 transcripts are already public and have not been audited.**
 - ⚑ **Session 12 is still `.docx`-only** — no Dashboard row, no tracker blocks, absent from the website. The session index jumps S11 → S13.
+
+---
+
+## S16 (added 2026-09-03)
+
+### ⭐ Ask first — these block vault accuracy
+
+- 🛑 **WHAT IS THE EMBERBORN HERO'S NAME?** This is the sharpest spelling problem in the vault. **Four renderings across two sessions**, and the vault has already committed to one of them: **`Theros Emberborn`** was applied at 60% in the **S12** spell-check and stands in the corrected S12 transcript; **S16** gives `Thalos`, `Tharos` and `Tharos'`, and **`Tharos` was applied as the S16 majority hearing.** 🛑 **Neither is canonized and neither transcript will be retro-edited until you rule.** Page held at [[Tharos Emberborn]].
+- 🛑 **THE GRIEVEFLAME AND THE FLAME GREAVES — one relic or two?** You said *"he was the wielder of the Grieveflame, the Flame Greaves,"* which reads either as an apposition (one thing, two names) or as a list. **It is the party's stated objective**, so it matters.
+- 🛑 **IS THE SUNFIRE BLADE THE SAME SWORD [[Vega Bloodroot]] PULLED IN S15?** The mural shows it **piercing a vampire lord atop a stone altar and left embedded there as a seal**. Vega's relic was also unnamed and also embedded, and **you tied the tomb's warning to it unprompted** — *"this ties directly into the sword that Vega has."* ⚑ Note also the S14 tapestry's *"Blade of Sunfire."* **Three possible references to one weapon.**
+- 🛑 **DO ELVES SLEEP?** The table argued the 2024 trance text well and correctly deferred to you, and **you have not ruled.** ⚠️ The whole doppelganger investigation rests on it: [[Zelda "Z" Whipper]]'s first suspicion was *"he actually looks sleepy."* If elves may sleep, she was right for the wrong reason.
+- 🛑 **HOW SHOULD THE DOPPELGANGER BE FILED IN THE VAULT?** He has no name. Options: **a separate NPC page** (current, at [[The Doppelganger]], consistent with [[The Cloaked Figure]] / [[The Massive Thrall]]) · a **`Val (doppelganger)` alias** · or **a disambiguation block on [[Valerian Hellebore]]'s page**. 🛑 **The pages have deliberately NOT been merged.**
+
+### Naming and spelling
+
+- ⚑ **Confirm `Emberos`** — the fire deity named on the mural. ⚑ **And is he the same as the unnamed pre-vampire fire deity buried beneath the [[Old Shrine]] in S15?** Both are fire, both pre-vampire, both tied to an Emberborn — **but they are two different sites and nothing on the record equates them. Not merged.**
+- ⚑ **Confirm `the Broken Crown Mountains`** and **`the King's Mountain`.** ⚑ When was the *"great earthshake"*, and who were the kings?
+- ⚑ **`The Book of Varona`** — confirm the spelling, and 🛑 **which physical item is it?** You said *"someone has the Book of Varona. I can't remember who"*; [[Samothy Smith-Wesson]] thinks it is *"the book that only I can read."* **This is the first name the party's unreadable book has ever had.**
+- ⚑ **`The Second Vampire War` / `The Second Coming`** — is *The Second Coming* the war's title, the era's, or a book's?
+- ⚑ **Who is `Richard`?** Said three times — *"What the fuck, Richard?"* — **and it named the session.** ⚑ **No referent anywhere in the campaign.**
+- ⚑ **Is `"Doc"` the table's name for you?** Appears twice in S16 and once in the S15 raw transcript. **It is a disambiguation hazard** before any speaker map is hard-coded.
+- ⚠️ **`Cloak of Many Fashions` or `Cloak of Fashion`?** The transcript and [[Valerian Hellebore|Valerian]]'s DDB sheet say **Many Fashions**; the glossary, the S01 note, [[Loot Tracker S01-S10]] and his PC page all say **Cloak of Fashion**. **We think the transcript is right — what is the in-fiction name?**
+
+### Mechanics
+
+- ⚠️ **`Pins and Needles` — whose is it?** [[Eiluned Lulu Denulie|Lulu]] cast it twice in S16 and once in S15; the vault also has it recorded as [[Zelda "Z" Whipper|Zelda]]'s from S11. **S16 makes S11 the outlier.** Settle it and the glossary, [[Homebrew Abilities]] and three session notes all line up.
+- ⚑ **`"322 to grapple"`** — an **impossible d20 total** that **you accepted** (*"That'll probably do it"*). Likely 32 or 22. Because you accepted it, the real number is load-bearing. **Left verbatim.**
+- ⚑ **`"Do we want Sturdy?"`** — an ability name or just an adjective? **It is load-bearing: [[Vega Bloodroot]] goes first on it.**
+- *(Deliberately NOT asked: `circle spells`. Per this vault's standing rule, homebrew wording is not put to the DM — it is filed as canon-in-play in [[Homebrew Abilities]].)*
+
+### Story
+
+- 🛑 **WHO SEALED THE RECORDS OF THE FIRST VAMPIRE WAR?** *"A lot of the lore and facts of the first Vampire War were taken and sealed away."* **The biggest new question in the setting.**
+- 🛑 **Who is the master?** *"He made me."* / *"He pays me well."* ⚑ **Where is the tower**, and why does [[Zelda "Z" Whipper]] recognise it — *"you saw it just recently"*?
+- ⚑ **What is a "genetically altered" changeling?** Your phrasing via Hunter's Sense; never explained.
+- ⚑ **What watches inside [[The Volcano Tomb]]?** A growl that never comes from the same direction twice, and air *"heavy with anger."* Never seen.
+- ⚑ **Was the ridgeline figure the necromancer behind the [[Undead Centipede-Worms]]?** ⚠️ The doppelganger admitted **steering the party away from it.**
+- ⚑ **Where is the altar** the Sunfire blade was left in as a seal?
+
+### Vault / pipeline
+
+- 🛑 **THE ROLL-ARCHIVE FIX REGRESSED.** The `mcp__supabase-cutter__execute_sql` route that cleared S13–S15 is **permission-gated again** in automated runs, and the allowlisted `supabase` server has **no `SUPABASE_ACCESS_TOKEN`**. **S16 is transcript-only.** Either fix clears it: add the token to the gitignored `.env`, **or** allowlist `mcp__supabase-cutter__execute_sql`.
+- 🛑 **THREE FOUR-SESSION VAULT GAPS FOUND DURING THE S16 RUN**, all flagged in place rather than filled: [[Names & Terms]] jumps **S11 → S16** · `05-Mechanics/Spell_Usage` jumps **S11 → S16** · [[Vega Bloodroot Journal|Vega's journal]] jumps **S11 → S16**. ⚠️ The glossary gap has a **measured cost** — `Emberborn`, `Eiluned` and `Depth Charge` were all capped at 60% in the S16 spell-check for lack of an entry. **The source material for all three exists in the S13–S15 session notes.**
+- ⚠️ **`Project_Instructions.md` and `Convo_1_Instructions.md` are four sessions stale** — roster listed at **level 8** (actual: **12**), [[Deanna Smith-Wesson]] listed as active (dead since S14), and [[Eiluned Lulu Denulie]] not mentioned at all.
+- 🛑 **PRIVACY — still unruled, now four-for-four.** S16 applied **24 redaction markers** to each of the raw and corrected transcripts per the established S15 pattern, with the unredacted original preserved in gitignored `_pipeline/S16/`. 🛑 **The r-slur recurs at raw L1208 from a different speaker than the S15 instance, and the S15 instance is still unredacted and still unruled.** The question now spans two sessions and two speakers. **Standing recommendation, unchanged: gitignore `Session_Sources/Transcripts/Raw_Unedited/`.**
+- ⚑ **Four S16 spell-check rows were HELD, not applied** per the approved table's own heading: `Hunter's Mark → Counterspell` (L2290) · `blackened by salt → ash` (L1136) · `carousel → con save` (L2402) · `Vita Con 14` (L2356). **If they were meant to be applied, it is a one-minute re-run.**

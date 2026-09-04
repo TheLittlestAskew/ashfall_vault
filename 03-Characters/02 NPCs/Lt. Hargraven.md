@@ -8,10 +8,16 @@
 | **Full name** | Bron Hargraven (⚑ provisional) |
 | **Race / Class** | Human Fighter (Champion) — Lvl 15 |
 | **Role** | Ashwardens / base command — **PERMANENT PARTY MEMBER as of S06** (DM-run: "I got bored of not being a player, so I threw myself in there") |
-| **Status** | Alive |
-| **Last Known Location** | [[The Walled Base (Museum-Castle)]] — ran off to find the commander |
+| **Status** | **Alive** — 🛑 *facing disciplinary review because of the party (S16)* |
+| **Last Known Location** | [[The Walled Base (Museum-Castle)]] — **summoned before the council** (S16) |
 
 ## History
+
+- **S16: HE DECODES THE TABLET, THEN GETS CALLED BEFORE THE COUNCIL FOR THE PARTY'S BEHAVIOUR.** ⭐ **His first appearance since S09 — six sessions.** [[Samothy Smith-Wesson]] read out the S15 **obsidian tablet** and Hargraven **solved its riddle on the spot**: the mountain shaped like a broken crown is the **King's Mountain**, now the **[[Broken Crown Mountains]]** — *"one big mountain pass at one point, and then a great earthshake came and fractured it"* — east, past [[The Dead Zone]], and **visible from it** (*"I've I'm surprised you haven't seen them so far"*). He named **[[Tharos Emberborn]]**: *"he was the wielder of the Grieveflame, the Flame Greaves. He was the legendary hero that helped with the Vampire War."* He rolled Investigation on the tablet and found a **hidden compartment** containing a **charred map fragment**, a **fire-etched sigil** (*"could be some type of key… I would take that"*) and the warning *"only those who bleed fire may walk the path of Emberborn."*
+  🛑 **He cannot come with them. He has been summoned before the council to answer for the party:** *"I'm having to go and explain why, say, you destroyed a perfectly good library. Or desecrated a few temples, some graves, things like that, you know, I have to answer for that."* He treats it lightly; **the summons is not light**, and it is the first concrete institutional consequence of the party's methods.
+  **His parting brief:** the mountains are east, there are no dragons, but **feral vampire beast thralls** are rumoured out there — the ones that *"turned on their beast tamer, or their beast master, and ran east… tore him to shreds, and then vanished."* ✅ **Confirmed on the road** by a History check on a mauled elk and claw marks.
+  ⚠️ **Shown [[Deanna Smith-Wesson]]'s body inside a bag of holding**, he declined to pursue it: *"I fear that's just going to bring many more questions that we just— I don't, I don't feel like I want to know the answers to."*
+  **New personal details:** he is **a big reader who keeps notes**; he deflects a compliment about his physique with *"I just, you know, eat right and stay fit"*; he **calls everyone ma'am or sir out of politeness, not rank**; and he is **not married**. [[Eiluned Lulu Denulie|Lulu]] flirted with him on sight and put a hand on his arm to ask his workout routine. [[Samothy Smith-Wesson]] on him: *"He's our PR manager."*
 
 - **S01:** One of the three presiding officers at the Ashwarden graduation. When the alarm rang, took the other recruits to battle stations. At the main gate, furious at [[Commander Varan]]'s desertion ("What a fucking coward"), briefed [[Commander Thornfall]] and the party on the trapped civilians and the missing lever. Post-battle, delivered the debrief: *"You saved lives today, more than you know. And unlike our commander, you didn't run."* On hearing [[Flux]]'s report of [[The Beast Tamer]], **turned ghostly pale**, traced the wall map — last scouting report had the Beast Tamer far north — and ran off hurriedly to find the commander.
 
