@@ -19,7 +19,7 @@
 | **chokidar** | Library | Filesystem watching inside `ashfall_pipeline_watch.js` | `Workflows/scripts` `chokidar@^5.0.0` | 2026-09-02 | Free | — |
 | **BurntToast** | Library | Windows toast notifications with Review/Approve buttons | PowerShell module, `ashfall_notify.ps1` | ~2026-08-31 | Free | The approval step of the pipeline |
 | **Supabase** | Service | `Rectrix_Caedere` — rolls and sessions for Ashfall Britannia | project `vtrtyagltwdrbastpppl` | ~2026-08-31 | Free tier | Wired per `Workflows/Project/Project_Instructions.md` |
-| **supabase** | MCP | Vault-scoped MCP server for Supabase reads/writes | `.mcp.json` at vault root | ~2026-08-31 | Free | — |
+| **supabase** | MCP | Vault-scoped MCP server for Supabase reads/writes | `.mcp.json` at vault root | 2026-09-03 | Free | 🛑 **BLOCKED — returns `Unauthorized`.** `.mcp.json` interpolates `SUPABASE_ACCESS_TOKEN`; that var is unset and the vault `.env` holds only `DDB_COBALT`. Blocked S16's roll cross-reference entirely. `supabase-account2` / `supabase-cutter` are scoped to other projects and are not substitutes |
 | **Python 3** | CLI | `docx_to_text.py` — converting source `.docx` transcripts | local install | 2026-08-29 | Free | — |
 | **Node.js + npm** | CLI | Running the watcher, transcribe, and index-generation scripts | local install | ~2026-09-03 | Free | Inferred for S16 — `transcribe.js` produced the S16 transcript, but I did not run it myself |
 | **session-index-generator** | Skill | Builds the public session index | `Workflows/scripts/generate_public_session_index.mjs` | 2026-08-30 | Free | — |
