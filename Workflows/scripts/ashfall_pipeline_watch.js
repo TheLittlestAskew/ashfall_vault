@@ -271,8 +271,13 @@ function processRecording(mp3) {
   });
   const ok = runClaude(prompt);
 
+  // Record the stage Phase A actually reached. This used to write
+  // 'awaiting_approval' unconditionally, above the !ok check below, so a failed
+  // Phase A still read as approvable and --approve would run the apply,
+  // propagate and push legs against a review packet that was never written.
   fs.writeFileSync(path.join(PIPELINE_DIR, 'state.json'),
-    JSON.stringify({ pendingFolder: pdir, transcript, ...sess, stage: 'awaiting_approval' }, null, 2));
+    JSON.stringify({ pendingFolder: pdir, transcript, ...sess,
+      stage: ok ? 'awaiting_approval' : 'phaseA_failed' }, null, 2));
 
   if (!ok) { setStage('phaseA', 'failed', 'See watcher.log'); return notify('Phase A FAILED — see _pipeline\\watcher.log.'); }
 
@@ -318,11 +323,33 @@ function publishToSite(nn) {
   return true;
 }
 
+// Why a pending session cannot be approved, or null when it can be.
+// Phase B consumes spellcheck.md, so its absence means Phase A never finished.
+// `exists` is injectable so the self-test can exercise this without touching disk.
+function approvalBlocker(st, exists = fs.existsSync) {
+  if (!st || !st.pendingFolder)     return 'state.json has no pendingFolder — nothing to approve.';
+  if (st.stage === 'complete')      return `session ${st.nn} is already complete.`;
+  if (st.stage === 'phaseA_failed') return `Phase A failed for session ${st.nn} — see _pipeline\\watcher.log.`;
+  if (!exists(path.join(st.pendingFolder, 'spellcheck.md')))
+    return `spellcheck.md is missing from ${st.pendingFolder} — Phase A did not finish.`;
+  return null;
+}
+
 function approve() {
   const statePath = path.join(PIPELINE_DIR, 'state.json');
   if (!fs.existsSync(statePath)) return log('No pending session to approve.');
   const st = JSON.parse(fs.readFileSync(statePath, 'utf8'));
   const pdir = st.pendingFolder;
+
+  // Refuse before ANY side effect. Everything past this point applies
+  // corrections, rewrites vault notes, commits and pushes.
+  const blocker = approvalBlocker(st);
+  if (blocker) {
+    log(`Approval REFUSED — ${blocker}`);
+    log(`Nothing was applied. Re-run Phase A:  ${catCmd} "${path.join(pdir || PIPELINE_DIR, '_prompt_convo1_phaseA_md.txt')}" | claude -p ${CLAUDE_FLAGS}`);
+    process.exitCode = 1;
+    return notify(`Approval refused for session ${st.nn} — ${blocker}`);
+  }
 
   // The window may have been closed, or this --approve run is a fresh process
   // whose status.json predates it / belongs to another session. Re-seed so the
@@ -370,6 +397,32 @@ function approve() {
 }
 
 // ── MAIN ──
+// ── SELF-TEST:  node ashfall_pipeline_watch.js --self-test ──
+// Covers approvalBlocker only — the guard that decides whether --approve may
+// touch the vault. `exists` is stubbed, so this writes nothing and needs no fixtures.
+if (process.argv.includes('--self-test')) {
+  const assert = require('assert');
+  const yes = () => true, no = () => false;
+  const ready = { nn: '17', pendingFolder: 'X', stage: 'awaiting_approval' };
+
+  // Approvable: packet present and Phase A reported success.
+  assert.equal(approvalBlocker(ready, yes), null);
+
+  // The S17 regression: Phase A died, spellcheck.md was never written.
+  assert.match(approvalBlocker(ready, no), /spellcheck\.md is missing/);
+
+  // A stale 'awaiting_approval' cannot outvote a recorded Phase A failure.
+  assert.match(approvalBlocker({ ...ready, stage: 'phaseA_failed' }, yes), /Phase A failed/);
+
+  // Edge cases: no state, no pendingFolder, already-finished session.
+  assert.match(approvalBlocker(null, yes), /nothing to approve/);
+  assert.match(approvalBlocker({ nn: '17' }, yes), /nothing to approve/);
+  assert.match(approvalBlocker({ ...ready, stage: 'complete' }, yes), /already complete/);
+
+  console.log('ashfall_pipeline_watch: self-test passed');
+  process.exit(0);
+}
+
 if (process.argv.includes('--approve')) { approve(); process.exit(0); }
 
 // ── ONE-OFF MODE:  node ashfall_pipeline_watch.js --file <mp3> ──
