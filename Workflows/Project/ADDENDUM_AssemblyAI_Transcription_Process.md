@@ -90,7 +90,7 @@ Configured to expect **8 speakers (DM + 7 players)** by default — SITL's defau
 - The model sometimes identifies speakers by character/player name
 - A speaker with mic-quality shifts can get split into two labels
 - Quieter voices are most commonly mislabeled
-- ⟦FILL: player languages / accents⟧ — account for any non-native English speakers; prefer context over auto-correction
+- **No non-native English speakers / no heavy accents at this table** — unlike SITL, accent is not a diarization or spell-check factor here. Mislabeling is driven by mic quality and volume only.
 - **Speaker mapping must be verified each session during the spell-check step**
 
 ---

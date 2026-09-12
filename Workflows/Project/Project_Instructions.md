@@ -124,7 +124,7 @@ While processing the transcript, note any NEW character details that surface in 
 
 **Taylor's character is Vega Bloodroot.** Maintain special attention to her arc, emotional beats, relationships, signature items, combat moments, rage/temper, and recurring themes — the same priority Kit Aluri gets in SITL.
 
-**Language note:** ⟦FILL: player languages / accents⟧ — account for any non-native English speakers during spell check; prefer context over auto-correction.
+**Language note:** **No non-native English speakers and no heavy accents at this table.** The non-native-speaker spell-check rule does **not** apply to Ashfall — do not soften confidence or defer a correction on accent grounds. (That rule belongs to *Sky Is The Limit*: Sirius/Aeolus is Polish, Florian/Blarg is German. See `sitl_vault/Workflows/Project/Convo_1_Instructions.md`.) Ordinary ASR mishearing still applies; prefer context over auto-correction as always. — Confirmed by Taylor, 09-12-2026.
 
 **Null-character rolls:** Some rolls log with empty character names — resolve by `user_id` (e.g. `109467614` = Flux, `109912548` = Deanna).
 
@@ -144,7 +144,7 @@ While processing the transcript, note any NEW character details that surface in 
 | Verbatim Quotes Only | Dialogue must be exact and word-for-word. Never paraphrase. |
 | Accurate Attribution | If a DM line may belong to an NPC, flag and ask — do not guess. |
 | Universal Date Keying | Every data point MUST be tagged with its originating real-world session date. |
-| Audio/Language | Account for non-native English speakers and speech-to-text errors. |
+| Audio/Language | Account for speech-to-text errors. **No non-native English speakers at this table** — see the Language note above; that rule is SITL's, not Ashfall's. |
 | DM Audio Drops | Mark clipped/garbled audio `[inaudible/cut off]` and flag for review. |
 
 ---

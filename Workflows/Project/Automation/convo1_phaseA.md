@@ -14,7 +14,7 @@ Do exactly this:
 
 1. Confirm the session number and real-world date. The filename implies S{{NN}} / {{DATE}}. Cross-check against the transcript content. If they disagree, record the discrepancy in summary.md (below) — do not resolve it yourself.
 
-2. Run the spell-check pass per the Convo 1 instructions: misheard words, proper-noun errors, and speech-to-text artifacts. ⟦FILL: player languages / accents⟧ — apply the non-native-speaker rule for any heavily accented players; prefer context over autocorrection. Do NOT apply anything.
+2. Run the spell-check pass per the Convo 1 instructions: misheard words, proper-noun errors, and speech-to-text artifacts. There are **no non-native English speakers and no heavy accents** at this table, so the non-native-speaker rule does not apply — do not hedge a correction on accent grounds. Prefer context over autocorrection as always. Do NOT apply anything.
 
 3. Write the proposed corrections table to {{PIPELINE_DIR}}/spellcheck.md as a markdown table, one row per change:
    | Original | Proposed | Reason | Confidence | Transcript line(s) |
