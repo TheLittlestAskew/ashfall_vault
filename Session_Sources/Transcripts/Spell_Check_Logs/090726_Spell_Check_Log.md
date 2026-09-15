@@ -165,18 +165,30 @@ recommendation — gitignore `Session_Sources/Transcripts/Raw_Unedited/` the way
   Windows, which makes every line read as changed and buries the real edits. Write vault
   files with `newline=""`. S16 and the source are both LF-only.
 
-## 7. ⚑ Speaker map is NOT resolved for S17
+## 6b. ⚠️ One drug reference was left IN and needs your call
 
-**Do not carry S16's map over — it does not match.** S16 had `E = Taylor / Vega`; in S17
-`E` is unambiguously the DM.
+**Raw line 2622 (02:40:24), [[Vega Bloodroot]]'s player, mid-combat:** *"Oh, that's right, he died. I'm sorry, you guys, I'm, I'm high."*
+
+🛑 **Not redacted, because it was outside the approved scope** — `flags.md` §10 scoped the drug material to raw lines 972–1006, and this line is 1,600 lines later in the middle of play. ⚠️ **But it is inconsistent:** the 00:53:48–00:55:00 block was redacted *specifically* because it discussed cannabis and prescriptions, and this line is the same category of disclosure on the same public repo. It is **Taylor's own** self-disclosure, which is why it was flagged rather than removed unilaterally.
+
+▶ **Taylor's call.** Say the word and it redacts in one pass; the unredacted original preserves it either way.
+
+## 7. ✅ Speaker map RESOLVED for S17 (corrected 09/14/2026)
+
+**An earlier pass in this same session recorded A/F/G/H as unresolved.** That was
+based on aggregate name-frequency counts only. **Reading the transcript resolves all
+four**, and the corrected note and transcript header both carry the resolved map.
+
+⚠️ **Do not carry S16's map over** — it does not match. S16 had `E = Taylor / Vega`;
+in S17 **`E` is unambiguously the DM**.
 
 | Letter | Identity | Basis |
 |---|---|---|
-| **E** | the DM | 373 turns, the most in the file; sets every scene, calls every save |
-| **B** | Chase / the **doppelganger** wearing Val's face | Addresses Taylor by name at 622; shapechanges into Deanna at 416. His real PC, Valerian Hellebore, is still captive in the tower |
-| **C** | Taylor / **Vega Bloodroot** | *"who am I? Vega is still raging"* (266); answers the strength check + dex save asked of Vega (728 → 730) |
-| **D** | **Barrett Grimmskar**'s player | Narrates Barrett in the third person 4×, including 1354 (row 8) |
-| **A, F, G, H** | 🛑 **UNRESOLVED** | Evidence conflicts. `F` says *"I'm a druid"* (1170), which fits Lulu, but also refers to Lulu in the third person 5×. `G` speaks row 4's line, which Phase A read as *"Samothy's own player"*, yet `G` names Mr. Cat 4× and Samothy only once |
-
-▶ **One question at the table, or an audio listen.** Deliberately left blank rather than
-guessed — a wrong map propagates into every downstream note.
+| **A** | Christie / [[Zelda "Z" Whipper]] | De facto party leader; the DM calls her *"boss lady"* (00:49:27). Mind-linked to the impostor all session |
+| **B** | Chase / **the doppelganger** wearing Val's face | Addresses Taylor by name at 622; shapechanges into Deanna at 416. His real PC, Valerian Hellebore, is still captive. **Dies at 02:51** |
+| **C** | Taylor / [[Vega Bloodroot]] | *"who am I? Vega is still raging"* (266); answers the str check + dex save asked of Vega (728 → 730) |
+| **D** | [[Barrett Grimmskar]]'s player | Narrates Barrett in the third person throughout, incl. 1354 (row 8) |
+| **E** | **the DM** | 373 turns, the most in the file; sets every scene, calls every save |
+| **F** | Madi / [[Eiluned "Lulu" Denulie]] | *"Lulu's just gonna…"* (524), *"I'm a druid"* (1170), wild shapes into a fly |
+| **G** | Josh / [[Samothy Smith-Wesson]] (+ Mr. Cat) | CON save +6 at 489; severs the impostor's spine; Boots of the Winding Path |
+| **H** | [[Flux]]'s player | The DM narrates *"So Flux, you get by the chains"* (1137) onto H's roll; Barrett addresses H as *"Flux"* at 1233 |

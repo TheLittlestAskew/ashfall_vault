@@ -33,25 +33,29 @@
 #    from Taylor's own signature; the glossary entry is now CONFIRMED.)
 #
 # ---------------------------------------------------------------------------
-# SPEAKER MAP — NOT RESOLVED FOR S17. DO NOT CARRY S16's MAP OVER; it does not
-# match (S16 had E = Taylor/Vega; in S17 E is unambiguously the DM).
+# SPEAKER MAP - RESOLVED 09/14/2026 from the transcript itself.
+# DO NOT CARRY S16's MAP OVER; it does not match (S16 had E = Taylor/Vega;
+# in S17 E is unambiguously the DM).
 #
-#   FIRM, evidenced in this transcript:
-#     E = the DM            373 turns; sets every scene, calls every save
-#     B = Chase / the DOPPELGANGER wearing Val's face (his real PC, Valerian
-#         Hellebore, is still captive in the tower). Addresses Taylor by name
-#         at line 622 and shapechanges into Deanna at 416.
-#     C = Taylor / Vega Bloodroot   "who am I? Vega is still raging" (266);
-#         answers the strength check + dex save asked of Vega (728 -> 730)
-#     D = Barrett Grimmskar's player   narrates Barrett in the third person 4x,
-#         including line 1354 (row 8, Eric -> Barrett)
+#   A = Christie / Zelda "Z" Whipper - de facto party leader; the DM calls her
+#       "boss lady" (00:49:27). Mind-linked to the impostor all session.
+#   B = Chase / THE DOPPELGANGER wearing Val's face. His real PC, Valerian
+#       Hellebore, is still captive in the tower. Addresses Taylor by name at
+#       622; shapechanges into Deanna at 416. DIES at 02:51.
+#   C = Taylor / Vega Bloodroot - "who am I? Vega is still raging" (266);
+#       answers the str check + dex save asked of Vega (728 -> 730).
+#   D = Barrett Grimmskar's player - narrates Barrett in the third person
+#       throughout, incl. 1354 (row 8, Eric -> Barrett).
+#   E = the DM - 373 turns, the most in the file; sets every scene.
+#   F = Madi / Eiluned "Lulu" Denulie - "Lulu's just gonna..." (524),
+#       "I'm a druid" (1170), wild shapes into a fly.
+#   G = Josh / Samothy Smith-Wesson (+ Mr. Cat) - CON save +6 (489), severs
+#       the impostor's spine, Boots of the Winding Path.
+#   H = Flux's player - the DM narrates "So Flux, you get by the chains"
+#       (1137) onto H's roll; Barrett addresses H as "Flux" at 1233.
 #
-#   UNRESOLVED — evidence conflicts, deliberately left blank rather than guessed:
-#     A, F, G, H vs Samothy, Flux, Zelda, Lulu, Mr. Cat.
-#     F says "I'm a druid" (1170) which fits Lulu, but also refers to Lulu in the
-#     third person 5x. G is the speaker of row 4's line, which Phase A read as
-#     "Samothy's own player", yet G names Mr. Cat 4x and Samothy only once.
-#     ⚑ Needs one question at the table, or an audio listen. Do not infer.
+#   NOTE: an earlier pass recorded A/F/G/H as unresolved. That was based on
+#   aggregate name counts only; reading the transcript resolves all four.
 # ---------------------------------------------------------------------------
 
 [00:00:09] SPEAKER A: It is 8:02 PM.
