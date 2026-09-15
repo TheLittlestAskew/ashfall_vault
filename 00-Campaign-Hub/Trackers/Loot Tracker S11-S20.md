@@ -97,6 +97,26 @@
 | [[The Doppelganger]] | *(pockets)* | 🛑 **Searched by [[Zelda "Z" Whipper]]. Empty.** *"You go through his pockets and there's nothing in them."* No papers, no orders, no coin |
 | 🛑 Not retrieved | **The Grieveflame / the Flame Greaves** | ⚑ **One relic or two?** The party's stated objective for the entire session. **The tomb was never entered.** Still in [[The Volcano Tomb]], presumably past the chain room |
 
+## S17 — Hobo, That's Your Reflection (09/07/2026)
+
+> ✅ **Roll archive queried** (143 rolls, `session_date = '2026-09-07'`). Item names cross-checked against it.
+> ⭐ **The dungeon objective is finally in hand** — and [[Vega Bloodroot]]'s sword turned on her in the same session.
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Flux]] | 🆕 **Gauntlets of Burning Grasp** | ✅ **ACQUIRED S17 — the objective of the whole dungeon.** Taken from Emberborn's corpse, which then *"begins to crumble… his bones turn to dust"* with a final whisper: ***"let the fire walk with you."*** ⚑ **Naming note:** S16 recorded the objective as the **Grieveflame / Flame Greaves**; the DM's S17 read-aloud calls them **Gauntlets of Burning Grasp** and shows them worn on the **hands**, not the legs. 🛑 **Reconcile — one relic or two?** |
+| [[Vega Bloodroot]] | **Voranthyr +2** *(the burning longsword from S15)* | 🛑 **CURSED AND FUSED TO HER HAND, S17.** After her first attacks a **CON save of 8** triggered it: *"It is clamped to your hand. You can't remove it now… And you are bleeding."* **7 slashing per turn, ongoing.** **Remove Curse does not work** — the DM: *"it's story-driven."* Only **unnamed monks**, at the site where she means to leave her token, can lift it. ⚑ **The name `Voranthyr +2` comes from the ROLL ARCHIVE, not from play** — every attack this session is logged under it, but **nobody says it aloud**; the table only says *"my pretty new sword."* **Provisional until spoken.** ⚠️ Still unreconciled against the **Sunfire blade** of the S16 murals / S14's *"Blade of Sunfire"* — four references now |
+| All PCs | 🆕 **Flower crowns** | Left on every party member's head by the arcane mist released when [[The Doppelganger]] died — **[[Valerian Hellebore]]'s magic**, unable to find its host, dissipating. ⚑ **Possibly permanent:** the authoring player's stated intention is that they are, and [[Vega Bloodroot]] asked to keep hers. **Not a DM ruling** |
+| [[Samothy Smith-Wesson]] | **Boots of the Winding Path** | ⚑ **First clear use in the vault.** Teleport **15 ft** to any point in sight, repeatedly — used to **skip the chain gauntlet entirely** without rolling, carrying **[[Mr. Cat]]** with him. The DM allowed the carry and ruled Mr. Cat *"too small for the chains to recognize him"* |
+| [[Vega Bloodroot]] | **The Sun Shard / "Solar Fist"** | Still mounted on her brass knuckles. Referenced by [[Flux]] (*"she has the stone on her brass knuckles"*) but **not used** |
+| [[Vega Bloodroot]] | **Eldritch Claw Tattoo** | Activated as a bonus action to carry into the following turn |
+| [[Vega Bloodroot]] | **Bracers** ⚑ | **+1 AC**, confirmed by the DM on the record — but ⚠️ *"I have no idea"* whether it is applied on her sheet. **Worth a check before S18** |
+| [[Vega Bloodroot]] | 🆕 **An unnamed ring** | ⏸ **Earmarked, not yet placed.** She intends to leave it at the monks' site as *"something meaningful that I will absolutely want to get back."* The DM said she may do it *"in the next room"* — **it never happened on screen** |
+| Party | **Whisperwire earpieces** ⚑ | Let the party keep hearing [[The Doppelganger]] while gagged. ⚠️ **The vault records this item as the "Whispering earpiece"** (S15, taken from [[Deanna Smith-Wesson]]). **One of the two spellings is wrong** — held for an audio listen |
+| [[Flux]] | **Green Longbow of the Earth** | Fired once in the thrall fight; missed |
+| [[Flux]] | **Bag of holding** (containing [[Deanna Smith-Wesson]]) | Still carried. Her remains were discussed at 00:10 and left undisturbed |
+| 🛑 Not retrieved | **Emberborn's sword** | The DM described a sword in the sarcophagus, then corrected himself — *"I don't know why there's a sword in there. It's gauntlets."* ⚑ **Probably a misspeak, but it was said on the record** |
+
 ## Related
 
-- [[Loot Tracker S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]]
+- [[Loot Tracker S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Vault Sync Status]]

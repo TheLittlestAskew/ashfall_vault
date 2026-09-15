@@ -86,6 +86,26 @@
 | **10-foot floors** | Ruled on the record, correcting a player's "standard 12-foot floors" assumption. Governs vertical distances in [[The Grand Library of the Veiled Dawn]] and presumably elsewhere | S10 |
 | **Steel Defender proximity → disadvantage** | [[Mr. Cat\|Mr. Cat, Esquire]] being within **5 feet** imposed **disadvantage on an attack that had already hit**, forcing a reroll (22 → 7, miss). Applied *retroactively* within the same resolution | S10 |
 
+## Standing Rules Added S17
+
+- 🛑 **Thrall CR scales with party level.** Stated plainly for the first time: *"I'm adjusting the CR rating and stuff for the thralls because they level up with you guys, so their points have been upped a little bit."* ⚑ **This is a standing rule, not a one-off.**
+- 🛑 **[[Vega Bloodroot]]'s sword curse is story-locked and immune to Remove Curse.** Asked directly, the DM: *"not on this one, because— okay, it's story-driven."* **Only the monks can lift it.** ⚑ Establishes a class of curse the party cannot solve with spells.
+- ✅ **Sweat counts as "a drop of water" for material components.** Ruled on the record when [[The Doppelganger]] argued Ice Knife needs no verbal component and only water. *"Yeah, sweat is water."*
+- ✅ **Orcs have sharp fingernails.** Asked by [[Vega Bloodroot]] mid-interrogation — *"can we say that orcs have sharp fingernails?"* — the DM: *"That's fine."*
+- ✅ **Teleportation carries worn/carried gear and a held companion.** [[Samothy Smith-Wesson]]'s **Boots of the Winding Path** moved him, his guns, and **[[Mr. Cat]]** together. The DM confirmed both the gear and the carry.
+- ✅ **A prone, bound, paralysed target is auto-hit.** The DM initially rolled, then accepted the argument: *"Yeah, no, that's fair. I guess this is just roll damage because you are paralyzed, tied up."*
+- ✅ **Spare the Dying works on non-player creatures**, including a hostile NPC, and [[Zelda "Z" Whipper]]'s bard version is **at-will and ranged** rather than touch. ⚑ The table compared two printings on the record; the range difference was accepted as a 2014/2024 split.
+- ✅ **A cast spell may be retroactively un-cast by the caster, with DM consent.** [[Zelda "Z" Whipper]]: *"Can I just proactively not have cast Spare the Dying?"* The DM: *"That's fine."* ⚠️ **This one is worth watching** — it is a real precedent for rewinding a resolved action.
+- ✅ **A natural 1 on an attack carries no fumble effect.** The DM considered inventing one for [[Zelda "Z" Whipper]]'s Finger Guns, then declined: *"it didn't make sense. So nothing happens. You just miss."*
+- ✅ **Rage can be extended by bonus action indefinitely** under 2024 rules, without needing to attack something each round. Confirmed against the 2014 habit of hitting an object to sustain it.
+
+## Deferred / Pending Rulings (S17)
+
+- 🛑 **The monks — name and location.** Deferred on the record at 01:33:03: *"I will have to get back to you on their name and location later because I'm not going to go find that note."* **Gates both the sword curse and [[Vega Bloodroot]]'s token.**
+- ⚑ **Are the flower crowns permanent?** The authoring player's intent is yes; **the DM never ruled.**
+- ⚑ **Does [[Valerian Hellebore]] return without magic?** *"Is Val gonna be just a guy now?"* Unanswered.
+- ⚑ **[[Vega Bloodroot]]'s bracers give +1 AC** — confirmed — but the DM does not know whether it is applied on her sheet: *"I have no idea. I don't think so."* **Check before S18.**
+
 ## Standing Rules Added S16
 
 | Rule | Detail | Source |

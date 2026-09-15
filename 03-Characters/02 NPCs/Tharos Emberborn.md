@@ -3,9 +3,9 @@ type: npc
 race: "[Unknown/Ambiguous]"
 class: "[Unknown/Ambiguous] — described only as a hero and a wielder"
 affiliation: The vanished fire-worshipping tribe / [[Emberos]]
-status: Long dead
+status: Long dead — body destroyed S17; echo laid to rest S17
 first_appearance: "[[Session 16 — What the Fuck]]"
-location: Presumed entombed in [[The Volcano Tomb]]
+location: His tomb in [[The Volcano Tomb]] — entered S17; body crumbled to ash
 ---
 
 # Tharos Emberborn
@@ -25,6 +25,24 @@ location: Presumed entombed in [[The Volcano Tomb]]
 | **Status** | **Long dead.** Depicted leading a last stand *inside this very mountain* |
 | **Last Known Location** | Presumed entombed in [[The Volcano Tomb]], [[Broken Crown Mountains]] |
 | **First named** | S16 — on the **obsidian tablet** and by [[Lt. Hargraven]] |
+
+## S17 — The Tomb, the Echo, and the Trial
+
+✅ **His tomb was found and entered.** A circular chamber roughly **140–150 ft** across with a **domed ceiling of black glass**, faintly glowing runes, a **stone sarcophagus on a raised dais**, and **two braziers burning with smokeless orange flame**. The air is *"warm, peaceful, and reverent."*
+
+⭐ **He appeared as a fiery apparition** before the tomb — *"not hostile but imposing"* — and set **a trial of courage, resolve and worthiness** that **explicitly could not be fought**. The echo *"speaks in a voice like cracking embers"* and asks:
+
+> *"Do you carry the fire without fear?"* — *"Will you stand against the night as I once did?"* — *"Show me your resolve."*
+
+The DM ran it as pure roleplay: **a bold declaration, a selfless act, a vow, or a symbolic gesture**, with *"if you hesitate, lie, or show cowardice, bad things happen."* [[Vega Bloodroot]] answered with **a vow to recover [[Valerian Hellebore]]**, the party joined it as a group oath, and **the echo bowed his head and dissipated**, leaving the chamber peacefully.
+
+🛑 **His body was destroyed the moment the gauntlets were taken.** He lay *"perfectly preserved, hands crossed over his chest"* — *"not undead, not enchanted, simply waiting"* — wearing the **Gauntlets of Burning Grasp**. The party punched him, booped his nose and cast Animate Dead at him with no effect; when [[Flux]] lifted the gauntlets: *"his skin flakes away like ash. His armor collapses inward. His bones turn to dust. A warm breeze sweeps through the chamber, almost like a sigh of relief."*
+
+> **A final whisper echoes: *let the fire walk with you.***
+
+⚠️ **Naming conflict, still unresolved and now sharper.** Both spellings appear **in this one transcript, three minutes apart, in DM read-aloud.** He ad-libs **`Tharos`** twice (once while openly hunting for his note — *"I don't know where it is"*), then says ***"Sorry, I was looking at the wrong note"*** and reads **`Theros`** from prepared boxed text. ⚑ **His written note appears to say `Theros`**, which matches S12. **Nothing was retro-edited.** ▶ Ask as *"your notes say Theros, right?"*
+
+⚑ **The relic naming also drifted.** S16 recorded the objective as the **Grieveflame / Flame Greaves** (leg armour); S17's read-aloud calls them the **Gauntlets of Burning Grasp** and shows them worn on the **hands**. 🛑 **One relic or two?**
 
 ## What Is Known
 

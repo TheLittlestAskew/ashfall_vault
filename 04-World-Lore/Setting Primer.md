@@ -129,6 +129,34 @@ The DM: *"someone has the Book of Varona. I can't remember who."* [[Samothy Smit
 
 A population of **feral vampire beast thralls east** *"turned on their beast tamer, or their beast master, and ran east… tore him to shreds, and then vanished."* Confirmed in the field by claw marks and a mauled elk. **The handler bond is not permanent.** See [[Beast Thrall]].
 
+## Vampires are ENGINEERING changelings *(S17)*
+
+🛑 **The biggest lore addition since S16's First Vampire War section**, and it came out of [[The Doppelganger]]'s own memory under [[Zelda "Z" Whipper]]'s Detect Thoughts.
+
+> *"He is not a natural-born changeling. He's genetically engineered and modified, you assume, by vampires, because changelings are kind of rare here. No one has seen them for a very long time… changelings are important for— like, they're good for spies and thieves and such. And without vampires not having any anymore, they tried to genetically engineer their own. **So this would be the first successful attempt of growing a changeling.**"*
+
+- ✅ **Natural changelings are rare and effectively vanished** — *"no one has seen them for a very long time"* — following a *"big fight."*
+- ✅ **Vampires valued them as spies and thieves**, and lost access to them.
+- 🛑 **"The first successful attempt"** implies a programme, failures before it, and more to come. ⚑ Asked directly whether there was another, the DM answered **"Maybe."**
+- ⚠️ **[[Flux]] is a changeling PC.** ⚑ Nothing in play connected her to this, but the adjacency is worth recording.
+
+## The Trials of Emberborn *(S17)*
+
+The dungeon beneath [[The Volcano Tomb]] is a **trial sequence**, not merely a tomb — the DM's own name for it is the **Trials of Emberborn**.
+
+- **Chains built to bind undead**, with capture sigils worked into the floor; the bones strewn about are what they caught.
+- **An illusory tile floor** over a 20-ft drop onto burning rock — ⚑ bypassable by **light, daylight or radiant spells**, a long jump, or a rope.
+- **A trial of resolve** presided over by a **fiery echo** of the entombed hero, which **cannot be fought** and is answered only by *"a bold declaration, a selfless act, a vow, or a symbolic gesture."*
+- ⚠️ **The whole complex is hostile to vampires** — *"vampires would not, or would have a really hard time crossing this because of all the fire and light."*
+- ✅ **The relic is released on the hero's destruction:** taking the **Gauntlets of Burning Grasp** crumbles the body to ash. *"Let the fire walk with you."*
+
+## Curses that spells cannot touch *(S17)*
+
+🛑 **Established as a category.** [[Vega Bloodroot]]'s sword fused to her hand and **Remove Curse does not work on it** — the DM: *"not on this one, because— okay, it's story-driven."*
+
+- ✅ **The fix is geographic, not magical:** *"there's monks there that will be able to uncurse the blade."*
+- ⚑ **The monks' name and location were deferred on the record** — and they sit at **the same site** [[Vega Bloodroot]] intends to leave a token, and where objects can be sacrificed.
+
 ## Geography (known)
 
 - [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*

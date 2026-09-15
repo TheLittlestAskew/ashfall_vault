@@ -188,7 +188,7 @@ SELECT MAX(timestamp_iso) FROM ashfall_session_rolls;
 
 ### What exists instead
 
-**~45 rolls are reconstructed from the transcript only**, in the *Full Roll Log* of [[Session 16 — What the Fuck]], every row flagged provisional. **They are deliberately NOT summarised into per-character statistics here** — doing so would present transcript guesses in the same table shape as archive-verified data for S13–S15, which is exactly the failure this file exists to prevent.
+**~45 rolls are reconstructed from the transcript only**, in the *Full Roll Log* of [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]], every row flagged provisional. **They are deliberately NOT summarised into per-character statistics here** — doing so would present transcript guesses in the same table shape as archive-verified data for S13–S15, which is exactly the failure this file exists to prevent.
 
 ⚠️ **The diarizer misattributes bare roll numbers** to whoever was speaking (confirmed at L338, L1416, L1430, L1478, L2280), so per-character counts from the transcript are **not trustworthy at all** this session. The archive is authoritative for who rolled; this transcript is not.
 
@@ -209,6 +209,40 @@ These come from narrated outcomes, not from counting:
 2. Build the per-character table in this file, matching the S13–S15 format.
 3. Reconcile against the session note's *Full Roll Log* and **correct every ⚑ attribution** — expect several to be wrong.
 4. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`), and the archive **undercounts d20s** because several players roll physical dice.
+
+## S17 — Hobo, That's Your Reflection (rolls keyed 2026-09-07) ✅ ARCHIVE QUERIED
+
+> ✅ **143 rolls** returned from `ashfall_session_rolls` on project `vtrtyagltwdrbastpppl` via `mcp__supabase-cutter__execute_sql`. **No sync gap** — the archive's latest overall entry is **2026-09-13**, well after this session.
+> ✅ **50 null-character rolls resolved by `user_id`**: 49 → the DM (`109639138`, who also owns the Vampire Beast Thrall rows), 1 → Lulu (`109912548`).
+> 🛑 **THE `individual_values` TRAP FIRED AND IT FAILS SILENTLY.** `jsonb_typeof` returns **`string`** on all 143 rows, so `individual_values #>> '{0}'` yields null and **every nat-20 and nat-1 reports zero with no error.** Parse with **`(individual_values #>> '{}')::jsonb`**. Doing so surfaced **3 nat 20s and 5 nat 1s**.
+> ⚠️ **Two more schema notes:** the column is **`"character"`**, not `character_name`; and `roll_type` is `roll` / `damage` / `to hit` / `save` / `check` — **there is no `attack`**.
+> ⚠️ **Counts are a FLOOR** — several players roll physical dice, and the transcript contains results with no archive row.
+
+| Character | Rolls | d20s | Nat 20 | Nat 1 | Avg d20 | To-hit | Damage rolls | Archived damage |
+|---|---|---|---|---|---|---|---|---|
+| **DM** (incl. unattributed) | 49 | 33 | 0 | **3** | 9.09 | — | — | — |
+| [[Vega Bloodroot]] | 26 | 13 | 0 | 1 | 9.31 | 7 | 6 | **68** |
+| [[Zelda "Z" Whipper]] | 17 | 9 | 0 | 1 | **12.78** | 8 | 8 | **75** |
+| [[Barrett Grimmskar]] | 14 | 9 | **1** | 0 | 9.33 | 6 | 3 | 33 |
+| [[Samothy Smith-Wesson]] | 14 | 8 | 0 | 0 | 12.13 | 5 | 6 | 64 |
+| [[The Doppelganger]] *(logged as Valerian)* | 9 | 8 | **2** | 0 | 9.63 | 1 | 0 | 0 |
+| [[Flux]] | 6 | 5 | 0 | 0 | **7.00** | 4 | 1 | 7 |
+| [[Eiluned "Lulu" Denulie]] | 5 | 4 | 0 | 0 | 11.00 | 0 | 0 | — |
+| Vampire Beast Thrall A | 2 | 2 | 0 | 0 | 11.50 | — | — | — |
+| Vampire Beast Thrall B | 1 | 1 | 0 | 0 | 4.00 | — | — | — |
+
+**Session totals: 143 rolls · 92 d20s · 3 nat 20s · 5 nat 1s · 247 archived damage.**
+
+### Records and trends
+
+- 🛑 **Two of the session's three natural 20s belong to the man who could not move.** [[The Doppelganger]] rolled a **nat 20 on his opening CON save** (22, resisting Vega's interrogation) and **another on initiative** (21) — while paralysed, gagged and hogtied. His own reaction: *"Now I fucking get a natural 20 as a dissipated fucking paralyzed motherfucking corpse."*
+- ⭐ **The third was [[Barrett Grimmskar]]'s**, and it was **bought** — a 3 on Spellfire Flare, rerolled with **Heroic Inspiration** into a nat 20 for **30 radiant**. The only nat 20 in the campaign so far that came from spending a resource.
+- ⚠️ **The DM owns 3 of the 5 natural 1s**, including **back-to-back nat 1s at 22:11** and one that spared [[Barrett Grimmskar]] outright.
+- ⚠️ **[[Flux]] had the coldest dice of the night** — a **7.00** d20 average across 5 rolls, the lowest single-session average recorded for her. [[Zelda "Z" Whipper]] had the warmest at **12.78**.
+- ⚑ **[[Vega Bloodroot]] led on volume and lagged on quality** — 26 rolls at a 9.31 average. Her output came from **+8/+10 to-hit and reckless attack**, not from the dice.
+- ⚑ **[[Zelda "Z" Whipper]] out-damaged [[Vega Bloodroot]] on the archive (75 to 68)** on nine fewer rolls.
+- ⚑ **Three DM d20s are timestamped 19:26 ET**, **36 minutes before the recording begins** (*"It is 8:02 PM"* at 00:00:09). **Pre-session prep, not a sync gap.**
+- ⚠️ **[[Vega Bloodroot]]'s curse triggered on a CON save of 8** (3 + 5) at 21:52 — the single most consequential roll of the session.
 
 ## Related
 

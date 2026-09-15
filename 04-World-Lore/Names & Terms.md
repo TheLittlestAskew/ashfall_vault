@@ -239,6 +239,24 @@
 
 **⚠️ The source recording misspells the campaign a third distinct way** — `090326 Ashfall Brittnia Recording.mp3`, against the canonical **Britannia** and the DDB registry's **Brittania**.
 
+## S17 first-seen terms — ⚑ NONE CANONIZED (except where noted)
+
+> 🛑 **The S12–S15 glossary gap above is still open and it is still costing accuracy.** This session's spell-check had to cap `Emberborn`-adjacent terms because the confidence rule keys on this file. **Run the catch-up before relying on these.**
+
+| Term | Type | Notes |
+|---|---|---|
+| **Gauntlets of Burning Grasp** | Item ✅ | **APPLIED S17** (capitalisation only — it is read-aloud boxed text and the dungeon objective). Worn on the **hands**. ⚠️ **Conflicts with S16's "Grieveflame / Flame Greaves"** (leg armour) for the same objective — **one relic or two?** |
+| **Voranthyr +2** | Item ⚑ | [[Vega Bloodroot]]'s cursed longsword. 🛑 **Sourced from the ROLL ARCHIVE, never spoken aloud** — the table says only *"my pretty new sword."* **Provisional until said at the table.** Still unreconciled against the **Sunfire blade** / *"Blade of Sunfire"* |
+| **Trials of Emberborn** | Lore ⚑ | The DM's name for the dungeon's challenges: *"You guys are doing the Trials of Emberborn."* Compared at-table to Baldur's Gate 3's Trials of Shar |
+| **Boots of the Winding Path** | Item ⚑ | [[Samothy Smith-Wesson]]'s. Teleport **15 ft** to any point in sight, repeatedly |
+| **Bone Cage** | Ability ⚑ | Named by [[Eiluned Lulu Denulie]] (*"Wait, I have Bone Cage"*). ⚠️ The ASR also produced `Strangecage` in the same scene — **held for an audio listen** |
+| **Risk Bullet** | Ability ⚑ | [[Barrett Grimmskar]] maneuver — expend a **Risk Die** as a bonus action for temporary HP (16 rolled) |
+| **Overkill** | Ability ⚑ | [[Barrett Grimmskar]], stated as a **level 11** feature. Ranged damage rider: add ability modifier, or an extra 1d8 if already added |
+| **Ballistic Smite** | Spell/Ability ⚑ | [[Samothy Smith-Wesson]], cast at 4th level for **5d6 acid** |
+| **Whisperwire earpieces** | Item ⚑ | ⚠️ **Conflicts with the vault's "Whispering earpiece"** (S15, taken from [[Deanna Smith-Wesson]]). **One of the two is wrong** — held for audio |
+| **feral vampire beast thralls** | Creature ⚑ | Masterless variety — **killed their own Beast Master**. No eyes, hunt by smell; weak to radiant, thunder, silvered. See [[Feral Vampire Thrall]] |
+| **the blurred master** | NPC ⚑ | [[The Doppelganger]]'s handler. Seen in memory; **face will not resolve**. ⚑ Possibly [[The Cloaked Figure]] — **do not merge** |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

@@ -172,6 +172,54 @@
 ⚠️ **Taylor (Vega) crosses 250** — but her closing run on Chase **reversed hard this session** (+7 to his +79). His lead goes from 19 back out to ≥91.
 **Chase is the first player past 300 campaign-wide.**
 
+## S17 — Hobo, That's Your Reflection (09/07/2026)
+
+> ✅ **UNIT REVERTS TO INSTANCES.** S16 was counted in *transcript lines containing the word* because no counter was available; **S17 is counted in instances**, like S11–S15. **S17 is therefore like-for-like with S11–S15 and NOT with S16.**
+> 🛑 **The session's top speaker is again [[The Doppelganger]], not [[Valerian Hellebore]]** — the player is still Chase, so the running totals are unaffected by the reveal. **He dies this session; S17 is his last.**
+> ⚠️ **Redacted passages are excluded from the count.** 97 redaction markers were applied before publication.
+
+| Speaker | fuck* | shit | bitch | damn/goddamn | Jesus Christ | other | Session Total |
+|---|---|---|---|---|---|---|---|
+| Chase ([[The Doppelganger]]) | **22** | 1 | **2** | 0 | 3 | 2 *(hell)* | **30** |
+| Doug (Barrett) | 5 | **6** | 0 | 1 | 0 | 1 *(motherfuck-)* | **13** |
+| Josh (Samothy) | 5 | 3 | 0 | **4** | 0 | 0 | **12** |
+| Taylor (Vega) | 5 | 2 | 0 | 2 | 0 | 2 *(son of a bitch, hell)* | **11** |
+| Taylor (DM) | 6 | 1 | 0 | 0 | 1 | 2 *(son of a bitch)* | **10** |
+| Christie (Zelda) | 5 | 3 | 0 | 0 | 0 | 0 | **8** |
+| Jill (Flux) | 0 | 1 | 0 | 0 | 1 | 1 *(son of a bitch)* | **3** |
+| Madi (Lulu) | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+
+\* `fuck` aggregates fuck / fucking / fucked / motherfuck-.
+
+**Session total: 87 instances** across 7 speakers.
+🛑 **Session champion: Chase, 30** — 34% of the session, and far below his S16 record. The register changed with the scene: S16's was panicked evasion, S17's is a **bound prisoner goading his captors**, capped by *"Now I fucking get a natural 20 as a dissipated fucking paralyzed motherfucking corpse."*
+⚠️ **[[Barrett Grimmskar]] posts his career best at 13** — almost all of it mid-combat dice reactions, plus *"I have a fucked up idea"* introducing the shotgun plan.
+⚠️ **Madi (Lulu) posts a clean sheet — 0.** Her only profanity-adjacent line is *"Begone, thot."*
+⚠️ **[[Flux]]'s 3 are all dice reactions**, which tracks: she had the coldest d20 average of the night at 7.00.
+⚑ **The DM's 10 are almost entirely VTT frustration**, not narration.
+
+## Running Totals (through S17, attributed only)
+
+> ⚑ **These totals skip Session 12**, which was never processed. They also carry S09's mic-only caveat and S13's provisional attribution.
+> 🛑 **MIXED UNITS REMAIN.** S11–S15 and **S17** are instance counts; **only the S16 delta is a line-count floor**. Totals stay **lower bounds** until S16 is re-counted by instance.
+
+| Speaker | Total | Δ since S16 |
+|---|---|---|
+| Chase ([[Valerian Hellebore]] → [[The Doppelganger]]) | **≥371** | +30 |
+| Taylor (Vega) | **≥261** | +11 |
+| Taylor (DM) | **≥137** | +10 |
+| Josh (Samothy) | **≥102** | +12 |
+| Doug (Barrett) | **≥61** | +13 |
+| Christie (Zelda) | **≥41** | +8 |
+| Madi (Deanna → Lulu) | **≥39** | +0 |
+| Jill (Flux) | **7** | +3 |
+| *Unattributed pool* | *≥66* | *+0* |
+
+🛑 **Chase's campaign record still stands at ≥79 (S16)** and cannot now be broken — **S17 was his last session as the impostor.**
+⚠️ **Josh (Samothy) crosses 100.**
+⚠️ **Doug (Barrett) posts his best session of the campaign (+13)** and passes 60.
+⚑ **[[Flux]]'s clean-sheet streak ends at 2** — her first profanity since S15.
+
 ## Related
 
-- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]]
+- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Vault Sync Status]]

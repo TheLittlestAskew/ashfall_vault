@@ -271,3 +271,36 @@
 > I am the fist. I have never once been the one who decides where it lands. I am starting to think that was the arrangement all along, and that nobody ever asked me if I agreed to it.
 >
 > We stopped there. Nothing is finished. Val is in a tower somewhere and Deanna is still in the bag.
+
+> [!note]- S17 — I am the one who promises. (Hobo, That's Your Reflection)
+> The thing wearing Val's face wanted us to watch it enjoy itself. So I stopped letting it.
+>
+> I had it by the arms. I asked the others what they wanted from me and nobody could say it plain, so I decided for them. I reached around its front, put one fingernail against its throat, and drew a line — shallow, the way you score bark before you split it. Then I told it about death by a thousand cuts, and I said: *one.* I told it my counting isn't good. Barbarian, no schooling. We might have to start over a few times.
+>
+> It cried. It had taken Deanna's face by then, and it cried, and I put the second cut exactly along the track the tear made. I want to be honest in this book, so: I am not sorry. I am something, but it isn't sorry.
+>
+> Samothy never blinked. Not once. Whatever the thing was reaching for in him, it didn't find it — and later, when it was down and bound, he rolled it over and took its legs away for good. *He changed his face to my dead sister.* That was all he said about it. I asked, once, if it could be fixed later. I don't know what I wanted the answer to be.
+>
+> We carried it through the chains like luggage. Zelda cracked it across the skull with the hilt of her sword and for a while it was quiet, and I remember being glad of the quiet more than I was glad of anything else.
+>
+> Then the fire asked me a question.
+>
+> An echo of a man long dead stood up out of the flame and asked whether I carry fire without fear, whether I'd stand against the night the way he did. I didn't have a clever answer. I said I don't know much about you, my guy, but I could try. And then I gave him the only true thing I had: I vowed to get Val back. His body or his soul, whichever one is left to get, no matter what it takes. The others put their hands in after mine — bow, sword, fist, gun, whip — and the echo bowed his head and let us pass.
+>
+> I meant it. That's the part I need written down. I have been the muscle so long I forgot I could be the one who promises.
+>
+> The tomb gave up its gauntlets and crumbled to ash with a sound like relief, and then the dead came in through the tunnel with no eyes and a great deal of hunger, and I finally got to swing the new sword.
+>
+> It bit me back. Second time it's done that — the same pull I felt dragging it out of the stone. It clamped onto my hand and would not let go, and my palm opened up, and it is still bleeding as I write this, because I have no way to set it down. There are monks somewhere who can take it off me. I don't know where yet. I'll find out.
+>
+> We killed the thralls. The thing wearing Val's face got torn apart by one of them while it lay there helpless, and screamed, and Zelda — Zelda, who it had been whispering inside of all night — stopped it dying. Then thought better of it, and let it go.
+>
+> I couldn't do it myself. I'll put that here too. I looked at it and I saw my friend's face and my hand would not move.
+>
+> When it finally went, something came out of it. A wind that smelled like moss and pine and salt and wet earth, and it went through every one of us like it was looking for somebody. It didn't find him. So it left us each a crown of flowers and went up into the rock.
+>
+> That was Val's magic, they say. All of it, leaving at once, because it had nowhere left to live.
+>
+> He's still alive up in that tower. I swore it in front of the fire and I'll swear it here: we are coming.
+>
+> I'm keeping the flowers.

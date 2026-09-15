@@ -27,6 +27,19 @@ tags: [campaign-hub, dm-questions, open-threads]
 
 ---
 
+## S17 (added 2026-09-14)
+
+1. 🛑 **What are the monks called, and where are they?** Deferred on the record at 01:33:03. **They gate two things at once:** lifting the curse on [[Vega Bloodroot]]'s sword, and the site where she means to leave her token. **Highest-value question of the session.**
+2. 🛑 **`Tharos` or `Theros` Emberborn?** ⚠️ **Now blocking S12, S16 and S17.** ▶ **Ask it narrowed:** *"your notes say Theros, right?"* — both spellings appear in this one transcript three minutes apart, and the `Theros` one is read from **prepared boxed text** immediately after *"Sorry, I was looking at the wrong note."*
+3. 🛑 **Gauntlets of Burning Grasp, or the Grieveflame / Flame Greaves — one relic or two?** S16 said leg armour; S17's read-aloud says **hands**.
+4. ⚠️ **Is [[Vega Bloodroot]]'s sword the Sunfire blade** from the S16 murals / S14's *"Blade of Sunfire"*? **Four references, still unreconciled.** And: **what is its in-fiction name?** The archive says `Voranthyr +2`; nobody has said it aloud.
+5. ⚑ **Are the flower crowns permanent?** Player intent says yes; you never ruled.
+6. ⚑ **Does [[Valerian Hellebore]] come back without magic?** *"Is Val gonna be just a guy now?"*
+7. ⚑ **Is there another doppelganger?** You answered *"Maybe"* at 01:24:49. ⚑ And **did anything actually go missing** during the three weeks? You said through his mouth *"who's to say things haven't gone missing?"*
+8. ⚑ **Do the feral thralls hunt by smell or by sound?** S17 says **smell** and *"they don't have eyes"*; the S01 record says **sound**, fine enough to *"hear your heartbeat"* — which was the basis for the S01 Thunderwave ruling.
+9. ⚠️ **Is [[Barrett Grimmskar]] level 11 or 12?** He cited *"hitting level 11"*; the vault records the party at **12**.
+10. ⚑ **Is the blurred master [[The Cloaked Figure]] from S11?** Both are unidentified handlers. **Not merged.**
+
 ## Identity & continuity
 
 | # | Question | Why it matters | Source |

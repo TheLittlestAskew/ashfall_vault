@@ -45,6 +45,8 @@ He speaks **telepathically**, brushing the edge of every mind at the table at on
 
 ## Open Threads
 
+- ⚑ **NEW S17 — a second unidentified handler has surfaced, and it may be him.** [[Zelda "Z" Whipper]] read [[The Doppelganger]]'s memory and found his **master**: *"you do see a person, but you can't see their face. It's like all— when you look at it, it looks blurred."* 🛑 **Both are unnamed, unseen-faced handlers who direct thralls or agents against the party. They have NOT been merged and must not be without a DM ruling.** See [[DM Questions — Open]].
+
 - 🛑 **WHO IS HE?** The single most important open question in the vault. Candidates: [[The Beast Tamer]] (alive, telepathic-adjacent, commands beasts, a captain — fits on behaviour), someone new, or a Beast Master other than the one killed in S10. **Ask the DM. Do not guess and do not merge this page.**
 - 🛑 **He booked a rematch.** *"I can't wait till next time"* is an explicit promise of return. He knows where the party is, what they can do, and how long they take.
 - ⚑ **He was never hunting them — he was timing them.** The opening taunt invites them to run *for his amusement*; the closing line thanks them for the chase. Whether the ambush was a test, a cull, or a measurement is unstated.

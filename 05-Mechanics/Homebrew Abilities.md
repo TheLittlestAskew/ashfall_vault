@@ -39,6 +39,16 @@ tags: [mechanics, homebrew, house-rules]
 
 ---
 
+### Added S17
+
+| Ability | Owner | What it does | Source |
+|---|---|---|---|
+| **Risk Bullet** ⚑ | [[Barrett Grimmskar]] | Bonus action: expend a **Risk Die** for temporary HP equal to 1d10+12 (**16** rolled). Feeds the existing Spellslinger **Risk Die** economy | S17, stated as a maneuver |
+| **Overkill** ⚑ | [[Barrett Grimmskar]] | Ranged-weapon damage rider: add your ability modifier if the weapon doesn't already, **or** an extra **1d8** of the weapon's type if it does. ⚠️ Stated as a **level 11** feature against the vault's party level 12 | S17 |
+| **Ballistic Smite** ⚑ | [[Samothy Smith-Wesson]] | Bonus-action smite on a weapon hit; cast at **4th level for 5d6 acid** | S17 |
+| **Bone Cage** ⚑ | [[Eiluned "Lulu" Denulie]] | Named as an immobilising option, **never cast**. ⚠️ The ASR also rendered `Strangecage` in the same scene — held for an audio listen | S17 |
+| **Boots of the Winding Path** ⚑ | [[Samothy Smith-Wesson]] | Item, not a class feature: teleport **15 ft** to any point in sight, repeatedly, carrying gear and a held companion | S17 |
+
 ## Off-list casting recorded as played
 
 Not homebrew as such — standard spells cast outside the caster's usual list. Logged, not questioned.

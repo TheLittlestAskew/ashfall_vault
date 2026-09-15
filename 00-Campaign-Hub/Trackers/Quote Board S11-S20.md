@@ -518,6 +518,105 @@
 
 ⚠️ **Excluded from this board and from public display:** everything self-marked *"above table"* by its speaker (00:22:52, 00:31:50, 01:55:22, 02:02:05, 02:29:23), the whole post-session debrief (02:29:47 onward), the mute/headset troubleshooting, and all real-world personal content. See the S16 spell-check log §5–6.
 
+## S17 — Hobo, That's Your Reflection (09/07/2026)
+
+> ✅ **Attribution is solid this session** — the speaker map was resolved from the transcript itself and the roll archive was queried (143 rolls). See the corrected transcript header.
+> 🛑 **Everything "[[Valerian Hellebore]]" says in character belongs to [[The Doppelganger]]**, who **dies this session**. The player is still Chase.
+> ⚠️ **Above-table lines are marked →** and are excluded from public display.
+
+**[[The Doppelganger]] (Chase) · [Serious]** — 🛑 *the line that starts the torture, said just before it takes Deanna's face*
+> "I'll enjoy it more than dear Deanna did."
+
+**[[The Doppelganger]] (Chase), as [[Deanna Smith-Wesson]] · [Serious]**
+> "Samothy, please, you're hurting me!"
+
+**[[Vega Bloodroot]] (Taylor) · [Serious]** — ⭐ *the session's coldest moment, drawn with a fingernail*
+> "You ever heard about death by a thousand cuts?" / "One."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** — *to a crying prisoner wearing her friend's dead sister's face*
+> "You'll have to forgive me. As a barbarian, I didn't get a lot of schooling, so we may have to start over a couple of times. My counting isn't the best."
+
+**[[Vega Bloodroot]] (Taylor) · [Serious]**
+> "Her number 2 scratch will be exactly the pathway of that tear."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Serious]** — 🛑 *severing a bound prisoner's spine, and the whole justification*
+> "He changed his face to my dead sister. He's not gonna walk for the rest of his fucking life again."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) · [Poignant]** — *on vampires engineering a changeling*
+> "They were too preoccupied with whether or not they could and never thought to ask whether or not they should."
+
+**[[The Doppelganger]] (Chase) · [Funny]** — *from inside [[Zelda "Z" Whipper]]'s head, while she floods him with images of cute animals*
+> "You spend an awfully long time staring at the asses of cats, don't you, darling?"
+
+**[[The Doppelganger]] (Chase) and [[Zelda "Z" Whipper]] (Christie) · [Serious]**
+> "Oh, you think you can get rid of me that easily, darling?" / "You're a disease." / "Kill me, I'll still be in here."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** — *answering the echo of a dead hero with total honesty*
+> "I don't know much about you, my guy, but I could try."
+
+**[[Vega Bloodroot]] (Taylor) · [Important to Story]** — ⭐ **the vow the whole campaign now hangs on**
+> "I could vow to get Val back. Uh, no matter what it takes, um, to either retrieve his body or free his soul, whichever one."
+
+**The party · [Poignant]** — *the vow becoming a group oath, Fellowship-style*
+> "You have my bow, you have my sword, you have my fist." / "You have my gun." / "You have my whip."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) · [Funny]** — *pinned to a wall by the chains, being taunted*
+> "Hey, wait a minute, I'm a druid."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) · [Funny]** — *killing a thrall with 11d8 necrotic, then animating the corpse*
+> "Begone, thot." / "He's my little minion now."
+
+**[[The Doppelganger]] (Chase) · [Funny]** — *being stabilised by the woman he spent the session tormenting*
+> "Can I refuse?"
+
+**[[Zelda "Z" Whipper]] (Christie) · [Poignant]**
+> "You're not Val, but you are a being."
+
+**[[The Doppelganger]] (Chase) · [Funny / Poignant]** — *at 0 hit points*
+> "Existence is pain. Fucking end me." / "All there is is pain and suffering. He is a changeling once again."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]** — *on the real Val's three-week absence*
+> "It's been 3 weeks! Not a hello, not a how do you do, not a fuck you, nothing."
+
+**[[Vega Bloodroot]] (Taylor) and [[The Doppelganger]] (Chase) · [Banter]**
+> "I'm just the muscle." / "And what glorious muscles they are, darling."
+
+**Taylor (DM), as the echo of [[Tharos Emberborn]] · [Important to Story]** — 🛑 *the trial, which explicitly cannot be fought*
+> "Do you carry the fire without fear?" / "Will you stand against the night as I once did?" / "Show me your resolve."
+
+**Taylor (DM) · [Important to Story]** — *as the corpse crumbles to ash*
+> "Let the fire walk with you."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *the origin of the impostor*
+> "So this would be the first successful attempt of growing a changeling."
+
+**Taylor (DM) · [DM Quip]** — *immediately after [[Samothy Smith-Wesson]] severs the spine*
+> "So maybe don't leave him with Sammy."
+
+**Taylor (DM) · [DM Quip]** — *ruling on how a dropped mind link fades*
+> "It would be like Internet Explorer loading, and then you close it out and you have to wait 10 minutes for it to close out completely."
+
+**Taylor (DM) · [DM Quip]**
+> "He's paralyzed and tied up like a handbag."
+
+**Taylor (DM) · [DM Quip]** — *on the feral thralls, who killed their own master*
+> "They're just straight violent chump change."
+
+**Taylor (DM) · [DM Quip]** — → *above-table, declining to improvise a torture scene*
+> "Table, I don't have anything set up for a torture scene outside of what's here."
+
+**Taylor (DM) · [DM Quip]** — → *above-table, on his own map art*
+> "I'm just good at writing and world building. That's where my homeschool artisticness lies."
+
+**Taylor (DM) · [DM Quip]** — → *above-table*
+> "Sorry, my ass was muted because I was eating a Pop-Tart."
+
+**Chase (player) · [Important to Story]** — ⭐ **player-authored boxed text for his own character's impostor's death, with the DM's permission.** ⚠️ Attribution convention still needed
+> "An arcane mist smelling of moss and pine and sea salt and rain-dampened earth, like a wind, passes around each of you, searching, almost, if wind could search, for something or someone, weaving in between each of you like a large snake made of a soft summer breeze. Seemingly not finding what it searches for, it's coiled around each of you, sweeping up your bodies, leaving behind a crown of flowers on each of your heads before slowly dissipating into the rock above."
+
+**Taylor (DM) · [Important to Story]** — → *above-table, on losing three sessions of plot*
+> "I wanted another 3 sessions of him being a doppelganger… But then we decided to talk outside of chat and make decisions."
+
 ## Related
 
-- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]]
+- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Vault Sync Status]]

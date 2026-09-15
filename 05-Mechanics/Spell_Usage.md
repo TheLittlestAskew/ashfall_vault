@@ -180,3 +180,35 @@ This file jumps **S11 → S16**. The three intervening sessions were never logge
 | [[Samothy Smith-Wesson]] | **Flash of Genius** (+4) | Given to [[Vega Bloodroot]] on the trap floor — part of why she mapped 3/4 of the plates |
 | [[Vega Bloodroot]] | **Rage** *(held, no attacks)* | ⭐ **Raged and held the rage across the entire glyph room without making a single attack roll.** Her only "casting" this session |
 | [[Flux]] | **Enlarge** *(offered, not cast)* | Con save DC 14 quoted — ⚠️ **the DC line is a held spell-check row** (L2356) |
+
+## S17 — Hobo, That's Your Reflection (09/07/2026) ✅ roll archive queried (143 rolls)
+
+> ✅ **First Spell Usage block backed by the archive since S09.** Cross-referenced against `ashfall_session_rolls` for `2026-09-07`.
+
+| Caster | Spell / Ability | Level | Effect this session |
+|---|---|---|---|
+| [[Zelda "Z" Whipper]] | **Guiding Bolt** | — | Opened combat on Thrall C. 17 to hit, **17 radiant** (5d6) |
+| [[Zelda "Z" Whipper]] | **Finger Guns** | cantrip | Used 6×. **Killed [[The Doppelganger]]** with the last one (26 to hit, 10 damage). ⚠️ One **natural 1** — DM declined a fumble effect |
+| [[Zelda "Z" Whipper]] | **Detect Thoughts** (carried from S16) | — | Mind link to the impostor. Yielded **the tower's location**, the engineered-changeling origin, and the **blurred master**. Dropped mid-session; DM ruled a delayed fade |
+| [[Zelda "Z" Whipper]] | **Counterspell** | — | Stopped the impostor's **Ice Knife** aimed at [[Flux]] |
+| [[Zelda "Z" Whipper]] | **Spare the Dying** | cantrip | ⚠️ Cast on a **hostile NPC at range** — her bard version is **at-will and ranged**, not touch. 🛑 Then **retroactively un-cast** with DM consent, killing him |
+| [[Zelda "Z" Whipper]] | **Inflict Wounds** (carry-over) | — | Referenced at 00:20:11 resolving S16's cliffhanger damage — CON 15, half of 33 |
+| [[Eiluned "Lulu" Denulie]] | **Wild Shape → fly** | — | Escaped the chains; then harassed the impostor's eyes and nose |
+| [[Eiluned "Lulu" Denulie]] | **Daylight** | — | 60-ft sphere on the thrall cluster. ⚠️ **Does not blind them** (no eyes) but deals **5d6 per turn** |
+| [[Eiluned "Lulu" Denulie]] | **Contagion** | — | **11d8 → 49 necrotic**, killed a thrall outright. Poisoned + chosen-ability save disadvantage |
+| [[Eiluned "Lulu" Denulie]] | **Animate Dead** | bonus | Raised the thrall she had just killed. ⚑ Also cast **fruitlessly on Emberborn's corpse** — *"Nothing happens"* |
+| [[Eiluned "Lulu" Denulie]] | **Bone Cage** ⚑ | — | Named but **never cast**. First-seen term |
+| [[Barrett Grimmskar]] | **Spellfire Flare** | 2nd, then 1st | 2nd level = two blasts. ⭐ **Heroic Inspiration reroll → natural 20 → 30 radiant** on Thrall B |
+| [[Barrett Grimmskar]] | **Shield** | reaction | AC 18 → **24** |
+| [[Barrett Grimmskar]] | **Risk Bullet** ⚑ | bonus | Expend a Risk Die → **16 temporary HP** |
+| [[Barrett Grimmskar]] | **Overkill** ⚑ | lvl-11 feature | Ranged damage rider — +1d8 (5) on the Fire Revolver |
+| [[Samothy Smith-Wesson]] | **Ballistic Smite** | 4th | **5d6 → 16 acid** |
+| [[Samothy Smith-Wesson]] | **Branding Smite** | bonus | **2d6 → 6 radiant** |
+| [[Samothy Smith-Wesson]] | **Vex / Sap** (mastery) | — | Advantage chaining into enemy disadvantage |
+| [[Flux]] | **Witch Bolt** | — | **Missed** (12) |
+| [[Flux]] | **Finger Guns** | cantrip | 2× — one miss, one hit for 7 |
+| [[The Doppelganger]] | **Ice Knife** | 4th | 🛑 Cast **gagged, bound and paralysed** — no verbal component, **sweat ruled as water**. Random d12 target → [[Flux]]. Counterspelled. Burst still dealt **9 cold** to a thrall |
+| [[Vega Bloodroot]] | **Eldritch Claw Tattoo** | bonus | Activated for the following turn |
+| [[Vega Bloodroot]] | **Rage / Reckless Attack / Primal Knowledge** | — | ⚑ Confirmed **rage extends by bonus action indefinitely** under 2024 rules |
+
+🛑 **The GAP above (S13–S15) is still open.** This file now jumps **S11 → S16 → S17**.
