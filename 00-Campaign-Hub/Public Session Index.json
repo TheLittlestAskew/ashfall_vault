@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-15T00:47:46.575Z",
+  "generated_at": "2026-09-15T05:00:40.248Z",
   "all_sessions": [
     {
       "n": "01",
@@ -69,6 +69,10 @@
     {
       "n": "17",
       "d": "2026-09-07"
+    },
+    {
+      "n": "18",
+      "d": "2026-09-14"
     }
   ],
   "sessions": [
@@ -150,6 +154,18 @@
       "d": "2026-09-07",
       "lbl": "September 7, 2026",
       "f": "01-Sessions/Session 17 — Hobo, That's Your Reflection.md",
+      "trackers": {
+        "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
+        "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
+        "profanity": "00-Campaign-Hub/Trackers/Profanity Ledger S11-S20.md"
+      }
+    },
+    {
+      "n": "18",
+      "t": "I Knew You'd Come",
+      "d": "2026-09-14",
+      "lbl": "September 14, 2026",
+      "f": "01-Sessions/Session 18 — I Knew You'd Come.md",
       "trackers": {
         "quotes": "00-Campaign-Hub/Trackers/Quote Board S11-S20.md",
         "loot": "00-Campaign-Hub/Trackers/Loot Tracker S11-S20.md",
