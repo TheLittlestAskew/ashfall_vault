@@ -232,18 +232,4 @@
 - **Next:** Review `_pipeline/S16/` and rule on the doppelganger attribution + the privacy item, then Phase B.
 - **Watch out:** 🛑 **Nothing was committed and that is deliberate.** The only file in the working tree is `Session_Sources/Transcripts/Raw_Unedited/16-090326_raw_transcript.md` — **unredacted, in a public repo**, and it carries the exact categories `_pipeline/S16/flags.md` §6 flags (a slur, a participant's occupation, Taylor's medical history, children's names). It stays untracked until the standing gitignore decision is made. ⚠️ The Stop hook will keep reporting "1 uncommitted file" for this repo until then — **that is the guard working correctly, not a handoff that failed.** ⚠️ **Scope conflict worth knowing about:** the Phase A brief says *"write nothing outside `_pipeline/S16`"* while the Stop hook mandates a handoff commit at repo root. I honoured the hook (Taylor's standing instruction) for `HANDOFF.md`/`TOOLS.md` only. ⚠️ The diarizer **misattributes bare roll numbers** to whoever was speaking — at least four confirmed instances. **Do not build the S16 roll log from this transcript; use the DDB archive.**
 
-### 2026-09-02 22:20 ET · Claude Code (TOOLS.md tool inventory added)
-- **Changed:** Added `TOOLS.md` (18 active rows) — Obsidian + its 4 plugins, AssemblyAI, the Ashfall Pipeline Watcher scheduled task, chokidar, BurntToast, Supabase + the vault-scoped `supabase` MCP server, `docx_to_text.py`, and the rest. `AGENTS.md` gained a `### TOOLS.md` subsection so Codex maintains it too. One of 13 project tables that `septentrion-sync` v4 rolls into the vault's new `The Toolbox.md`.
-- **Commit:** `51f0b0e`
-- **Next:** Unchanged. See the block above this log.
-- **Watch out:** The four Obsidian-plugin rows carry `~` inferred dates from plugin folder timestamps, not measured use, so they'll drift into the master table's 90-day stale section without meaning the plugins are unused. That's a known limit of inferring plugin usage, not a signal to uninstall anything.
-
-### 2026-08-31 11:20 ET · Claude Code (publish made deterministic)
-- **Changed:** Applied the same publish fix found in `sitl_vault`. `Publish-Ashfall.cmd` now regenerates `Public Session Index.json` **before** committing and aborts the publish if it fails; `ashfall_pipeline_watch.js` gains a **publish** stage that regenerates + commits + pushes in code at the end of `approve()`; `ashfall_status_window.ps1` derives its step total rather than hardcoding "of 4".
-- **Commit:** `7540159`
-- **Verification:** ✓ `node --check` passes on the watcher. ✓ The generator's self-test and live run both pass and still write 5 published sessions (S10, S11, S13, S14, S15).
-- **Friction:** misread — I used `git add -A` to stage the workflow changes and it swept in a **deletion of `Session_Sources/061526 Ashfall Britannia Recording.mp3`**, a tracked mp3 that was already gone from disk. The outcome is fine (audio does not belong in a public repo) but it was unintended. ✅ **What works: check `git status --short` output before committing when using `add -A`, not after.**
-- **Watch out:** ⚠️ The abort message is Ashfall-specific on purpose — this generator reads `Campaign Dashboard.md`, **not** `01-Sessions/`, and sessions ≥10 also need their three tracker blocks. Those are the two things that will fail a publish here.
-- **Next:** Unchanged. See the DO NEXT block above.
-
-> Older entries archived to `handoff-archive/2026-06.md`, `handoff-archive/2026-07.md`, `handoff-archive/2026-08.md` - everything before 2026-08-31 11:20 ET.
+> Older entries archived to `handoff-archive/2026-06.md`, `handoff-archive/2026-07.md`, `handoff-archive/2026-08.md`, `handoff-archive/2026-09.md` - everything before 2026-09-03 23:20 ET.
