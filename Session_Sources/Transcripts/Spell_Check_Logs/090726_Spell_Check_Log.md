@@ -26,7 +26,7 @@ neither should have been capped. Both were applied on review.
 It is an ordinary orthographic normalisation; the transcript already renders the word
 correctly at 192, 1370, 2050 and 2864.
 
-## 2. Applied corrections — 15 rows · 24 line-instances
+## 2. Applied corrections — 16 rows · 25 line-instances
 
 ### 2a. Batch A — glossary-confirmed or ordinary English (4 rows · 11 line-instances)
 
@@ -37,7 +37,7 @@ correctly at 192, 1370, 2050 and 2864.
 | 3 | 1890 (×2) | `Eldritch Claw tattoo` | `Eldritch Claw Tattoo` | Glossary item, S02, marked FINAL. Capitalisation only |
 | 6 | 548 | `Traips` | `Traipse` | Ordinary word, ASR spelling artifact. `Greaves` in the same line is **correct** and was left alone |
 
-### 2b. Batch B — verified against the raw transcript, confidence raised (11 rows · 13 line-instances)
+### 2b. Batch B — verified against the raw transcript, confidence raised (12 rows · 14 line-instances)
 
 | Row | Line | Original | Applied | Was | Now | Evidence found on review |
 |---|---|---|---|---|---|---|
@@ -52,6 +52,7 @@ correctly at 192, 1370, 2050 and 2864.
 | 13 | 240, 816, 2024 | `imposter` / `imposters` | `impostor` / `impostors` | 65% | **85%** | Orthographic normalisation; see §1 |
 | 16 | 1622 | `gauntlets of burning grasp` | `Gauntlets of Burning Grasp` | 55% | 80% | Read-aloud boxed text; it is the party's objective for the whole dungeon. Capitalisation only — see §1 |
 | 17 | 416 | `Emily, please.` | `Sammy, please.` | 55% | **80%** | Same sentence names Samothy (*"She's not breaking eye contact with Samothy"*); the impostor's pleading refrain is *"Samothy, please"* at 264, 386, 412 |
+| 21 | 622 | `Tails` | **`Tayls`** | 50% | **confirmed** | Spelling ruled 09/14/2026 from Taylor's own signature — external and authoritative, not an audio inference. Glossary entry promoted from provisional to confirmed. See §4c |
 
 ## 3. 🛑 Row 15 was REVERSED, not applied — and it is still a DM question
 
@@ -73,7 +74,7 @@ transcript, S12 and S16 are untouched, and the glossary entry remains UNRESOLVED
 ▶ **Ask the DM the narrowed way** — *"your notes say Theros, right?"* — rather than as
 an open coin-flip. This now blocks **S12, S16 and S17**.
 
-## 4. Held and rejected — 10 further rows NOT applied
+## 4. Held and rejected — 9 further rows NOT applied
 
 ### 4a. ✗ Rejected — the Verbatim Quotes rule protects these (4 rows)
 
@@ -94,13 +95,20 @@ an open coin-flip. This now blocks **S12, S16 and S17**.
 | 19 | 872 | `bust` → `bus` | 50% → 60% |
 | 20 | 2894 | `Jifusit` → `GIF you sent` | 50% → 65%; she was hunting a GIF on Discord at 2646 |
 
-### 4c. ⚡ Row 21 is Taylor's to close, not applied here
+### 4c. ✅ Row 21 — CLOSED AND APPLIED 09/14/2026
 
 `Tails` → **`Tayls`** at **622**. Chase: *"Tails, what weapons does Vega have on her
-right now?"* — he is addressing **Taylor**. Third hearing, first from a new speaker →
-**95%**. Glossary S08 carries the entry as provisional (`"Tails" ⚑ — Madi's name for
-player Taylor`). ▶ **Confirm the spelling and it applies in one pass**, along with
-promoting the glossary entry to confirmed.
+right now?"* — he is addressing **Taylor**. Third hearing, first from a new speaker.
+
+**Spelling ruled from Taylor's own signature**, which renders it **`Tayls`**. That is
+external, authoritative and not an inference from the audio, so the row went from the
+provisional cap straight to applied.
+
+✅ **The glossary entry is now CONFIRMED**, not provisional. `04-World-Lore/Names & Terms.md`
+previously read `"Tails" ⚑ — Madi's name for player Taylor — heard twice; "Tay"? confirm
+spelling`; it now reads **`"Tayls"` ✅ CONFIRMED S17** with the instruction to correct the
+ASR's `Tails` on sight. ⚠️ **Earlier transcripts were deliberately NOT retro-edited** —
+S08's rendering stands as the historical record.
 
 ## 5. 🛑 Privacy — redactions APPLIED (Taylor's ruling, 09/14/2026)
 

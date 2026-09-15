@@ -12,12 +12,12 @@
 #   _pipeline/S17/17-090726_raw_transcript_UNREDACTED.md (gitignored).
 #   Redactions are reversible from that file. No campaign content was redacted.
 #
-# Corrections applied: 15 of the 26 proposed rows (24 line-instances) —
+# Corrections applied: 16 of the 26 proposed rows (25 line-instances) —
 #   Batch A rows 1, 2, 3, 6 (glossary-confirmed or ordinary English) and
-#   Batch B rows 4, 5, 7, 8, 9, 10, 11, 12, 13, 16, 17 (verified against the
+#   Batch B rows 4, 5, 7, 8, 9, 10, 11, 12, 13, 16, 17 and row 21 (verified
 #   raw transcript on 09/12/2026, confidence raised above the table's figure).
 #
-# DELIBERATELY NOT APPLIED — 11 rows:
+# DELIBERATELY NOT APPLIED — 10 rows:
 #   REVERSED  15  Theros -> Tharos. Evidence points the OTHER way: the DM says
 #                 Tharos twice while ad-libbing, then says "Sorry, I was looking
 #                 at the wrong note" and reads Theros from prepared boxed text.
@@ -29,8 +29,8 @@
 #                 statement; "No DM Override" applies)
 #             26  Demonically what Sammy would do (reads fine; drop the row)
 #   HELD for an audio listen  18, 19, 20, 24, 25
-#   TAYLOR'S OWN  21  Tails -> Tayls (Chase addressing Taylor; 95%) — not applied
-#                 here because it was still open when this pass ran.
+#   (Row 21 Tails -> Tayls WAS applied 09/14/2026 once the spelling was ruled
+#    from Taylor's own signature; the glossary entry is now CONFIRMED.)
 #
 # ---------------------------------------------------------------------------
 # SPEAKER MAP — NOT RESOLVED FOR S17. DO NOT CARRY S16's MAP OVER; it does not
@@ -666,7 +666,7 @@
 
 [00:34:53] SPEAKER C: I'm always working out. You see she lifts up her shirt a little bit and you see her like tensing and relaxing her six-pack just as she stands quite casually.
 
-[00:35:10] SPEAKER B: Tails, what weapons does Vega have on her right now?
+[00:35:10] SPEAKER B: Tayls, what weapons does Vega have on her right now?
 
 [00:35:13] SPEAKER C: Uh, sharp pointy things. Never found a warhammer.
 

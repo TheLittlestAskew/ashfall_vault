@@ -139,7 +139,7 @@
 | "Solar Fist" | Item (informal) | The Sun Shard mounted on Vega's gauntlets/knuckles (Samothy's infusion) |
 | Broken Shards | Lore ⚑ | Phrase in the dusty red book — plural? More shards than the Sun Shard? |
 | Starry Wisp | Spell | Valerian's cantrip (confirmed in heavy use since S01) |
-| "Tails" | Nickname ⚑ | Madi's name for player Taylor — heard twice; "Tay"? confirm spelling |
+| **"Tayls"** | Nickname ✅ | **CONFIRMED S17 (spelling ruled 2026-09-14).** The table's name for player **Taylor**. Heard 3× across S08–S17; S17 line 622 is the first from a different speaker (Chase), which is what closed it. Transcribed as `Tails` by the ASR — **correct it to `Tayls` on sight.** Previously provisional as *"Tails … 'Tay'? confirm spelling"* |
 
 ## Provisional ⚑ (S09 — partial recording)
 
