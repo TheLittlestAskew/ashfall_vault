@@ -88,7 +88,7 @@ Then: `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-09-14';` a
 
 ⚠️ **The `--self-test` assertions are pure functions over literals and are independent of vault content** — they would pass unchanged. **It is the live run that could not execute.**
 
-⚠️ **`Public Session Index.json` currently ends at S17 — confirmed by inspection this run. S18 will not appear on rectrixcaedere.com until this runs:**
+✅ **SUPERSEDED 2026-09-15 — the index was regenerated in `e0e1cce` and S18 IS LIVE.** `Public Session Index.json` now holds **18 all-sessions / 8 published**, verified on `raw.githubusercontent.com` and in the rendered site (`session.html?n=18`). *Original note, kept for the record:* ⚠️ `Public Session Index.json` currently ends at S17 — confirmed by inspection this run. S18 will not appear on rectrixcaedere.com until this runs:
 ```
 node Workflows/scripts/generate_public_session_index.mjs --self-test
 node Workflows/scripts/generate_public_session_index.mjs
