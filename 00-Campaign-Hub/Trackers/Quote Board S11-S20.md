@@ -617,6 +617,206 @@
 **Taylor (DM) · [Important to Story]** — → *above-table, on losing three sessions of plot*
 > "I wanted another 3 sessions of him being a doppelganger… But then we decided to talk outside of chat and make decisions."
 
+## S18 — I Knew You'd Come (09/14/2026)
+
+> 🛑 **ATTRIBUTION IS PROVISIONAL FOR THIS WHOLE BLOCK.** The S18 speaker map is **unconfirmed and two diarizer labels are merged**: **SPEAKER C** = Christie ([[Zelda "Z" Whipper]]) **+** Madi ([[Eiluned "Lulu" Denulie]]); **SPEAKER F** = Doug ([[Barrett Grimmskar]]) **+** Chase ([[Valerian Hellebore]]) **+ DM adjudications**, across 240 lines. **Every attribution below inherits that uncertainty.**
+> ⚠️ **The corrected transcript deliberately keeps the A–H labels** rather than converting to names — renaming would have injected ~100 false attributions. ⚑ **The diarizer re-letters every session** (S14: DM = B · S15: A · S16: F · S17: E · **S18: A**) — **never carry a map forward.**
+> 🛑 **Roll archive NOT queried** — no cross-check was possible.
+> ⚠️ **Above-table and redacted material is excluded from this board** and from public display. See *Excluded* at the end of the block.
+
+**[[The Necromancer]] (DM) · [Serious]** — 🛑 *opening boxed text; the first words the antagonist speaks*
+> "You're too late. His power is already flowing into the circle."
+
+**[[The Necromancer]] (DM) · [Important to Story]** — 🛑 *the ONLY statement of his motive on the record — and it puts him **against** the vampire hierarchy*
+> "Ah, the rescuers. How touching. But his power will be mine, and when I'm finished, the vampire lords will kneel before a new master."
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]** — ⭐ **THE SESSION TITLE.** *His first words as the chains shatter — and the payoff line for [[Vega Bloodroot]]'s S17 vow*
+> "I knew you'd come. Uh, thank you."
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]**
+> "It's been 3 weeks, darling."
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]** — *minutes off a torture rack, asking about flowers*
+> "Well, at least you came when you were alive. Where'd you guys get those crowns?"
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]** — ⚑ *he is asking after his own dissipated magic and does not know it*
+> "The flower crowns you're wearing, darling. Where'd you pick those up?"
+
+**[[Zelda "Z" Whipper]] (Christie) · [Serious]**
+> "When we killed the fake you."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — ⭐ *the first person to notice, and she asks it completely straight*
+> "Have you always had an accent?"
+
+**[[Zelda "Z" Whipper]] (Christie) · [Banter]**
+> "You, you sound different." / "I don't know, because you kind of sound different. Okay, there's no kind of— you sound different."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** — 🛑 *the only handle the vault has on [[Arona]]*
+> "I'll be fine. I can call on Arona. Why are you staring at me?"
+
+**[[Valerian Hellebore]] (Chase) · [Serious]** — ⚠️ *and a natural-20 Insight confirms he believes it*
+> "My magic's no different."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Poignant]**
+> "Dude, I am so, so sorry. I am so sorry it took us so long to figure it out."
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]**
+> "Yeah, it did, but you're here now, and I guess that's all that counts."
+
+**[[Valerian Hellebore]] (Chase) · [Serious]** — 🛑 *on [[Deanna Smith-Wesson]]. He is the first person in four sessions to treat her body as a person*
+> "I'm sorry, you put her body where?"
+
+**[[Valerian Hellebore]] (Chase) · [Poignant]**
+> "And no one thought, hey, that's a pretty grove of trees over there, let's bury her underneath one?"
+
+**[[Zelda "Z" Whipper]] (Christie) · [Serious]**
+> "We're not planning on burying her, we're trying to figure out some kind of way to bring her back."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Funny]** — *the preservation argument, and its punchline*
+> "Yeah, but she's preserved inside the dimensional pocket. There's no decay in there, so her body can't decay." / "It's like Tupperware."
+
+**[[Vega Bloodroot]] (Taylor) · [Serious]** — *the short true version*
+> "She got crushed by a bunch of rocks."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Serious]**
+> "No, her, her bones are— they kind of turn into ash inside of her body."
+
+**[[Flux]] (Jill) · [Funny]** — ⭐ **the biggest laugh of the night**
+> "We folded her like a flat sheet, not a fitted sheet."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "I'm sorry, you fucking did what with her, buddy? You— like a fucking sheet?"
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "That is a horrifying image."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** — ⭐ **the line the whole arc has been avoiding since S14**
+> "You know, I don't think we've had a moment to properly take in the fact that she died, really, honestly. I don't think we've even really grieved over it."
+
+**[[Flux]] (Jill) · [Poignant]**
+> "Before we left, I asked Samothy if he wanted to do a small funeral and do something, and he wasn't ready. I asked, he wasn't ready."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) · [Important to Story]** — 🛑 *the offer, with a timer on it that may already have run out*
+> "I have a spell I can do as long as the humanoid has been deceased no longer than 10 days, I can put her soul into a new body. I can reincarnate her."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) · [Poignant]**
+> "She won't look like Deanna, but her soul will be Deanna."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Poignant]** — ⭐ *he does not answer, and the table lets him not answer*
+> "I don't know if she would want that or not, you know."
+
+**[[Eiluned "Lulu" Denulie]] (Madi) · [Poignant]** — *the newcomer doing the emotional work nobody else volunteered for*
+> "Maybe you should talk to your friends about it, see what they have to say. I just Wanted to let you know it was an option before you move forward with your funeral."
+
+**[[Barrett Grimmskar]] (Doug) · [Banter]**
+> "Barrett is going to do what Barrett does best and start shooting shit."
+
+**[[Barrett Grimmskar]] (Doug) · [Banter]**
+> "Barrett pulls out both his pistols. I mean, I can be pretty loud."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Banter]** — *shutting down the solo diversion plan*
+> "Yeah, but you don't have a great track record of going off on your own."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]** — ⭐ *said immediately before throwing a 20-lb ritual crystal at a necromancer*
+> "Let's try to do some hot girl shit."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]** — *looting the corpse*
+> "A magic caster didn't have any cool enchanted rings on him. Scrub. What a third-rate caster. Deserved to die."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]** — *on [[Mr. Cat]], who won the fight*
+> "I love that fucking cat. That fucking weird-ass goddamn cat."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — *to a dying thrall*
+> "Stop it, man, you're gonna die in a second. Just leave me alone."
+
+**[[Vega Bloodroot]] (Taylor) · [Banter]** — *on [[Flux]]'s Rite of the Dawning Radiance*
+> "Shit, this sword is gonna be so OP."
+
+**[[Vega Bloodroot]] (Taylor) · [Serious]** — 🛑 **NEW: the cursed sword now talks to her**
+> "But now it's whispering sweet nothings in my ear about being evil and shit."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]** — *to the fleeing thralls*
+> "Don't let the door hit you on the way out."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]** — ⭐ *flat on his back, minutes out of the circle, with a cantrip he should not have*
+> "Before they leave, Eldritch Blast!"
+
+**[[Barrett Grimmskar]] (Doug) · [Funny]** — *on the odds of rolling two consecutive nat 20s*
+> "And if my grandmother was born with wheels, she'd be a bike."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Funny]**
+> "Yeah, and if the world was fair, I'd be a millionaire. That doesn't help me right now."
+
+**[[Samothy Smith-Wesson]] (Josh) and [[Zelda "Z" Whipper]] (Christie) · [Banter]**
+> "So you're saying there's a chance?" / "Microscopic."
+
+**[[Vega Bloodroot]] (Taylor) and [[Zelda "Z" Whipper]] (Christie) · [Funny]** — *the sealed door defeats the entire party*
+> "Can I intimidate the rock?" / "I'm going to threaten it."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Funny]**
+> "We're going to put a door there, I think. We're going to call in contractors."
+
+**[[Zelda "Z" Whipper]] (Christie) · [Banter]** — ⚑ *the party now identifies necrotic magic by which of them does it*
+> "That's the type of stuff Lulu does."
+
+### DM quips
+
+**Taylor (DM) · [DM Quip]** — ⭐ **the session's thesis statement**, after a 15 fails to hit
+> "You should always beware of level-ups. They come with consequences."
+
+**Taylor (DM) · [DM Quip]** — *on the tower's construction*
+> "Rock, believe it or not." / "Granite. You act like I don't know."
+
+**Taylor (DM) · [DM Quip]** — *on grappling the necromancer off the balcony*
+> "Could you? Yes. Should you? I don't know."
+
+**Taylor (DM) · [DM Quip]**
+> "Well, I mean, that's for you to find out and me to know."
+
+**Taylor (DM) · [DM Quip]** — *the sealed door ruling*
+> "I would let you try to break through if you rolled 2 nat 20s in a row."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *the Catapult ruling, which made the throw BETTER*
+> "We would say a human is not a surface. They are a living being."
+
+**Taylor (DM) · [Important to Story]** — ⭐ **the highest-leverage sentence of the session**
+> "So Mr. Cat leaps on the necromancer's face."
+
+**Taylor (DM) · [Funny]**
+> "Mr. Cat is safe this time."
+
+**Taylor (DM) · [DM Quip]** — 🛑 *reversing his own earlier deferral; goes to [[House Rules & Rulings]]*
+> "Hey, a weapon's a weapon."
+
+**Taylor (DM) · [Funny]** — *on [[Mr. Cat]]'s fragility*
+> "it's, it's a small cat. You just grab it and fucking yeet it somewhere."
+
+**Taylor (DM) · [Important to Story]** — ⭐ *why the surviving thralls simply left*
+> "Their contract is over."
+
+**Taylor (DM) · [Funny]** — *on [[Deanna Smith-Wesson]]'s remains*
+> "That's right, she's a leather bag of bone dust."
+
+**Taylor (DM) · [DM Quip]** — 🛑 *the shards' utility, deferred*
+> "I didn't think anybody would ask about getting shards, so I was Not prepared."
+
+**Taylor (DM) · [DM Quip]**
+> "I've only ever rolled like 5 nat 20s as a player. As a DM, man, that shit is on point sometimes."
+
+**Taylor (DM) · [DM Quip]**
+> "you'd have to run around the circle though."
+
+**Taylor (DM) · [Funny]** — *to [[Flux]]*
+> "Sorry, I forgot you were a rogue."
+
+**Taylor (DM) · [Funny]** — *on how Val is suspended*
+> "No, no dangling, just floating magically wrapped in some really dope-ass chains."
+
+**Taylor (DM) · [Important to Story]** — 🛑 **the closing boxed text runs out mid-sentence**
+> "And somewhere in the distance, far across the land, something answers the dying pulse of the ritual. A deep resonant tone, a warning, a promise. The necromancer may be dead, but the power he awakened is That's the end of it, of what I have written."
+
+⚠️ **Excluded from this board and from public display:** explicit OOC at 00:44 and 01:17; the drug reference at 00:03:03; political content at 00:12; the extended AI-art discussion at 02:37–02:44; 🛑 **the DM identifying a player as his wife (01:59:42) and the real-world murder reference aimed at him (01:59:51)**; and all household/real names. **See the S18 redaction note in [[Vault Sync Status]] — redaction of the transcripts themselves is OUTSTANDING.**
+
 ## Related
 
-- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Vault Sync Status]]
+- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Vault Sync Status]]

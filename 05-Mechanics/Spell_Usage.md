@@ -211,4 +211,38 @@ This file jumps **S11 → S16**. The three intervening sessions were never logge
 | [[Vega Bloodroot]] | **Eldritch Claw Tattoo** | bonus | Activated for the following turn |
 | [[Vega Bloodroot]] | **Rage / Reckless Attack / Primal Knowledge** | — | ⚑ Confirmed **rage extends by bonus action indefinitely** under 2024 rules |
 
-🛑 **The GAP above (S13–S15) is still open.** This file now jumps **S11 → S16 → S17**.
+## S18 — I Knew You'd Come (09/14/2026) 🛑 transcript-only — roll archive NOT queried
+
+> 🛑 **The archive was re-tested this run and is still `Unauthorized`.** The vault `.env` contains **no `SUPABASE_ACCESS_TOKEN` at all** — confirmed by direct inspection. **Every row below is transcript-sourced and none is archive-verified.**
+> ⭐ **One spell set the ceiling on the whole session:** [[Flux]]'s **Rite of the Dawning Radiance** put **+1d6 radiant on every weapon attack at the table**, and the DM doubles radiant against these enemies.
+
+| Caster | Spell / Ability | Level | Effect this session |
+|---|---|---|---|
+| [[Flux]] | 🆕 **Rite of the Dawning Radiance** ⚑ | — | ⭐ **LOAD-BEARING FOR THE ENTIRE SESSION.** Party-wide, 1 hour: resistance to **necrotic**; advantage on saves vs **charm, fear and Vampiric Domination**; **+1d6 radiant on every weapon attack**; dim light → bright within 30 ft, darkness → dim within 15 ft. Cast on the approach, before contact |
+| [[Flux]] | **Witch Bolt** | 3rd | 21 to hit → **24 damage** on the [[Boilborn]] |
+| [[Flux]] | **Finger Guns** | cantrip | 3× — 22 to hit (7 damage); **natural 1** (7 damage + **2 self-burn**, *"the barrel of your fingers starts to overheat"*); 20 to hit (7) → 🛑 **killed the [[Boilborn]]** |
+| [[Flux]] | **Sneak Attack** | — | **18**, part of the Boilborn kill. ⚑ An earlier **natural 1** on the bow still hit per DM ruling but **lost the Sneak Attack** |
+| [[Zelda "Z" Whipper]] | **Guiding Bolt** | — | ❌ **MISSED on a 15** — *"they leveled up with you guys, so their AC is no longer 15"* |
+| [[Zelda "Z" Whipper]] | **Invisibility** | — | On herself, to climb the tower unseen. A thrall missed her — *"you are invisible, but they hunt by smell, sound"* |
+| [[Zelda "Z" Whipper]] | **Dispel Magic** | — | 🛑 **BROKE THE RITUAL.** *"the chains around Val tighten down even more. The circle on the ground starts to sputter."* DM ruled a **wind-down**, not an instant stop — *"like a blinker would, flashing on and off as it's losing power"* |
+| [[Zelda "Z" Whipper]] | **Dimension Door** | — | ⭐ **THE EXTRACTION.** Grabbed [[Valerian Hellebore]] on an **Acrobatics 21** and teleported both to the ground — *"pop, pop, there you are"* |
+| [[Zelda "Z" Whipper]] | **Cure Wounds** | — | **26 HP** to Val, post-combat |
+| [[Zelda "Z" Whipper]] | **Finger Guns** | cantrip | 25 to hit (10 damage + 5 radiant **doubled to 10**); 21 to hit (**7 force**). 🛑 **Ruled a WEAPON attack** — *"Hey, a weapon's a weapon"* — reversing her own earlier objection |
+| [[Samothy Smith-Wesson]] | **Catapult** | **4th** | ⭐ **THE SESSION'S DECIDING SPELL.** His **only 4th-level slot**, scaled to the **20-lb ritual crystal**. DM ruled **a person is not a surface**; necromancer failed a **disadvantaged Dex save, 15 vs DC 17**. **6d8 → 36 bludgeoning, knocked PRONE** |
+| [[Samothy Smith-Wesson]] | **Vortex Warp** | 2nd | On himself — **80 ft straight to the tower top**. [[Mr. Cat]] came along on a **d6 of 3** |
+| [[Samothy Smith-Wesson]] | **Branding Smite** | bonus | **2d6 → 5 radiant** |
+| [[Samothy Smith-Wesson]] | **Lucky** (feat) | — | ❌ **Ruled inapplicable** against a saving throw — *"it's only against attacks"* |
+| [[Eiluned "Lulu" Denulie]] | **Draconic Spirit** | 5th | Gem dragon. **Rend 20 to hit → 14 piercing**; **breath weapon 2d6 → 7 necrotic**, catching the [[Boilborn]] (DEX 12) and thrall D (15) |
+| [[Eiluned "Lulu" Denulie]] | **Blight** | — | Thrall F failed its CON save on an 18 → **37 damage, KILLED** |
+| [[Eiluned "Lulu" Denulie]] | **Symbiotic Entity** | bonus | Activated in place of a Wild Shape use |
+| [[Eiluned "Lulu" Denulie]] | **Draconic Transformation** | bonus | Wings, **60 ft fly speed**. ⚑ Failed a d20 for extra altitude (needed 13+) — *"you try flapping your wings one more time… and nothing happened"* |
+| [[Barrett Grimmskar]] | **Spellfire Flare** | 2nd | Two blasts — 18 to hit (**14 radiant**), 13 miss |
+| [[Barrett Grimmskar]] | ⚑ **"Bite the Bullet"** / **Risk Bullet** | bonus | d10 + 13 → **19 temporary HP**. 🛑 **NAME DISPUTED** — he says *"Bite the Bullet"* in S18 against S17's *"Risk Bullet."* **The correction may be backwards.** See [[Names & Terms]] |
+| [[Valerian Hellebore]] | 🆕 **Eldritch Blast** | cantrip | 🛑 **A WARLOCK CANTRIP, CAST BY A CIRCLE OF THE LAND DRUID.** 3 shots, 3 hits (22, 23, 24) for **9, 14, 6**. Attributed to *"calling on [[Arona]]"* — see [[Arona]] |
+| [[Vega Bloodroot]] | **Rage / Reckless Attack / Great Weapon Master** | — | Rage retconned to precede both opening arrows (DM allowed). GWM bonus attack landed on a 22 |
+| [[Vega Bloodroot]] | **The cursed longsword's fire rider** | — | **6d6 fire**, rolled **twice on the crit** (24 and 27), plus the **2d8 [[The Sun Shard\|Sun Shard]] set bonus** twice (15 and 10) |
+| [[The Necromancer]] | ⚑ **Unnamed ritual** | — | Siphoning *"his magic, his immortality, and his very essence"* from [[Valerian Hellebore]]. **Five forced CON saves, ~91 damage.** Collapsed by Dispel Magic |
+| [[Boilborn]] | **Rupture Burst** | — | **DC 16 CON, 34 damage** to [[Eiluned "Lulu" Denulie]], [[Flux]] and [[Vega Bloodroot]] at once. ✅ DC matches the S15 record; ⚠️ damage up from 30 |
+
+🛑 **The GAP above (S13–S15) is still open.** This file now jumps **S11 → S16 → S17 → S18**.
+🛑 **Three of the five blocks in this file are transcript-only** (S11, S16, S18) for want of one line in `.env`.

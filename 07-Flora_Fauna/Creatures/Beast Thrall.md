@@ -52,6 +52,21 @@ Controlled by **Beast Masters** (light-blue magical auras; emerald-vulnerable). 
 
 ⚑ **They hunt by sound** — recorded in the session note; the DM's description of the vampire feeding method (*"it tears open a section of your body and then literally sucks all the blood out within 3 seconds, and you die a bloodless death"*) was likened at the table to *"a monster from A Quiet Place, but… for vampires."*
 
+## S18 — "Vampire Beast Thralls" under a necromancer, and the labelling falls apart
+
+🛑 **A necromancer — not a vampire, and explicitly *opposed* to the vampire lords — was commanding beast thralls at [[The Cliffside Tower]].** ⚠️ **This is new.** Every previous handler on the record has been a vampire ([[The Beast Master]], [[The Beast Tamer]], [[The Cloaked Figure]]) or nobody at all (S16/S17's revolted ferals). ⚑ **Nobody in-fiction remarked on it.** ▶ **DM question.**
+
+🛑 **THE TERMINOLOGY IS UNUSABLE AS WRITTEN.** One session used **five labels** — `Beast thralls`, `Vampire Beast Thrall A and B`, `feral vampire thrall D`, `Beast Thrall C`, plus the distinct [[Boilborn]]. ⚑ **Whether these are one type, two or three cannot be determined from the transcript**, and the S18 spell-check deliberately proposed no corrections beyond the mechanical letter-labels. **See [[Feral Vampire Thrall]] for the full S18 combat record** — that page carries it, because the DM's dominant label for the ones that acted was *"feral vampire thrall."*
+
+**What S18 adds that is safe to record here:**
+
+- ✅ **The CR-scales-with-the-party rule is now visible in play.** A **15 no longer hits** — *"They leveled up with you guys, so their AC is no longer 15."* ⚑ **The new AC was never stated.**
+- 🛑 **The handler bond is called a "contract" for the first time** — *"Their contract is over"* — when the necromancer's death released them and they fled. ⚠️ **This is different language from the S10 psychic-bond lore.** ⚑ One word, one line. **Recorded, not interpreted.**
+- ✅ **Senses given as smell AND sound in one breath** — *"they hunt by smell, sound"* — against an invisible target. ⭐ **The first line that names both**, which bears on the S01-vs-S17 sense discrepancy.
+- ⚔️ **They climb**, hold vertical positions on a tower face (one at **42 feet**), and burst from battlements to open an engagement.
+- ✅ **Radiant doubling confirmed again**, under [[Flux]]'s **Rite of the Dawning Radiance**.
+
 ## Record
 
+- **S18:** ~9+ at [[The Cliffside Tower]] under [[The Necromancer]], across three inconsistent labels. **A** killed by [[Vega Bloodroot]] (opening longbow shot), **B** by [[Barrett Grimmskar]], **C** tackled off the wall by [[Samothy Smith-Wesson]] for 28 fall damage (⚑ not individually confirmed dead), **F** by [[Eiluned "Lulu" Denulie]]'s Blight. **Survivors fled alive when their master died.** Full log on [[Feral Vampire Thrall]].
 - **S02:** 3 blind beast thralls slain at [[The Old Hospital]] — kills: Barrett (Finger Guns ×2), Vega (47-damage nat-20 crit), Valerian (Shocking Grasp execution). Flux retained a corpse for **changeling form study**.

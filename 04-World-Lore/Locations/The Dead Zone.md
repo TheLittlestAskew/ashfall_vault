@@ -43,9 +43,22 @@ The DM's read-aloud for it is consistently one of held breath rather than emptin
 - The mountains lie **two days by wagon** past it.
 - ⚠️ Beyond the Dead Zone the land changes: **warming air, scarce wildlife, massive claw marks on trees and boulders** from the revolted [[Beast Thrall]]s, then blackened ground and sulfur as the volcano approaches.
 
+## Events (S18)
+
+- **The party marched through it on foot to reach [[The Cliffside Tower]]** — deliberately, rather than teleporting. 🛑 **It is now established that the tower holding [[Valerian Hellebore]] lies on the far side of the Dead Zone, on a cliffside above the ocean.** ⚑ **Direction and distance are never stated.**
+- 🛑 **THE DEAD ZONE IS DESCRIBED AS A LANDSCAPE IN ITS OWN RIGHT FOR THE FIRST TIME**, in the approach boxed text:
+
+> *"the journey to the tower is a march through the dead— the dead zone. Uh, **the trees twist like broken ribs. The sky dims unnaturally, as if recoiling from the structure ahead**, as the tower rises from the cliffside like a rotten tooth. Its stones blackened by centuries of dark magic. A sickly green glow pulses from the highest window, slow, steady, like a heartbeat. **The wind carries faint screams.**"*
+
+- ⚠️ **The sky-dimming is attributed to the tower, not to the Dead Zone** — *"as if recoiling from the structure ahead."* ⚑ **Recorded as stated; the Dead Zone's own lighting has never been described.**
+- **The screams on the wind were [[Valerian Hellebore]]'s**, confirmed by the DM: *"And those screams you're hearing are Val."* ⚑ **They carried the length of the march** — an unremarked-on distance implication.
+- ✅ **The crossing was uneventful and the party arrived undetected** — *"Are they aware that we're here?"* / *"I'd imagine not."* **No patrol, no ambush, no [[Cloaked Figure]].**
+- ⚑ **The party brought a horse and carriage** through it, and [[Zelda "Z" Whipper]] teleported **the horse** home at the session's end while **abandoning the carriage** at the tower.
+
 ## Open Threads
 
-- 🛑 **[[The Cloaked Figure]] is still out here**, unnamed and undamaged, with a promise to return.
+- 🛑 **[[The Cloaked Figure]] is still out here**, unnamed and undamaged, with a promise to return. ⚑ **Not seen in S16, S17 or S18.**
+- ⚑ **Where is [[The Cliffside Tower]] relative to everything else?** S18 establishes it is reachable on foot through the Dead Zone, but **no direction, distance or travel time is given** — and the Dead Zone's other known far side is the [[Broken Crown Mountains]], two days east.
 - ⚑ **Something was tracking the party before the ambush** — four sets of prints, laid recently, heading the same way they were. Never explicitly connected to the six thralls that attacked (six thralls, four sets of tracks).
 - ⚑ **Is the Dead Zone a proper name?** And what defines its boundary — the party has crossed this ground before without it being framed as a distinct region.
 - ⚑ **Why is it burning?** Parts of the ruins are on fire and nobody in-fiction remarked on it.

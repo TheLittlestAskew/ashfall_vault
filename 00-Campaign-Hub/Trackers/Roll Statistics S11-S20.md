@@ -244,6 +244,78 @@ These come from narrated outcomes, not from counting:
 - ⚑ **Three DM d20s are timestamped 19:26 ET**, **36 minutes before the recording begins** (*"It is 8:02 PM"* at 00:00:09). **Pre-session prep, not a sync gap.**
 - ⚠️ **[[Vega Bloodroot]]'s curse triggered on a CON save of 8** (3 + 5) at 21:52 — the single most consequential roll of the session.
 
+## S18 — I Knew You'd Come (rolls keyed 2026-09-14) 🛑 ARCHIVE NOT QUERIED — BLOCKED
+
+> 🛑 **THE ROLL ARCHIVE WAS RE-TESTED IN THIS CONVO 2 RUN AND IS STILL UNREACHABLE.** `mcp__supabase__execute_sql` returned **`Unauthorized. Please provide a valid access token…`** with **no permission prompt** — re-confirming the 08/28 diagnosis for the eighth consecutive run. `mcp__supabase-cutter__execute_sql` and `mcp__supabase-account2__execute_sql` both returned **"permissions… not granted"** and cannot be granted non-interactively.
+> 🛑 **ROOT CAUSE NOW CONFIRMED BY DIRECT INSPECTION, NOT INFERENCE.** The vault `.env` was read this run: **it contains only `DDB_COBALT`. There is no `SUPABASE_ACCESS_TOKEN` in it at all**, so `.mcp.json`'s `"SUPABASE_ACCESS_TOKEN": "${SUPABASE_ACCESS_TOKEN}"` expands to an empty string. **This is not a transient failure and it will not fix itself.**
+> 🛑 **Neither standing query ran:** `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-09-14'` and `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`. **Whether a sync gap exists for 2026-09-14 is UNKNOWN** — an access failure is *not* the same as an empty archive.
+> ⚠️ **NO ROLL IN THIS SESSION IS MARKED `physical dice roll`**, because that designation requires an archive to be absent from.
+> ⚠️ **EVERYTHING BELOW IS A COUNT OF TRANSCRIPT-AUDIBLE ROLL EVENTS** taken from the *Full Roll Log* in [[Session 18 — I Knew You'd Come]]. **Nothing was invented. Nothing is archive-verified.** These numbers are a **FLOOR** and are **NOT comparable** to the archive-backed blocks for S13–S15 and S17.
+
+### Per-character — transcript-audible d20 events only ⚠️ FLOOR, NOT A CENSUS
+
+| Character | d20s heard | Nat 20 | Nat 1 | Initiative | Notable |
+|---|---|---|---|---|---|
+| [[Vega Bloodroot]] | **14** | **2** | 0 | 🛑 **[Unknown/Ambiguous]** — *"Oh wait, did I roll? I have no idea what I got."* DM: *"No, you can't reroll"* | **Highest volume at the table.** A two-handed **nat-20 crit** (6d6 fire rolled twice for 24 and 27, 2d8 set bonus for 15 and 10) plus a **Great Weapon Master** follow-up. **Five CON saves, three failed → three separate poisonings.** Closed the session with a **nat 20 Insight** on Val |
+| [[Barrett Grimmskar]] | **7** | 0 | 0 | ⚠️ **CONTESTED** — [[Zelda "Z" Whipper]]: *"He rolled a 25."* VTT scored **15**; the DM kept 15: *"It has him at 15. I'll take it"* | Steady and unremarkable: 4 hits from 7 shots, two kills, two bonus-action grapple-hook repositions |
+| [[Valerian Hellebore]] | **~7** | 0 | 0 | 🛑 **DID NOT ROLL** — *"Everybody except for Val"* | 🛑 **Five forced CON saves and ~91 damage with no turns.** Then **3 for 3 on Eldritch Blast** (22, 23, 24) after combat was already over |
+| [[Flux]] | **~7** | 0 | **2** | 🛑 **[Unknown/Ambiguous]** — only *"with my bad roll today"* | **Both nat 1s were Finger Guns.** The first triggered the boil burst Vega then saved against; the second self-burned her for 2. **Killed the [[Boilborn]]** with bow + Sneak Attack (18) + Finger Guns |
+| [[Zelda "Z" Whipper]] | **6** | ⚑ **0 or 1** | 0 | ⚑ **20** — *"A 20."* ⚠️ **The DM also says *"You rolled a nat 20"*, addressee ambiguous** — see *Discrepancies* | **History 22** established the tower. **Dispel Magic** broke the ritual, **Acrobatics 21** made the grab. Her Guiding Bolt **missed on a 15** and got the session's thesis statement back |
+| [[Samothy Smith-Wesson]] | **6** *(+1 d6)* | **1** | **1** | **nat 1** → 4 or 6; **Heroic Inspiration reroll → 18** | ⭐ **The session's MVP by outcome.** **nat-20 Athletics (26)** for the wall tackle; **Arcana 30** for the 8 shards; the **Catapult** that floored the necromancer. The d6 was [[Mr. Cat]]'s teleport passage (**3**, 1–3 = yes) |
+| [[Eiluned "Lulu" Denulie]] | **~3** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** | ⚠️ **Lowest d20 volume at the table — because her kit doesn't use them.** **Blight** killed thrall F on the *target's* failed save (37 damage); her Draconic Spirit's rend hit on a 20 |
+| [[Mr. Cat]] | **2** | ⚑ **1** | 0 | — (companion; turn order *"usually right after"* Samothy) | ⭐ **The single highest-leverage roll of the session: Acrobatics 27 with DM-granted advantage *"for being a cat."*** Imposed **disadvantage on the necromancer for the rest of the fight.** Missed his one attack (11) |
+| **DM** (thralls, [[Boilborn]], [[The Necromancer]]) | **~12** | **1** | 0 | Not stated; interleaved | The necromancer's **nat-20 CON save** negated one of Samothy's effects. His **DEX save of 15 vs DC 17, at disadvantage**, is the roll that lost him the fight |
+| ⚑ Unattributed PC | **1** | 0 | 0 | — | The sealed-door attempt — *"I tried. Got a 17."* **Speaker never identified** |
+
+**Transcript-audible totals: ~65 d20 events · ~110 total roll events including damage · ≥5 nat 20s · 3 nat 1s.**
+⚠️ **The archive would almost certainly return more.** Every comparable archive-backed session ran 118–143 rolls.
+
+### Session Records
+
+- ⭐ **Two of the session's natural 20s belong to a cat and a corpse.** [[Mr. Cat]]'s Acrobatics face-grab and **[[The Necromancer]]'s CON save** — and the cat's mattered more than any PC's roll.
+- ⭐ **[[Samothy Smith-Wesson]] bought his way out of a natural 1 and then won the session.** His initiative nat 1 was erased by **Heroic Inspiration** into an 18; from there he took the nat-20 Athletics swing, the Vortex Warp, the Catapult and the Arcana 30. **Second session running that Heroic Inspiration converted a nat 1 into the session's best outcome** (cf. [[Barrett Grimmskar]]'s S17 reroll into a nat 20).
+- ⭐ **[[Samothy Smith-Wesson]]'s Arcana 30** (+14) is the highest single check in the block, and it bought **8 enchantable shards**.
+- 🛑 **[[Vega Bloodroot]] failed 3 of 5 Constitution saves** and was poisoned three separate times — and took roughly **76 damage**, the most of any PC. ⚑ The DM noticed mid-session that he had been under-applying it: *"I don't think I've been doing the poison damage on your turn."*
+- 🛑 **[[Valerian Hellebore]] took ~91 damage — more than any PC — without a single turn**, including **25 as the chains crushed down during his own rescue**.
+- ⚠️ **[[Flux]]'s two nat 1s cost her 2 self-damage total** and the first one **triggered the Boilborn's boil burst**. She still killed the Boilborn.
+- ⚑ **No PC dropped to 0 all session**, across a 2h10m continuous encounter.
+
+### Initiative Orders
+
+| Turn | Character | Roll |
+|---|---|---|
+| 1 | [[Zelda "Z" Whipper]] | ⚑ 20 — *"Zelda, take the lead"* |
+| 2 | [[Vega Bloodroot]] | 🛑 [Unknown/Ambiguous] |
+| 3 | [[Samothy Smith-Wesson]] | nat 1 → **18** on the Heroic Inspiration reroll |
+| 3b | [[Mr. Cat]] | — companion; DM: *"Usually right after you"* |
+| 4 | [[Barrett Grimmskar]] | ⚠️ **Contested — 25 claimed, 15 scored, 15 kept** |
+| 5 | [[Flux]] | 🛑 [Unknown/Ambiguous] |
+| 6 | [[Valerian Hellebore]] | **Did not roll** — granted turns only *"to scream in pain"* |
+| 7 | [[Eiluned "Lulu" Denulie]] | 🛑 [Unknown/Ambiguous] |
+| — | Enemies | Not stated; the [[Boilborn]] acted immediately after [[Mr. Cat]] in round 3 |
+
+> ⚠️ **Turn ORDER is reliable — it was observed across four rounds of play. The roll COLUMN is not.** Most totals were never said aloud, and the two speakers who called theirs are merged by the diarizer.
+> ⚑ **The DM flags the VTT as unreliable:** *"the roll for initiative thing and the map thing, I don't think it works correctly all the time."*
+
+### 🛑 Discrepancies found in the session note itself — FLAGGED, NOT SILENTLY FIXED
+
+1. 🛑 **THE NAT-20 COUNT IS INTERNALLY INCONSISTENT.** The note's *Trends* bullet says **"Four natural 20s"** and lists Samothy's Athletics, Mr. Cat's Acrobatics, the necromancer's CON save, and Vega's Insight. **But the Round 2 roll log independently records [[Vega Bloodroot]]'s two-handed attack as `nat 20 → 29 to hit ✅ CRIT`**, and both the narrative summary and the Themes section describe that crit. **That is a fifth.** ▶ **This block records ≥5 and does not overwrite either statement.** Only the archive can settle it.
+2. ⚠️ **[[Zelda "Z" Whipper]]'s initiative "20" may or may not be a natural 20.** She says *"A 20"*; the DM separately says *"You rolled a nat 20"* with an **ambiguous addressee**. A total of 20 and a natural 20 are different events. **Not resolved.**
+3. ⚑ **[[Mr. Cat]]'s Acrobatics 27** is logged as a total, but the *Trends* bullet counts it among the natural 20s. **With advantage and an unstated modifier, both readings are possible.**
+4. 🛑 **RADIANT DAMAGE WAS BEING DOUBLED FOR [[Vega Bloodroot]] ONLY** — *"I've been doubling them because I— no one else has been doubling."* ⚠️ **The table's damage totals are therefore internally inconsistent, and any damage leaderboard built from this session will be skewed.** **No damage leaderboard is published in this block for that reason.**
+5. ⚑ **The necromancer does NOT take double radiant**, unlike the thralls — Samothy's 1d6 radiant rider was not doubled against him. **Two different damage rules were live in the same fight.**
+6. ⚠️ **PARTY LEVEL 12 → 13, OFF-SESSION AND UN-NARRATED** (*"13, not 30"*). **S17's open flag** — [[Barrett Grimmskar]] citing level 11 against the vault's 12 — **is still unresolved and now compounds.** 🛑 **Settle both before keying any archive query to a level assumption.**
+
+### To do when the token is restored
+
+1. Add **one line** to the gitignored `.env`: `SUPABASE_ACCESS_TOKEN=sbp_…` — **or** allowlist `mcp__supabase-cutter__execute_sql` in `.claude/settings.local.json`.
+2. Run both standing queries for `2026-09-14`, plus `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`.
+3. Rebuild the per-character table here in the **S13–S15/S17 format** (Rolls · d20s · Nat 20 · Nat 1 · Avg d20 · To-hit · Damage rolls · Archived damage).
+4. **Settle the nat-20 count** (discrepancy 1) and **[[Barrett Grimmskar]]'s contested initiative** (25 vs 15) against the archive.
+5. **Mark every transcript-only roll with no archive row as `physical dice roll`** — this could not be done for S18 at all.
+6. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`) and the column is **`"character"`**, not `character_name`.
+7. ⚠️ **The backlog is now S11, S16 and S18** — three transcript-only blocks in this file.
+
 ## Related
 
-- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Vault Sync Status]] · [[DM Questions — Open]]
+- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 18 — I Knew You'd Come]] · [[Vault Sync Status]] · [[DM Questions — Open]]

@@ -157,15 +157,74 @@ The dungeon beneath [[The Volcano Tomb]] is a **trial sequence**, not merely a t
 - ✅ **The fix is geographic, not magical:** *"there's monks there that will be able to uncurse the blade."*
 - ⚑ **The monks' name and location were deferred on the record** — and they sit at **the same site** [[Vega Bloodroot]] intends to leave a token, and where objects can be sacrificed.
 
+## 🛑 The first dark-side deity: [[Lunara, the Nightbringer]] *(S18)*
+
+**Every deity in this vault before S18 was a fire deity.** [[Emberos]], the unnamed pre-vampire deity beneath the [[Old Shrine]], the *"old fiery deity"* of the obsidian tablet — all of them on the same side of the same line. **S18 names one on the other side.**
+
+The ritual crystal [[The Necromancer]] was using to drain [[Valerian Hellebore]] was identified by the DM, reading his own lore note:
+
+> *"this crystal is a replica of— oh yeah, it's a replica of the [[The Sun Shard|Sun Shard]], right? **But it's the darker version**… This crystal is dedicated to **Lunara**, Lunara, who's referred to as **the Nightbringer**."* … *"it's necrotic necromancy that it can be used for."*
+
+- ⚑ **Her domain is never stated.** The only associated magic is *"necrotic necromancy."*
+- ⚑ ***"Referred to as"*** the Nightbringer — an epithet others use, not necessarily a self-title.
+- 🛑 **DO NOT INFER A PANTHEON, and do not make her [[Emberos]]'s opposite number.** The [[The Sun Shard|Sun Shard]] has **never been attributed to a deity at all.** The symmetry is real; the connection is not on the record.
+- ⚠️ **She was named in a loot aside, not a story beat** — the DM was answering a mechanical question about salvaging shards. ⚑ **He was reading prepared material, so she predates the question.**
+
+## 🛑 THE SUN SHARD IS ONE OF THREE *(S18)*
+
+**Stated in passing at 00:15:56, while reading [[Vega Bloodroot]]'s gear profile aloud:**
+
+> *"with the gauntlet and the sword, add an extra **2d8 fire damage**. Because you have **2 of the set of 3**."*
+
+🛑 **THIS IS THE FIRST TIME IN EIGHTEEN SESSIONS THAT THE [[The Sun Shard|Sun Shard]] HAS BEEN DESCRIBED AS PART OF A THREE-PIECE SET. THE THIRD PIECE HAS NEVER BEEN NAMED.** ⚠️ **Nobody at the table reacted.** It was delivered as a damage-rider clarification and the session moved on.
+
+⚑ Known set pieces: **the [[The Sun Shard|Sun Shard]] gauntlet** and **the cursed longsword** (archive name `Voranthyr +2` ⚑). ⚑ **The third is unaccounted for.** ⚠️ **Do not assume it is the Sunfire blade, the Blade of Sunfire, or the Gauntlets of Burning Grasp** — those are three separate unreconciled references already, and nothing connects any of them to this set.
+
+## Immortality, and what a ritual can take *(S18)*
+
+🛑 **[[Valerian Hellebore]] has immortality — stated for the first time on the record**, and only because something was taking it:
+
+> *"Each chain pulses as it **siphons away his magic, his immortality, and his very essence.** His skin flickers, mortal one moment, immortal the next, as if it really can't decide what he is anymore."*
+
+- ⚑ **Whether this is an elf trait, a druid trait, or something particular to him is unstated.**
+- ⚑ **Whether the necromancer got any of it before the party arrived is unknown** — the DM never said.
+- 🛑 **He came back with a different face, a different voice and a Warlock cantrip, and a natural-20 Insight says he is genuinely himself and genuinely unaware.** ⚠️ **There is no villain to point at: the check came back clean.** See [[Arona]].
+
+## Something answered the ritual's collapse *(S18)*
+
+The closing boxed text, which **runs out mid-sentence**:
+
+> *"And somewhere in the distance, **far across the land, something answers the dying pulse of the ritual. A deep resonant tone, a warning, a promise.** The necromancer may be dead, but the power he awakened is **That's the end of it, of what I have written.**"*
+
+🛑 **The DM reached the end of his prepared text at the climax and said so.** ⚑ **Whatever the ritual awakened is explicitly left open — this is deferred authorship, not a withheld secret.** ⚠️ Worth watching whether it lands in S19 or quietly disappears.
+
+## Thralls under a non-vampire *(S18)*
+
+⚠️ **[[The Necromancer]] commanded beast thralls while being explicitly *opposed* to the vampire hierarchy** — *"the vampire lords will kneel before a new master."* **Every previous handler on the record was a vampire.**
+
+- 🛑 **The bond was called a *"contract"*** — *"Oh, the necromancer's dead. They all ran away. **Their contract is over.**"* ⚠️ **Different language from the S10 psychic-bond lore.** ⚑ One word, one line. **Recorded, not built on.**
+- ⚑ It is consistent with the earlier aside that thrall movements are *"not exactly a sanctioned thing by all the vampires"* — but the two are **not explicitly linked.**
+
 ## Geography (known)
 
 - [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*
 - [[Ruined City District]] — the city beyond the base's main gate. ⚑ city name unknown. *(S01)*
-- [[The Dead Zone]] — the ruined ground between [[The Grand Library of the Veiled Dawn]] and [[The Walled Base (Museum-Castle)]]. Silent, ash-and-mud, **partly on fire**, patrolled by vampires. Glossary line: *"Where Saint Ardas stands; no one returns."* ⚑ Extent undefined; ⚑ proper name unconfirmed. *(named earlier, first fully traversed S11)*
+- [[The Dead Zone]] — the ruined ground between [[The Grand Library of the Veiled Dawn]] and [[The Walled Base (Museum-Castle)]]. Silent, ash-and-mud, **partly on fire**, patrolled by vampires. Glossary line: *"Where Saint Ardas stands; no one returns."* ⚑ Extent undefined; ⚑ proper name unconfirmed. *(named earlier, first fully traversed S11)* **S18: trees that *"twist like broken ribs"*; crossed on foot to reach the tower.**
+- [[The Cliffside Tower]] ⚑ **descriptive name — never named in fiction.** *(S18)* A **granite** tower on a cliffside **above the ocean**, reached on foot through [[The Dead Zone]]. Built as a **lighthouse**, repurposed as a **fort outpost tower for defence during war** ⚑ *(which war is not stated)*. **Two levels**, winding staircase, ⚠️ **110 ft stated / 120 ft used**. Held [[Valerian Hellebore]] for three weeks. ⚑ **Direction and distance from the castle were never given.**
 - A north–south axis exists with scouting reports tracking vampire captains "way north." *(S01)*
 
 ## Open Questions
 
+- 🛑 **WHAT IS THE THIRD PIECE OF THE [[The Sun Shard|SUN SHARD]] SET?** Never named. *(S18)*
+- 🛑 **Who or what is [[Arona]]?** No referent given, by anyone, ever. *(S18)*
+- 🛑 **Who was "the Beast Master" in S18's opening boxed text?** [[The Beast Master]] died in S10; the antagonist is *"the necromancer"* thereafter. **Highest-priority DM question.** *(S18)*
+- 🛑 **What is *"the power he awakened"***, and what answered the ritual's collapse from *"far across the land"*? The DM's sentence breaks off. *(S18)*
+- ⚑ **Is [[Lunara, the Nightbringer]] a counterpart to [[Emberos]]?** **Do not merge.** *(S18)*
+- ⚑ **Is `Arona` the `Book of Varona`?** One consonant apart, two sessions apart, no narrative bridge. **Not assumed.** *(S16/S18)*
+- ⚑ **What does [[Valerian Hellebore]]'s immortality consist of**, and did the necromancer take any of it? *(S18)*
+- ⚑ **Why was a [[Boilborn]] serving a necromancer** on the far side of [[The Dead Zone]], when they were introduced guarding a pre-vampire fire relic two days east? *(S15/S18)*
+- ⚑ **Is [[The Cliffside Tower]] the "blurred master's" tower?** S17 put him *"in a fucking tower."* **Nothing connects them.** *(S17/S18)*
+- ⚑ **Which war was the tower fortified for?** The campaign now has two on the record. *(S18)*
 - What is the base/city actually called?
 - What/who is the Mistress of Hunger?
 - Who is the spy among the recruits? *(S01)*

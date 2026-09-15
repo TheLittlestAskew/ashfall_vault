@@ -257,6 +257,24 @@
 | **feral vampire beast thralls** | Creature ⚑ | Masterless variety — **killed their own Beast Master**. No eyes, hunt by smell; weak to radiant, thunder, silvered. See [[Feral Vampire Thrall]] |
 | **the blurred master** | NPC ⚑ | [[The Doppelganger]]'s handler. Seen in memory; **face will not resolve**. ⚑ Possibly [[The Cloaked Figure]] — **do not merge** |
 
+## S18 first-seen terms — ⚑ NONE CANONIZED
+
+> 🛑 **THE S12–S15 GLOSSARY GAP ABOVE IS NOW SIX SESSIONS STALE AND STILL COSTING ACCURACY.** This session's spell-check capped three [[Boilborn]] rows at 60% **on a "first-seen term" basis — and that rationale was wrong**, because [[Boilborn]] debuted in **S15** and has had a full vault page since. **The gap made a known term look new.** ▶ **Run the catch-up.**
+> ⚠️ **`Boilborn` is a GLOSSARY GAP, not a first sighting** — it belongs in this file and is not in it. Listed below for that reason only.
+
+| Term | Type | Notes |
+|---|---|---|
+| **Lunara, the Nightbringer** | Deity ⚑ | 🛑 **THE CAMPAIGN'S FIRST DARK-SIDE DEITY.** The ritual crystal is *"a replica of the [[The Sun Shard\|Sun Shard]]… but it's the darker version"*, **dedicated to her**. Magic is *"necrotic necromancy."* ⚑ **Possible counterpart to [[Emberos]] — DO NOT MERGE OR INFER A PANTHEON.** Named twice in one breath by the DM reading his own note. See [[Lunara, the Nightbringer]] |
+| **Arona** | ⚑ **[Unknown/Ambiguous]** | 🛑 **NO REFERENT IS EVER GIVEN.** [[Valerian Hellebore]]'s explanation for casting **Eldritch Blast** as a druid: *"I can call on Arona."* Echoed once: *"You mean calling in Arona and summoning Blast?"* ⚠️ **Possible link to S16's `Book of Varona` — one leading consonant apart. NOT ASSUMED; both stand verbatim.** See [[Arona]] |
+| **Tattered Robes of the Pale Scholar** | Item ⚑ | Looted from [[The Necromancer]]. **Resistance to necrotic damage** + **advantage on Arcana rolls related to death magic.** ⚠️ **The name echoes the [[Cult of the Pale World]] (S08) — DO NOT ASSUME A LINK** |
+| **Soulbound Grimoire** | Item ⚑ | **One of two commissioned items** the party is sourcing. 🛑 **No holder assigned** — *"I just have to see who it goes to."* Carries a corruption mechanic |
+| **Corruption (d6, 3 tiers)** | Mechanic ⚑ | The [[Soulbound Grimoire]]'s cost: *"There's a d6 involved. And there's 3 tiers or 3 checks for it."* Effect: *"it turns you into undead."* **Reversible** — *"there's a ritual you can do to unturn somebody."* ⚑ **The tiers are never specified** |
+| **Rite of the Dawning Radiance** | Ability ⚑ | [[Flux]]'s party-wide buff, and **load-bearing for the entire session's damage math**: necrotic resistance; advantage vs charm/fear/Vampiric Domination; **+1d6 radiant on every weapon attack**; dim→bright 30 ft, dark→dim 15 ft; 1 hour. ▶ **Filed to [[Homebrew Abilities]] per the standing rule** |
+| **the goat** | Item ⚑ | [[Flux]]: *"I haven't been able to use the goat yet"* — immediately after the DM's *"Is this the one I made for you, Flux? … I recognize that writing."* **Reads like a DM-built custom item. Never used, never explained** |
+| **the tower** | Location ⚑ | 🛑 **NEVER NAMED**, across three sessions of mattering. Filed under the descriptive title [[The Cliffside Tower]] per the unnamed-location convention. A former **lighthouse**, repurposed as a **fort outpost tower**; granite; two levels |
+| **Bite the Bullet** | Ability ⚑ | 🛑 **[[Barrett Grimmskar]]'s name for his temp-HP maneuver in S18** — *"one of my maneuvers, Bite the Bullet."* Spell-check row 18 changed it to **Risk Bullet** (the S17 entry), **but Phase A concluded S18 was probably the CORRECT hearing** — the names do not sound alike, so this is not ASR drift. ▶ **ASK DOUG. Be ready to revert the row and amend the S17 `Risk Bullet` entry instead** |
+| **Boilborn** | Creature ⚠️ | ⚠️ **NOT A FIRST SIGHTING — this is the glossary gap.** Debuted **S15**, full page at [[Boilborn]]. ✅ **S18 independently corroborates the spelling**: its **Rupture Burst DC 16** matches the S15 record exactly |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

@@ -710,6 +710,8 @@ Losing would have meant the necromancer completing a ritual that was siphoning *
 ## Related
 
 - [[Session 17 — Hobo, That's Your Reflection]]
+- [[The Cliffside Tower]] — ⚑ *the tower's page, created in Convo 2 under a descriptive name; it is never named in fiction*
+- [[The Necromancer]] · [[Lunara, the Nightbringer]] · [[Arona]] — ⚑ *pages created in Convo 2*
 - [[Campaign Dashboard]]
 - [[DM Questions — Open]]
 - [[Names & Terms]]

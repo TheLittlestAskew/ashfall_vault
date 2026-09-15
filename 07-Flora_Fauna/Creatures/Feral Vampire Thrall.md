@@ -36,7 +36,24 @@
 
 🛑 **SENSE DISCREPANCY — FLAGGED, NOT RECONCILED.** S17's DM says **they have no eyes and hunt by smell** — *"they don't have eyes, so no, they can't be blinded like vampires would be by the sun. They don't have eyes. They go by smell, remember?"* ⚠️ **This contradicts the S01 record above**, which states they *"hunt by sound"* with hearing fine-tuned enough to *"hear your heartbeat"* — the basis for the S01 Thunderwave ruling. ⚑ **Possibilities:** the feral masterless variety differs from the S01 master-bound ones; the DM revised it; or one of the two is a misremembering. **Neither entry was changed. This is a DM question.**
 
+## S18 — mastered again, and the bond is called a "contract"
+
+⚠️ **S18's thralls SERVE a master** — [[The Necromancer]] at [[The Cliffside Tower]] — which makes them the **opposite** of S17's masterless ferals. 🛑 **The transcript nonetheless calls them *"feral vampire thralls D, E and F"* alongside *"Vampire Beast Thrall A and B"* and *"Beast Thrall C."***
+
+🛑 **ENEMY TERMINOLOGY IS INCONSISTENT ACROSS AT LEAST FIVE LABELS IN ONE SESSION:** `Beast thralls` · `Vampire Beast Thrall A and B` · `feral vampire thrall D` · `Beast Thrall C` · plus the distinct [[Boilborn]]. ⚑ **Whether S18's tokens are one creature type or three is NOT determinable from the transcript**, and no correction was proposed beyond the mechanical letter-label artifacts. ▶ **DM question.**
+
+**New this session:**
+
+- 🛑 **THE BOND IS CALLED A "CONTRACT."** When [[The Necromancer]] died, the survivors simply left: *"Oh, the necromancer's dead. They all ran away. **Their contract is over.**"* ⚠️ **This is different language from the S10 psychic-bond lore**, which describes an eroding mental link rather than an agreement. ⚑ **Recorded as stated. It is one word and nothing else in the session develops it. Do not build on it.**
+- ✅ **THE CR-SCALES-WITH-THE-PARTY RULE FIRED VISIBLY.** [[Zelda "Z" Whipper]]'s opening **Guiding Bolt missed on a 15**, and the DM explained: *"No, 15 does not hit. Not this time anymore, guys. **They leveled up with you guys, so their AC is no longer 15.**"* … *"You should always beware of level-ups. They come with consequences."* ⚑ **AC is now above 15; the exact value was never stated.**
+- ✅ **RADIANT IS DOUBLE DAMAGE AGAINST THEM** — confirmed again and applied all session under [[Flux]]'s **Rite of the Dawning Radiance**. ⚠️ **But the DM was doubling it for [[Vega Bloodroot]] ONLY** (*"I've been doubling them because I— no one else has been doubling"*), so the session's damage figures are internally inconsistent. ⚑ **[[The Necromancer]] himself does NOT take double radiant** — two different damage rules were live in the same fight.
+- ✅ **SENSES: SMELL *AND* SOUND, TOGETHER.** Against an invisible [[Zelda "Z" Whipper]] the DM said *"you are invisible, but **they hunt by smell, sound**."* ⭐ **This partially reconciles the S17/S01 discrepancy flagged below** — it is the first time both senses have been named in the same breath. ⚠️ **It does not resolve the "no eyes" claim**, which is untouched in S18.
+- ⚔️ **They can climb and hold the tower face** — one was positioned **42 feet up** the wall, and they burst out of the ruined battlements to open the fight.
+- ⚠️ **They are killable by falling** — [[Samothy Smith-Wesson]] tackled one off the wall for **28 fall damage**.
+- ⚑ **The survivors fled the map alive** — *"they do venture off and they, you know, disappear."* **At large.** [[Valerian Hellebore]] **Eldritch Blasted three of them on the way out** (9, 14, 6) but none were confirmed killed.
+
 ## Record
 
+- **S18:** ~9+ encountered at [[The Cliffside Tower]] under [[The Necromancer]] — Vampire Beast Thralls **A** and **B**, **Beast Thrall C**, feral vampire thralls **D, E, F**, plus ~3 unnumbered wall/courtyard thralls. **Confirmed killed:** A ([[Vega Bloodroot]]'s opening arrow), B ([[Barrett Grimmskar]]), F ([[Eiluned "Lulu" Denulie]]'s **Blight**, 37 damage), and C (tackled off the tower for 28 fall damage — ⚑ *not individually confirmed dead*). **The rest fled when their master died.**
 - **S01:** 8 slain (wave 1) + 7 slain (wave 2); a third wave was recalled by the Beast Tamer. Kills by: Vega ×3 (incl. two bisections), Valerian ×2 (Moonbeam), Zelda ×3 (Starry Wisp ×2, Thunderwave), Flux ×3 (Finger Guns ×2 incl. crit, longbow finishes), Barrett ×2 (Finger Guns + Risk Die, Magic Missile contributions), Samothy ×1 + Steel Defender ×1.
 - **S17:** 6 encountered (Thralls A–F) in the Tomb of Tharos Emberborn; **all killed or dying when the DM called the fight.** Kills by: [[Eiluned Lulu Denulie|Lulu]] ×1 (Contagion, 11d8 → 49 necrotic — then **animated the corpse as her minion**), [[Vega Bloodroot]] ×1+, [[Zelda "Z" Whipper]] and [[Samothy Smith-Wesson]] contributing heavily. The DM ended it early: *"we can end it there because you guys are gonna kill him anyways."*

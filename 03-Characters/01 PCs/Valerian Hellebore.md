@@ -1,9 +1,11 @@
 # Valerian Hellebore
 
-> 🛑 **READ THIS FIRST — DISAMBIGUATION (added S16).**
-> **Valerian has not been present at the table since S14.** Everything "Valerian" said and did **in character in S15 and S16 belongs to [[The Doppelganger]]**, a changeling impostor who wore his face for roughly three weeks and was exposed in [[Session 16 — What the Fuck]].
-> **The real Valerian is alive, tied up in a tower**, seen only inside the impostor's memory. He **does not know [[Deanna Smith-Wesson]] is dead.**
-> ⚠️ **The S15 note has NOT been retro-edited and must not be** — `No Session Contamination` applies. In particular, **S15's hostility toward [[Eiluned Lulu Denulie|Lulu]] was the impostor**, confirmed above-table as deliberate characterisation, and the S15 record stands as played.
+> ✅ **HE IS BACK — RESCUED S18, ALIVE AND WHOLE.** Extracted from [[The Cliffside Tower]] by [[Zelda "Z" Whipper]] after **three weeks** in a siphoning ritual. **[[Vega Bloodroot]]'s S17 vow is discharged.**
+> 🛑 **AND HE CAME BACK CHANGED.** **New appearance. New voice, with an accent. And he casts [[Eldritch Blast]] — a Warlock cantrip — as a Circle of the Land druid**, which he attributes to *"calling on [[Arona]]."* [[Vega Bloodroot]]'s **natural 20 Insight**: *"nothing is wrong with Val other than he looks and sounds different, but he is Val."* ⚠️ **He is genuinely himself, he is not lying, and HE DOES NOT KNOW ANYTHING CHANGED.** The horror here is that the check came back clean.
+>
+> 🛑 **DISAMBIGUATION — STILL LOAD-BEARING (added S16, retained).**
+> **Valerian was absent from S15 through S17.** Everything "Valerian" said and did **in character in S15, S16 and S17 belongs to [[The Doppelganger]]**, a changeling impostor who wore his face for roughly three weeks and died in [[Session 17 — Hobo, That's Your Reflection]].
+> ⚠️ **The S15 note has NOT been retro-edited and must not be** — `No Session Contamination` applies. In particular, **S15's hostility toward [[Eiluned Lulu Denulie|Lulu]] was the impostor**, confirmed above-table as deliberate characterisation, and the S15 record stands as played. ⚑ **The real friction between those two characters has never actually happened.**
 > ⚑ **The impostor's page name is provisional and awaiting Taylor's ruling.** **DO NOT MERGE the two pages.**
 
 **Played by:** Chase
@@ -12,9 +14,9 @@
 | ------------------- | ----------------------------------------------------------- |
 | **Race**            | Elf                                                         |
 | **Class**           | Druid (Circle of the Land)                                  |
-| **Level**           | **10** as of S10 (5 at S01, gained Wild Resurgence + 3rd-level spells; 8 at S09; **8 → 10 in one award** ⚑). ⚠️ **The party reached 12 in S16, but Valerian was not there for it** — whether he levels off-screen is ⚑ [Unknown/Ambiguous] |
-| **Status**          | 🛑 **CAPTIVE (S16).** Held in an unidentified tower; alive as of the memory [[Zelda "Z" Whipper]] read. Off-screen for two sessions |
-| **Signature magic** | Starry Wisp · Moonbeam · Spiny Shield (⚑ homebrew reaction) |
+| **Level**           | ⚑ **[Unknown/Ambiguous].** **10** as of S10 (5 at S01, gained Wild Resurgence + 3rd-level spells; 8 at S09; **8 → 10 in one award** ⚑). ⚠️ **The party reached 12 in S16 and 13 in S18, all while he was captive** — whether he levelled off-screen was never stated, and he was not given a turn in S18 to reveal it |
+| **Status**          | ✅ **RESCUED AND ALIVE (S18)** — and 🛑 **CHANGED.** New appearance, new voice with an accent, new magic he cannot account for. **Unaware anything is different.** *(Was: CAPTIVE S16–S18, held in [[The Cliffside Tower]])* |
+| **Signature magic** | Starry Wisp · Moonbeam · Spiny Shield (⚑ homebrew reaction) · 🛑 **[[Eldritch Blast]] — NEW S18, and a Warlock cantrip he should not have** |
 | **Languages**       | Common, Druidic, Elvish, Goblin                             |
 | User_ID             | 106010515                                                   |
 | Character_ID        | 155267230                                                   |
@@ -30,12 +32,40 @@
 
 Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-hook bracers · quarterstaff, pistol — see [[Loot Tracker S01-S10]].
 
+## Description / Appearance — 🛑 CHANGED S18
+
+- 🛑 **He returned from captivity visibly different.** The party's first reaction is a question: *"why do you look different?"*
+- ⚑ **The change is an improvement, not a disfigurement.** Per [[Barrett Grimmskar]]: *"he's somehow the most gorgeous creature you've ever fucking laid eyes on."*
+- ⚑ **Player-generated character art exists and was shared to Discord this session.** ⚠️ **Not reproduced here** — the vault has no copy and the art is outside the transcript record.
+- ⚠️ **Nothing specific is described.** No feature, colour, height or mark is named on the record. **"Different" and "gorgeous" is the entire physical account.**
+- 🛑 **He does not know he looks different**, and says so when asked.
+
+## Personality & Quirks — 🛑 CHANGED S18
+
+- 🛑 **HE NOW SPEAKS WITH AN ACCENT.** Noticed immediately — [[Zelda "Z" Whipper]]: *"You, you sound different."* [[Vega Bloodroot]]: *"Have you always had an accent?"* Characterised above-table as *"Oh, he thinks he's British, brother."*
+- ⚑ **He uses "darling" as a habitual address.** *"It's been 3 weeks, darling."* / *"The flower crowns you're wearing, darling."* ⚠️ **[[The Doppelganger]] also used "darling" habitually** (S17: *"You spend an awfully long time staring at the asses of cats, don't you, darling?"*). 🛑 **Recorded as an observation only. Nothing on the record connects the two, and Vega's natural-20 Insight cleared him. DO NOT INFER.**
+- ⚠️ **He is genuinely unaware anything about him has changed** — *"My magic's no different."* The DM: *"he looks like he's genuinely confused, and he's telling the truth, as far as he knows."*
+- ⭐ **He is the moral centre of the closing scene.** He does not lead with his own three weeks on a rack. He leads with the fact that **nobody has grieved [[Deanna Smith-Wesson]]** — *"I don't think we've even really grieved over it"* — and with sustained horror that her body is in a bag. 🛑 **He is the first character in four sessions to treat the corpse as a person rather than a logistics problem**, and the party is visibly on the back foot for it.
+- ⚑ **He forgives instantly and without performance:** *"Yeah, it did, but you're here now, and I guess that's all that counts."*
+- ⚑ **Minutes off the rack, he asks about flowers.** *"Well, at least you came when you were alive. Where'd you guys get those crowns?"*
+
 ## Family & Backstory (revealed S02)
 
 - Home village: **[[Hampshire]]**, just outside the fort. **Both parents killed in the S01 attack** — found mauled (beast thrall) in his childhood home, S02. Deanna covered the bodies with blankets; Zelda draped one over him and hauled him out by the finger; the grief turned to "seething rage."
 - Won the boot-camp **training competition** ("the magic of loopholes" — teleported through the obstacle course); holder of the **Perma Inspiration**.
 
 ## Key Events
+
+- **S18: RESCUED — AND SOMETHING CAME BACK WITH HIM.** ⭐ **The campaign's primary thread since S16 is closed, and a bigger one opens in the same scene.**
+  ⛓️ **THE RITUAL.** The party found him *"hanging suspended in a glowing magic circle, chains of shimmering energy wrapped around his arms, his chest, his throat. **Each chain pulses as it siphons away his magic, his immortality, and his very essence.** His skin flickers, mortal one moment, immortal the next, as if it really can't decide what he is anymore."* 🛑 **THIS IS THE FIRST ON-RECORD STATEMENT THAT VALERIAN HAS IMMORTALITY TO LOSE.**
+  🛑 **HE WAS NEVER GIVEN A TURN.** The DM excluded him from initiative — *"Everybody except for Val."* The table objected (*"I feel like Val should get to Trying to fight his way out a little bit. He shouldn't get skipped"*) and the compromise was: *"Val can scream in pain on his turns."* ⚠️ **He took five forced Constitution saves and roughly 91 damage while hanging there — more than any PC in the fight — and burned his Heroic Inspiration on one of them.**
+  ⭐ **THE EXTRACTION.** [[Zelda "Z" Whipper]] dispelled the circle, timed its flicker, ran, jumped and grabbed him (**Acrobatics 21**), and **Dimension Door**ed them both to the ground. **The chains crushed him for 25 on the way out.** As they shattered: ***"I knew you'd come. Uh, thank you."*** — **the session title.**
+  💥 **His first act as a free man is a cantrip he should not have.** Flat on his back, minutes out of the circle: ***"Before they leave, Eldritch Blast!"*** **Three shots, three hits (22, 23, 24) for 9, 14 and 6** on the fleeing thralls.
+  🛑 **[[Eldritch Blast]] IS A WARLOCK CANTRIP AND HE IS A CIRCLE OF THE LAND DRUID.** His explanation: *"I'll be fine. I can call on **[[Arona]]**. Why are you staring at me?"* Pressed on why his magic is different: *"My magic's no different."* ⚑ **Nobody ever asks what or who Arona is.**
+  ⭐ **[[Vega Bloodroot]]'s natural 20 Insight cleared him** — *"nothing is wrong with Val other than he looks and sounds different, but he is Val."* ⚠️ **He is not replaced, he is not lying, and he does not know anything happened to him.**
+  💔 **HE IS THE ONE WHO NAMES THE GRIEF.** Learning where [[Deanna Smith-Wesson]] is — *"I'm sorry, you put her body where?"* — he pushes back on the whole party's framing: *"And no one thought, hey, that's a pretty grove of trees over there, let's bury her underneath one?"* Against their preservation argument he says only *"We don't know that for a fact."* Then he lands it: ***"You know, I don't think we've had a moment to properly take in the fact that she died, really, honestly. I don't think we've even really grieved over it."***
+  🌸 **He asks after the flower crowns** the party is still wearing — **left by his own dissipating magic in S17**, which he has no way of knowing. [[Zelda "Z" Whipper]] takes hers off and puts it on his head.
+  ⏱️ **He supplies the timeline that may have killed the Reincarnate option:** *"It's been 3 weeks, darling."* 🛑 **His captivity began BEFORE [[Deanna Smith-Wesson]] died**, which means the in-world elapsed time may already exceed Reincarnate's ten-day window. **The DM did not rule on it.**
 
 - **S17: HIS MAGIC IS GONE — AND HE IS STILL ALIVE IN THE TOWER.** 🛑 **The impostor wearing his face died this session**, and what came out of it was his. The player-authored death text describes *"an arcane mist smelling of moss and pine and sea salt and rain-dampened earth… searching, almost, if wind could search, for something or someone,"* weaving between the party, **failing to find its host**, and leaving **a crown of flowers on every head** before dissipating into the rock.
   ⚠️ **That was Valerian's magic** — stored in the changeling and released with nowhere to go. The authoring player's words: *"Val's magic, which was stored in the changeling, not being able to find its host and its source, disappeared into the ether… that was the last gasps of his magic."* ⚑ **[[Vega Bloodroot]]'s reaction is the open question: *"Oh, is Val gonna be just a guy now?"*** **Not ruled by the DM.**
@@ -68,6 +98,21 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 > "I'm fucking radiant." *(S01)*
 > "Who needs big sticks when you have bear arms?" *(S01)*
 > "Love that we pissed off somebody that powerful. Kind of terrified, but he could have killed us if he wanted to, so we'll see." *(S01)*
+
+> ⚠️ **Nothing between S15 and S17 belongs on this list** — those lines are [[The Doppelganger]]'s. The quotes below are the first genuine Valerian lines since S14.
+
+> "I knew you'd come. Uh, thank you." *(S18 — ⭐ **the session title**, as the chains shatter)*
+> "It's been 3 weeks, darling." *(S18)*
+> "I'll be fine. I can call on Arona. Why are you staring at me?" *(S18 — 🛑 the only handle the vault has on [[Arona]])*
+> "My magic's no different." *(S18 — and a natural-20 Insight says he believes it)*
+> "Yeah, it did, but you're here now, and I guess that's all that counts." *(S18)*
+> "I'm sorry, you put her body where?" *(S18 — on [[Deanna Smith-Wesson]])*
+> "And no one thought, hey, that's a pretty grove of trees over there, let's bury her underneath one?" *(S18)*
+> "You know, I don't think we've had a moment to properly take in the fact that she died, really, honestly. I don't think we've even really grieved over it." *(S18 — ⭐ the line the whole arc had been avoiding)*
+> "I'm sorry, you fucking did what with her, buddy? You— like a fucking sheet?" *(S18)*
+> "That is a horrifying image." *(S18)*
+> "The flower crowns you're wearing, darling. Where'd you pick those up?" *(S18 — asking after his own dissipated magic)*
+> "Before they leave, Eldritch Blast!" *(S18 — his first act as a free man)*
 
 ## Relationships
 

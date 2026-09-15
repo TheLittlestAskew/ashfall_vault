@@ -27,6 +27,32 @@ tags: [campaign-hub, dm-questions, open-threads]
 
 ---
 
+## S18 (added 2026-09-14)
+
+1. 🛑 **WHO IS "THE BEAST MASTER" IN THE OPENING BOXED TEXT?** You named the towering figure on the tower top as **the Beast Master** at 00:08:58 — *"The Beast Master raises his hand"* — and from 00:20:38 onward the antagonist is **"the necromancer"**, about thirty times, including both later boxed reads. **[[The Beast Master]] died in S10.** Three readings are open: **leftover wording in prepared text**, **a genuinely new figure with the same title**, or **a return**. ▶ **HIGHEST-PRIORITY QUESTION OF THE SESSION.** Nothing has been merged; the vault holds [[The Necromancer]] and [[The Beast Master]] as separate pages.
+2. 🛑 **IS THE TOWER 110 FEET OR 120?** You measured and said **110** twice (00:21:51, 00:22:17). [[Samothy Smith-Wesson]] said **120** at 00:34:21 and again at 02:09:30, and you did not correct him either time — the second time answering *"Which it should be mathing, so you're almost there."* ⚠️ **Every distance ruling in the back half of the session hangs on which number was in front of you**: Vortex Warp's range, the bracers' 50 ft, Lulu's 60 ft fly, Barrett's climbs.
+3. 🛑 **HAS [[Deanna Smith-Wesson]]'s TEN-DAY REINCARNATE WINDOW EXPIRED?** Lulu's spell needs *"no longer than 10 days."* Val says the body has been in the bag *"at least a week"*; Zelda says *"A week ago? 2 weeks ago?"*; **Val's own captivity — which began before Deanna died — is three weeks.** ⚠️ **You did not rule on it and the table deferred the whole decision to S19.** ▶ **Ask before S19 starts, because it decides whether the conversation is even live.**
+4. 🛑 **WHO OR WHAT IS [[Arona]]?** Val credits *"calling on Arona"* for casting **Eldritch Blast** as a Circle of the Land druid. **No referent is ever given and nobody asks.** ⚠️ **And: is it the `Book of Varona` from S16?** One leading consonant apart — Samothy claimed *"I have the book that, um, only I can read."* **The vault has deliberately NOT linked them.**
+5. 🛑 **WHO GETS THE [[Soulbound Grimoire]], AND WHAT ARE ITS 3 CORRUPTION TIERS?** *"I just have to see who it goes to."* / *"There's a d6 involved. And there's 3 tiers or 3 checks for it."* **No holder assigned; tiers never specified.**
+6. 🛑 **WHO WAS THE SECOND COMMISSION FOR?** *"It was Bobby and—"* and the line cuts off. **[[Bobby]] is one of two names; the second is unrecovered.**
+7. ⚠️ **`Bite the Bullet` or `Risk Bullet`?** [[Barrett Grimmskar]] said *"one of my maneuvers, **Bite the Bullet**"* in S18; S17's glossary says **Risk Bullet**. ⚠️ **The correction may be backwards — the two names do not sound alike, so this is not ASR drift.** ▶ **Ask Doug directly.** The vault is ready to revert the spell-check row and amend the S17 entry instead.
+8. ⚠️ **IS THE PARTY LEVEL 13?** *"13, not 30"* in pre-session chat, un-narrated and off-record. ⚑ **And S17's conflict is still open** — [[Barrett Grimmskar]] cited level 11 against the vault's 12. **Settle both together.**
+9. ⚑ **ARE S18's ENEMIES ONE CREATURE TYPE OR THREE?** Five labels in one session: `Beast thralls`, `Vampire Beast Thrall A and B`, `feral vampire thrall D`, `Beast Thrall C`, plus the distinct [[Boilborn]]. **Not determinable from the transcript.**
+10. ⚑ **WHY WAS A [[Boilborn]] AT THE TOWER?** They were introduced in S15 guarding a pre-vampire fire relic two days east. One turns up here in a necromancer's pack on the far side of [[The Dead Zone]]. **Nobody in-fiction remarked on it.**
+11. ⚑ **WHAT IS THE THIRD PIECE OF THE [[The Sun Shard|SUN SHARD]] SET?** Stated in passing at 00:15:56: *"Because you have **2 of the set of 3**."* 🛑 **First time in 18 sessions the relic has been described as a set, and nobody at the table reacted.**
+12. ⚑ **WHAT DO THE 8 CRYSTAL SHARDS DO?** You deferred it: *"I didn't think anybody would ask about getting shards, so I was Not prepared. I'll get to that too, probably tomorrow."*
+13. ⚑ **IS [[Lunara, the Nightbringer]] A COUNTERPART TO [[Emberos]]?** The crystal was *"a replica of the Sun Shard… but it's the darker version,"* dedicated to her. **The vault has NOT inferred a pantheon.** ⚑ Also: **spelling confirmation.**
+14. ⚑ **WHO WAS THE 12d12 CUSTOM SPELL FOR?** *"I custom made a spell for somebody and they will be getting it at the end of the session."* **It was never handed over on the record.**
+15. ⚑ **WHAT IS `the goat`?** [[Flux]]: *"I haven't been able to use the goat yet"*, right after your *"Is this the one I made for you, Flux? … I recognize that writing."*
+16. ⚑ **WHAT IS *"the power he awakened"***, and what answered the ritual from *"far across the land"*? **Your sentence breaks off** — *"That's the end of it, of what I have written."*
+17. ⚑ **DOES [[The Cliffside Tower]] HAVE A NAME?** Never given, across three sessions of mattering. The vault filed it under a descriptive title.
+18. ⚑ **IS THIS THE BLURRED MASTER'S TOWER?** S17 put him *"in a fucking tower."* **Nothing in S18 connects the necromancer to him** and the vault has not assumed it.
+19. ⚑ **DOES [[Valerian Hellebore]]'s IMMORTALITY SURVIVE?** The ritual was siphoning *"his magic, his immortality, and his very essence."* 🛑 **This is the first on-record statement that he has immortality at all.** Did the necromancer get any of it?
+20. ⚑ **WHICH WAR WAS THE TOWER FORTIFIED FOR?** *"repurposed into a… fort outpost tower for defense during war."* The campaign has two on the record.
+
+> 🛑 **NOT ON THIS LIST, BY STANDING RULE:** questions about homebrew ability *wording* (Rite of the Dawning Radiance, Spellfire Flare, Overkill). This vault does not ask those.
+> ⚠️ **ALSO OUTSTANDING AND NOT A DM QUESTION:** the **S18 transcript redaction** (the S16/S17 precedent has not been applied) and the **Supabase token**. Both are Taylor's to action. See [[Vault Sync Status]].
+
 ## S17 (added 2026-09-14)
 
 1. 🛑 **What are the monks called, and where are they?** Deferred on the record at 01:33:03. **They gate two things at once:** lifting the curse on [[Vega Bloodroot]]'s sword, and the site where she means to leave her token. **Highest-value question of the session.**

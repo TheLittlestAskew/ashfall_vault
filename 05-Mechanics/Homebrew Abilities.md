@@ -39,6 +39,19 @@ tags: [mechanics, homebrew, house-rules]
 
 ---
 
+### Added S18
+
+| Ability | Owner | What it does | Source |
+|---|---|---|---|
+| **Rite of the Dawning Radiance** ⚑ | [[Flux]] | ⭐ **Party-wide, 1 hour.** Resistance to **necrotic**; **advantage on saves vs charm, fear and Vampiric Domination**; **+1d6 radiant on every weapon attack**; **dim light becomes bright within 30 ft** and **darkness becomes dim within 15 ft**. ⚠️ **Load-bearing for the whole session's damage math** — the DM doubles radiant against thralls, so this roughly set the party's damage ceiling | S18 |
+| **Eldritch Blast** ⚑ *(as cast by a druid)* | [[Valerian Hellebore]] | 🛑 **Not homebrew as such — a standard Warlock cantrip, cast by a Circle of the Land druid who should not have it.** 3 beams, +9-ish to hit, ~1d10 each (9, 14, 6 observed). He attributes it to *"calling on [[Arona]]."* ⚠️ **He does not know it is new.** Filed here because the acquisition, not the spell, is the anomaly | S18 |
+| **Corruption (d6, 3 tiers)** ⚑ | [[Soulbound Grimoire]] *(no holder assigned)* | The Grimoire's cost. *"There's a d6 involved. And there's 3 tiers or 3 checks for it."* Failure *"turns you into undead."* **Reversible** — *"there's a ritual you can do to unturn somebody."* 🛑 **The tiers are never specified and no holder was assigned** | S18 |
+| **"Bite the Bullet"** 🛑 | [[Barrett Grimmskar]] | 🛑 **A NAMING DISPUTE, NOT A NEW ABILITY.** Mechanically identical to S17's **Risk Bullet** — bonus action, expend a Risk Die for temp HP (**d10 + 13 → 19** this session). He called it *"Bite the Bullet"* in S18. ⚠️ **Phase A concluded S18 was probably the CORRECT hearing** — the names do not sound alike, so this is not ASR drift. ▶ **Ask Doug; be ready to revert the spell-check row and amend the S17 entry instead** | S18 |
+| **Mr. Cat: advantage on Acrobatics** ⚑ | [[Mr. Cat]] | DM-granted on the spot — *"I think Mr. Cat should get advantage on acrobatics as well for being a cat."* Produced the **27** that imposed disadvantage on [[The Necromancer]] for the rest of the fight. ⚑ **Treat as standing for the Steel Defender's cat form.** See [[House Rules & Rulings]] | S18 |
+
+⚑ **Also opened and never explained: `the goat`** — [[Flux]]: *"I haven't been able to use the goat yet"*, immediately after the DM's *"Is this the one I made for you, Flux? … I recognize that writing."* **Reads like a DM-built custom item. Not filed as an ability because nothing about it is known.**
+🛑 **The promised 12d12 custom spell was never delivered on the record.** *"I custom made a spell for somebody and they will be getting it at the end of the session."* **Recipient unknown. Do not guess.**
+
 ### Added S17
 
 | Ability | Owner | What it does | Source |

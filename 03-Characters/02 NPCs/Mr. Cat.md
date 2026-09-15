@@ -25,6 +25,22 @@ Summoned via Samothy's smith's tools (S01 house rule). Crossed from equipment to
 
 **S17 — carried through the chains, and swung.** [[Samothy Smith-Wesson]] used the **Boots of the Winding Path** to teleport the chain gauntlet and **carried Mr. Cat with him**; the DM allowed it and ruled he was *"too small for the chains to recognize him"* anyway. In the tomb fight he **attacked Thrall B and missed by one** (14 vs the AC). ⚑ Referenced by [[Barrett Grimmskar]] as one of the two party members *"too valuable to the team"* to guard the prisoner.
 
+**⭐ S18 — HE WON THE BOSS FIGHT. THE CAT. THE ACTUAL CAT.** 🛑 **The single highest-leverage action of the session belongs to Mr. Cat, and it is not close.**
+
+[[Samothy Smith-Wesson]] asked whether Mr. Cat could *"jump on this guy's face… like a feral cat when you find like a street cat and you try to pick it up and it just like attacks you."* The DM granted **advantage on the Acrobatics check — *"I think Mr. Cat should get advantage on acrobatics as well for being a cat"*** — and the roll came up **27**.
+
+> *"So Mr. Cat leaps on the necromancer's face."*
+
+🛑 **That imposed DISADVANTAGE ON [[The Necromancer]] FOR THE REST OF THE FIGHT**, and it is the reason the kill sequence landed. The necromancer's **Dex save against the thrown ritual crystal was 15 against DC 17 — at disadvantage.** **Without the cat, he saves and the Catapult does nothing.**
+
+⚔️ **The rest of his night:** he **teleported to the top of the tower with Samothy** on a **d6 of 3** (1–3 = yes) via **Vortex Warp**; rode Samothy's shoulder through the **nat-20 bracer swing** and the fall-escape teleport; **survived the Catapult blast** on a d20 of 10 — *"Mr. Cat is safe this time"*; and **missed his one attack** on the prone necromancer (+9 → 11). ⚑ He also **blocked Samothy's line of fire**, denying him advantage on a shot at the prone target — the one cost of having a cat on someone's face.
+
+⚠️ **His fragility was stated plainly by the DM:** *"it's, it's a small cat. You just grab it and fucking yeet it somewhere."* [[Samothy Smith-Wesson]]'s answer is the closest thing to stated attachment he gave all session: *"if he dies, I can just fix him back to life. It's fine"* — undercut moments later by the genuine version: ***"I love that fucking cat. That fucking weird-ass goddamn cat."***
+
+🛑 **STATUS CHANGE: Mr. Cat has graduated from running joke to decisive combat asset.** The party has treated him as comic relief since S03. **Nothing the party did to the necromancer with a weapon mattered as much as a cat on his face.**
+
+⚑ **New standing house rule from this session: Mr. Cat gets advantage on Acrobatics for being a cat.** See [[House Rules & Rulings]].
+
 ## House Rules Attached
 
 Summoning costs an action (smith's tools / summoning word); dormant after combat/task; Deflect = outright cancel of one attack in a multiattack.

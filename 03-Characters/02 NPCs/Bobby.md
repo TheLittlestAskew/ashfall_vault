@@ -51,6 +51,18 @@ Bobby does not appear in [[Session 11 — A Delightful Chase]] either, but the S
 - ⚑ **`master curator` vs `master armorer` is still unresolved** — the S10 spell-check row was held at 35% confidence pending DM confirmation, and S11 gave no new hearing.
 - ⚑ Note against his S02 lore: **"emeralds are the only way to kill a Beastmaster"** now has direct evidence against it — S10's [[The Beast Master]] died to Call Lightning with no emerald involved. Still with the DM.
 
+## S18 — the first commissioned item is found ⚑ still not on screen
+
+Bobby does not appear in [[Session 18 — I Knew You'd Come]], but **one of the two items the party has been sourcing for him turned up on a corpse.**
+
+- ✅ **THE [[Soulbound Grimoire]] IS ONE OF THE TWO COMMISSIONS.** Looted from [[The Necromancer]] at the top of [[The Cliffside Tower]], the DM identified it as *"one of the items you were looking for."*
+- 🛑 **NO HOLDER ASSIGNED.** The DM: *"I just have to see who it goes to."* ⚑ It is in [[Samothy Smith-Wesson]]'s hands only because he did the looting. **Do not record an owner.**
+- ⚠️ **It carries a CORRUPTION mechanic.** *"There's a d6 involved. And there's 3 tiers or 3 checks for it"*; the failure effect is *"it turns you into undead"*; and it is **reversible** — *"there's a ritual you can do to unturn somebody."* ⚑ **The tiers are never specified.**
+- 🛑 **THE SECOND COMMISSION RECIPIENT IS CUT OFF MID-SENTENCE.** The DM: ***"It was Bobby and—"*** and the line breaks. **Bobby is one of two names. The second is unrecovered.** ▶ **DM question.**
+- ⚑ **Bobby's own item is therefore presumably still outstanding** — but which of the two is his was never stated.
+- ⚑ **`master curator` vs `master armorer` remains unresolved** — no new hearing in S18.
+- ⚑ **[[Vega Bloodroot]]'s "double fist warhammer" (S11) is still uncollected** and went unmentioned this session.
+
 ## Relationships
 
 - [[Abigail]] — she's been "trying to ride that mustache for years"; he threw her out of his shop for touching his stuff. The party coached her (bring alcohol, compliment the craftsmanship).

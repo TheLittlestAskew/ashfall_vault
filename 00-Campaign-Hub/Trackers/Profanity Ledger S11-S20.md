@@ -220,6 +220,60 @@
 ⚠️ **Doug (Barrett) posts his best session of the campaign (+13)** and passes 60.
 ⚑ **[[Flux]]'s clean-sheet streak ends at 2** — her first profanity since S15.
 
+## S18 — I Knew You'd Come (09/14/2026)
+
+> 🛑 **PER-SPEAKER TOTALS ARE PROVISIONAL — THE SPEAKER MAP IS UNCONFIRMED AND TWO LABELS ARE MERGED.** **SPEAKER C** = Christie ([[Zelda "Z" Whipper]]) **+** Madi ([[Eiluned "Lulu" Denulie]]); **SPEAKER F** = Doug ([[Barrett Grimmskar]]) **+** Chase ([[Valerian Hellebore]]) **+ DM adjudications**, across 240 lines. **Splitting a merged label by ear is the single largest error source in this block.**
+> ⚠️ **Unit is INSTANCES**, like S11–S15 and S17 — **not** S16's line-count floor.
+> 🛑 **Roll archive NOT queried**, so nothing could be cross-checked against roll timing.
+> ⚠️ **Counts are approximate and drawn from the session note's Profanity Record.** They are a **floor**, not a census.
+> ⚠️ **Redacted and above-table passages are counted here but excluded from the [[Quote Board S11-S20\|Quote Board]].** ⚑ **Transcript redaction is still OUTSTANDING for S18** — see [[Vault Sync Status]].
+
+| Speaker | fuck* | shit | bitch | damn/goddamn | Jesus Christ | other | Session Total |
+|---|---|---|---|---|---|---|---|
+| Josh (Samothy) | **9** | 3 | 0 | **3** | 0 | 2 *(ass)* | **17** |
+| Doug (Barrett) | 6 | **4** | 0 | 1 | 0 | 1 *(son of a bitch)* | **12** |
+| Taylor (DM) | 7 | 2 | 0 | 0 | 0 | 2 *(ass)* | **11** |
+| Taylor (Vega) | 6 | 2 | 0 | 0 | 0 | 0 | **8** |
+| Christie (Zelda) | 4 | 2 | 0 | 0 | 0 | 0 | **6** |
+| Jill (Flux) | 0 | 1 | 0 | 0 | **3** | 0 | **4** |
+| Chase (Valerian) | 2 | 0 | 0 | 0 | 0 | 0 | **2** |
+| Madi (Lulu) | 0 | 1 | 0 | 0 | 0 | 0 | **1** |
+
+\* `fuck` aggregates fuck / fucking / fucked / motherfuck-. ⚑ **`ass` is counted under *other*** for continuity with S17's treatment of *hell*.
+
+**Session total: 61 instances** across 8 speakers.
+
+⭐ **Session champion: Josh (Samothy), 17** — **his first time topping a session**, and it tracks with the play: he had the biggest mechanical night of his campaign and reacted out loud to all of it. His run is split between **dice reactions**, **loot disgust** (*"that's a big-ass crystal"*), and **[[Mr. Cat]]**: *"I love that fucking cat. That fucking weird-ass goddamn cat."*
+🛑 **CHASE POSTS 2 — HIS LOWEST SESSION ON RECORD, BY AN ORDER OF MAGNITUDE.** The campaign's runaway leader (≥371 through S17) barely registers. ⚠️ **This is a structural artifact, not a character change:** [[Valerian Hellebore]] spends 2 hours 18 minutes **chained in a magic circle with no turns**, and only gets to speak after combat ends. Both his instances are in the Deanna conversation: *"I'm sorry, you fucking did what with her, buddy? You— like a fucking sheet?"*
+⚠️ **Doug (Barrett) posts 12 — his second-best session running**, after his S17 career high of 13.
+⚑ **The DM's 11 are almost entirely VTT frustration**, again: *"oh fuck, I hit the wrong button. Motherfucker, I closed out my internet tab."*
+⚑ **[[Flux]]'s 4 are 3 × "Jesus Christ" and one shit — every one of them a natural-1 reaction.** She rolled two Finger Gun nat 1s this session.
+⚠️ **Madi (Lulu) breaks her clean sheet at 1**, ending a one-session streak.
+⚠️ **Taylor (Vega) posts 8 — well below her ≥261 career pace.** ⚑ She spent the session on the ground floor being poisoned three times; her lines are short and mid-combat.
+
+## Running Totals (through S18, attributed only)
+
+> ⚑ **These totals skip Session 12**, which was never processed. They also carry S09's mic-only caveat and S13's provisional attribution.
+> 🛑 **MIXED UNITS REMAIN.** S11–S15, S17 and S18 are instance counts; **only the S16 delta is a line-count floor.** Totals stay **lower bounds** until S16 is re-counted by instance.
+> 🛑 **THE S18 DELTA IS ITSELF PROVISIONAL** — merged diarizer labels, see the block above. **Every S18 increment should be re-derived once the speaker map is confirmed.**
+
+| Speaker | Total | Δ since S17 |
+|---|---|---|
+| Chase ([[Valerian Hellebore]] → [[The Doppelganger]] → [[Valerian Hellebore]]) | **≥373** | +2 |
+| Taylor (Vega) | **≥269** | +8 |
+| Taylor (DM) | **≥148** | +11 |
+| Josh (Samothy) | **≥119** | +17 |
+| Doug (Barrett) | **≥73** | +12 |
+| Christie (Zelda) | **≥47** | +6 |
+| Madi (Deanna → Lulu) | **≥40** | +1 |
+| Jill (Flux) | **≥11** | +4 |
+| *Unattributed pool* | *≥66* | *+0* |
+
+🛑 **Chase's campaign single-session record still stands at ≥79 (S16)** and is now three sessions old.
+⚠️ **Josh (Samothy) is the fastest riser in the ledger** — +12 in S17, +17 in S18, crossing **119**. He has nearly doubled since S16.
+⚑ **Doug (Barrett) crosses 70** on back-to-back career-best sessions.
+⚑ **Chase's attribution line is now three-segment** — his S15–S17 counts belong to [[The Doppelganger]]; **S18 is the real [[Valerian Hellebore]] again.** The *player* totals are continuous and unaffected; the *character* attribution is not.
+
 ## Related
 
-- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Vault Sync Status]]
+- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Vault Sync Status]]

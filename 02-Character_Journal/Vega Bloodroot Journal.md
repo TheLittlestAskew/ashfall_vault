@@ -304,3 +304,50 @@
 > He's still alive up in that tower. I swore it in front of the fire and I'll swear it here: we are coming.
 >
 > I'm keeping the flowers.
+
+> [!note]- S18 — We were not too late. (I Knew You'd Come)
+> I have carried this sword in my hand for a week now because I cannot put it down. It has started talking to me. Sweet nothings, mostly, about how much better things would be if I were evil. I let it talk. A thing that lives in your palm is going to have opinions.
+>
+> We walked in instead of arriving. That was the choice we made, and I think it was the right one, because the walk is what told us where we were going. The trees out there twist like broken ribs. The sky pulls back from the tower the way a dog pulls back from a raised hand. And there is a green light in the high window that goes slow and steady, on and off, on and off, like something in there has a heartbeat and it is being kept.
+>
+> There were screams on the wind the whole way in. I did not ask whose. I already knew.
+>
+> Flux put a blessing over all of us before we were close enough to be seen — light where there had been half-light, and a brightness that took to the edge of every weapon we carried. Mine drank it up. I said something stupid about how good my sword was about to be. I meant it.
+>
+> Then the walls came apart and they came down at us, pale and stretched and hungry, and a tall man stepped out onto the top of the tower and told us we were too late.
+>
+> We were not too late. I want that written down first, before any of the rest of it.
+>
+> I opened with the bow. That is new for me, and I want to be honest about why: because the thing I wanted to hit was eighty feet up a granite wall and I could not reach it with my fists or my anger. Two arrows, two down. Then the ground came to me and I did not need the bow anymore.
+>
+> What I remember of the middle is this. A thing with boils on it stood next to me most of the night, and every time somebody hurt it, it burst, and I got a mouthful. Three times I went down on one knee with poison in me. Three times I got back up. It is not bravery. I just did not have anywhere else to be.
+>
+> Samothy went up. He stepped sideways out of the world and came out at the top of the tower, and the cat went with him, and then — I heard this, I did not see it — the cat threw itself onto the face of the man running the ritual and would not let go. Zelda went invisible and climbed, hand over hand on those hooks of hers, and I lost her.
+>
+> And I stayed on the floor of the courtyard swinging.
+>
+> That is the part I keep turning over. I made a promise in front of a fire and a dead man, and I meant every word of it, and when the moment came to reach up and take my friend out of the air, I was two hundred feet below with my boots in the dirt, killing the things that were in everybody else's way.
+>
+> Maybe that is the job. Maybe the promise was never that I would be the hands. Maybe it was that I would make sure the hands got there.
+>
+> I am still deciding whether that is a comfort or an excuse.
+>
+> They brought the tower down from the inside. The chains that were holding him let go all at once, and the crystal cracked open, and the light came out of it and went everywhere, and he fell.
+>
+> He is different. I saw it before anybody said it. His face is not the face I have been looking at for a year, and his voice has a shape in it that was never there before, and the first thing he did with his hands was throw something out of them that a man like him should not be able to throw. So I looked at him. Properly. The way you look at a track to see whether the animal was running or walking.
+>
+> He is Val. Whatever else came back with him, he is Val, all the way through, and he does not know a single thing is wrong.
+>
+> I asked him if he had always had an accent. He looked at me like I had lost my mind.
+>
+> Then we had to tell him about Deanna, who is folded up in a bag like laundry, and I said the true short version — she got crushed under a lot of rock — and somebody else filled in the part about her bones going to ash inside her, and he got very quiet.
+>
+> We have been carrying her for weeks and none of us have stopped once to say she's gone.
+>
+> Three weeks, he said. That's how long he was hanging there. He said it like it was a small thing, like he was correcting a date, and then he asked where we got the flower crowns.
+>
+> I still have mine. I said we got them off the thing that was wearing his face.
+>
+> I do not know what to do with a man who has been screaming in a tower for three weeks and comes down asking about flowers. But I know the promise is kept, and I know he is breathing, and tonight that is enough for me to set the sword down.
+>
+> I cannot set the sword down. You know what I mean.
