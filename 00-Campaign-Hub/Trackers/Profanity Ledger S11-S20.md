@@ -274,6 +274,61 @@
 ⚑ **Doug (Barrett) crosses 70** on back-to-back career-best sessions.
 ⚑ **Chase's attribution line is now three-segment** — his S15–S17 counts belong to [[The Doppelganger]]; **S18 is the real [[Valerian Hellebore]] again.** The *player* totals are continuous and unaffected; the *character* attribution is not.
 
+## S19 — You Can Let It Go Now (09/23/2026)
+
+> 🛑 **PER-SPEAKER TOTALS ARE PROVISIONAL — THE SPEAKER MAP IS BROKEN IN TWO WAYS.** **SPEAKER A** merges Christie ([[Zelda Z Whipper|Zelda]]) **+** Madi ([[Eiluned Lulu Denulie|Lulu]]), including back-to-back turns; **Taylor (DM) is split across SPEAKER B and SPEAKER C**, which interleave inside single exchanges. **Rows D, E, F, G and H are reliable.**
+> ⚠️ **SPEAKER A's four instances are NOT split between Zelda and Lulu.** They are carried to the *Unattributed pool* rather than guessed at. **DM counts are the B+C aggregate.**
+> ⚠️ **Unit is INSTANCES**, consistent with S11–S15, S17 and S18 — **not** S16's line-count floor.
+> 🛑 **Roll archive NOT queried** (third session running), so nothing could be cross-checked against roll timing.
+> ⚠️ **Counts are drawn from the session note's Profanity Record and are a floor, not a census.**
+> ⚠️ **Redacted and above-table passages are counted here but excluded from the [[Quote Board S11-S20|Quote Board]].** ⚑ **Transcript redaction is OUTSTANDING for S19 as it is for S18** — see [[Vault Sync Status]].
+
+| Speaker | fuck* | shit | bitch | damn/goddamn | Jesus Christ | other | Session Total |
+|---|---|---|---|---|---|---|---|
+| Chase (Valerian) | **15** | **4** | 0 | 0 | 0 | **7** *(God ×5, ass ×2)* | **26** |
+| ⚑ Taylor (DM) — B+C aggregated | 1 | 1 | 0 | **3** | **1** | 1 *(son of a bitch)* | **7** |
+| Taylor (Vega) | 3 | 2 | 0 | 1 | 0 | 0 | **6** |
+| Doug (Barrett) | 1 *(fuck-up)* | 0 | 0 | 1 | 0 | 2 *(God)* | **4** |
+| ⚑ **SPEAKER A** — Zelda *or* Lulu, unsplit | 1 | 0 | 0 | 1 | 0 | 2 *(God)* | **4** |
+| Josh (Samothy) | 0 | 0 | 0 | 1 | 0 | 0 | **1** |
+| Jill (Flux) | 0 | 0 | 0 | 0 | 0 | 0 | **0** |
+
+\* `fuck` aggregates fuck / fucking / fucked / motherfuck-. ⚑ **`ass` and `God` are counted under *other*** for continuity with S17/S18's treatment of *hell*.
+
+**Session total: 48 instances** across 6 attributable speakers plus one merged label. ⚠️ **Down from S18's 61 — but the session is also 85 minutes, roughly half of S18.** ⚑ **Per-minute, this is a busier session than S18, not a quieter one.**
+
+⭐ **CHASE IS BACK ON TOP, AND IT IS A REVERSAL WORTH NOTING.** **26 instances — more than every other speaker combined (22).** 🛑 **Last session he posted 2, his lowest ever**, because [[Valerian Hellebore]] spent 2h18m chained with no turns. **S19 gives him his character back and the count snaps straight to form.** ⚠️ **This confirms the S18 reading: that collapse was structural, not a change in the player.** His run spreads across the funeral bit (*"Fucking weep for it, Ernie"*), the familiar (*"Oh, I'm a fucking idiot… Fuck it"*), the hookshot (*"Fuck yeah!"*), and **four separate instances of not being able to remember his own feature names** (*"one of my Eldritch Invocations, I don't remember fucking which one"*).
+⚑ **The DM's 7 are again almost entirely VTT and token handling** — *"Fuck, how much does a brick weigh?"*, two goddamns during map wrangling, and *"Oh, shit"* when the nest map loaded. ⚠️ **One instance — *"Oh Jesus, the vagina got huge"* — is a map/token joke and is content-warning flagged; it is counted here and excluded from the Quote Board.**
+⚠️ **Taylor (Vega) posts 6, again below her career pace**, and **all three of her `fucking`s are in character**: *"always a fucking beast thrall"*, *"this fucking sword"*, *"of course that fucking hits."*
+⚑ **Doug (Barrett) drops to 4** after back-to-back career-best sessions (13 in S17, 12 in S18). ⚠️ **It tracks with his night** — one kill, then two clean misses and nothing to say.
+⭐ **JILL (FLUX) POSTS A CLEAN ZERO — the only person at the table who used no profanity at all this session.** ⚑ **Her second clean sheet** is notable against the fact that **her buff was the single most load-bearing mechanic in play** and she spent the session reminding people to apply it.
+⚠️ **Josh (Samothy) collapses from 17 to 1** — the largest single-session swing in the ledger. 🛑 **Read it against the play:** this is the session where he **asked for his sister's pyre and then refused to perform grief three times.** **He was quiet on purpose.**
+
+## Running Totals (through S19, attributed only)
+
+> ⚑ **These totals skip Session 12**, which was never processed. They also carry S09's mic-only caveat and S13's provisional attribution.
+> 🛑 **MIXED UNITS REMAIN.** S11–S15 and S17–S19 are instance counts; **only the S16 delta is a line-count floor.** Totals stay **lower bounds** until S16 is re-counted by instance.
+> 🛑 **THE S18 AND S19 DELTAS ARE BOTH PROVISIONAL** — merged diarizer labels in both. **Every increment from those two sessions should be re-derived once the speaker map is confirmed.** ▶ **One confirmation from Taylor unblocks both.**
+> ⚠️ **Christie and Madi receive NO S19 increment.** Their four combined instances are parked in the *Unattributed pool* because SPEAKER A cannot be split. **This understates both of them and is the honest floor.**
+
+| Speaker | Total | Δ since S18 |
+|---|---|---|
+| Chase ([[Valerian Hellebore]] → [[The Doppelganger]] → [[Valerian Hellebore]]) | **≥399** | +26 |
+| Taylor (Vega) | **≥275** | +6 |
+| Taylor (DM) | **≥155** | +7 |
+| Josh (Samothy) | **≥120** | +1 |
+| Doug (Barrett) | **≥77** | +4 |
+| Christie (Zelda) | **≥47** | ⚑ +0 *(merged into the pool)* |
+| Madi (Deanna → Lulu) | **≥40** | ⚑ +0 *(merged into the pool)* |
+| Jill (Flux) | **≥11** | +0 *(clean sheet)* |
+| *Unattributed pool* | *≥74* | *+4 — the S19 SPEAKER A block* |
+
+🛑 **CHASE IS CLOSING ON 400 and the gap is widening again.** He took +26 this session against the field's +22 combined.
+🛑 **His campaign single-session record still stands at ≥79 (S16)** and is now four sessions old.
+⚠️ **Josh (Samothy) stalls at 120** after being the ledger's fastest riser (+12, +17). **The S19 flatline is characterisation, not noise** — see the block above.
+⚑ **Jill (Flux) remains the lowest count in the campaign by a wide margin (≥11 across nine sessions)** and has now posted zero twice.
+⚑ **Chase's attribution line stays three-segment** — S15–S17 belong to [[The Doppelganger]]; **S18 and S19 are the real [[Valerian Hellebore]].** Player totals are continuous; **character attribution is not.**
+
 ## Related
 
-- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Vault Sync Status]]
+- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]]

@@ -4,12 +4,14 @@
 
 > 🛑 **KILLED IN ACTION — [[Session 14 — An Angel with a Shotgun]], 08/17/2026.** The campaign's **first player-character death**. Crushed by a tunnel collapse on a **natural 1** Dexterity save (`1d20+5`, total 6, 00:53:58 UTC — her last roll). **No death saves were rolled**; the DM ruled it instant.
 > 🛑 **She cannot be raised by ordinary means.** The bypass tunnel was an old burial ground for cursed people, ground to dust; she breathed that dust in as she died. It carries **seven individual curses fused into one**, and **Revivify failed twice** with no magic leaving the caster. All seven must be identified and peeled before any raise will work.
+> 🛑 **CREMATED — [[Session 19 — You Can Let It Go Now]], 09/23/2026.** Burned on a pyre in the courtyard of [[The Walled Base (Museum-Castle)]] at [[Samothy Smith-Wesson]]'s request, **five sessions after her death.** ⚑ **The flames burned with *"a faint violet hue, a side effect of Deanna's lingering curses"*** — the first physical manifestation of the seven fused curses, still active at the moment of cremation.
+> ⚠️ **THE REVIVAL ROUTES WERE CLOSED BY FIRE, NOT BY A RULING.** [[Eiluned Lulu Denulie|Lulu]]'s **Reincarnate** offer and its possibly-expired 10-day window **are never raised in S19**, and the body is burned. ▶ **Confirm with the DM that this closure is intentional before the vault records the routes as dead.** *(Original note retained below.)*
 > ⏳ **Two revival routes are open and untaken** — see *Death & Revival* below.
 > Madi's replacement PC is **[[Eiluned Lulu Denulie|Eiluned "Lulu" Denulie]]**, introduced the same session.
 
 |                       |                                                                                                      |
 | --------------------- | ---------------------------------------------------------------------------------------------------- |
-| **Status**            | 🛑 **DEAD** (S14). Body carried in the party's **bag of holding**, formally added to party inventory   |
+| **Status**            | 🛑 **DEAD (S14) AND CREMATED (S19).** Ash, in the courtyard of [[The Walled Base (Museum-Castle)]]. *(Was: body carried in the party's **bag of holding**, formally added to party inventory, S14–S19)* |
 | **Race**              | Half-Elf                                                                                             |
 | **Class**             | Fighter / Ranger (Monster Slayer per roster — ⚑ confirm subclass on sheet)                           |
 | **Level**             | **10** as of S10 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑)                                      |
@@ -50,6 +52,16 @@ Her bones were crushed to dust inside intact skin — *"you go to lift her up an
 ⚠️ **In-fiction, [[Samothy Smith-Wesson]] is her twin brother, and the grief beat is deferred, not resolved.** Josh said plainly and more than once that he could not roleplay it in the moment — *"I cannot roleplay this at the moment, I'm not gonna lie"* — and the party agreed Samothy grieves after they are out. **He has not yet grieved on screen.**
 
 ## Key Events
+
+- **S19: 🛑 SHE IS CREMATED — AND THE TABLE SKIPPED THE SCENE.** ⭐ **The thread open since S14 closes.** At [[Samothy Smith-Wesson]]'s request her body is burned on a pyre in the courtyard of [[The Walled Base (Museum-Castle)]]. The DM's boxed text:
+  > *"The pyre is built in the castle courtyard, surrounded by guards, scouts, and town folks who knew Deanna, along with her closest friends and comrades. As the flames burn, there's a faint violet hue, **a side effect of Deanna's lingering curses**. A cold wind rolls through the courtyard, carrying ash like falling snow. Samothy stands stiff, jaw clenched, refusing to cry."*
+  ⚑ **FIRST MENTION IN THE CAMPAIGN OF LINGERING CURSES ON HER BODY** — and the first physical manifestation of the seven fused curses that killed her in S14. **They were still active at the moment of cremation.**
+  ⚠️ **THE PLAYERS DELIBERATELY DECLINED TO PLAY THE GOODBYE** — *"we're not saying our goodbyes, we're just yada yada-ing the funeral."* The DM offered **table-wide inspiration** for the scene and it was **refused three times** before he withdrew it. 🛑 **THERE IS NO IN-CHARACTER FUNERAL DIALOGUE IN THIS SESSION TO QUOTE. That absence is deliberate and is not an archival gap.**
+  ⚑ [[Vega Bloodroot]], on why: *"I don't know, man. We've been kind of carrying her around in a sack for a couple of days, so—"*
+  🛑 **HER SHOTGUN'S FATE IS UNRESOLVED.** [[Barrett Grimmskar]] proposed burning it with her — *"She might want that in the afterlife"* / *"She's going into the afterlife. Guns blazing"* — the DM answered *"I mean, that's what killed her in the first place"*, and **the bit dissolved without a ruling.** ⚠️ **The vault records [[Barrett Grimmskar]] handing that weapon to [[Samothy Smith-Wesson]] in S14.** ▶ **ASK. Do not mark it destroyed.** See [[Loot Tracker S11-S20]].
+  🛑 **AND THE RESURRECTION QUESTION WAS CLOSED BY FIRE WITHOUT A RULING.** [[Eiluned Lulu Denulie|Lulu]]'s **Reincarnate** offer and the possibly-expired 10-day window from S18 **are never raised in S19.** ⚠️ **Confirm the closure is intentional before the vault records Reincarnate as dead.**
+  ⚠️ **HER DEATH IS NOW A TACTICAL PRECEDENT.** Later the same session [[Valerian Hellebore]] invokes it to stop [[Zelda Z Whipper|Zelda]] scouting alone: *"Shooting the wall got her killed with a shotgun."* ⚑ **First time anyone has used her death as an argument.**
+  ⚑ **Her body leaves the party's bag of holding here**, where it has been since S14.
 
 - **S18: SOMEBODY FINALLY SAID SHE DIED.** 🛑 **The grief beat deferred since S14 was named out loud — by the one person who did not know she was dead.**
   ⭐ **[[Valerian Hellebore]], rescued minutes earlier, is the first character in four sessions to treat her as a person rather than cargo.** Told where her body is: *"I'm sorry, you put her body where?"* … *"And no one thought, hey, that's a pretty grove of trees over there, let's bury her underneath one?"* Against the party's preservation case (*"she's preserved inside the dimensional pocket. There's no decay in there"* / *"It's like Tupperware"*) he says only *"We don't know that for a fact."* Then he lands it: ***"I don't think we've had a moment to properly take in the fact that she died, really, honestly. I don't think we've even really grieved over it."***

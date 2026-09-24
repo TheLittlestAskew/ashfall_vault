@@ -734,7 +734,7 @@ Alternates considered:
 - Previous: [[Session 18 — I Knew You'd Come]]
 - Next: *(S20 — resumes inside this encounter)*
 - PCs: [[Vega Bloodroot]] · [[Barrett Grimmskar]] · [[Samothy Smith-Wesson]] · [[Flux]] · [[Zelda Z Whipper|Zelda "Z" Whipper]] · [[Eiluned Lulu Denulie|Eiluned "Lulu" Denulie]] · [[Valerian Hellebore]] · [[Deanna Smith-Wesson]]
-- NPCs & companions: [[Lt. Hargraven]] · [[Mr. Cat]] · [[The Beast Master]] · [[The Beast Tamer]] · [[Arona]]
+- NPCs & companions: [[Lt. Hargraven]] · [[Mr. Cat]] · [[Blaze]] ⚑ *(page created in the S19 Convo 2 run — provisional, spelling unconfirmed)* · [[The Beast Master]] · [[The Beast Tamer]] · [[Arona]]
 - Locations: [[The Walled Base (Museum-Castle)]] · [[The Dead Zone]] · [[The Ruined Neighborhood (Vampire Nest)]]
 - Creatures: [[Beast Thrall]] · [[Feral Vampire Thrall]]
 - Mechanics & lore: [[Homebrew Abilities]] · [[Hookshot Arm Bracers]] · [[Eldritch Claw Tattoo]] · [[The Sun Shard]] · [[Names & Terms]] · [[Setting Primer]]

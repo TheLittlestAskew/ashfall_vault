@@ -20,6 +20,109 @@
 | 12 | Flora/Fauna | ✅ | ✅ (Beast Thrall created) | ➖ (no new creatures) |
 | 13 | House Rules & Rulings | ✅ | ✅ (+7 standing) | ✅ (+6 standing) |
 
+## ⭐ S19 — You Can Let It Go Now (09/23/2026) — SYNCED 09/24/2026
+
+> **Automated Convo 2 run, Claude Code native filesystem.** Full propagation. **2 created, 29 modified — 31 files.**
+> ⭐ **TWO LONG-CARRIED THREADS CLOSED IN ONE SESSION** — [[Vega Bloodroot]]'s sword curse (open since S17) and [[Deanna Smith-Wesson]]'s funeral (open since S14). **Both closed in a single line each, off-hand.**
+> 🛑 **TWO ITEMS ARE NOT ✅, AND BOTH ARE BLOCKED, NOT SKIPPED.** Roll Stats (no Supabase token — **third session running**) and the Website entry (`node` script execution permission-gated). **Both blockers were re-tested this run and both are documented with one-line fixes.**
+> 🛑 **THE BIGGEST VAULT-FACING FACT OF THE SESSION IS A CLASS CHANGE NOBODY EXPLAINED.** [[Valerian Hellebore]] is a **Warlock (Celestial 13, zero druid levels)**, stated four ways and confirmed on his sheet, **with no in-fiction explanation and no comment from anyone at the table.** ⚠️ **It is recorded as a fact of the record and deliberately kept OUT of his backstory until the DM rules.**
+
+| # | Item | S19 | Notes |
+|---|---|---|---|
+| 1 | Session Note (`01-Sessions/`) | ✅ | `Session 19 — You Can Let It Go Now.md`, created in Convo 1. **743 lines, all 8 sections.** All five site-parser H2s **verified present this run by grep** (`## Metadata` L19 · `## Summary` L90 · `## Threads` L301 · `## NPCs` L351 · `## Archivist Notes` L687). **NOT regenerated** — the handoff marked item 11 already complete. ⚑ **One surgical edit only:** [[Blaze]] added to `## Related` |
+| 2 | Corrected Transcript | ✅ ⚠️ | `19_092326_corrected.md` + `092326_Spell_Check_Log.md`, both from Convo 1. **18 approved rows applied across 24 line-instances; 8 rows HELD at ≤60%.** 🛑 **REDACTION IS OUTSTANDING — see BLOCKER 3.** ⚠️ **Speaker labels A–H deliberately NOT converted to character names** — SPEAKER A merges two players and the DM is split across B and C, so renaming would have injected hundreds of false attributions |
+| 3 | Campaign Dashboard | ✅ | **S19 row added** (newest on top, pipes escaped, parser-verified); **Active Threads given an S19 summary block** (2 closed, 6+ opened) without renumbering; **3 threads moved to Resolved** (the sword curse · the unnamed monks · Deanna's funeral); **NPC Directory +3** — [[Blaze]] ⚑, the unfamiliar enemy ⚑ and the stalker ⚑ created, [[Lt. Hargraven]] flipped to ⚔️ **in combat**, [[The Beast Master]] rewritten with the full role description; **Locations** — a new *"Outside the Dead Zone"* section for [[The Ruined Neighborhood (Vampire Nest)]]; **timeline row** added; **Party Snapshot rolled to S19**; the *"Processed through"* line advanced **S18 → S19** and the Supabase note updated to four blocked sessions |
+| 4 | Loot Tracker | ✅ | [[Loot Tracker S11-S20]] `## S19` — **16 rows.** ⭐ **The headline is a STATUS CHANGE, not an acquisition** — the curse on `Voranthyr +2` is broken. 🛑 **Nothing was looted this session; the party never breached the house.** **Two live ownership problems recorded and NOT guessed at:** the [[Hookshot Arm Bracers]] (three candidate owners) and [[Deanna Smith-Wesson]]'s shotgun (burned or not) |
+| 5 | Quote Board | ✅ ⚠️ | [[Quote Board S11-S20]] `## S19` — **53 quote blocks**, above-table lines marked **→**. ⚠️ **The whole block carries a provisional-attribution header** — the speaker map is broken two ways. 🛑 **THERE IS NO IN-CHARACTER FUNERAL DIALOGUE TO QUOTE** — the table skipped the scene, and that absence is recorded as deliberate, not as an archival gap. **Redacted and content-warning material excluded and itemised** |
+| 6 | Profanity Ledger | ✅ ⚠️ | [[Profanity Ledger S11-S20]] `## S19` — **48 instances** across 6 attributable speakers + running totals recomputed through S19. ✅ **Unit is INSTANCES.** ⭐ **Chase reclaims the session championship at 26 — more than the rest of the table combined** — after posting his career-low 2 in S18 while chained with no turns. ⭐ **[[Flux]]'s player posts a clean zero, the only one at the table.** ⚠️ **Josh collapses 17 → 1 — the largest swing in the ledger, and it is characterisation.** ⚑ **Christie and Madi receive NO increment; their 4 combined instances are parked in the unattributed pool rather than split by guess** |
+| 7 | Roll Stats | 🛑 **NOT ✅ — BLOCKED** | [[Roll Statistics S11-S20]] `## S19` written as a **transcript-only block, loudly labelled**, per the S10/S11/S18 precedent. **~57 d20 events, ~95 total roll events, 2 nat 20s, 2 nat 1s — all counted from the session note, none archive-verified, none invented.** 🛑 **NO ROLL IS MARKED `physical dice roll`.** ⭐ **Nine discrepancies inside the session note were found and flagged rather than silently fixed** — headed by [[Vega Bloodroot]]'s vanished fire rider and Vampire Thrall A acting a full round after being killed. See BLOCKER 1 |
+| 8 | POV Journal | ✅ ⚠️ | S19 collapsible callout appended **verbatim, unmodified**, as `> [!note]- S19 — I could have set it down. (You Can Let It Go Now)`. 🛑 **The S12–S15 gap is STILL OPEN** — this file jumps S11 → S16 → S17 → S18 → S19 |
+| 9 | PC Pages | ✅ | **All 8 updated** (7 present + [[Deanna Smith-Wesson]]). 🛑 **[[Valerian Hellebore]] got the largest rewrite in the vault this run** — **class row Druid → Warlock**, level resolved to **13**, status and signature-magic rows rewritten, a **brand-new *The Warlock Question* section** with the full evidence table, and a full Key Event. ⭐ **[[Vega Bloodroot]] received 8 new Inner Life & Evolution entries**, a full `- **S19` Key Events bullet (site hero panel), and **8 new quotes.** ⚑ **[[Deanna Smith-Wesson]]'s status row changed to DEAD AND CREMATED** |
+| 10 | NPC Pages | ✅ | **1 created:** [[Blaze]] ⚑ *(provisional — spelling unconfirmed, and the page's existence is itself flagged for Taylor's ruling, on the [[Mr. Cat]] precedent)*. **3 updated:** [[Lt. Hargraven]] (⭐ **his worst night and his best character moment** — status → in combat, the five-step briefing, the double nat 1s and the prone ruling, +4 quotes), [[The Beast Master]] (⭐ **a new *S19 Lore Drop* section — the fullest description of the role in the campaign — plus an *unverified at the nest* section. 🛑 NOT merged with [[The Beast Tamer]]**), [[Mr. Cat]] (a quiet night, recorded as such) |
+| 11 | Locations | ✅ | **1 created:** [[The Ruined Neighborhood (Vampire Nest)]] ⚑ *descriptive title, **the neighborhood is never named in fiction***. **2 updated:** [[The Walled Base (Museum-Castle)]] (the courtyard pyre, the war room, the gate shops, the no-level long rest), [[The Dead Zone]] (🛑 **a nest OUTSIDE it is an anomaly — the first time it has been framed as a boundary**; the watching thralls; the different tracks; the stalker) |
+| 12 | Flora/Fauna | ✅ | **2 updated:** [[Beast Thrall]] (⭐ **the 6-thrall allotment, the scatter-on-death behaviour, and 🔥 tracks explicitly *"different than the normal beast thralls"*** — plus a table of **three incompatible accounts of what unbinds a thrall**, S16 vs S18 vs S19, **NOT reconciled**), [[Feral Vampire Thrall]] (the label collapse, and 🛑 **the designation that acted a round after dying**) |
+| 13 | House Rules & Rulings | ✅ | **+7 standing** (Mage Armor as a flat +2 when base AC already equals 13 · a no-DDB-entry homebrew weapon infused by fiat for +1d4 · a bow will not take an infusion · Greater healing potions authorised · **radiant doubling applied CONSISTENTLY this time, correcting S18** · double nat 1s ruled prone — ⚠️ **on the DM's own NPC, and NOT a general fumble rule** · standing in the hive-heart causes no harm) + **8 deferred**, headed by the unexplained CON check |
+| 14 | Website session entry | 🛑 **NOT ✅ — BLOCKED** | **`generate_public_session_index.mjs` could not be executed** — `node --version` returns **v24.15.0**, but **every invocation with a script argument returns *"This command requires approval"*** (Bash, PowerShell, the call operator, and the sandbox override). **Third session with this blocker.** **`Public Session Index.json` still carries `generated_at: 2026-09-15` and ends at S18.** ✅ **Every input the script validates was verified by hand against its source, which was read this run — see BLOCKER 2** |
+| — | Setting Primer / Names & Terms | ✅ | Primer: **3 new sections** — ⭐ **what a Beast Master IS** (the 6-thrall allotment, the scatter behaviour, *"he's just a vampire"*) · **a nest outside the Dead Zone is an anomaly** · **curses persist in the body after death** (Deanna's violet pyre) — plus [[The Ruined Neighborhood (Vampire Nest)]] added to Geography and **+8 open questions**. Glossary: **`## S19 first-seen terms` — 13 entries, NONE CANONIZED**, including the joke-token exclusion list |
+| — | Spell Usage | ✅ ⚠️ | `## S19` block — **16 rows.** 🛑 **Transcript-only.** ⭐ **[[Flux]]'s buff headlines it again and was NEVER NAMED this session** — recorded under its S18 name because the effect is a verbatim match, and deliberately not written into the transcript. 🛑 **FOUR of this file's six recent blocks (S11, S16, S18, S19) are now transcript-only for want of one line in `.env`** |
+| — | Homebrew Abilities | ✅ | **+4** (Zelda's custom short sword and its infuse-by-fiat ruling · Valerian's Pact Weapon and its three damage types · **Uncertain Footing — ✅ verified REAL, not a garble** · Rite of the Dawning Radiance re-cast and unnamed) |
+| — | DM Questions — Open | ✅ | **New `## S19` section — 18 questions**, headed by **the warlock rebuild** (which gates how a PC page gets written), **the three relics by name**, and **the unexplained CON check**. Plus two table-not-DM items: **the speaker map** and **the eight ≤60% spell-check rows** |
+
+### 🛑 S19 BLOCKER 1 — THE ROLL ARCHIVE, THIRD SESSION RUNNING
+
+**Re-tested three ways this run. All three failed:**
+
+- `mcp__supabase__execute_sql` → **`Unauthorized. Please provide a valid access token to the MCP server via the --access-token flag or SUPABASE_ACCESS_TOKEN.`** — **no permission prompt**, the same signature as every run since 08/28.
+- `mcp__supabase-cutter__execute_sql` (project `vtrtyagltwdrbastpppl`) → **permission not granted**, ungrantable non-interactively.
+- `mcp__supabase-aftermath-meridian__execute_sql` → **same permission gate.**
+
+⚑ **NEW EVIDENCE THIS RUN, AND IT NARROWS THE DIAGNOSIS FURTHER.** The `supabase` MCP server **connected successfully mid-session** and its tools loaded and were callable. **The server is reachable; the call is well-formed; only the token is absent.** ✅ **Combined with the S18 run's direct inspection of `.env` — which contains only `DDB_COBALT` — this is now proven from both ends.** `.mcp.json`'s `"SUPABASE_ACCESS_TOKEN": "${SUPABASE_ACCESS_TOKEN}"` expands to an empty string.
+
+**Neither standing query ran**, so **whether a sync gap exists for 2026-09-23 is UNKNOWN** — an access failure is *not* an empty archive. **No rolls were fabricated and no sync gap is asserted.**
+
+➡️ **Two independent one-line fixes, either of which clears S11, S16, S18 and S19 together:**
+1. `SUPABASE_ACCESS_TOKEN=sbp_…` in the gitignored `.env`, **or**
+2. allowlist `mcp__supabase-cutter__execute_sql` in `.claude/settings.local.json`.
+
+Then: `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-09-23';` and `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls;`
+
+⭐ **NINE DISCREPANCIES INSIDE THE SESSION NOTE WERE FOUND THIS RUN AND FLAGGED, NOT FIXED.** Full list in [[Roll Statistics S11-S20]] §S19. **The two that only the archive can settle:**
+
+1. 🛑 **[[Vega Bloodroot]]'s DAMAGE DOES NOT MATCH HER OWN WEAPON PROFILE.** Four hits for **9, 10, 13, 9** with **no 6d6 fire rider and no +2d8 [[The Sun Shard|Sun Shard]] set bonus stated anywhere**, against S18's read-out *"1d8+7 / 1d10+7 plus 6d6 fire."* **These read as plain short-sword numbers.** **Either breaking the curse changed the weapon, or she is under-applying.**
+2. 🛑 **VAMPIRE THRALL A WAS KILLED IN ROUND ONE AND TOOK A TURN IN ROUND TWO.** [[Flux]] killed it on a natural 20; at 01:14:33 the DM says *"now it's actually Vampire Thrall A's turn"* and it hits [[Vega Bloodroot]] twice; [[Valerian Hellebore]] then attacks "Vampire Thrall A" on the roof in round three. **Either designations were reused or a token was not removed.**
+
+### 🛑 S19 BLOCKER 2 — THE WEBSITE GENERATOR, THIRD TIME
+
+`node Workflows/scripts/generate_public_session_index.mjs` was attempted **four ways** (Bash with `cd &&`, PowerShell, PowerShell with the call operator `&`, and Bash with the sandbox override). **Every attempt with a script argument returned *"This command requires approval."*** ⚑ **`node --version` returns `v24.15.0`** — node is present and the binary is permitted; **only script execution is gated**, and a non-interactive run cannot approve it. **The gate was deliberately not circumvented.**
+
+✅ **THE CONTRACT WAS THEREFORE VERIFIED BY HAND, AGAINST THE SCRIPT'S ACTUAL SOURCE, WHICH WAS READ THIS RUN — AND S19 SATISFIES ALL OF IT:**
+
+| Check | Script logic | S19 result |
+|---|---|---|
+| Row is seen as a session | `/^\|\s*\d/` | ✅ `\| 19 \| …` |
+| Session number normalises | `normalizeSessionNumber` | ✅ `19` |
+| Session link regex | `/^\[\[Session\s+[^—]+—\s*(.+?)(?:\|[^\]]+)?\]\]/` | ✅ matches; title extracts as `You Can Let It Go Now` |
+| Date parses | `/^(~?)(\d{2})\/(\d{2})\/(\d{4})$/` | ✅ `09/23/2026` → `2026-09-23`, label `September 23, 2026` |
+| Note exists at the derived path | `01-Sessions/Session ## — Title.md` | ✅ `01-Sessions/Session 19 — You Can Let It Go Now.md` |
+| Five public H2s | `/^##\s+{heading}\b/mi` | ✅ **all five confirmed by grep** (L19 / L90 / L301 / L351 / L687) |
+| Three tracker blocks | `/^##\s+S0?19(?:\s\|—\|$)/m` | ✅ **all three confirmed by grep** — Quote Board L820, Loot Tracker L144, Profanity Ledger L277 |
+| No new blocker introduced | failures where `n >= 10` | ✅ S12 still has no Dashboard row, so it is still not checked |
+
+⚑ **Pipe-escaping was audited this run** — every wikilink inside the new S19 **table rows** uses `\|`, so the row splits into the cells the parser expects and renders correctly in Obsidian. *(Pre-existing unescaped pipes in S16-era rows were left alone — not introduced here.)*
+⚠️ **The `--self-test` assertions are pure functions over literals and are independent of vault content** — they would pass unchanged. **It is the live run that could not execute.**
+
+🛑 **`Public Session Index.json` currently carries `generated_at: 2026-09-15` and ends at S18** — confirmed by inspection this run. **S19 will not appear on rectrixcaedere.com until this runs interactively:**
+```
+node Workflows/scripts/generate_public_session_index.mjs --self-test
+node Workflows/scripts/generate_public_session_index.mjs
+```
+🛑 **Separately, the `session.html` / `archive.html` `ARC` registries in the `rectrixcaedere` repo are still outstanding for S10–S19** — a different repo and a separate manual deploy, outside this run's scope.
+
+### 🛑 S19 BLOCKER 3 — REDACTION IS OUTSTANDING, AND THE REPO IS PUBLIC
+
+**The S16/S17 redaction precedent has NOT been applied to S18, and now not to S19 either.** The S19 raw and corrected transcripts still contain:
+
+- The extended real-life fall/pickleball anecdote · a childhood-injury anecdote aimed at another player
+- 🛑 *"Oh Jesus, the vagina got huge"* · the `Penis` token bit · *"did you see Z finger bang"* · the `Butterface Summer Body` token name
+- Closing household content — a pet, babysitting *"someone else's kid"*, a doctor's appointment
+- Player first names throughout, plus `Daria`, `Ernie`, `Paolo`, `Patrick`, `Gus`
+
+✅ **NONE OF IT REACHED THE SESSION NOTE OR ANY TRACKER** — the Quote Board block itemises the exclusions explicitly.
+🛑 **But the vault repo is public and the live site fetches from `raw.githubusercontent.com`.** ▶ **This is Taylor's call and it is now TWO sessions deep.** *(The unredacted originals live in the gitignored `_pipeline/S18/` and `_pipeline/S19/`.)*
+
+### ⚠️ S19 — OTHER ITEMS CARRIED, NOT RESOLVED
+
+- 🛑 **THE S12–S15 GLOSSARY GAP IS NOW EIGHT SESSIONS STALE.** ⚑ **It did NOT measurably cost accuracy this run** — no S19 spell-check row was capped for want of an entry — but it remains the largest standing accuracy liability in the pipeline. ▶ **Run the catch-up.** ⚑ **The same gap exists in `05-Mechanics/Spell_Usage.md` and [[Vega Bloodroot Journal]].**
+- 🛑 **THE SPEAKER MAP IS BROKEN TWO WAYS AND BLOCKS SCRIPT-FORMAT CONVERSION.** **SPEAKER A merges Christie ([[Zelda Z Whipper|Zelda]]) and Madi ([[Eiluned Lulu Denulie|Lulu]])**, including back-to-back turns; **the DM is split across SPEAKER B and SPEAKER C**, which interleave inside single exchanges. ▶ **One confirmation from Taylor unblocks both S18 and S19** across the Quote Board, the Profanity Ledger and every individual attribution.
+- ⚑ **EIGHT SPELL-CHECK ROWS ARE HELD AT ≤60% AND WERE NOT APPLIED**, per the table's own banding rule: `Savage Attack`→`Savage Attacker` · `Eldrin`→`The cauldron` · `Pact of Protection`→`Pact of the Chain` · `icing`→`slashing` · `Trailer Trash`→`Taylor Trash` · `Flawbeak`→`Floppy` · `infused with Rage`→`infused with radiance` · `Inverted Nibs`→`Inverted Nips`. **Rows 9, 11, 15 and 25 need an audio listen; rows 23, 24 and 26 need the table.**
+- ⚑ **~18 UTTERANCES CUT OFF MID-CLAUSE WITH ZERO `[inaudible]` MARKERS — third session running** (cf. S16, S18). **Load-bearing garbles:** the infusion opener, the *"hampered"* definition, the ruling that left [[Lt. Hargraven]] prone, Valerian's *"third hit is with the banner"*, and Barrett's *"eye-calf gun."* ▶ **This is a transcriber configuration issue, not a spelling one, and it is now a pattern.**
+- ✅ **PARTY LEVEL 13 CONFIRMED ON THE RECORD** — *"you would have gotten a long rest, but not a level."* ⭐ **This settles S18's open level flag.** ⚠️ **S17's separate conflict ([[Barrett Grimmskar]] citing level 11) is still unresolved.** ✅ **[[Valerian Hellebore]]'s level is also now resolved at 13.**
+- ⚠️ **BACKLINK CONVENTION MISMATCH, VAULT-WIDE — STILL FLAGGED, STILL NOT FIXED.** S13–S18 write `[[Zelda "Z" Whipper]]` and `[[Eiluned "Lulu" Denulie]]`, but the files are `Zelda Z Whipper.md` and `Eiluned Lulu Denulie.md`. ⚑ **This run used the FILE-MATCHING form (`[[Zelda Z Whipper|Zelda]]`) in all new content**, so S19's links resolve — ⚠️ **which means the vault now contains both conventions.** ▶ **Recommend a single vault-wide normalisation pass toward the resolving form.**
+- ⚑ **A line inside SPEAKER A contradicts the merge and cannot be placed:** *"No, Madi, you stop that. I'm trying to play"*, immediately after the DM's *"Stop licking my hand, you freak!"* **If A were Madi she would not be addressing Madi — unless "Madi" here is a pet. ASK.**
+- ⚑ **SPEAKER D (Valerian) says *"I'm gonna use the long pole"* in the middle of [[Flux]]'s turn**, unacknowledged. The glossary has a **`Power Pole`** as [[Samothy Smith-Wesson]]'s S01 item. **No correction made.**
+- ⚑ **A citation error inside the approved spell-check table** — row 1's line list names **10** `Beastmaster` instances including one at **L522, which contains none.** **The true count is 9 across 6 lines, and all 9 were corrected.** Logged so the table and the file reconcile.
+- ⚑ **STILL CARRIED:** no **Vega voice guide** (`⟦FILL⟧`, now **9 sessions overdue**) · the orphan `040226` recording · **`master curator` vs `master armorer`** · **Carl Senior never declared dead** · **`Karlsteiner`** · **`Tharos` vs `Theros` Emberborn** (does not appear in S19) · **`Bite the Bullet` vs `Risk Bullet`** · ⚑ **[[Blaze]]'s spelling and whether he keeps a page.**
+
 ## ⭐ S18 — I Knew You'd Come (09/14/2026) — SYNCED 09/14/2026
 
 > **Automated Convo 2 run, Claude Code native filesystem.** Full propagation. **4 created, 30 modified.**

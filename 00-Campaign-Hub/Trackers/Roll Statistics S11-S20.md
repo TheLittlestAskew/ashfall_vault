@@ -316,6 +316,90 @@ These come from narrated outcomes, not from counting:
 6. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`) and the column is **`"character"`**, not `character_name`.
 7. ⚠️ **The backlog is now S11, S16 and S18** — three transcript-only blocks in this file.
 
+## S19 — You Can Let It Go Now (rolls keyed 2026-09-23) 🛑 ARCHIVE NOT QUERIED — BLOCKED
+
+> 🛑 **RE-TESTED THREE WAYS IN THIS CONVO 2 RUN. ALL THREE FAILED. THIRD CONSECUTIVE SESSION.**
+> - `mcp__supabase__execute_sql` → **`Unauthorized. Please provide a valid access token to the MCP server via the --access-token flag or SUPABASE_ACCESS_TOKEN.`** — **no permission prompt raised**, the same signature as every run since 08/28.
+> - `mcp__supabase-cutter__execute_sql` (project `vtrtyagltwdrbastpppl`) → **permission not granted**, ungrantable in a non-interactive run.
+> - `mcp__supabase-aftermath-meridian__execute_sql` → **same permission gate.**
+> ⚑ **NEW THIS RUN:** the `supabase` MCP server **connected successfully mid-session** and its tools loaded — so the server is reachable and the failure is purely the missing token. **This narrows the diagnosis further: it is not a connectivity problem, it is one absent environment variable.** The S18 run confirmed by direct inspection that the vault `.env` holds **only `DDB_COBALT`**, so `.mcp.json`'s `"SUPABASE_ACCESS_TOKEN": "${SUPABASE_ACCESS_TOKEN}"` expands to an empty string.
+> 🛑 **Neither standing query ran:** `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-09-23'` and `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`. **Whether a sync gap exists for 2026-09-23 is UNKNOWN** — an access failure is *not* an empty archive, and **no sync gap is asserted.**
+> ⚠️ **NO ROLL IN THIS SESSION IS MARKED `physical dice roll`**, because that designation requires an archive to be absent from.
+> ⚠️ **EVERYTHING BELOW IS A COUNT OF TRANSCRIPT-AUDIBLE ROLL EVENTS** taken from the *Full Roll Log* in [[Session 19 — You Can Let It Go Now]]. **Nothing was invented. Nothing is archive-verified.** These numbers are a **FLOOR** and are **NOT comparable** to the archive-backed blocks for S13–S15 and S17.
+> ⚠️ **THE SESSION IS ALSO SHORT** — 85 minutes, roughly half of S18 — so a low count here is partly real, not purely an artifact of the blocker.
+
+### Per-character — transcript-audible d20 events only ⚠️ FLOOR, NOT A CENSUS
+
+| Character | d20s heard | Nat 20 | Nat 1 | Initiative | Notable |
+|---|---|---|---|---|---|
+| [[Valerian Hellebore]] | **~14** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** — never rolled on the record; **turn order 1** | ⭐ **THE HIGHEST VOLUME AT THE TABLE, IN HIS FIRST SESSION BACK IN THE INITIATIVE ORDER.** **9 attacks, 8 hits** (3 Eldritch Blast beams, 3 Pact Weapon in round 2, 3 more in round 3) plus a **Survival *"dirty 20"*** on the march. ⚑ **He rerolled four separate dice** via **Elven Accuracy** and retained advantage across rounds. ⚠️ **His round-two damage bookkeeping is internally inconsistent and cannot be reconciled** |
+| ⚑ **DM** (vampire/beast thralls, enemy saves) | **~14** | 0 | 0 | Not stated; **interleaved immediately after [[Vega Bloodroot]]** | Two INT saves vs **DC 17** reported as *"that's a -1. That's 2"* and *"that's even worse. That's 5"* — 🛑 **5 is not worse than 2**; both treated as failures. **Two CON saves both landed on exactly 18** and both beat [[Eiluned Lulu Denulie\|Lulu]]'s spells. 🛑 **The third target of Uncertain Footing never rolled at all** |
+| [[Vega Bloodroot]] | **6** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** — **turn order 5**, *"you're right after Lieutenant Hargraven"* | ⭐ **FOUR FOR FOUR — she hit on every attack she made** (27, 28, 18, 27). Plus a **Savage Attack[er] reroll** that came up *"pretty much the same"*, and 🛑 **an unexplained CON check (15) while standing in "the beating heart of the hive"** — DM: *"It's not a save yet."* **She took ~48 damage, the most at the table, for the fourth session running** |
+| [[Samothy Smith-Wesson]] | **6** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** — **turn order 2** | **Perception 23** (+7), **Insight *"almost a natural 20"*** (the stalker), **History 13** ⭐ *(which he handed to [[Vega Bloodroot]] to answer)*, and 3 firearm rolls including a **Lucky-point reroll of a 15 into a 27** |
+| [[Lt. Hargraven]] *(DM-run ally)* | **4** | 0 | **2** | 🛑 **[Unknown/Ambiguous]** — **turn order 4** | 🛑 **THE ONLY NATURAL 1s AT THE TABLE, AND HE ROLLED TWO IN A ROW.** Both shortsword attacks came up **12 total against a +11** — *"Those were 12s, so you double nat ones"* — and the DM **ruled his own NPC prone** as *"his punishment."* ⚠️ **Still prone two turns later.** Recovered in round two for a **27 → 18 damage** and the tally *"Dead, dead, dead, dead, dead"* |
+| [[Zelda Z Whipper\|Zelda "Z" Whipper]] | **4** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** — **turn order 6** | **Guiding Bolt 26 → KILL** on feral vampire thrall B (27 radiant + 4). **Starry Wisp 23** for 16 radiant doubled; **Finger Guns 22** for 10. ⚑ **Her second attack missed on a 15 and she withdrew it** (*"then I do not do it"*) |
+| [[Flux]] | **4** | **1** | 0 | 🛑 **[Unknown/Ambiguous]** — **turn order 7** | ⭐ **THE SESSION'S ONLY ATTRIBUTED NATURAL 20** — bow → Vampire Thrall A, an instant kill: *"You don't even roll for damage because he's got 5 health left."* Plus **Finger Gun 27**, a **bow 19 with Sneak Attack** (12 force + 4 radiant + *"17 more points gone"*), and **Finger Guns 25**. ⚠️ **Her unnamed party-wide buff is the load-bearing mechanic of the session and is not a roll** |
+| [[Barrett Grimmskar]] | **4** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** — **turn order 3** | ⚠️ **His worst mechanical night of the recent run.** One kill in round one (feral thrall C, 9 piercing + 8 fire) and a **21** on `Floppy`, then **two clean misses** in round two (14, 12) with **no miss-mitigation left** — *"I think I have a thing in case I miss. I do not"* |
+| ⚑ **SPEAKER A** — [[Zelda Z Whipper\|Zelda]] *or* [[Eiluned Lulu Denulie\|Lulu]] | **2** | 0 | 0 | — | 🛑 **UNSPLITTABLE.** A **Perception 25** (+11) during the march and a **Perception 26** at the nest, the latter **insufficient** — *"you can't see the whole house or inside the whole house."* **Attribution unreliable; the diarizer merges these two players** |
+| [[Eiluned Lulu Denulie\|Eiluned "Lulu" Denulie]] | **0** | 0 | 0 | 🛑 **[Unknown/Ambiguous]** — **turn order 8** | ⚠️ **No d20 of her own on the record — her kit rolls saves against her, not attacks.** **Blight (4th)** and **Cloudkill** both forced CON saves; 🛑 **both were made at 18 and NEITHER DAMAGE NUMBER WAS EVER STATED.** ⚠️ **She also lost an intended melee approach to a map-scale rule that was rescinded one turn later** |
+| ⚑ **Unattributed** | **1** | ⚑ **1** | 0 | — | A *"Natural 20"* called out during the pre-combat perception round. 🛑 **[Unknown/Ambiguous] — it does not reconcile with either stated perception total** |
+| [[Mr. Cat]] | **0** | 0 | 0 | — (companion; **turn order 2b**) | ⚑ **No independent action this session.** Rode [[Samothy Smith-Wesson]]'s shoulder for his round-two move — DM: *"Yeah, that's fine"* |
+| [[Blaze]] | **0** | 0 | 0 | — (familiar) | ⚑ **No roll on the record** — the bat reconnaissance was narrated, not rolled |
+
+**Transcript-audible totals: ~57 d20 events · ~95 total roll events including damage · 2 nat 20s · 2 nat 1s.**
+⚠️ **The archive would almost certainly return more.** Every comparable archive-backed session ran **118–143 rolls** — but those were 2–3 hour sessions and this one is **85 minutes.**
+
+### Session Records
+
+- 🛑 **THE ONLY NATURAL 1s AT THE TABLE BELONG TO THE DM'S OWN NPC, AND HE ROLLED THEM BACK TO BACK.** [[Lt. Hargraven]] missed twice on 12s against a **+11**, and the DM ruled him **prone** as *"his punishment"* — then left him there for two rounds with a thrall standing over him. ⭐ **He is running the NPC's failures honestly and against himself.**
+- ⭐ **[[Vega Bloodroot]] went four for four.** Every attack she made this session hit (27, 28, 18, 27). 🛑 **And her damage collapsed anyway** — see *Discrepancies*.
+- ⭐ **[[Valerian Hellebore]] made more attack rolls than any PC (9, for 8 hits) in his first session back in the initiative order** after multiple sessions as a captive with no turns. ⚠️ **Set against S18, where he took ~91 damage without a single turn, this is the sharpest swing in the tracker.**
+- ⚑ **[[Flux]] owns the session's only attributed natural 20** — and it was an instant kill on a 5-HP target.
+- 🛑 **EVERY ENEMY SAVE ROLLED ON THE RECORD EITHER FAILED CATASTROPHICALLY OR SUCCEEDED AT EXACTLY 18.** Two INT saves at 2 and 5 vs DC 17; two CON saves at 18. ⚠️ **Both 18s belong to [[Eiluned Lulu Denulie|Lulu]]'s spells — and neither of those spells' damage was ever stated.**
+- ⚠️ **[[Vega Bloodroot]] took ~48 damage, the most at the table, for the fourth session running.** Two of four incoming hits were halved by Rage; one was not halved on the record. **No PC dropped below half.**
+- ⚑ **No damage leaderboard is published for this block.** **[[Flux]]'s party-wide buff added +1d6 radiant to every attack by every PC, and the DM doubled radiant against these enemies** — so this session's damage totals are **not comparable to anything before S18.**
+
+### Initiative Orders
+
+> 🛑 **NO INITIATIVE ROLL WAS EVER STATED.** The DM called for initiative at 00:22:52 and was answered with *"you don't have to do that"*; the VTT handled it silently. **Every roll value is [Unknown/Ambiguous].** ✅ **The turn ORDER is directly observed and consistent across all three rounds** from the DM's turn calls.
+
+| Turn | Character | Roll |
+|---|---|---|
+| 1 | [[Valerian Hellebore]] | 🛑 [Unknown/Ambiguous] — *"Val, you're up first"* (r1), *"Chase, you're up"* (r3) |
+| 2 | [[Samothy Smith-Wesson]] | 🛑 [Unknown/Ambiguous] — *"Uh, okay, Samothy"* |
+| 2b | [[Mr. Cat]] | — companion; carried on Samothy's shoulder, no independent action |
+| 3 | [[Barrett Grimmskar]] | 🛑 [Unknown/Ambiguous] — *"All right, uh, Barrett"* |
+| 4 | [[Lt. Hargraven]] | 🛑 [Unknown/Ambiguous] — *"it's Lieutenant Hargraven's turn"* |
+| 5 | [[Vega Bloodroot]] | 🛑 [Unknown/Ambiguous] — *"you're right after Lieutenant Hargraven"* |
+| — | **Enemies** | Not stated; **interleaved immediately after [[Vega Bloodroot]]** in both rounds |
+| 6 | [[Zelda Z Whipper\|Zelda "Z" Whipper]] | 🛑 [Unknown/Ambiguous] — *"uh, Zelda, your turn"* |
+| 7 | [[Flux]] | 🛑 [Unknown/Ambiguous] — *"Uh, Flux, you're up"* |
+| 8 | [[Eiluned Lulu Denulie\|Eiluned "Lulu" Denulie]] | 🛑 [Unknown/Ambiguous] — *"All right, Lulu"* / *"All right, Honolulu"* |
+
+### 🛑 Discrepancies found in the session note itself — FLAGGED, NOT SILENTLY FIXED
+
+1. 🛑 **[[Vega Bloodroot]]'s DAMAGE DOES NOT MATCH HER OWN WEAPON PROFILE.** Her four hits did **9, 10, 13 and 9** with **no 6d6 fire rider and no +2d8 [[The Sun Shard|Sun Shard]] set bonus stated anywhere** — against S18's read-out profile of *"1d8+7 / 1d10+7 plus 6d6 fire"* **plus** the confirmed 2d8 set bonus. ⚠️ **These read as plain short-sword numbers.** 🛑 **Either breaking the curse changed the weapon, or she is under-applying her own damage. The archive is the only instrument that can settle it. ASK.**
+2. 🛑 **VAMPIRE THRALL A WAS KILLED IN ROUND ONE AND THEN TOOK A TURN IN ROUND TWO.** [[Flux]] killed it on a natural 20 (*"you kill him"*); at 01:14:33 the DM says *"now it's actually Vampire Thrall A's turn"* and it hits [[Vega Bloodroot]] twice; **then [[Valerian Hellebore]] attacks "Vampire Thrall A" on the roof in round three.** ⚠️ **Either designations were reused or a token was not removed. Unresolvable from the transcript.**
+3. 🛑 **[[Lt. Hargraven]]'s *"Dead, dead, dead, dead, dead"* ASSERTS FIVE KILLS AND IDENTIFIES NONE.** Combined with the interchangeable use of `Vampire Thrall` / `Beast Thrall` / `feral thrall` / `Floppy` / `Flawbeak`, **a reliable per-enemy roster and round-two kill credit cannot be built.** **Only the archive could pin it.**
+4. 🛑 **THE MAP SCALE CHANGED MID-COMBAT AND WAS THEN REVERTED.** Movement doubled (confirmed 00:27:46 and 00:55:03), back to **1:1 at 01:01:52** — *"Movement speed's 1 for 1 because Chase is a genius."* ⚠️ **Every distance and movement ruling before that line was made under the other scale, and [[Eiluned Lulu Denulie|Lulu]] was denied a melee approach under a rule rescinded one turn later. Encounter-log positions will not reconcile.**
+5. ⚠️ **TWO INT SAVES WERE COMPARED WRONG.** *"that's a -1. That's 2"* and *"that's even worse. That's 5."* **5 is not worse than 2.** Both were treated as failures and the outcome is probably unaffected — **but the third target of the spell (Thrall C) never rolled at all.**
+6. ⚠️ **THE DM SAID *"0"* AFTER [[Valerian Hellebore]]'s SECOND ELDRITCH BLAST BEAM** and it is never explained; **damage was then applied to a target he called dead** (*"he's dead, but you hit him"*).
+7. ⚠️ **[[Lt. Hargraven]]'s SHEET IS OUT OF DATE ON THE DM'S SIDE** — *"His was a +2… I forgot to update his stuff."* **His damage taken was never stated and his current HP is [Unknown/Ambiguous].**
+8. ⚑ **THE *"MINUS D20"* PENALTY WAS ANNOUNCED AND NEVER APPLIED** to any roll in this block.
+9. ✅ **PARTY LEVEL 13 IS CONFIRMED ON THE RECORD** — *"you would have gotten a long rest, but not a level"* — **which also settles S18's open level flag.** ⚠️ **S17's separate conflict** ([[Barrett Grimmskar]] citing level 11) **remains unresolved.**
+
+### To do when the token is restored
+
+1. Add **one line** to the gitignored `.env`: `SUPABASE_ACCESS_TOKEN=sbp_…` — **or** allowlist `mcp__supabase-cutter__execute_sql` in `.claude/settings.local.json`.
+2. Run both standing queries for `2026-09-23`, plus `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`.
+3. Rebuild the per-character table here in the **S13–S15/S17 format** (Rolls · d20s · Nat 20 · Nat 1 · Avg d20 · To-hit · Damage rolls · Archived damage).
+4. **Settle discrepancy 1** ([[Vega Bloodroot]]'s missing fire rider) and **discrepancy 2** (the Vampire Thrall A resurrection) against the archive. **Both are unresolvable any other way.**
+5. **Resolve the merged SPEAKER A perception rolls by `user_id`** — the archive is the only thing that can split Zelda from Lulu.
+6. **Pin the enemy roster.** DM-controlled creatures appear in the log by name; this is the one session where that matters most.
+7. **Mark every transcript-only roll with no archive row as `physical dice roll`** — impossible for S19 as it stands.
+8. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`) and the column is **`"character"`**, not `character_name`.
+9. ⚠️ **THE BACKLOG IS NOW S11, S16, S18 AND S19** — **four transcript-only blocks in this file, and three of them consecutive.**
+
 ## Related
 
-- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 18 — I Knew You'd Come]] · [[Vault Sync Status]] · [[DM Questions — Open]]
+- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]] · [[DM Questions — Open]]

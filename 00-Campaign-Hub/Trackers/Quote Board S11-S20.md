@@ -817,6 +817,187 @@
 
 ⚠️ **Excluded from this board and from public display:** explicit OOC at 00:44 and 01:17; the drug reference at 00:03:03; political content at 00:12; the extended AI-art discussion at 02:37–02:44; 🛑 **the DM identifying a player as his wife (01:59:42) and the real-world murder reference aimed at him (01:59:51)**; and all household/real names. **See the S18 redaction note in [[Vault Sync Status]] — redaction of the transcripts themselves is OUTSTANDING.**
 
+## S19 — You Can Let It Go Now (09/23/2026)
+
+> 🛑 **ATTRIBUTION IS PROVISIONAL FOR THIS WHOLE BLOCK, AND IT IS BROKEN TWO WAYS.** **SPEAKER A merges Christie ([[Zelda Z Whipper|Zelda]]) + Madi ([[Eiluned Lulu Denulie|Lulu]])**, including back-to-back turns; **Taylor (DM) is split across SPEAKER B and SPEAKER C**, which interleave inside single exchanges. **Every Zelda/Lulu attribution and every DM/NPC attribution below inherits that uncertainty.**
+> ⚠️ **The corrected transcript deliberately keeps the A–H labels** rather than converting to names. ⚑ **The diarizer re-letters every session** (S14: DM = B · S15: A · S16: F · S17: E · S18: A · **S19: B+C split**) — **never carry a map forward.** ▶ **One confirmation from Taylor unblocks both S18 and S19.**
+> 🛑 **Roll archive NOT queried** (third session running) — no cross-check was possible.
+> ⚠️ **Above-table lines are marked →.** Redacted and content-warning material is excluded entirely — see *Excluded* at the end of the block.
+> 🛑 **THERE IS NO IN-CHARACTER FUNERAL DIALOGUE IN THIS SESSION.** The table deliberately skipped the scene. **That absence is the session's biggest quote-level fact and it is not an archival gap.**
+
+**Taylor (DM) · [Serious · Important to Story]** — ⭐ *opening boxed text; [[Deanna Smith-Wesson]]'s pyre, and the first mention in the campaign of lingering curses on her body*
+> "So Samothy wants his sister to be burnt on a pyre. So that's what we're doing right now. The pyre is built in the castle courtyard, surrounded by guards, scouts, and town folks who knew Deanna, along with her closest friends and comrades. As the flames burn, there's a faint violet hue, a side effect of Deanna's lingering curses. A cold wind rolls through the courtyard, carrying ash like falling snow. Samothy stands stiff, jaw clenched, refusing to cry."
+
+→ **Chase ([[Valerian Hellebore]]'s player) · [Funny · Above-Table]** — 🛑 *the line that skips the funeral*
+> "Ooh, bring her back with us. Oh, I'm sorry, we're not saying our goodbyes, we're just yada yada-ing the funeral."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny · Poignant]**
+> "I don't know, man. We've been kind of carrying her around in a sack for a couple of days, so—"
+
+→ **Josh ([[Samothy Smith-Wesson]]'s player) · [Banter · Above-Table]** — ⚠️ *the first of three refusals, under an inspiration bribe. **The refusal is the characterisation***
+> "Good luck getting that roleplay out of me."
+
+**Taylor (DM) · [DM Quip]** — ⚑ *withdrawing the offered table-wide inspiration. **The "minus d20" was never applied to anything***
+> "oh no, everyone gets disinspiration then." … "No, we'll add a minus d20."
+
+→ **Taylor ([[Vega Bloodroot]]'s player) · [Funny · Above-Table]**
+> "I'm so sure that toxic masculinity exists in this world. So if you want to be like the strong, silent type and just push those emotions down, you can do that."
+
+**[[Barrett Grimmskar]] (Doug) · [Poignant · Funny]** — 🛑 *opens the unresolved shotgun question*
+> "We should probably give, uh, Deanna her shotgun back. She might want that in the afterlife."
+
+**Taylor (DM) · [DM Quip · Dark]**
+> "I mean, that's what killed her in the first place."
+
+→ **Chase ([[Valerian Hellebore]]'s player) · [Funny · Above-Table]**
+> "She's going into the afterlife. Guns blazing."
+
+**[[Lt. Hargraven]] (DM) · [Serious · Important to Story]** — ⚑ *the briefing, and the session's largest unresolved hook*
+> "but no beast— no Beast Master is sighted. If there are beasts— if— but if there are beast thralls, a master is never far."
+
+**[[Lt. Hargraven]] (DM) · [Important to Story]** — 🛑 **the five-step plan. Only step two gets done**
+> "We need to approach quietly, eliminate the outer thralls, breach the house, clear the interior, and destroy the nest core."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny · Signature]** — ⭐ *hand raised, opening a mission briefing*
+> "Have we thought about Giving up."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Like, maybe we just go become vampires."
+
+**[[Lt. Hargraven]] (DM) · [Serious · Banter]** — ⭐ *the clearest read yet on their relationship, and **nobody in the scene treats it as hostility***
+> "I mean, if you want to become a vampire, that's fine, but I won't have mercy when I have to kill you." … "And, uh, you're not strong enough to stop me."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny · Signature]**
+> "I'll already be dead."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** — 🛑 **THE CLASS CHANGE, STATED FLAT. No in-fiction explanation is ever given and nobody at the table remarks on it**
+> "Because I'm a warlock with a 13 armor class and I need some help."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** — 🛑 *the same fact, stated a second way*
+> "Yeah, I forgot I'm no longer a druid, so wisdom is not my highest stat."
+
+→ **Chase ([[Valerian Hellebore]]'s player) · [Funny · Above-Table]**
+> "Oh fuck, I am my father's son. Let's go beat some beasts!"
+
+**Taylor (DM) · [Serious]** — *boxed text, the two-hour march*
+> "The path winds through dead trees, collapsed homes, and old vehicles rusted into the earth. Shadows start to move at the edge of your vision, never close enough to identify."
+
+**Taylor (DM) · [Important to Story]** — 🔥 *on the tracks found during the march. **New thread***
+> "They are different than the normal beast thralls you've been encountering."
+
+**Taylor (DM) · [Serious · Important to Story]** — 🛑 **never resolved. The stalker never appears**
+> "You sense that something is stalking you but is not attacking you yet, and you're unsure of how far away it is from you."
+
+**Taylor (DM) · [Serious]** — *boxed text, arrival at the nest*
+> "The nest sits in the center of the ruined block… Overgrown vines and dead brush choke the streets. A faint red glow pulses from the target house."
+
+**Taylor (DM) · [Serious]** — *talking [[Zelda Z Whipper|Zelda]] out of a solo Wild Shape recon*
+> "Again, you going in alone got you killed."
+
+**[[Valerian Hellebore]] (Chase) · [Serious · Dark]** — ⚠️ **the first time [[Deanna Smith-Wesson]]'s death is cited as a tactical lesson — and it is the newest returnee enforcing the party's caution**
+> "Shooting the wall got her killed with a shotgun."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** — ⚑ **first appearance of [[Blaze]]. Spelling unconfirmed**
+> "So I have a pseudo-dragon familiar. His name is Blaze. He's red and orange."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *the bat's reconnaissance. **The unfamiliar enemy is never described, never named and never acts***
+> "you see 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, And you also see an enemy you haven't seen before. Oh, and you did not find the Beast Master."
+
+**Taylor (DM) · [Important to Story]** — ⭐ **THE SESSION'S LORE DROP — the fullest description of a [[The Beast Master|Beast Master]] the campaign has recorded, delivered as [[Vega Bloodroot]]'s knowledge off [[Samothy Smith-Wesson]]'s History 13.** 🛑 **This does NOT close the `Beast Master` vs [[The Beast Tamer|`Beast Tamer`]] question**
+> "Vega would know the Beast Master isn't— it's just a vampire that's sickly… They're very frail and weak, but they have a telepathic connection with beast thralls. Each Beast Master gets 6 thralls to himself that he trains. Now, if you kill the Beast Master and the thralls are still alive, they will scatter and leave because they don't know what to do anymore."
+
+**Taylor (DM) · [Important to Story]** — ⚑ **Beast Masters are NOT beasts**
+> "No, he's just a vampire."
+
+→ **Chase ([[Valerian Hellebore]]'s player) · [Funny · Above-Table]** — *on [[Lt. Hargraven]]*
+> "He rips, he rips open his shirt and his perfectly muscled chest and abs incinerate every vampire within a 50-foot radius."
+
+**Taylor (DM) and Josh ([[Samothy Smith-Wesson]]'s player) · [Funny · DM Self-Own]** — ⚠️ *the DM's own NPC missing twice on natural 1s*
+> "I have a +11, so I don't think those are hitting." / "You have a +11? Those were 12s, so you double nat ones."
+
+**Taylor (DM) · [DM Quip]** — ⚠️ **ruling against his own NPC as *"his punishment."* He is still prone two turns later**
+> "He is prone."
+
+**Taylor (DM) · [Important to Story]** — ⚑ **names the red area effect inside the nest. 🛑 Is it the briefing's *"nest core"*? NOT MERGED**
+> "No, that's the beating heart of the hive."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant]** — *she raises the curse herself, two sessions into resenting it*
+> "Oh, I still have to hold this fucking sword, don't I? We didn't get that resolved yet."
+
+**Taylor (DM) · [Important to Story]** — ⚑ **the third relic is cut off mid-sentence. 🛑 Bears on the S16/S17 glossary conflict — do not resolve from this alone**
+> "Let's see, you got the sword, you got the greaves, and you got the—"
+
+**[[Vega Bloodroot]] (Taylor) · [Important to Story]**
+> "the 3 relics. I can't drop it, right? So I have to use it."
+
+**Taylor (DM) · [Important to Story]** — ⭐ **THE SESSION TITLE. The curse breaks mid-combat, as an afterthought, and closes a thread open since S17**
+> "I forgot to message you. With all 3, the curse is broken, so you, you can let it go now."
+
+**[[Vega Bloodroot]] (Taylor) · [Poignant · Characterisation]** — ⭐ **freed of the sword she has resented for two sessions, she keeps hold of it**
+> "Oh, word. Okay, well then, uh, not— okay, it's the same outcome anyway."
+
+**Taylor (DM) · [Important to Story]** — 🛑 **UNEXPLAINED. She passed on 15, standing in the beating heart of the hive. The word *"yet"* is doing work**
+> "While you're there, can you make me a Con check?" / "Uh, check. A check. It's not a save yet."
+
+→ **Taylor ([[Vega Bloodroot]]'s player) · [Above-Table]** — 🛑 **UNVERIFIED — no Beast Master was ever confirmed present**
+> "She's by the guy, the Beast Master."
+
+**[[Flux]] (Jill) · [Important to Mechanics]** — ⚠️ **she has to remind the table to apply her own party-wide buff, which is the load-bearing mechanic of the session**
+> "Every attack, guys, have an extra 1d6 radiant damage."
+
+**[[Zelda Z Whipper|Zelda]] (Christie) · [Funny]** — ⚑ *attribution via merged SPEAKER A*
+> "Feral vampire thrall B. B as in boy."
+
+**Taylor (DM) · [DM Quip]** — *to [[Flux]] on her natural 20*
+> "All right, you kill him. You don't even roll for damage because he's got 5 health left."
+
+**Taylor (DM) · [DM Quip]** — ⚠️ **reverting the map scale mid-round. Every distance ruling before this line was made under the other scale**
+> "Movement speed's 1 for 1 because Chase is a genius."
+
+→ **Chase ([[Valerian Hellebore]]'s player) · [Banter · Above-Table]** — *to [[Eiluned Lulu Denulie|Lulu]], who lost a melee approach to the scale change*
+> "Yeah, you don't get advantage that the rest of us didn't get just because I Delayed in my brilliance."
+
+**Taylor (DM) · [Funny · DM Self-Deprecation]**
+> "Because the maps are small till I can get better at making the maps. I suck at art."
+
+**[[Valerian Hellebore]] (Chase) · [Important to Story]** — ⚑ **a warlock Pact Weapon. *"dawnlit"* is his own flavour text, not a name**
+> "Summoning my Pact Weapon, which is just a blazing dawnlit sword"
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "Just slicing and dicing with the radiant sword."
+
+→ **Chase ([[Valerian Hellebore]]'s player) · [Funny · Above-Table]** — ⚑ **Pact Weapon damage types confirmed: necrotic, psychic, or radiant**
+> "It can deal radiant, um, what the fuck else? I mean, I kind of stopped reading after radiant, I'm gonna be honest."
+
+**Taylor (DM) · [DM Quip]** — 🛑 **five kills asserted, none identified. The per-enemy roster cannot be rebuilt from this**
+> "Dead, dead, dead, dead, dead."
+
+**Taylor (DM) · [DM Quip]** — *on the renamed enemy tokens*
+> "These are all great names, all great names."
+
+→ **Taylor ([[Vega Bloodroot]]'s player) · [Funny · Above-Table]**
+> "Actually, it's just Swiffer, like the mop."
+
+**Taylor (DM) · [Important to Story]** — 🛑 **THE SESSION'S LAST IN-GAME STATEMENT. One of five briefed objectives beyond the approach. S20 resumes inside this encounter**
+> "Yeah, no, that's fine. You cleared the outside."
+
+→ **Taylor (DM) · [Above-Table]**
+> "I think we'll end there for tonight since we got a late start."
+
+### Excluded from this board (S19)
+
+⚠️ **Recorded here so the exclusion is auditable, per the S16/S17/S18 redaction precedent. None of the following reached this board, the session note, or any tracker.**
+
+- The extended real-life fall/pickleball anecdote
+- The childhood-injury anecdote aimed at another player
+- *"Oh Jesus, the vagina got huge"* — a map/token joke *(counted in the [[Profanity Ledger S11-S20|Profanity Ledger]], excluded here)*
+- The `Penis` token bit
+- *"did you see Z finger bang"*
+- The `Butterface Summer Body` token name
+- Closing household content — a pet, babysitting *"someone else's kid"*, a doctor's appointment
+- ⚑ **First-seen names with no referent, NOT canonised:** `Daria`, `Ernie`, `Paolo`, `Patrick`, and `Celeste` *(a PC from a different campaign — **not Ashfall canon**)*
+- 🛑 **Joke token names are NOT canon and are NOT quoted as NPCs:** `Floppy`, `Flawbeak`, `Taylor Trash` / `Trailer Trash`, `Taylor Swiffer`, `Butterface Summer Body`, `Inverted Nibs`, `Honolulu`, `Colombian Samoth`. ⚠️ **`Honolulu`, `Inverted Nibs` and `Colombian Samoth` are the DM's nicknames for PCs** (Lulu, Chase/Valerian, Samothy), **not enemies**
+
 ## Related
 
-- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Vault Sync Status]]
+- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]]

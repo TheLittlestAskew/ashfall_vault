@@ -244,5 +244,32 @@ This file jumps **S11 → S16**. The three intervening sessions were never logge
 | [[The Necromancer]] | ⚑ **Unnamed ritual** | — | Siphoning *"his magic, his immortality, and his very essence"* from [[Valerian Hellebore]]. **Five forced CON saves, ~91 damage.** Collapsed by Dispel Magic |
 | [[Boilborn]] | **Rupture Burst** | — | **DC 16 CON, 34 damage** to [[Eiluned "Lulu" Denulie]], [[Flux]] and [[Vega Bloodroot]] at once. ✅ DC matches the S15 record; ⚠️ damage up from 30 |
 
-🛑 **The GAP above (S13–S15) is still open.** This file now jumps **S11 → S16 → S17 → S18**.
-🛑 **Three of the five blocks in this file are transcript-only** (S11, S16, S18) for want of one line in `.env`.
+## S19 — You Can Let It Go Now (09/23/2026) 🛑 transcript-only — roll archive NOT queried
+
+> 🛑 **The archive was re-tested THREE WAYS this run and is still unreachable** (`Unauthorized` on the allowlisted server, ungrantable permission gates on the other two). **Third session running. Every row below is transcript-sourced and none is archive-verified.**
+> ⭐ **The same one spell set the ceiling again** — and 🛑 **it was never named in play this session.** [[Flux]]'s buff is recorded here under its S18 name because the effect is a verbatim match; **the name was deliberately NOT written into the S19 transcript.**
+
+| Caster | Spell / Ability | Level | Effect this session |
+|---|---|---|---|
+| [[Flux]] | **Rite of the Dawning Radiance** ⚑ | — | ⭐ **LOAD-BEARING FOR THE ENTIRE SESSION, FOR THE SECOND TIME.** **+1d6 radiant on every weapon attack by every PC**, doubled against these vampires by DM ruling. 🛑 **NEVER NAMED ON THE RECORD THIS SESSION.** [[Flux]] had to remind the table to apply it: *"Every attack, guys, have an extra 1d6 radiant damage"* |
+| [[Valerian Hellebore]] | 🆕 **Eldritch Blast** | Cantrip | **120 ft, three beams** → Vampire Thrall D: 26/8 force, 29/15 force, 16/7 force. ⚠️ **DM says *"0"* after the second beam, unexplained; *"he's dead, but you hit him"* after the third.** 🛑 **A warlock cantrip** |
+| [[Valerian Hellebore]] | 🆕 **Pact Weapon** | — | *"just a blazing dawnlit sword."* ⚑ **Damage types confirmed: necrotic, psychic, or radiant** — run as radiant all session. **6 attacks across rounds 2–3, 5 hits**, for 11, 14, 10 and 10 radiant |
+| [[Valerian Hellebore]] | 🆕 **Mage Armor** | 1st | ⚖️ **Ruled at a flat +2 AC for the session** because his bracers already put his base at 13. ▶ [[House Rules & Rulings]] |
+| [[Valerian Hellebore]] | 🆕 **Find Familiar** | 1st | ⚑ **Cast WITHOUT a spell slot** → **[[Blaze]]**, a pseudo-dragon. **Dismissed and re-summoned as a bat** for the nest reconnaissance. 🛑 **Pact-feature attribution held at 55%** |
+| [[Valerian Hellebore]] | ⏳ **Tasha's Bubbling Cauldron** | — | 🛑 **NOT CAST.** Needs a **500 gp gilded ladle** that was never acquired. ⚑ **A warlock spell** |
+| [[Samothy Smith-Wesson]] | 🆕 **Uncertain Footing** ✅ | 2nd | **120 ft** over Thralls A, B and C — **INT save DC 17.** On a failure *"the target speed is halved and it can't take the dash action"*, repeated at end of turn. ⚠️ **Only two saves rolled (2 and 5, both failed); the third target never rolled.** ⚑ **Its *"hampered"* definition is lost to a dropped clause.** ✅ **Verified real — it is on his sheet** |
+| [[Samothy Smith-Wesson]] | **Catapult** | 1st | A ~4 lb stone from the fire pit → Thrall C. **Auto-hit** (*"it just hits it"*) for **13 bludgeoning** (3d8) |
+| [[Zelda Z Whipper\|Zelda]] | **Guiding Bolt** | — | **26** to hit → **27 radiant + 4** → ✅ **KILL** on feral vampire thrall B. ⚑ **Corrected from a transcribed `lightning bolt` at 80%** |
+| [[Zelda Z Whipper\|Zelda]] | **Starry Wisp** | Cantrip | **23** to hit → **16 radiant, doubled**, on the thrall attacking [[Valerian Hellebore]] |
+| [[Zelda Z Whipper\|Zelda]] | **Finger Guns** ⚑ | — | **22** to hit → **10**, plus two 1d6 radiant riders (1 and 2) → **6 extra radiant** |
+| [[Flux]] | **Finger Guns** ⚑ | — | **27** to hit → **3d4+1 radiant** on Beast Thrall B; later **25** → **8 radiant** |
+| [[Eiluned Lulu Denulie\|Lulu]] | **Blight** | 4th | CON save → 🛑 **SAVED at 18.** **Damage never stated** |
+| [[Eiluned Lulu Denulie\|Lulu]] | **Cloudkill** | — | CON save → 🛑 **SAVED at 18.** **Damage never stated** |
+| Party | **Pass Without Trace** | 2nd | Cast on the approach; the party reached the nest undetected |
+| [[Vega Bloodroot]] | **Rage** / **[[Eldritch Claw Tattoo]]** | — | Rage as a bonus action in round one, active all session (halved two incoming hits). Tattoo activated as a bonus action in round two |
+
+🛑 **TWO OF THIS SESSION'S SPELLS PRODUCED NO RECORDED OUTPUT AT ALL** — [[Eiluned Lulu Denulie|Lulu]]'s **Blight** and **Cloudkill**, both saved against at exactly 18, **neither damage number stated.**
+🛑 **FOUR OF THE SPELLS IN THIS BLOCK ARE WARLOCK FEATURES ON A CHARACTER THE VAULT RECORDED AS A DRUID.** See [[Valerian Hellebore]].
+
+🛑 **The GAP above (S13–S15) is still open.** This file now jumps **S11 → S16 → S17 → S18 → S19**.
+🛑 **FOUR of the six blocks in this file are transcript-only** (S11, S16, S18, S19) for want of one line in `.env`.

@@ -27,6 +27,34 @@ tags: [campaign-hub, dm-questions, open-threads]
 
 ---
 
+## S19 (added 2026-09-24)
+
+> 🛑 **QUESTION 1 IS THE ONE THAT GATES VAULT WORK.** Everything else can wait; that one decides how a PC page gets written.
+
+1. 🛑 **IS [[Valerian Hellebore]]'s WARLOCK REBUILD DIEGETIC OR PLAYER-SIDE?** He states it four separate ways — *"I'm a **warlock** with a 13 armor class"*, *"I forgot **I'm no longer a druid**"*, 120-ft **Eldritch Blast**, **Pact Weapon**, **Weapon Mastery** for rapiers, a **pseudo-dragon familiar without a spell slot**, reading **Tasha's Bubbling Cauldron** aloud — and his synced sheet says **Warlock (Celestial Patron) 13, zero druid levels.** 🛑 **There is no in-fiction explanation anywhere in the session and nobody at the table remarks on it.** ▶ **THIS DETERMINES WHETHER IT GOES IN HIS PAGE'S NARRATIVE OR STAYS IN ARCHIVIST NOTES.** Follow-ups: **Who is the patron — is it [[Arona]]? Did the pact happen during the three weeks in [[The Cliffside Tower]]? Does Val know? Does the party?**
+2. 🛑 **WHAT ARE THE THREE RELICS, BY NAME?** *"Let's see, you got the sword, you got the greaves, and you got the—"* **cuts off**, then *"the 3 relics."* ⚠️ **This bears directly on the S16/S17 conflict** between `Grieveflame` / `Flame Greaves` and the `Gauntlets of Burning Grasp` — **sword + greaves + one more implies three SEPARATE items.** **The vault has NOT resolved the glossary from it.**
+3. 🛑 **WHAT WAS THE CONSTITUTION CHECK FOR?** *"While you're there, can you make me a Con check?"* / *"Uh, check. A check. **It's not a save yet.**"* [[Vega Bloodroot]] passed on **15** while standing inside *"the beating heart of the hive"*, which you had **just ruled harmless.** ⚠️ **The word *"yet"* is doing work and this is the most likely hidden mechanic in the session.**
+4. 🛑 **IS *"THE BEATING HEART OF THE HIVE"* THE SAME THING AS THE BRIEFING'S *"NEST CORE"*?** Two phrases, one scene apart, same objective area. **NOT MERGED in the vault.**
+5. 🛑 **DID BREAKING THE CURSE CHANGE [[Vega Bloodroot]]'s SWORD?** Her four hits did **9, 10, 13, 9** with **no 6d6 fire rider and no +2d8 [[The Sun Shard|Sun Shard]] set bonus stated anywhere** — against S18's read-out *"1d8+7 / 1d10+7 plus 6d6 fire."* ⚠️ **Either the weapon changed or she is under-applying her own damage. Large consequence either way.**
+6. 🛑 **WHEN DID [[Valerian Hellebore]] GET THE [[Hookshot Arm Bracers]]?** He wears them and they are equipped on his sheet. **The glossary records them as [[Samothy Smith-Wesson]]'s (S03); [[Deanna Smith-Wesson]]'s page records a bracer *"proposed for Lulu and never confirmed as transferred."*** **Three candidate owners, no recorded transfer — and he was a captive S15–S18.** ⚠️ **This also decides whether the Mage Armor +2 ruling rests on a valid premise.**
+7. 🛑 **WAS [[Deanna Smith-Wesson]]'s SHOTGUN BURNED ON THE PYRE?** [[Barrett Grimmskar]] proposed it; you answered *"that's what killed her in the first place"*; the bit dissolved into OOC. **The vault has Barrett handing that weapon to [[Samothy Smith-Wesson]] in S14.** ▶ **Loot Tracker impact.**
+8. 🛑 **WAS CLOSING THE REINCARNATE QUESTION BY CREMATION INTENTIONAL?** S18 left [[Eiluned Lulu Denulie|Lulu]]'s offer and the possibly-expired 10-day window live and deferred the decision to S19. **S19 never raises it and burns the body.** ⚠️ **Confirm before the vault records Reincarnate as dead.** *(This supersedes S18 question 3.)*
+9. 🛑 **IS THERE A [[The Beast Master|BEAST MASTER]] AT THE NEST?** The briefing says *"a master is never far"*; [[Blaze]]'s reconnaissance found none; you said *"I can't remember if I made a token for the Beast Master or not"* — **and [[Vega Bloodroot]] ends the session standing beside something her player calls him.**
+10. 🛑 **WHAT IS THE UNFAMILIAR ENEMY TYPE?** *"you also see an enemy you haven't seen before."* **Never described, never named, never acted.**
+11. 🛑 **WHAT WAS STALKING THE PARTY ACROSS [[The Dead Zone]]?** *"something is stalking you but is not attacking you yet."* **It never arrived.** ⚑ **Is it the same thing as the different tracks and/or the unfamiliar enemy?**
+12. ⚑ **SIX THRALLS PER MASTER, OR FIVE?** Your lore says *"Each Beast Master gets 6 thralls to himself"*; your scouts counted **5**. **Nobody at the table did that arithmetic.**
+13. ⚑ **WHAT ACTUALLY UNBINDS A THRALL?** Three incompatible accounts are now on the record: **S16's revolt**, **S18's *"their contract is over"***, and **S19's *"they don't know what to do anymore."*** ▶ **The party now believes killing a master scatters the pack and may bet a fight on it.**
+14. ⚑ **WAS THE *"MINUS D20"* EVER APPLIED?** Announced when the funeral roleplay was declined; **never applied to any roll.** The vault treats it as withdrawn.
+15. ⚑ **WHY IS A NEST OUTSIDE [[The Dead Zone]] *"unusual and very dangerous for us"*?** ⚑ **First time the Dead Zone has been framed as a boundary.** **What defines its edge?**
+16. ⚑ **DOES [[Blaze]] GET A PAGE, AND IS THAT THE RIGHT SPELLING?** First-seen name, heard once, never spelled. A provisional page is held on the [[Mr. Cat]] precedent because he acted.
+17. ⚑ **THE 8 CRYSTAL SHARDS ARE STILL PENDING.** The S18 deferral (*"probably tomorrow"*) **was not delivered in S19 and was not mentioned.**
+18. ⚑ **WHAT HAPPENED WITH YOUR COUNCIL SUMMONS?** [[Lt. Hargraven]] left to answer for the party in S16 and is simply back in command in S19. **The outcome was never stated.**
+
+> ⚠️ **NOT FOR THE DM — but needed from the table:** ⚑ **the speaker map.** SPEAKER A merges Christie and Madi; the DM is split across B and C. **One confirmation unblocks both S18 and S19** across the Quote Board, the Profanity Ledger and every individual attribution.
+> ⚠️ **Also for the table, not the DM:** the eight ≤60% spell-check rows (`Savage Attack`→`Savage Attacker` · `Eldrin`→`The cauldron` · `Pact of Protection`→`Pact of the Chain` · `icing`→`slashing` · `Trailer Trash`→`Taylor Trash` · `Flawbeak`→`Floppy` · `infused with Rage`→`infused with radiance` · `Inverted Nibs`→`Inverted Nips`). **Rows 9, 11, 15 and 25 need an audio listen; rows 23, 24 and 26 need the table.**
+
+---
+
 ## S18 (added 2026-09-14)
 
 1. 🛑 **WHO IS "THE BEAST MASTER" IN THE OPENING BOXED TEXT?** You named the towering figure on the tower top as **the Beast Master** at 00:08:58 — *"The Beast Master raises his hand"* — and from 00:20:38 onward the antagonist is **"the necromancer"**, about thirty times, including both later boxed reads. **[[The Beast Master]] died in S10.** Three readings are open: **leftover wording in prepared text**, **a genuinely new figure with the same title**, or **a return**. ▶ **HIGHEST-PRIORITY QUESTION OF THE SESSION.** Nothing has been merged; the vault holds [[The Necromancer]] and [[The Beast Master]] as separate pages.

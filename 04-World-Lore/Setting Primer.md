@@ -205,16 +205,49 @@ The closing boxed text, which **runs out mid-sentence**:
 - 🛑 **The bond was called a *"contract"*** — *"Oh, the necromancer's dead. They all ran away. **Their contract is over.**"* ⚠️ **Different language from the S10 psychic-bond lore.** ⚑ One word, one line. **Recorded, not built on.**
 - ⚑ It is consistent with the earlier aside that thrall movements are *"not exactly a sanctioned thing by all the vampires"* — but the two are **not explicitly linked.**
 
+## ⭐ What a Beast Master IS — the role, fully described *(S19)*
+
+⭐ **The campaign's fullest account of the creature type**, delivered as [[Vega Bloodroot]]'s knowledge off [[Samothy Smith-Wesson]]'s History 13:
+
+> *"it's just a **vampire that's sickly**… he's **not very strong**, can't, you know, lift a rock and throw it, isn't going to break someone's arm. They're **very frail and weak**, but they have a **telepathic connection with beast thralls**. **Each Beast Master gets 6 thralls to himself that he trains.** Now, if you kill the Beast Master and the thralls are still alive, **they will scatter and leave** because they don't know what to do anymore."*
+
+- 🆕 ✅ **A Beast Master is NOT a beast — he is a vampire.** *"No, he's just a vampire."* **This settles a taxonomic question open since S02 and a mechanical one ([[Samothy Smith-Wesson]] has a spell that cares).** ⚠️ **It does NOT settle whether `Beast Master` and `Beast Tamer` are the same title.** 🛑 **[[The Beast Master]] and [[The Beast Tamer]] remain SEPARATE PAGES.**
+- 🆕 **SIX THRALLS PER MASTER, AND HE TRAINS THEM.** **First number ever attached to a pack**, and the first statement that the bond involves training rather than pure domination.
+- 🆕 ⚔️ **KILL THE MASTER AND THE SURVIVORS SCATTER** — *"they don't know what to do anymore."* **Actionable intelligence the party has not yet used.**
+- 🛑 **THE SETTING NOW HAS THREE INCOMPATIBLE ACCOUNTS OF WHAT UNBINDS A THRALL:** S16's **revolt** (the bond breaks from the thrall's side), S18's ***"contract"*** (the bond is transactional), and S19's **cognitive dependence** (the thrall cannot think alone). ⚠️ **NOT RECONCILED. Recorded as three readings.**
+- ⚑ **The arithmetic nobody did:** the lore says **six**; [[Lt. Hargraven]]'s scouts counted **five** at the nest.
+
+## A nest OUTSIDE the Dead Zone is an anomaly *(S19)*
+
+🛑 **[[Lt. Hargraven]]: a vampire nest *"spotted outside of the Dead Zone, which is unusual and very dangerous for us."*** ⭐ **This is the first time the setting has framed [[The Dead Zone]] as a boundary vampires are expected to stay inside** — which retroactively makes it a containment line, not just ruined ground.
+
+- ⚑ **Thrall patrols were operating in the streets around the nest**, both *"humanoid and the beast variants"* — ⚑ **the first explicit statement that thralls come in humanoid and beast variants as a patrol composition.**
+- ⚑ **Two scout teams** were already assigned to watch the perimeter. **They are never heard from again on the record.**
+- 🔥 **A beast thrall variant leaving different tracks** — *"larger paws with deep claw marks with an unnatural gait… different than the normal beast thralls you've been encountering"* — **exists and has not been encountered.** ⚑ **Possibly the same as the unfamiliar enemy seen inside the nest and/or the thing that stalked the party. THREE HOOKS, NOT MERGED.**
+
+## Curses persist in the body after death *(S19)*
+
+⚑ **[[Deanna Smith-Wesson]]'s cremation burned with *"a faint violet hue, a side effect of Deanna's lingering curses."*** 🛑 **The seven fused curses that killed her in S14 were still active in her corpse five sessions later**, and made themselves visible only in fire. ⚠️ **First physical manifestation of a curse in this setting outside of its mechanical effects.** ⚑ **Bears on the standing question of whether purity filters work on a corpse, which the DM still owes a ruling on.**
+
 ## Geography (known)
 
 - [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*
 - [[Ruined City District]] — the city beyond the base's main gate. ⚑ city name unknown. *(S01)*
 - [[The Dead Zone]] — the ruined ground between [[The Grand Library of the Veiled Dawn]] and [[The Walled Base (Museum-Castle)]]. Silent, ash-and-mud, **partly on fire**, patrolled by vampires. Glossary line: *"Where Saint Ardas stands; no one returns."* ⚑ Extent undefined; ⚑ proper name unconfirmed. *(named earlier, first fully traversed S11)* **S18: trees that *"twist like broken ribs"*; crossed on foot to reach the tower.**
+- [[The Ruined Neighborhood (Vampire Nest)]] ⚑ **descriptive name — never named in fiction.** *(S19)* A **destroyed residential block OUTSIDE [[The Dead Zone]]**, a **two-hour march** from the castle. *"Houses are collapsed inward, roofs caved, windows shattered. Overgrown vines and dead brush choke the streets."* At its centre, a **collapsed two-storey house** with **a faint red glow pulsing** from it, containing an area the DM calls ***"the beating heart of the hive."*** 🛑 **The house was never entered. Direction from the castle was never given.**
 - [[The Cliffside Tower]] ⚑ **descriptive name — never named in fiction.** *(S18)* A **granite** tower on a cliffside **above the ocean**, reached on foot through [[The Dead Zone]]. Built as a **lighthouse**, repurposed as a **fort outpost tower for defence during war** ⚑ *(which war is not stated)*. **Two levels**, winding staircase, ⚠️ **110 ft stated / 120 ft used**. Held [[Valerian Hellebore]] for three weeks. ⚑ **Direction and distance from the castle were never given.**
 - A north–south axis exists with scouting reports tracking vampire captains "way north." *(S01)*
 
 ## Open Questions
 
+- 🛑 **WHAT ARE THE THREE RELICS, BY NAME?** *"you got the sword, you got the greaves, and you got the—"* **cuts off.** Collecting them broke [[Vega Bloodroot]]'s sword curse. ⚠️ **Bears directly on the S16/S17 `Grieveflame` / `Flame Greaves` vs `Gauntlets of Burning Grasp` conflict — three SEPARATE items is now the working read.** **DO NOT RESOLVE THE GLOSSARY FROM THIS ALONE.** *(S19)*
+- 🛑 **IS *"THE BEATING HEART OF THE HIVE"* THE SAME THING AS THE *"NEST CORE"*?** Two phrases, one scene apart, same objective area. **NOT MERGED.** *(S19)*
+- 🛑 **WHAT WAS THE UNEXPLAINED CONSTITUTION CHECK FOR?** *"It's not a save yet."* **The word *"yet"* is the most likely hidden mechanic in the session.** *(S19)*
+- 🛑 **WHAT IS THE UNFAMILIAR ENEMY TYPE INSIDE THE NEST?** *"you also see an enemy you haven't seen before."* **Never described, never named, never acted.** *(S19)*
+- 🛑 **WHAT WAS STALKING THE PARTY ACROSS [[The Dead Zone]]?** *"something is stalking you but is not attacking you yet."* **It never arrived.** *(S19)*
+- 🛑 **HOW DID [[Valerian Hellebore]] BECOME A WARLOCK?** **No in-fiction explanation exists and nobody at the table asked.** ⚑ **[[Arona]] is not named in S19 at all.** *(S19)*
+- ⚑ **Why would a nest OUTSIDE [[The Dead Zone]] be more dangerous?** [[Lt. Hargraven]] calls it *"unusual and very dangerous for us"* and does not explain. **What defines the Dead Zone's edge?** *(S19)*
+- ⚑ **Six thralls per Beast Master, or five?** The lore says six; the scouts counted five. **Nobody reconciled it.** *(S19)*
 - 🛑 **WHAT IS THE THIRD PIECE OF THE [[The Sun Shard|SUN SHARD]] SET?** Never named. *(S18)*
 - 🛑 **Who or what is [[Arona]]?** No referent given, by anyone, ever. *(S18)*
 - 🛑 **Who was "the Beast Master" in S18's opening boxed text?** [[The Beast Master]] died in S10; the antagonist is *"the necromancer"* thereafter. **Highest-priority DM question.** *(S18)*

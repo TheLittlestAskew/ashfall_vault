@@ -52,8 +52,28 @@
 - ⚠️ **They are killable by falling** — [[Samothy Smith-Wesson]] tackled one off the wall for **28 fall damage**.
 - ⚑ **The survivors fled the map alive** — *"they do venture off and they, you know, disappear."* **At large.** [[Valerian Hellebore]] **Eldritch Blasted three of them on the way out** (9, 14, 6) but none were confirmed killed.
 
+## S19 — the label collapse gets worse, and a token comes back from the dead
+
+⚠️ **S19 uses `Vampire Thrall`, `Beast Thrall`, `feral thrall` and `feral vampire thrall` interchangeably within the same combat**, on top of the joke token names. 🛑 **This page carries the S19 record only for the enemies the DM explicitly labelled *feral*; the fuller combat log lives on [[Beast Thrall]].** **A reliable per-enemy roster cannot be built, and the roll archive that could have pinned it was unreachable for the third session running.**
+
+**Confirmed feral-labelled kills at [[The Ruined Neighborhood (Vampire Nest)]]:**
+
+- **feral thrall C** — [[Barrett Grimmskar]], shot through a wall he had no line of sight through (*"you don't have clear line of sight, but you know he's there"*) for **9 piercing + 8 fire.**
+- **feral vampire thrall B** — [[Zelda Z Whipper|Zelda]]'s **Guiding Bolt**, 26 to hit, **27 radiant + 4** from [[Flux]]'s rider. *"All right, he's gone."*
+
+🛑 **AND ONE DESIGNATION WAS USED AFTER IT DIED.** [[Flux]] killed **Vampire Thrall A** on a natural 20 in round one (*"you kill him… he's got 5 health left"*); at **01:14:33** the DM announced *"now it's actually Vampire Thrall A's turn"* and it hit [[Vega Bloodroot]] twice; **[[Valerian Hellebore]] then attacked "Vampire Thrall A" on the roof in round three.** ⚠️ **Either the designation was recycled onto a fresh token or a dead token was never removed. Unresolvable from the transcript.**
+
+**What S19 adds to the profile:**
+
+- ✅ **Radiant doubling confirmed again**, applied to every PC attack all session via [[Flux]]'s party-wide buff. **A 4-point rider became 8; a 6 became 12.**
+- ✅ **They climb and hold rooftops** — one was standing on the roof of the nest house in round three.
+- ⚔️ **They attack at +12** and land for **12–15** before resistance.
+- ✅ **INT is their dump stat** — two failed **Uncertain Footing** saves at **2 and 5** against DC 17. ⚠️ **But CON is not** — two saves against [[Eiluned Lulu Denulie|Lulu]]'s **Blight** and **Cloudkill** both came back at exactly **18** and beat the DC.
+- 🔥 ⚑ **A variant leaving DIFFERENT TRACKS was identified on the road and never encountered** — *"larger paws with deep claw marks with an unnatural gait… different than the normal beast thralls you've been encountering."* **See [[Beast Thrall]].**
+
 ## Record
 
 - **S18:** ~9+ encountered at [[The Cliffside Tower]] under [[The Necromancer]] — Vampire Beast Thralls **A** and **B**, **Beast Thrall C**, feral vampire thralls **D, E, F**, plus ~3 unnumbered wall/courtyard thralls. **Confirmed killed:** A ([[Vega Bloodroot]]'s opening arrow), B ([[Barrett Grimmskar]]), F ([[Eiluned "Lulu" Denulie]]'s **Blight**, 37 damage), and C (tackled off the tower for 28 fall damage — ⚑ *not individually confirmed dead*). **The rest fled when their master died.**
+- **S19:** At least **2 feral-labelled kills** at [[The Ruined Neighborhood (Vampire Nest)]] (**feral thrall C** by [[Barrett Grimmskar]]; **feral vampire thrall B** by [[Zelda Z Whipper|Zelda]]), inside a total of **12 counted + 1 unfamiliar type.** 🛑 **The exterior was cleared and the house interior was never entered.** ⚠️ **Vampire Thrall A acted a full round after being killed.**
 - **S01:** 8 slain (wave 1) + 7 slain (wave 2); a third wave was recalled by the Beast Tamer. Kills by: Vega ×3 (incl. two bisections), Valerian ×2 (Moonbeam), Zelda ×3 (Starry Wisp ×2, Thunderwave), Flux ×3 (Finger Guns ×2 incl. crit, longbow finishes), Barrett ×2 (Finger Guns + Risk Die, Magic Missile contributions), Samothy ×1 + Steel Defender ×1.
 - **S17:** 6 encountered (Thralls A–F) in the Tomb of Tharos Emberborn; **all killed or dying when the DM called the fight.** Kills by: [[Eiluned Lulu Denulie|Lulu]] ×1 (Contagion, 11d8 → 49 necrotic — then **animated the corpse as her minion**), [[Vega Bloodroot]] ×1+, [[Zelda "Z" Whipper]] and [[Samothy Smith-Wesson]] contributing heavily. The DM ended it early: *"we can end it there because you guys are gonna kill him anyways."*

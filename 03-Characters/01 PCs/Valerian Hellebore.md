@@ -3,6 +3,8 @@
 > ✅ **HE IS BACK — RESCUED S18, ALIVE AND WHOLE.** Extracted from [[The Cliffside Tower]] by [[Zelda "Z" Whipper]] after **three weeks** in a siphoning ritual. **[[Vega Bloodroot]]'s S17 vow is discharged.**
 > 🛑 **AND HE CAME BACK CHANGED.** **New appearance. New voice, with an accent. And he casts [[Eldritch Blast]] — a Warlock cantrip — as a Circle of the Land druid**, which he attributes to *"calling on [[Arona]]."* [[Vega Bloodroot]]'s **natural 20 Insight**: *"nothing is wrong with Val other than he looks and sounds different, but he is Val."* ⚠️ **He is genuinely himself, he is not lying, and HE DOES NOT KNOW ANYTHING CHANGED.** The horror here is that the check came back clean.
 >
+> 🛑 **AND AS OF S19 HE IS A WARLOCK, WITH NO IN-FICTION EXPLANATION AND NO COMMENT FROM ANYONE AT THE TABLE.** Stated four separate ways on the record and corroborated by his synced sheet (**Warlock / Celestial Patron 13, zero druid levels**). ⚠️ **THIS IS THE BIGGEST OPEN QUESTION OUT OF S19 AND IT GATES HOW THIS PAGE IS WRITTEN.** **Until the DM rules whether the rebuild is diegetic, the class change is recorded here as a fact of the record and is deliberately kept OUT of the Family & Backstory section.** See *The Warlock Question* below.
+>
 > 🛑 **DISAMBIGUATION — STILL LOAD-BEARING (added S16, retained).**
 > **Valerian was absent from S15 through S17.** Everything "Valerian" said and did **in character in S15, S16 and S17 belongs to [[The Doppelganger]]**, a changeling impostor who wore his face for roughly three weeks and died in [[Session 17 — Hobo, That's Your Reflection]].
 > ⚠️ **The S15 note has NOT been retro-edited and must not be** — `No Session Contamination` applies. In particular, **S15's hostility toward [[Eiluned Lulu Denulie|Lulu]] was the impostor**, confirmed above-table as deliberate characterisation, and the S15 record stands as played. ⚑ **The real friction between those two characters has never actually happened.**
@@ -13,10 +15,10 @@
 |                     |                                                             |
 | ------------------- | ----------------------------------------------------------- |
 | **Race**            | Elf                                                         |
-| **Class**           | Druid (Circle of the Land)                                  |
-| **Level**           | ⚑ **[Unknown/Ambiguous].** **10** as of S10 (5 at S01, gained Wild Resurgence + 3rd-level spells; 8 at S09; **8 → 10 in one award** ⚑). ⚠️ **The party reached 12 in S16 and 13 in S18, all while he was captive** — whether he levelled off-screen was never stated, and he was not given a turn in S18 to reveal it |
-| **Status**          | ✅ **RESCUED AND ALIVE (S18)** — and 🛑 **CHANGED.** New appearance, new voice with an accent, new magic he cannot account for. **Unaware anything is different.** *(Was: CAPTIVE S16–S18, held in [[The Cliffside Tower]])* |
-| **Signature magic** | Starry Wisp · Moonbeam · Spiny Shield (⚑ homebrew reaction) · 🛑 **[[Eldritch Blast]] — NEW S18, and a Warlock cantrip he should not have** |
+| **Class**           | 🛑 **WARLOCK (Celestial Patron) — CHANGED S19.** *"Yeah, I forgot **I'm no longer a druid**."* **Zero druid levels on his synced sheet.** ⚠️ **No in-fiction explanation exists.** *(Was: Druid, Circle of the Land, S01–S18)* |
+| **Level**           | ✅ **13 — CONFIRMED S19** on his synced sheet (Warlock 13), closing a flag open since S16. ⚠️ **How he levelled from 10 to 13 while captive was never narrated.** *(Was: ⚑ [Unknown/Ambiguous] — 10 as of S10; the party reached 12 in S16 and 13 in S18, all while he was held)* |
+| **Status**          | ✅ **ALIVE AND BACK IN THE INITIATIVE ORDER (S19)** — his first turns since S14. 🛑 **CHANGED TWICE OVER:** new appearance, new voice with an accent (S18), and **a different class entirely** (S19). **Unaware anything is different, and nobody has asked him.** *(Was: CAPTIVE S16–S18, held in [[The Cliffside Tower]])* |
+| **Signature magic** | 🛑 **[[Eldritch Blast]]** (120 ft, three beams) · **Pact Weapon** — *"a blazing dawnlit sword"*, **necrotic / psychic / radiant** · **Mage Armor** · **Tasha's Bubbling Cauldron** · ⚑ **[[Blaze]]**, a pseudo-dragon familiar · **Elven Accuracy** · Weapon Mastery (rapiers). *(Was, as a druid: Starry Wisp · Moonbeam · Spiny Shield ⚑ homebrew reaction)* |
 | **Languages**       | Common, Druidic, Elvish, Goblin                             |
 | User_ID             | 106010515                                                   |
 | Character_ID        | 155267230                                                   |
@@ -49,12 +51,51 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 - ⚑ **He forgives instantly and without performance:** *"Yeah, it did, but you're here now, and I guess that's all that counts."*
 - ⚑ **Minutes off the rack, he asks about flowers.** *"Well, at least you came when you were alive. Where'd you guys get those crowns?"*
 
+## 🛑 The Warlock Question — NEW S19, UNRESOLVED
+
+> ⚠️ **THIS SECTION EXISTS BECAUSE THE VAULT CANNOT YET DECIDE WHERE THE INFORMATION BELONGS.** If the rebuild is **diegetic**, it is the single largest character development in the campaign and belongs in *Family & Backstory*. If it is **player-side**, it belongs only here and in Archivist Notes. 🛑 **The DM has not ruled. ASK AND CHASE.**
+
+**He is a warlock. He says so four separate ways in one session, and not one person at the table reacts.**
+
+| Evidence | Quote |
+|---|---|
+| Stated flat | *"Because I'm a **warlock** with a 13 armor class and I need some help."* |
+| Stated again | *"Yeah, I forgot **I'm no longer a druid**, so wisdom is not my highest stat."* |
+| Cantrip | *"I have 120-foot **Eldritch Blast**."* |
+| Pact feature | *"**Summoning my Pact Weapon**, which is just a blazing dawnlit sword"* |
+| Weapon Mastery | *"because I took **Weapon Mastery** for rapiers"* |
+| Familiar | ⚑ **[[Blaze]]**, a **pseudo-dragon**, summoned via Find Familiar **without a spell slot** |
+| Spell list | Reading **Tasha's Bubbling Cauldron** aloud — a warlock spell |
+
+✅ **Corroborated by the synced sheet** (`03-Characters/01 PCs/Party Character Sheets/Valerian Hellebore (DDB).md`, synced 2026-09-24): **Warlock (Celestial Patron) 13, zero druid levels.** Invocations include **Pact of the Blade**, **Pact of the Chain** and **Gift of the Protectors**; feat **Elven Accuracy**.
+
+🛑 **What is missing is any explanation at all.**
+
+- **S18** recorded him returning from three weeks of captivity *"changed"* — different face, different voice with an accent, and throwing **Eldritch Blast** as a druid, credited to *"calling on [[Arona]]."* ⚑ **That was one anomalous cantrip.**
+- **S19 simply plays him as a warlock**, with a patron, a pact, invocations and a familiar. ⚠️ **The gap between "a druid with one strange cantrip" and "a Celestial-patron warlock with zero druid levels" is never bridged on the record.**
+- 🛑 **Nobody asks.** ⚠️ **[[Vega Bloodroot]] interrogated the change once, in S18, and did not raise it again.** The party's incuriosity is itself becoming a pattern — see [[Session 19 — You Can Let It Go Now]] *Archivist Notes*.
+- ⚑ **[[Arona]] is not named in S19 at all.** The one thread that might explain this **goes quiet in the session that most needs it.**
+- ⚑ **[[Blaze]] most likely arrived with the class change** — a pseudo-dragon familiar is a warlock's, not a Circle of the Land druid's. 🛑 **Inference, not record.**
+
+▶ **DM questions raised by this, all open:** Is the rebuild diegetic? · Who is the Celestial patron, and is it [[Arona]]? · When and how did the pact happen — during the three weeks in [[The Cliffside Tower]], or off-screen? · Does [[Valerian Hellebore]] know? · **Does the party?**
+
 ## Family & Backstory (revealed S02)
 
 - Home village: **[[Hampshire]]**, just outside the fort. **Both parents killed in the S01 attack** — found mauled (beast thrall) in his childhood home, S02. Deanna covered the bodies with blankets; Zelda draped one over him and hauled him out by the finger; the grief turned to "seething rage."
 - Won the boot-camp **training competition** ("the magic of loopholes" — teleported through the obstacle course); holder of the **Perma Inspiration**.
 
 ## Key Events
+
+- **S19: BACK IN THE INITIATIVE ORDER FOR THE FIRST TIME SINCE HIS CAPTURE — AS A DIFFERENT CLASS, AND LOUD ABOUT EVERYTHING EXCEPT THAT.** ⭐ **His first turns since S14, and he made more attack rolls than any PC: 9 attacks, 8 hits.**
+  🛑 **THE CLASS CHANGE.** See *The Warlock Question* above. **Stated four ways, confirmed on his sheet, remarked on by nobody.**
+  ⭐ **The session's best single action is his.** In round two he **hookshotted off the fire pit onto the corner of the house** — the DM confirming the [[Hookshot Arm Bracers]] *"doubles your movement speed"* — landed in melee, **summoned his Pact Weapon** (*"just a blazing dawnlit sword"*) and swung three times. In round three he **hookshotted onto the roof** after Vampire Thrall A and landed **three radiant hits (29, 26, 26)**: *"Just slicing and dicing with the radiant sword."*
+  ⚑ **He opened the session's combat with three Eldritch Blast beams** into Vampire Thrall D — 8, 15 and 7 force — narrating *"7 points of force damage as I nail his ass to the wall."* ⚠️ **The DM says *"0"* after the second beam, unexplained, and *"he's dead, but you hit him"* after the third.**
+  ⚑ **He rerolled four separate dice via Elven Accuracy** and retained advantage across rounds — ⚠️ **misattributing the feature to *"one of my Eldritch Invocations, I don't remember fucking which one."*** 🛑 **His round-two damage bookkeeping is internally inconsistent and cannot be reconciled from the transcript.**
+  🛑 **HE IS WEARING THE [[Hookshot Arm Bracers]], AND THEY ARE NOT RECORDED AS HIS.** The glossary has them as [[Samothy Smith-Wesson]]'s (S03); [[Deanna Smith-Wesson]]'s page records a bracer *"proposed for Lulu and never confirmed as transferred."* **Three candidate owners, no recorded transfer, and he was a captive S15–S18.** ▶ **ASK WHEN HE GOT THEM.**
+  ⚖️ **He caused the session's first DM ruling** — his bracers' +1 already put his base AC at **13**, which is what **Mage Armor** sets it to, so the DM ruled *"you can just, uh, add an extra 2 to your AC for the session."* ⏳ He also wants a **500 gp gilded ladle** for **Tasha's Bubbling Cauldron**; [[Samothy Smith-Wesson]] offered to craft one and **nobody did.**
+  ⭐ **AND HE IS THE ONE WHO SAYS [[Deanna Smith-Wesson]]'S DEATH OUT LOUD AS A TACTICAL LESSON** — *"Shooting the wall got her killed with a shotgun"* — to stop [[Zelda Z Whipper|Zelda]] scouting the nest alone. ⚠️ **The newest returnee is the one enforcing the party's caution.** ⚑ **First time anyone has used her death as an argument.**
+  ⚑ **[[Blaze]] debuts** — his **pseudo-dragon familiar**, *"He's red and orange"*, dismissed and **re-summoned as a bat** to fly the nest. **He produced the party's only interior intelligence: 12 enemies, one unfamiliar type, no Beast Master.**
+  ⚑ **Characterisation: swaggering, loud, and unable to remember the names of his own features.** *"Fuck yeah!"* on the hookshot; *"I kind of stopped reading after radiant, I'm gonna be honest"* about his own weapon; *"Oh fuck, I am my father's son. Let's go beat some beasts!"* 🛑 **His player took 26 profanity instances — more than the rest of the table combined**, after posting his career-low 2 in S18 while chained with no turns.
 
 - **S18: RESCUED — AND SOMETHING CAME BACK WITH HIM.** ⭐ **The campaign's primary thread since S16 is closed, and a bigger one opens in the same scene.**
   ⛓️ **THE RITUAL.** The party found him *"hanging suspended in a glowing magic circle, chains of shimmering energy wrapped around his arms, his chest, his throat. **Each chain pulses as it siphons away his magic, his immortality, and his very essence.** His skin flickers, mortal one moment, immortal the next, as if it really can't decide what he is anymore."* 🛑 **THIS IS THE FIRST ON-RECORD STATEMENT THAT VALERIAN HAS IMMORTALITY TO LOSE.**

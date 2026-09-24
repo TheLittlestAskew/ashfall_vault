@@ -351,3 +351,54 @@
 > I do not know what to do with a man who has been screaming in a tower for three weeks and comes down asking about flowers. But I know the promise is kept, and I know he is breathing, and tonight that is enough for me to set the sword down.
 >
 > I cannot set the sword down. You know what I mean.
+
+> [!note]- S19 — I could have set it down. (You Can Let It Go Now)
+> They burned Deanna in the courtyard this morning.
+>
+> The pyre went up with a violet edge on it, which is what happens when a body has been carrying curses long enough for them to take. Ash came down over the yard on a cold wind and looked, for a while, like snow. Guards came. Scouts came. People from the town who knew her came, which surprised me, because I did not know she had that many people. Her brother stood at the front of it with his jaw set and did not cry, and nobody made him, and I think that was the right call even though I could feel the whole yard wanting him to.
+>
+> I did not say anything. We had been carrying her in a sack for days. Whatever I had to say to her I had already said to a bag.
+>
+> Then the lieutenant wanted us in the war room before the smoke had cleared, and he was already sitting down when we got there, which is his way of telling you the day is not going to wait for your feelings.
+>
+> A nest. Outside the dead zone, which he says should not happen. Patrols out in the streets around it — the men, and the dogs that used to be men. Five of the dogs counted, and no master seen, and then the part he said plainly because he knew we needed to hear it plainly: if the dogs are there, the master is not far.
+>
+> I raised my hand and asked if we had considered giving up. I asked whether we might just go and become vampires ourselves and be done with it. I want it on the record that I was mostly joking, and that the lieutenant did not blink — he said that was fine, and that he would not have mercy when the time came to kill me, and that I am not strong enough to stop him. I told him I would already be dead by then. He said he would meet us at the gate.
+>
+> That is the closest thing to affection either of us knows how to do.
+>
+> The walk out took two hours through the usual: dead trees, houses folded in on themselves, the hulks of old carriages gone to rust in the dirt so long they have become part of it. Things kept moving at the edge of where I could see and never came close enough to name. Halfway there we found the tracks. Bigger paws than I am used to, claws sunk deep, and the walk of the thing wrong in a way I could not put a word to — not the gait of any of the dogs we have killed. Something followed us the whole way in and did not come for us, and we never learned how far back it was.
+>
+> I keep thinking about that. A thing that follows and does not bite is doing something other than hunting.
+>
+> The neighborhood was a ring of collapsed houses around one house that still stood, more or less, and there was a red glow coming out of it, slow, like a lamp behind a curtain. Val sent his little dragon in to count — he wears it as a bat when he wants it to go somewhere quietly — and it came back with twelve, and with something none of us have seen before, which nobody has described to me since.
+>
+> Before we moved, Flux put light over all of us. It went into the edge of every weapon we carry and stayed there, and after that everything any of us hit burned a little on the way through.
+>
+> And I did the thing I know how to do, which is walk toward it.
+>
+> There is a place inside that house where the air glows red. I asked whether it would hurt me to stand in it and was told no, and then a little later I was asked whether my body was holding up, which is not a question you ask someone who is fine. I said I was fine. I am not sure I am fine. Standing in it felt like standing near something asleep and very large. Somebody called it the beating heart of the hive. I do not know if that is a name or a description and I have decided not to care yet.
+>
+> Here is the part I did not expect.
+>
+> I have been carrying three things now — the sword that would not let go of my hand, the greaves, and the third — and it turns out three was the number. The curse is done. It let me go. Just like that, in the middle of a fight, the way you find out a wound has closed by noticing it has stopped hurting.
+>
+> I could have set it down right there.
+>
+> I did not. I looked at my hand, and the hand was mine again, and then I used the sword anyway because there was a thing in front of me that needed hitting and it was the closest heavy object. Same outcome, I said. That is true and it is also not the whole truth. I have spent two sessions of my life furious that this thing would not let go of me, and the moment it did, I kept hold of it. I am going to want to think about that later, when there is a later.
+>
+> It whispered at me all night, same as it has. I let it talk.
+>
+> The fight itself is a blur of the usual shapes. Val came down the side of the house on those hooks of his with a sword made out of light and was, I will admit, magnificent about it. Barrett missed twice and took it personally. Zelda dropped one with a bolt of daylight and then hurt another one badly enough that the lieutenant's problem became a different problem. Flux put an arrow through something's eye without even having to check whether it worked. The lieutenant himself managed to swing twice at nothing at all, went down on his face for his trouble, and spent a stretch of the night flat on the ground with a dog standing over him, which I am never going to let him forget.
+>
+> They came for me most of all. They always do. Twice I got opened up and twice the rage took half of it before it reached anything that mattered, and there was one that got through clean enough that I felt it in my teeth. I did not go down. I am starting to think going down is something that happens to other people.
+>
+> By the end the street was clear. Every one of them outside the house was dead, and the house was still standing, and the thing at the heart of it is still beating.
+>
+> I am standing next to what I believe is the master. Frail thing. Sick thing. I know what they are — I am the one who knew, and I told the others: not strong, not a beast, a vampire that cannot lift a rock or break an arm, with six of the dogs bound to his head, and if you kill him the ones left over scatter because nobody is thinking for them anymore.
+>
+> Six. The lieutenant counted five.
+>
+> We are not finished here. We did not breach the house, we did not clear the inside, and the core is where it was when we got here. Whatever is in there has had all night to hear us working.
+>
+> Deanna's ashes are probably still warm.

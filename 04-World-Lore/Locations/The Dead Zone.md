@@ -55,6 +55,14 @@ The DM's read-aloud for it is consistently one of held breath rather than emptin
 - ✅ **The crossing was uneventful and the party arrived undetected** — *"Are they aware that we're here?"* / *"I'd imagine not."* **No patrol, no ambush, no [[Cloaked Figure]].**
 - ⚑ **The party brought a horse and carriage** through it, and [[Zelda "Z" Whipper]] teleported **the horse** home at the session's end while **abandoning the carriage** at the tower.
 
+## Events (S19)
+
+- 🛑 **A VAMPIRE NEST HAS BEEN FOUND *OUTSIDE* THE DEAD ZONE — AND THAT IS TREATED AS AN ANOMALY.** [[Lt. Hargraven]]'s briefing: *"we have a report that a vampire nest has been spotted **outside of the Dead Zone, which is unusual and very dangerous for us**."* ⭐ **THIS IS THE FIRST TIME THE CAMPAIGN HAS FRAMED THE DEAD ZONE AS A BOUNDARY THAT VAMPIRES ARE EXPECTED TO STAY INSIDE.** ⚠️ **Something has changed, or the containment is failing.** ▶ **Open question: what defines the Dead Zone's edge, and why would a nest outside it be more dangerous?**
+- 🚶 **Crossed on a two-hour march** to [[The Ruined Neighborhood (Vampire Nest)]]. The DM's boxed text adds to the landscape record: *"The path winds through **dead trees, collapsed homes, and old vehicles rusted into the earth**. Shadows start to move at the edge of your vision, never close enough to identify."*
+- 👁️ **THE PARTY WAS WATCHED THE WHOLE WAY AND NOT ENGAGED.** On Perception (23 and 25): *"you hear soft growls, you hear scratching on stones and distant howls. Uh, you spot some thralls watching you from **rooftops and alleyways**, but they just kind of watch you go on and they disappear into the—"* ⚠️ *(the DM's sentence cuts off with no `[inaudible]` marker)*. ⚑ **Consistent with S11's vampire patrol that sniffed toward the party and moved on.**
+- 🔥 **TRACKS THAT ARE NOT THE USUAL THRALLS' WERE FOUND HERE.** On a Survival *"dirty 20"*: *"larger paws with deep claw marks with an unnatural gait. **They are different than the normal beast thralls you've been encountering.**"* **See [[Beast Thrall]].**
+- 🛑 **AND SOMETHING FOLLOWED THEM ACROSS IT.** On Insight (*"almost a natural 20"*): *"You sense that **something is stalking you but is not attacking you yet**, and you're unsure of how far away it is from you."* ⚠️ **It never appeared. Unresolved into S20.**
+
 ## Open Threads
 
 - 🛑 **[[The Cloaked Figure]] is still out here**, unnamed and undamaged, with a promise to return. ⚑ **Not seen in S16, S17 or S18.**

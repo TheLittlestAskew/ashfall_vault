@@ -52,6 +52,47 @@ Controlled by **Beast Masters** (light-blue magical auras; emerald-vulnerable). 
 
 ⚑ **They hunt by sound** — recorded in the session note; the DM's description of the vampire feeding method (*"it tears open a section of your body and then literally sucks all the blood out within 3 seconds, and you die a bloodless death"*) was likened at the table to *"a monster from A Quiet Place, but… for vampires."*
 
+## ⭐ S19 — THE ALLOTMENT, THE SCATTER BEHAVIOUR, AND TRACKS THAT ARE NOT THEIRS
+
+> ⭐ **The campaign's fullest statement of how these creatures are bound, delivered as [[Vega Bloodroot]]'s knowledge off a History 13.** Full text on [[The Beast Master]].
+
+**Three things are new and load-bearing:**
+
+- 🆕 **EACH BEAST MASTER IS ALLOTTED SIX THRALLS, AND HE TRAINS THEM.** *"Each Beast Master gets 6 thralls to himself that he trains."* ⭐ **First number ever put on a pack, and the first statement that the relationship involves training rather than pure domination.**
+- 🆕 ⚔️ **KILL THE MASTER AND THE SURVIVORS SCATTER AND LEAVE** — *"if you kill the Beast Master and the thralls are still alive, they will scatter and leave **because they don't know what to do anymore**."* ⭐ **This is directly actionable and the party has not acted on it.** ⚠️ **It also implies the thralls do not think independently at all**, which sits against S16's revolted population.
+- ✅ **A Beast Master is *"just a vampire"* — NOT a beast.** Answering [[Samothy Smith-Wesson]]'s question about a spell that cares. ⚑ **Settles the taxonomy for the handler, not for the thrall.**
+
+🛑 **THREE INCOMPATIBLE ACCOUNTS OF WHAT UNBINDS A THRALL ARE NOW ON THE RECORD:**
+
+| Session | Account |
+|---|---|
+| **S16** | They **revolted** against their handler, tore him to shreds and fled east — **the bond can be broken from the thrall's side** |
+| **S18** | *"Their contract is over"* — **contractual language**, and they fled when the necromancer died |
+| **S19** | They *"scatter and leave because they don't know what to do anymore"* — **the bond is cognitive dependence** |
+
+⚠️ **NOT RECONCILED. Three sessions, three framings. ▶ DM question.**
+
+### 🔥 Tracks that do not belong to any thrall the party knows
+
+On the two-hour march to [[The Ruined Neighborhood (Vampire Nest)]], [[Valerian Hellebore]] made a Survival check (*"a dirty 20"*):
+
+> *"You identify beast thrall tracks. These are the **larger paws with deep claw marks with an unnatural gait**. **They are different than the normal beast thralls you've been encountering.**"*
+
+🛑 **A variant the party has never fought, stated explicitly as different.** ⚑ **Possibly the same creature as:** the **unfamiliar enemy type** [[Blaze]] saw inside the nest (*"you also see an enemy you haven't seen before"*), and/or **the thing that stalked the party on the road** (*"something is stalking you but is not attacking you yet"*). ⚠️ **THREE HOOKS, NOT MERGED.** **None of them resolved; the session ended first.**
+
+### S19 combat record
+
+⚠️ **Designations were used interchangeably all session** — `Vampire Thrall`, `Beast Thrall`, `feral thrall`, `feral vampire thrall`, plus the joke tokens `Floppy` and `Flawbeak`. 🛑 **A reliable per-enemy roster cannot be built from the transcript, and the roll archive — the only instrument that could pin it — was unreachable.**
+
+- **12 counted inside and around the nest** by [[Blaze]]'s bat reconnaissance, **plus one unfamiliar type.** **5 beast thralls** had been sighted by [[Lt. Hargraven]]'s scouts beforehand — ⚑ **against a lore allotment of 6.**
+- **Confirmed individual kills:** **Vampire Thrall D** ([[Valerian Hellebore]], Eldritch Blast) · **feral thrall C** ([[Barrett Grimmskar]], 9 piercing + 8 fire, shot through a wall) · **feral vampire thrall B** ([[Zelda Z Whipper|Zelda]], Guiding Bolt, 27 radiant + 4) · **Vampire Thrall A** ([[Flux]], natural 20 — *"he's got 5 health left"*).
+- 🛑 **[[Lt. Hargraven]]'s *"Dead, dead, dead, dead, dead"* asserts five more kills and identifies none of them.**
+- 🛑 **VAMPIRE THRALL A WAS KILLED IN ROUND ONE AND THEN TOOK A TURN IN ROUND TWO**, hitting [[Vega Bloodroot]] twice, and was attacked again on the roof in round three. ⚠️ **Either designations were reused or a token was not removed. Unresolvable.**
+- ✅ **Radiant doubling confirmed again**, all session, under [[Flux]]'s party-wide buff.
+- ✅ **They failed INT saves catastrophically** (2 and 5 vs **DC 17**) against [[Samothy Smith-Wesson]]'s **Uncertain Footing**, but **both CON saves against [[Eiluned Lulu Denulie|Lulu]]'s Blight and Cloudkill came back at exactly 18 and beat the DC.**
+- ⚔️ **One attacked at +12** and hit [[Vega Bloodroot]] for 15 (halved to 7 by Rage) and 12.
+- ⏸ **The outside was cleared; the interior was never engaged.** *"You cleared the outside."*
+
 ## S18 — "Vampire Beast Thralls" under a necromancer, and the labelling falls apart
 
 🛑 **A necromancer — not a vampire, and explicitly *opposed* to the vampire lords — was commanding beast thralls at [[The Cliffside Tower]].** ⚠️ **This is new.** Every previous handler on the record has been a vampire ([[The Beast Master]], [[The Beast Tamer]], [[The Cloaked Figure]]) or nobody at all (S16/S17's revolted ferals). ⚑ **Nobody in-fiction remarked on it.** ▶ **DM question.**
@@ -68,5 +109,6 @@ Controlled by **Beast Masters** (light-blue magical auras; emerald-vulnerable). 
 
 ## Record
 
+- **S19:** **12 counted + 1 unfamiliar type** at [[The Ruined Neighborhood (Vampire Nest)]]; **5 beast thralls sighted by scouts beforehand.** Four individually confirmed kills ([[Valerian Hellebore]], [[Barrett Grimmskar]], [[Zelda Z Whipper|Zelda]], [[Flux]]) plus **five asserted and unidentified** by [[Lt. Hargraven]]. **The exterior was cleared; the house interior was never entered.** 🔥 **A variant leaving larger-pawed, deep-clawed, unnaturally-gaited tracks was identified on the road and never encountered.**
 - **S18:** ~9+ at [[The Cliffside Tower]] under [[The Necromancer]], across three inconsistent labels. **A** killed by [[Vega Bloodroot]] (opening longbow shot), **B** by [[Barrett Grimmskar]], **C** tackled off the wall by [[Samothy Smith-Wesson]] for 28 fall damage (⚑ not individually confirmed dead), **F** by [[Eiluned "Lulu" Denulie]]'s Blight. **Survivors fled alive when their master died.** Full log on [[Feral Vampire Thrall]].
 - **S02:** 3 blind beast thralls slain at [[The Old Hospital]] — kills: Barrett (Finger Guns ×2), Vega (47-damage nat-20 crit), Valerian (Shocking Grasp execution). Flux retained a corpse for **changeling form study**.
