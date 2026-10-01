@@ -167,6 +167,16 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-10-01 12:08 ET · Claude Code — ignore admin-console screenshots in this PUBLIC repo
+
+- **Changed:** Added `screencapture-*`, `**/screencapture-*` and `*dash.cloudflare*` to `.gitignore`, matching `skitl_vault`. A loose `screencapture-dndbeyond-games-7170962-*.png` was sitting untracked in the repo root with nothing preventing Obsidian Git from auto-committing it to a **public** remote on its timer.
+  - 🛑 **Checked before adding, because a gitignore rule does nothing for an already-committed file.** Zero matching files were tracked here, in `wtff_vault` or in `pacts_power_vault` — so this is preventative, not a cleanup, and no tracked file was silently dropped from the index.
+  - 📌 **Why images need a pattern rule and not reviewer judgement:** the privacy screen only reads `.md`/`.json`/`.txt`/`.canvas`/`.base`/`.html`, so images are invisible to it. And a console capture can leak an account or game ID **in the filename alone** — in another vault on 2026-09-29 the Cloudflare account ID was in the filename while the pixels looked harmless. Inspecting the image is not sufficient.
+  - ⚠️ Media folders stay tracked on purpose (campaign art), which is why this is by filename pattern rather than by folder.
+- **Commit:** `d815c58`
+- **Next:** Unchanged for this repo. Open question elsewhere: whether `wtff_vault` and `pacts_power_vault` get the same rule — both are public and both currently lack it.
+- **Watch out:** ⚠️ The loose `screencapture-dndbeyond-…png` is **still on disk**, now ignored rather than deleted. Delete it if you do not want it locally.
+
 ### 2026-10-01 11:45 ET · Claude Code — escaped a literal pipe that was silently dropping a TOOLS.md row
 
 - **Changed:** Escaped a literal `|` inside the `session-index-generator` row's Notes cell in `TOOLS.md` (a regex alternation in the Notes cell). Markdown reads an unescaped pipe as a column break, so the row carried more than the contract's 7 columns.
