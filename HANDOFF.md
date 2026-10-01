@@ -167,6 +167,16 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-10-01 11:45 ET · Claude Code — escaped a literal pipe that was silently dropping a TOOLS.md row
+
+- **Changed:** Escaped a literal `|` inside the `session-index-generator` row's Notes cell in `TOOLS.md` (a regex alternation in the Notes cell). Markdown reads an unescaped pipe as a column break, so the row carried more than the contract's 7 columns.
+  - 🛑 **The failure mode is why this mattered: `/septentrion-sync` SKIPPED the row rather than erroring**, so the tool showed as unused across every project in `The Toolbox` while looking perfectly fine in this file.
+  - 📌 Found by auditing **all 16 `TOOLS.md` files** after hitting the identical bug twice by hand in `skitl_vault` the same day. Three repos had it; this was one.
+  - ✅ The Toolbox rollup now parses it: 15 tables, **342** tools, **0** problems (was 340 with 2 problems).
+- **Commit:** `b6e97a3`
+- **Next:** Unchanged — this was a one-line formatting repair, not project work.
+- **Watch out:** ⚠️ **`TOOLS.md` rows are parsed mechanically on column count.** Any `|` inside a cell must be written `\|`. The check is: an Active row splits into **9** fields on unescaped pipes (7 columns + the leading and trailing empties), a Retired row into **7**.
+
 ### 2026-09-24 13:20 ET · Claude Code (S19 CONVO 2 — full vault propagation, committed and pushed)
 - **Changed:** Propagated S19 across the vault per the Convo 2 completion checklist. **31 files — 2 created, 29 modified**, pushed as `fe0f29c`. **Created:** `04-World-Lore/Locations/The Ruined Neighborhood (Vampire Nest).md` ⚑ *(descriptive title — the neighborhood is never named in fiction)* and `03-Characters/02 NPCs/Blaze.md` ⚑ *(provisional; spelling unconfirmed, and the page's existence is itself flagged for your ruling, on the Mr. Cat precedent)*. **Trackers:** Loot `## S19` (16 rows — ⭐ the headline is a **status change**, not an acquisition; **nothing was looted, the party never breached the house**), Quote Board `## S19` (53 blocks, above-table marked →, exclusions itemised), Profanity `## S19` (**48 instances** + running totals through S19), Roll Stats `## S19` (**transcript-only, loudly labelled**). **Dashboard:** S19 row, an Active Threads S19 block (2 closed, 6+ opened), 3 threads moved to Resolved, NPC Directory +3, a new *Outside the Dead Zone* locations section, timeline row, Party Snapshot rolled to S19. **All 8 PC pages**, 3 NPC pages, 2 locations, 2 creature pages, House Rules **+7 standing / +8 deferred**, Setting Primer **+3 sections / +8 questions**, glossary `## S19` (13 entries, **none canonised**), Spell Usage `## S19` (16 rows), Homebrew +4, DM Questions `## S19` (18). **POV Journal appended verbatim.** **Vault Sync Status written last**, with the full ✅/🛑 matrix and three blocker sections.
 - **Commit:** `fe0f29c`
