@@ -4,7 +4,21 @@
 > Handoff is **enabled** for this repo. Every change updates the DO NEXT block below and prepends a log entry.
 > Note: this is a notes/content vault — most session-note edits won't have a "next dev step." Use the DO NEXT block for things like next-session prep if useful, or leave it as "—".
 
-## ▶ DO NEXT — ✅ **S19 IS FULLY PROPAGATED AND PUSHED (`fe0f29c`, 31 files).** The pipeline is clear through S19. **Two one-liners close the only two items this run could not earn**, then it is all table questions.
+## ▶ DO NEXT — 🛑 **S20 IS PROPAGATED BUT NOT BANKED: 34 files are STAGED and UNCOMMITTED** because `git commit` was permission-gated in the headless run.
+>
+> 1. 🛑 **Commit + push the staged S20 sync** (do NOT `git add -A`; the S20 raw + corrected transcripts are deliberately unstaged):
+> ```
+> git commit -F _pipeline/S20/_commitmsg.txt
+> git add HANDOFF.md TOOLS.md
+> git commit -m "docs: handoff update (<sha from the first commit>)"
+> git push
+> ```
+> 2. 🛑 **Redact `Session_Sources/Transcripts/Raw_Unedited/20-101226_raw_transcript.md` and `Corrected/20_101226_corrected.md`** (a player's full real name at raw L250, plus household detail), with the unredacted originals going to the gitignored `_pipeline/S20/`. Commit them only after that.
+> 3. 🛑 **`SUPABASE_ACCESS_TOKEN=sbp_…` in `.env`.** S20 is the fourth blocked session (S11, S16, S18, S19, S20 transcript-only).
+> 4. 🛑 **Run the site index interactively** (S19 + S20 not live): `node Workflows/scripts/generate_public_session_index.mjs --self-test`, then without the flag. Inputs were hand-verified clean.
+> 5. ⏸ **DM questions:** the 14 `## S20` items in `DM Questions — Open.md`, headed by the **patron spelling (Auriona / Arona / Aurona)**, **the three relics** (gauntlet+sword+shard vs breastplate vs greaves), and **Lulu's subclass** (Spores vs Wildfire).
+>
+> *(Prior S19 work order, still standing where not superseded:)*
 >
 > 1. 🛑 **Add one line to the gitignored `.env`: `SUPABASE_ACCESS_TOKEN=sbp_…`** — the roll archive failed **`Unauthorized` for the sixth time**, so **S19 joins S11, S16 and S18 as transcript-only** in `Roll Statistics S11-S20`. ⭐ **This run finally closed the diagnosis from both ends: the `supabase` MCP server CONNECTED and its tools loaded and were callable, and it still returned `Unauthorized`** — so the call reaches the server and the only missing piece is the token. **It is not connectivity, not the tool name, not the allowlist. One line clears four sessions.** Then run `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-09-23';` + `SELECT MAX(timestamp_iso) …` and rebuild the §S19 table in the S13–S15/S17 format. ⚠️ **Two defects can ONLY be settled by the archive:** Vega's vanished fire rider, and Vampire Thrall A acting a full round after being killed.
 > 2. 🛑 **Run the site index interactively — S19 is NOT live until you do.** `Public Session Index.json` still carries `generated_at: 2026-09-15` and ends at S18. **Script execution is permission-gated headless and stayed gated across four invocation forms this run, so this is a manual chore, not a bug to re-test.** ✅ **Every input the script validates was verified by hand and S19 passes all of it** — row parses (`n=19`, `t=You Can Let It Go Now`, `d=2026-09-23`), all five H2s present, all three tracker blocks match, no new blocker for any other session — **so the run should be clean:**
@@ -166,6 +180,13 @@
 
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
+
+### 2026-10-12 23:55 ET · Claude Code — S20 Convo 2 automated sync
+- **Changed:** Full S20 propagation (4 parallel agents + Dashboard + Vault Sync Status): 0 created, 32 modified, plus the session note and spell-check log. Roll Stats and the website index are both blocked (Supabase `Unauthorized`; `node` gated). The S20 transcripts were deliberately left unstaged for privacy.
+- **Commit:** — (34 files STAGED, not committed: `git commit` required approval in the headless run)
+- **Friction:** gen-fail — `git commit` and `node <script>` both returned "This command requires approval" in every form; the work is staged and the exact commands are pinned in DO NEXT.
+- **Next:** Commit + push the staged sync, then redact the S20 transcripts.
+- **Watch out:** Do NOT `git add -A`; that would publish the unredacted S20 transcripts to the public repo.
 
 ### 2026-10-01 12:08 ET · Claude Code — ignore admin-console screenshots in this PUBLIC repo
 

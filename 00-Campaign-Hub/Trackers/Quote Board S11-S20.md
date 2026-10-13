@@ -998,6 +998,118 @@
 - ⚑ **First-seen names with no referent, NOT canonised:** `Daria`, `Ernie`, `Paolo`, `Patrick`, and `Celeste` *(a PC from a different campaign — **not Ashfall canon**)*
 - 🛑 **Joke token names are NOT canon and are NOT quoted as NPCs:** `Floppy`, `Flawbeak`, `Taylor Trash` / `Trailer Trash`, `Taylor Swiffer`, `Butterface Summer Body`, `Inverted Nibs`, `Honolulu`, `Colombian Samoth`. ⚠️ **`Honolulu`, `Inverted Nibs` and `Colombian Samoth` are the DM's nicknames for PCs** (Lulu, Chase/Valerian, Samothy), **not enemies**
 
+## S20 — Home Is Where the Heart Is (10/12/2026)
+
+> 🛑 **ATTRIBUTION IS PROVISIONAL FOR THIS WHOLE BLOCK — THE SPEAKER MAP IS INFERRED, NOT CONFIRMED** (flags §1). The corrected transcript keeps the A–H labels verbatim; **several rolls and lines sit on the wrong label.** Every attribution below inherits that uncertainty. ⚑ The diarizer re-letters every session — **never carry a map forward.**
+> 🛑 **Roll archive NOT queried** (`Unauthorized` again) — no cross-check was possible.
+> ⚠️ **Above-table lines are marked →.** Joke-token and privacy material is excluded entirely — see *Excluded* at the end of the block.
+> ⚑ **Auriona is quoted under the DM's final spelling.** 🛑 **Spelling unresolved** (Auriona / Arona / Aurona); the vault page stays [[Arona]] until the DM rules.
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Nasty. All right, um, Vega gonna do her closest— or my closest impression of FBI in medieval times, like checking corners and stuff when she walks in."
+
+**Taylor (DM) · [DM Quip]**
+> "Vega comes up with the plan, right? She says, this is not a plan, this is what we're gonna do, right? She turns, rages, and walks in before everybody else says yes."
+
+**Taylor (DM) · [DM Quip]**
+> "Because you're a barbarian and you're already halfway through the door."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny · Signature]**
+> "Excuse me, sir, I would like to kick your ass."
+
+**Taylor (DM) · [Important to Story]** — 🛑 *the relic set named as gauntlet + sword + shard. **Conflicts with "breastplate" (player, S20) and "greaves" (S19). Not resolved***
+> "You have the gauntlet, you have the sword." … "And the shard. You have all 3 pieces."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]** — *refusing to melee the [[Boilborn]]*
+> "I, I'm not gonna cut this guy, he's gonna drip on me, it's gross."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]**
+> "As I'm just slicing and dicing, carving and marvin'."
+
+**[[Lt. Hargraven]] (DM) · [Banter]**
+> "No, I'm all right, thank you. They didn't even scratch me. It's not my first rodeo."
+
+**[[Lt. Hargraven]] (DM) · [Funny]**
+> "Don't talk about my private life." … "Just put 911."
+
+→ **Josh ([[Samothy Smith-Wesson]]'s player) · [Funny · Above-Table]**
+> "Man who cleans house expects company. That's all I'm gonna say."
+
+**Taylor (DM) · [Serious · DM Quip]** — *the clean bathroom with the body table*
+> "It's the only room in the house that's clean and has a human-shaped table."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny]**
+> "Let's get the fuck out of here."
+
+**[[Eiluned Lulu Denulie|Lulu]] (Madi) · [Poignant]** — ⭐ *handing [[Valerian Hellebore]] the tiger's eye*
+> "I thought maybe it could be a peace offering. You seem to be not the biggest fan of me."
+
+**[[Valerian Hellebore]] (Chase) · [Banter]**
+> "You have your moments."
+
+**[[Samothy Smith-Wesson]] (Josh) · [Funny]**
+> "Now you're brave. Be brave, boy."
+
+**[[Barrett Grimmskar]] (Doug) · [Funny · Poignant]** — *the crate of teddy bears*
+> "Somehow that bothers me more than the used gloves and the bloody boots."
+
+**Taylor (DM) · [Important to Story]** — ⭐ *no one has reached a nest heart before*
+> "there's no— no one has actually made it this far into a nest, so no one knows what to do."
+
+→ **Taylor (DM) · [DM Quip · Above-Table]** — ⚑ *the heart has no stat block. **The DM rules it is not a creature***
+> "I don't know, it's homebrew. I classified it as a giant flesh heart."
+
+**Taylor (DM) · [Important to Story]** — ⭐ **VALERIAN'S PATRON IS NAMED.** Answers S18's "Arona" and S19's patron question. 🛑 **How the pact formed is still unstated**
+> "Her name is Aurorna— Aurorna— Auriona. Sorry, my bad. Auriona is her name. She is the goddess of sun for the area. She is the patron for, uh, Val."
+
+**[[Valerian Hellebore]] (Chase) · [Funny]** — ⚑ *"Arona" is Val's spelling; held*
+> "Apologies, Lady Arona. Beautiful as ever, even with your hair. Not fully done."
+
+**Auriona (DM) · [DM Quip]**
+> "Yes, flattery gets you everywhere. What do you need?"
+
+**Auriona (DM) · [Funny · Important to Story]**
+> "Like you would any heart. Stab your sword through it over and over till it starts— stops beating."
+
+**Josh ([[Samothy Smith-Wesson]]'s player) · [Funny]**
+> "Fuck it, we ball."
+
+**[[Eiluned Lulu Denulie|Lulu]] (Madi) · [Funny]** — *after Contagion only enraged the heart*
+> "Also, guys, I don't think that did anything except piss it off, so that was my idea."
+
+**[[Valerian Hellebore]] (Chase) · [Signature]** — *before 168 radiant*
+> "I'd shield your eyes if I was you."
+
+**[[Lt. Hargraven]] (DM) · [Poignant]** — *on the scout in the chest*
+> "Oh yes, I can't remember his name, but he was a great, great soldier. He always got the duty done."
+
+**[[Lt. Hargraven]] (DM) · [Serious · Important to Story]** — ⚠️ *labelled a **rumour** on the record*
+> "So the rumor is that the hearts grow from Great evil, and the greater the evil, the bigger the heart."
+
+**Doug ([[Barrett Grimmskar]]'s player) · [Funny · Title]** — ⭐ **THE SESSION TITLE, named at the table**
+> "Home is where the heart is."
+
+**[[Vega Bloodroot]] (Taylor) · [Funny · Signature]**
+> "I definitely did not see a weakling vampire. Who I could smash with my bare hands?"
+
+**[[Vega Bloodroot]] (Taylor) · [Important to Story]** — ⚑ *on the beast thrall fought with no [[The Beast Master|Beast Master]] present*
+> "Maybe they can loan out their beasts to other people."
+
+→ **Taylor ([[Vega Bloodroot]]'s player) · [Above-Table · Level-Up]** — *level 14*
+> "Oh hell yes! Oh, oh hell yes! I got Power of the Wilds, so I have new rage powers."
+
+### Excluded from this board (S20)
+
+⚠️ **Recorded here so the exclusion is auditable, per the S16–S19 redaction precedent. None of the following reached this board.**
+
+- *"Who changed his name to Hot Daddy?"* (DM, above-table) — **excluded as joke-token material** (`Lieutenant Hot Daddy`); it appears on the session note's board but not here
+- 🛑 **Joke token names are NOT canon and are NOT quoted as NPCs:** `Lieutenant Hot Daddy`, `Lieutenant Bakery`, `Vamp Pussy` / `Van Pussy`, `Homie`, `Christie` (enemy turn call), `boil bitch`, `spoiled bitch`
+- ⚑ Auriona's garbled *"I don't know how I feel about this, but contact the imp"* — **not quoted as hers** (attribution unreliable)
+- ⚑ *"oh my God, that's my sister"* (Val's label, during the photos) — ambiguous line, **not canon**
+- ⚑ The DM's *"What the fuck was that?"* — may be [[Lt. Hargraven]]; attribution unresolved
+- 🛑 **Privacy:** a player's real name and household/medical details. **Transcript redaction is OUTSTANDING for S20** — see [[Vault Sync Status]]
+- ⚑ OOC: the DM's announcement of a Firefly-themed campaign *"after New Year's."* **Nobody said Ashfall is ending; not inferred**
+
 ## Related
 
-- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]]
+- [[Quote Board S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Session 20 — Home Is Where the Heart Is]] · [[Vault Sync Status]]

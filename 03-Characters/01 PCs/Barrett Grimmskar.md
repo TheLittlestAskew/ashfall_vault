@@ -6,7 +6,7 @@
 | --------------------- | ------------------------------------------------ |
 | **Race**              | Orc                                              |
 | **Class**             | Gunslinger / Spellslinger (homebrew — ⚑ confirm) |
-| **Level**             | **12** as of S16 (5 at S01, gained Extra Attack + "Deck Shot"; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
+| **Level**             | **14** as of S20, on the record at session end (party-wide 13 → 14; ⚑ the 12 → 13 step at S18 was never recorded on this page). *(Previously:)* **12** as of S16 (5 at S01, gained Extra Attack + "Deck Shot"; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature weapons** | Revolver ("TGC") · Finger Guns (force cantrip)   |
 | **Crit range**        | 19–20 on ranged attacks ⚑ — **played as 18–20 in S11**; range change unconfirmed |
 | User_ID               | 117269013                                        |
@@ -18,12 +18,22 @@
 - **Deck Shot** (S01 level-up): on a crit vs. a larger/smaller creature, target's speed halved + disadvantage on attacks for 1 min unless it spends an attack dislodging the projectile.
 - Casts spells through gunslinger flavor — fanned the revolver hammer to cast **Magic Missile** (S01).
 - Previously played "Oso," a heavy ranged build ("8 shots in a turn") — chasing that again.
+- **S20 — crit range stated as 18–20:** *"Yes, 18, 18 to 20 is a crit for me."* (Closes the S11 ⚑ in the info table in favour of 18–20, as stated by the player; not DM-confirmed.)
+- **S20 — Maverick Spirit** (+d10) on the bedrooms search and a **Risk Die** (+d10) on History. ⚑ Both now roll **d10** (Risk Die was a d8 at S01).
+- **S20 — Level 14: Magic Bullet**, read aloud at level-up, from *"third-party classes."*
 
 ## Items
 
 Barrett's Directional Doohickey (graduation item — weather-vane compass, finds north) · grappling-hook bracers · revolver "TGC" + 30 extra rounds — see [[Loot Tracker S01-S10]].
 
 ## Key Events
+
+- **S20: THE BOILBORN, THE BEAST THRALL, AND THE SESSION TITLE.** ⚔️ Shot the [[Boilborn]] in round 1 (12 piercing + 5 fire), **crit it in round 2** (**22 piercing + 7 fire**, then 13 + 9), and **killed the [[Beast Thrall]] in round 3** (8 + 6, then 16 piercing + 8 fire): *"He has died. You've killed him."*
+  ⚑ Helped [[Valerian Hellebore]] search the kitchen. **Risk Die on History** recalled the other clean room: *"when you guys were scouting out the library and you were in one of the houses close by… a very clean room. With a very similar table."*
+  ⚑ **Maverick Spirit** on the upstairs bedrooms (19): bloody boots, used latex gloves, a crate of teddy bears. *"Somehow that bothers me more than the used gloves and the bloody boots."*
+  ⭐ **Suggested the answer to the heart:** *"if it's connected to the vampires, maybe some light will help."* Failed its INT save (**7**, 6 psychic).
+  ⭐ **His player named the session:** *"Home is where the heart is."*
+  ⭐ **Level 13 → 14; Magic Bullet** (*"third-party classes"*).
 
 - **S19: HIS WORST MECHANICAL NIGHT OF THE RECENT RUN — AND THE ONLY PERSON WHO TRIED TO GIVE [[Deanna Smith-Wesson]] SOMETHING.** ⚑ **One kill, then nothing.** In round one he shot **feral thrall C** dead through a wall he could not see through (*"you don't have clear line of sight, but you know he's there"*) for **9 piercing + 8 fire**, and landed a **21** on `Floppy` for 18 + 8 radiant. ⚠️ **Round two he missed twice (14, 12) with no mitigation left** — *"I think I have a thing in case I miss. I do not"* — and ended his turn. ⚑ **His attack is transcribed as *"eye-calf gun"*, an unrecoverable garble** (spell-check row 24, held).
   ⭐ **His contribution to the funeral is the session's most Barrett thing on record:** he proposed burning [[Deanna Smith-Wesson]]'s shotgun and unexpended ammunition with her — *"We should probably give, uh, Deanna her shotgun back. She might want that in the afterlife"* — and ran it to *"She's going into the afterlife. Guns blazing."* 🛑 **The DM answered *"I mean, that's what killed her in the first place"* and the question was never resolved. Whether the shotgun burned is an open Loot Tracker item.** ⚠️ **In a session where the table skipped the goodbyes, he is the one who tried to hand her a grave good.**
@@ -60,8 +70,11 @@ Barrett's Directional Doohickey (graduation item — weather-vane compass, finds
 ## Quotes
 
 > "He called himself a Beast Tamer." *(S01 — deadpan debrief)*
+> "Somehow that bothers me more than the used gloves and the bloody boots." *(S20 — the teddy bears)*
+> "Home is where the heart is." *(S20 — player; ⭐ the session title)*
 
 ## Relationships
 
 - [[Zelda Z Whipper]] — "his friend Z"; checked on her mid-combat ("Z, are you okay?").
 - Bought the Pugilist class on DDB and shared it for Vega's brass knuckles.
+- [[Flux]] — **S20:** both recalled the clean room near the library from the S08-era scouting; his Risk Die filled in what her History 9 half-remembered.

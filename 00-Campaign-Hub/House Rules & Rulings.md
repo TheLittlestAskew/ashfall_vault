@@ -86,6 +86,28 @@
 | **10-foot floors** | Ruled on the record, correcting a player's "standard 12-foot floors" assumption. Governs vertical distances in [[The Grand Library of the Veiled Dawn]] and presumably elsewhere | S10 |
 | **Steel Defender proximity → disadvantage** | [[Mr. Cat\|Mr. Cat, Esquire]] being within **5 feet** imposed **disadvantage on an attack that had already hit**, forcing a reroll (22 → 7, miss). Applied *retroactively* within the same resolution | S10 |
 
+## Standing Rules Added S20
+
+- ⚖️ **GEMS FOUND IN THE NEST HOUSE ARE CUT, SO THEY ARE WORTH MORE.** ***"all the gems you guys are finding right now are cut, so they're gonna be worth more money."*** ⚑ **Extends the S11 gems-as-currency rule ([[Setting Primer]]).** ⚠️ **"right now" scopes it to this find; no value or multiplier was stated.** ▶ [[Loot Tracker S11-S20]]
+- ⚖️ **THE HOUSE MAP IS 1:1.** ***"Foot for foot, you're fine because it's a house."*** ⚠️ **Contrasts with S18's double-scaled battle map** (*"if you move 15 feet, it's 30 feet"*). **Map scale is per-map, not standing.**
+- ⚖️ **THE NEST HEART CANNOT MAKE CON SAVES, SO CONTAGION APPLIES WITHOUT ONE.** ***"It doesn't have that. It can't make a CON save. It's not a living creature."*** [[Eiluned Lulu Denulie|Lulu]]'s Contagion landed for **39** and only enraged it (*"it starts beating harder and faster… Blood shoots out"*). ⚠️ **In tension with the DM's own *"it is technically alive, but it's stationary."*** ⚑ **Precedent for any future heart.**
+- ⚖️ **THE HEART IS NOT A CREATURE FOR HUNTER'S SENSE.** ***"I don't think it's a creature."*** [[Samothy Smith-Wesson]]'s Hunter's Sense was ruled not to apply.
+- ⚖️ **THE HEART'S PSYCHIC CRUMPLE IS NOT IMMOBILISING.** Three PCs failed the INT save and took 6 psychic; asked whether that pinned them: ***"No, you just bent over with your hands to your head."***
+- ⚖️ **[[Deanna Smith-Wesson]] HAD SEVEN CURSES.** Set at the table, retroactively: ***"7. … That's Madi's favorite number, so 7 is what it was."*** ⚑ **Consistent with the "seven fused curses" already in [[Setting Primer]].** ⚠️ **A number chosen in the moment, not read from notes.**
+- ⚖️ **"REGULAR VAL" WAS AT THE LIBRARY-ADJACENT HOUSE.** A player suggested *"Val also wasn't there. Other Val probably was."*; the DM: ***"No, regular Val was there."*** ⚑ **Settles which [[Valerian Hellebore]] was present during the S08-era scouting.** ⚑ *"Other Val"* reads as [[The Doppelganger]]; **inferred, not stated.** ⚠️ **Which house is still unstated.**
+- ⚖️ **[[Vega Bloodroot]] STARTS S20 AT FULL HP.** ***"You go ahead and start with full health. You haven't been hit yet."***
+- ✅ **RADIANT STILL DOUBLES AGAINST THESE VAMPIRES**, including Vega's relic radiant (*"So I want to say it's 2d8"*, doubled). Carried from S18/S19.
+
+## Deferred / Pending Rulings (S20)
+
+- 🛑 **WHAT WAS THE INT SAVE DC FOR THE HEART'S PRESSURE?** [[Flux]] failed on a **12**; [[Samothy Smith-Wesson]] rolled **12** and was not listed as failing. **DC never stated; speaker labels are unreliable.**
+- 🛑 **WHAT DID CONTACT OTHER PLANE ROLL?** The DM's d20 was never stated (*"Big sus"*) and **no INT save was narrated for Val.**
+- 🛑 **THE THREE RELICS ARE NOW IN THREE-WAY CONFLICT.** DM: *"You have the gauntlet, you have the sword."* … *"And the shard. You have all 3 pieces."* Vega's player: *"And the breastplate."* S19: greaves. **The set bonus (2d8 radiant, doubled) was applied anyway.**
+- ⚑ **WAS RAGE HALVING APPLIED TO [[Vega Bloodroot]]'s DAMAGE?** 46 damage stated against her; she reported *"down like 20-something points, but out of 100."* **Never stated.**
+- ⚑ **HOW DID THE PARTY GET HOME?** *"we will say you just teleport to the castle."* **Method unstated; DM convenience.**
+- ⚑ **A MISSED ENEMY TOKEN WAS WAVED OFF WITHOUT A ROLL:** *"Just run up there, kill it."* Recorded as a DM convenience, not a rule.
+- ⚑ **CARRIED, STILL OPEN:** the S19 CON check *"not a save yet"*; the 8 crystal shards (S18).
+
 ## Standing Rules Added S19
 
 - ⚖️ **MAGE ARMOR STACKS AS A FLAT +2 WHEN YOUR BASE AC ALREADY EQUALS 13.** [[Valerian Hellebore]] flagged the interaction himself: his **[[Hookshot Arm Bracers]]** give **+1 AC**, putting his base at **13**, *"and that's what Mage Armor sets the base AC to"* — so the spell would have done nothing. The DM's ruling: ***"you can just, uh, add an extra 2 to your AC for the session for the Mage Armor."*** ⚑ **Recorded as given: a flat +2 for the session, not a recalculation.** ⚠️ **Whether this generalises to any character whose base AC meets or exceeds Mage Armor's floor is untested.**

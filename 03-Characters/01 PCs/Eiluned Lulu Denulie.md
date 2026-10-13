@@ -13,11 +13,11 @@ aliases: ['Eiluned "Lulu" Denulie', "Eiluned Denulie", "Eiluned", "Lulu"]
 |                       |                                                                                                   |
 | --------------------- | ------------------------------------------------------------------------------------------------- |
 | **Race**              | ⚑ **[Unknown]** — never stated on the record                                                       |
-| **Class**             | **Druid — Circle of the Wildfire** 🛑 *(introduced in S14 as **Circle of the Land**; see Build Notes)* |
-| **Level**             | **12** as of S16 ⚑ (assumed — joined at party level, never stated for her individually; the party went **10 → 12 off-screen** between S15 and S16) |
+| **Class**             | **Druid — Circle of the Wildfire** 🛑 *(introduced in S14 as **Circle of the Land**; see Build Notes)* 🛑 **S20 CONFLICT:** in play she used **Halo of Spores**, **Symbiotic Entity**, and at 14 **Fungal Body** (*"It's a Circle of Spores feature"*). **Subclass NOT changed here; DM/sheet question.** |
+| **Level**             | **14** as of S20, on the record at session end (party-wide 13 → 14). *(Previously:)* **12** as of S16 ⚑ (assumed — joined at party level, never stated for her individually; the party went **10 → 12 off-screen** between S15 and S16) |
 | **Elemental focus**   | **Lightning**, self-declared — *"I'm really good with the element of lightning"* — ⚠️ though every spell she has actually cast has been **fire** or **healing** |
 | **Signature magic**   | Mass Cure Wounds · Wildfire Spirit · Flame Blade · Burning Hands · Pins and Needles                |
-| **Demeanour**         | Blunt, socially awkward, overshares. Says so about herself, unprompted                             |
+| **Demeanour**         | Blunt, socially awkward, overshares. Says so about herself, unprompted. **S20 (player):** *"Lulu is being as awkward as possible because Charisma's her dump stat, so she's like trying really hard to flirt and failing so bad"* (at [[Lt. Hargraven]]); names friction aloud (*"You seem to be not the biggest fan of me"*); *"I work with dead things and that's disgusting."* |
 | **Joined**            | S14, at the [[Old Shrine]]                                                                          |
 
 ## Build Notes
@@ -28,12 +28,24 @@ aliases: ['Eiluned "Lulu" Denulie', "Eiluned Denulie", "Eiluned", "Lulu"]
 - ⚑ **`Pins and Needles`** — a Constitution save (DC 15) that shuts down a limb and causes searing pain but deals **no damage**. **Not in any published book I can verify.** Homebrew or DM-granted.
 - **Mass Cure Wounds** cast at both 5th level (32 HP, S14) and 5th level again (20 HP, S15).
 - ⚠️ **She is the party's only real healer**, and she has hit 0 HP twice in two sessions.
+- 🛑 **S20 — the subclass question reopens.** In play: **Symbiotic Entity** / **Halo of Spores** (spores moved between enemies; a failed CON save dealt 1, *"doubled to 2"*); **Bacterial Barrage** ⚑ (spelling held, spell-check row 4) for 18, killing the [[Boilborn]]; **Chill Touch** for 29; **Contagion** (39, auto-applied on the heart per DM ruling); **Daylight**; an offer to turn the party to gas (a touch spell on willing creatures). **Level 14 feature: Fungal Body** — read aloud as *"It's a Circle of Spores feature."* ⚠️ **The vault says Wildfire. Not changed here; no synced sheet to check. Ask the DM / Madi.**
 
 ## Items
 
 Whispering earpiece — **recovered from [[Deanna Smith-Wesson]]'s body** and given to her by [[Flux]] in S15 (*"We took that off his sister with the daggers, so I'll give it to you"* — *"GG, thank you"*). See [[Loot Tracker S11-S20]].
 
+- **Obsidian, onyx** (cut gems) — **S20**, living room of the nest house: *"I'm gonna put those in my pocket."*
+- ~~Tiger's eye~~ — found S20, **given to [[Valerian Hellebore]]** the same session as a peace offering.
+
 ## Key Events
+
+- **S20: TWO KILLS, A PEACE OFFERING, AND THE SPELLS THAT CHANGED WHAT SHE IS.** ⚔️ Offered to turn the party into gas for the breach (*"I can turn everybody into gas"*). In the fight: **Symbiotic Entity / Halo of Spores** chip damage; **Bacterial Barrage** ⚑ (24, **18**) **killed the [[Boilborn]]** (*"He's dead. You killed him."*); **Chill Touch** (15, **29**) **killed the last enemy** (*"Oh, that's everybody! You guys killed them all!"*).
+  ⚑ Searched the living room (**20**): obsidian, tiger's eye, onyx. **Flirted badly with [[Lt. Hargraven]] by design** (*"a Mrs. Hargraven… or a Mr. Hargraven perhaps?"*); he deflected.
+  ⭐ **Gave [[Valerian Hellebore]] the tiger's eye as a peace offering** (*"You seem to be not the biggest fan of me"*). He answered *"You have your moments."*
+  ⚑ Followed [[Vega Bloodroot]] into the clean bathroom; called a breeze for Val after the photos; **History 14**: some victims are on the castle's **missing persons board**, and *"This looks more like done for pleasure."* Assisted the Arcana read on the freezer chest (18): *"a normal ice spell… Makeshift freezer."*
+  ⭐ **The heart:** cast **Contagion** (39; ⚖️ *"It can't make a CON save. It's not a living creature."*): *"I don't think that did anything except piss it off."* Then **Daylight**, part of the light combo that killed it.
+  ⚑ Raised the missing [[The Beast Master|Beast Master]]: *"if there's a beast thrall, usually there's a Beast Master not far behind."*
+  ⭐ **Level 13 → 14; Fungal Body** (*"a Circle of Spores feature"*). 🛑 **Subclass conflict with the vault's Wildfire; not resolved.**
 
 - **S19: HER OFFER WAS CLOSED BY FIRE WITHOUT ANYONE RULING ON IT, AND BOTH HER SPELLS VANISHED INTO THE BOOKKEEPING.** 🛑 **THE REINCARNATE QUESTION IS OVER AND NOBODY ANSWERED IT.** She offered to bring [[Deanna Smith-Wesson]] back in S18; the 10-day window may already have expired; **S19 never raises it and cremates the body.** ⚠️ **The thread she opened was ended by an event, not a decision.** ▶ **Confirm with the DM that the closure is intentional before the vault records Reincarnate as dead.**
   🛑 **BOTH HER SPELLS THIS SESSION HAVE NO RECORDED OUTPUT.** **Blight** at 4th level and **Cloudkill** each forced a CON save, **each save came back at exactly 18**, and **neither damage number was ever stated on the record.** ⚑ **Two of the session's spells produced no measurable result in the archive or the transcript.**
@@ -81,6 +93,10 @@ Whispering earpiece — **recovered from [[Deanna Smith-Wesson]]'s body** and gi
 
 > "Look, we don't gotta do all that." *(S15 — cutting her own palm rather than let [[Valerian Hellebore]] do it for her)*
 
+> "I thought maybe it could be a peace offering. You seem to be not the biggest fan of me." *(S20 — the tiger's eye, to [[Valerian Hellebore]])*
+
+> "Also, guys, I don't think that did anything except piss it off, so that was my idea." *(S20 — after Contagion on the heart)*
+
 ## Relationships
 
 - 🛑 **[[Valerian Hellebore]] — hostile, and it is entirely one-sided.** He disliked her on sight. Chase played the reason out loud in S14: Val is **threatened that she will replace him**, *"he doesn't like the idea of not being needed or wanted. Especially since he has no parents anymore."* In S15 he escalated — proposed using her blood on the sigils, suggested she walk into danger first, looted her while she was dying, and healed her with his foot on her. ⚑ **She has not retaliated once.**
@@ -88,6 +104,8 @@ Whispering earpiece — **recovered from [[Deanna Smith-Wesson]]'s body** and gi
 - **[[Zelda Z Whipper|Zelda "Z" Whipper]]** — has now saved her life twice in one session. The closest thing to a bond she has.
 - **[[Flux]]** — brought her into the party, gave her [[Deanna Smith-Wesson]]'s earpiece, and apologised for the group's coldness (*"we just had a friend get crushed"*).
 - **[[Deanna Smith-Wesson]]** — never met. She replaced her, arrived carrying her absence, and inherited her earpiece.
+- **[[Valerian Hellebore]] — S20 update:** ⭐ **she made the first move.** Gave him the **tiger's eye as a peace offering**, naming the friction aloud: *"You seem to be not the biggest fan of me."* / *"Who gave you that idea?"* / *"Just call it intuition."* / *"You have your moments."* ⚑ Accepted, ambiguously. Also called a breeze for him when the photos turned his stomach.
+- **[[Lt. Hargraven]] — S20:** an openly bad flirt, played for comedy (*"Charisma's her dump stat"*). He: *"Don't talk about my private life."* / *"Just put 911."* [[Flux]]: *"I think you're wearing them down."* (Continues her S16 flirt.)
 
 ## Open Threads
 

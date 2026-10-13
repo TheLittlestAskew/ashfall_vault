@@ -93,6 +93,21 @@ On the two-hour march to [[The Ruined Neighborhood (Vampire Nest)]], [[Valerian 
 - ⚔️ **One attacked at +12** and hit [[Vega Bloodroot]] for 15 (halved to 7 by Rage) and 12.
 - ⏸ **The outside was cleared; the interior was never engaged.** *"You cleared the outside."*
 
+## S20 — ONE INSIDE THE NEST, AND NO MASTER ANYWHERE ([[Session 20 — Home Is Where the Heart Is]])
+
+🛑 **A beast thrall fought on the ground floor of the nest house at [[The Ruined Neighborhood (Vampire Nest)]] with no handler present.** Nobody saw a Beast Master, and an Insight check on [[Lt. Hargraven]] confirmed he hadn't either: *"He has not seen the Beast Master. He's been hanging out with you guys."* Full discussion on [[The Beast Master]].
+
+- [[Eiluned Lulu Denulie|Lulu]]: *"if there's a beast thrall, usually there's a Beast Master not far behind. I don't recall seeing one around here."*
+- [[Vega Bloodroot]]: *"Maybe they can loan out their beasts to other people."* ⚑ A joke; **not lore.**
+
+**Combat record:**
+
+- ⚔️ **Three-part attack on [[Vega Bloodroot]] in round two:** *"A dirty 20"* for **10**, *"another dirty 20"* for **4**, then a **slam Strength contest that the thrall lost** (12 vs 19): *"you are not going to take any damage and you don't get slammed."*
+- ⚑ **A round-one attacker hit Vega the same way** (27 for 15 piercing, 17 for 8 slashing, then a slam she lost for 9 bludgeoning; she saved against prone on a natural 20). The S20 note flags the pattern as matching the beast thrall but 🛑 **the attacker's identity was never stated. Not attributed here.**
+- ☀️ **Radiant shredded it.** [[Valerian Hellebore]] put **24, 16 and 20 radiant** into it in round two (with advantage); [[Flux]] added Finger Guns 12 + Sneak Attack 23. ⚑ Val's round-one target was called *"Vampire Beast"*; whether that is the same token is not stated.
+- ⚔️ **Round three:** [[Lt. Hargraven]] hit it for **19**; **[[Barrett Grimmskar]] killed it** (8 piercing + 6 fire, then 16 piercing + 8 fire): *"He has died. You've killed him."*
+- ⚑ **Afterwards, *"thralls and beast thralls running around outside, scrambling, running away"*** once the heart died. Consistent with S19's scatter lore; 🛑 **cause not stated.**
+
 ## S18 — "Vampire Beast Thralls" under a necromancer, and the labelling falls apart
 
 🛑 **A necromancer — not a vampire, and explicitly *opposed* to the vampire lords — was commanding beast thralls at [[The Cliffside Tower]].** ⚠️ **This is new.** Every previous handler on the record has been a vampire ([[The Beast Master]], [[The Beast Tamer]], [[The Cloaked Figure]]) or nobody at all (S16/S17's revolted ferals). ⚑ **Nobody in-fiction remarked on it.** ▶ **DM question.**
@@ -109,6 +124,7 @@ On the two-hour march to [[The Ruined Neighborhood (Vampire Nest)]], [[Valerian 
 
 ## Record
 
+- **S20:** **1** inside the nest house at [[The Ruined Neighborhood (Vampire Nest)]], fighting **with no Beast Master present** (Insight-confirmed via [[Lt. Hargraven]]). Attacked [[Vega Bloodroot]] (10 + 4, slam failed). **Killed by [[Barrett Grimmskar]], round three.** Others seen fleeing outside after the heart was destroyed.
 - **S19:** **12 counted + 1 unfamiliar type** at [[The Ruined Neighborhood (Vampire Nest)]]; **5 beast thralls sighted by scouts beforehand.** Four individually confirmed kills ([[Valerian Hellebore]], [[Barrett Grimmskar]], [[Zelda Z Whipper|Zelda]], [[Flux]]) plus **five asserted and unidentified** by [[Lt. Hargraven]]. **The exterior was cleared; the house interior was never entered.** 🔥 **A variant leaving larger-pawed, deep-clawed, unnaturally-gaited tracks was identified on the road and never encountered.**
 - **S18:** ~9+ at [[The Cliffside Tower]] under [[The Necromancer]], across three inconsistent labels. **A** killed by [[Vega Bloodroot]] (opening longbow shot), **B** by [[Barrett Grimmskar]], **C** tackled off the wall by [[Samothy Smith-Wesson]] for 28 fall damage (⚑ not individually confirmed dead), **F** by [[Eiluned "Lulu" Denulie]]'s Blight. **Survivors fled alive when their master died.** Full log on [[Feral Vampire Thrall]].
 - **S02:** 3 blind beast thralls slain at [[The Old Hospital]] — kills: Barrett (Finger Guns ×2), Vega (47-damage nat-20 crit), Valerian (Shocking Grasp execution). Flux retained a corpse for **changeling form study**.

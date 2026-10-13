@@ -297,6 +297,25 @@
 | ~~`Floppy` · `Flawbeak` · `Taylor Trash` / `Trailer Trash` · `Taylor Swiffer` · `Butterface Summer Body` · `Inverted Nibs` · `Honolulu` · `Colombian Samoth`~~ | 🛑 **JOKE TOKEN NAMES — NOT CANON** | 🛑 **DO NOT ENTER ANY OF THESE AS CREATURES OR NPCs.** They are VTT token renames and turn-calls. ⚠️ **`Honolulu`, `Inverted Nibs` and `Colombian Samoth` are the DM's nicknames for PCs** ([[Eiluned Lulu Denulie\|Lulu]], Chase/[[Valerian Hellebore]], [[Samothy Smith-Wesson]]) **— not enemies.** ⚑ `Flawbeak` and `Floppy` may be the same token; spell-check row 24 held at 45% |
 | **Gus** | ⚑ **[Unknown/Ambiguous]** | ⚠️ **THIRD APPEARANCE, STILL NO REFERENT** — *"I'm going to the doctor with Gus."* **Household context, not in-game.** Carried unresolved since S11 |
 
+## S20 first-seen terms — ⚑ NONE CANONIZED
+
+> 🛑 **THE S12–S15 GLOSSARY GAP ABOVE IS NOW NINE SESSIONS STALE.** ▶ **Run the catch-up.**
+> ⚠️ **NOTHING IN THIS BLOCK IS CANON.** First-seen proper nouns are held at ≤60% by standing rule until the DM or the relevant player confirms them. Twelve S20 spell-check rows are held (4, 9, 15, 19, 20, 21, 23, 25, 27, 28, 29, 30).
+
+| Term | Type | Notes |
+|---|---|---|
+| **Auriona** | Deity ⚑ | 🛑 **SPELLING HELD (rows 23, 28, 29, 30).** The DM, final: *"Auriona is her name. She is the goddess of sun for the area. She is the patron for, uh, Val."* ⭐ **Answers S18's `Arona` and S19's patron question** for [[Valerian Hellebore]]. **Seven renderings in one session:** `Aurorna` (DM, ×2) · **`Auriona`** (DM, final, ×2) · `Arona` (Val, ×2: *"Apologies, Lady Arona"*) · `Orona` · `Ronia` (×2) · `Aurona` (in "Aurona's Blessing") · `Morona's` (*"I truly am Morona's chosen"*). ⚠️ **The S18 `Arona` row above stands until the DM rules; the [[Arona]] page is NOT renamed.** ⚑ **[[Old Shrine]] records a goddess "Aurona"**: possibly the same deity, **NOT MERGED.** S16 `Book of Varona` link still **not assumed** |
+| **the Sisters of Light** | Religious figures ⚑ | Subject of a book in the nest house's library. The DM: *"there's one about the Arona Sisters. Sorry, the Sisters of Light is what they're called."* ⚑ **The "Arona Sisters" slip is recorded; a link to Auriona is NOT inferred** |
+| **Bacterial Barrage** | Spell ⚑ | 🛑 **SPELLING HELD (row 4).** [[Eiluned Lulu Denulie\|Lulu]]'s spell; killed the [[Boilborn]] (24 to hit, 18 damage). Also rendered `Spectral Barrage` once. ⚑ **No 2024 PHB match verified; treated as canon-in-play per the standing rule, not an error.** See [[Homebrew Abilities]] |
+| **"Aurona's Blessing"** | Spell ⚑ | 🛑 **NAME HELD (row 29), spelling follows the patron question.** [[Valerian Hellebore]]'s radiant nuke: **12d12, 168 radiant** on the heart. ⚑ **Not an official spell name.** See [[Homebrew Abilities]] |
+| **Magic Bullet** | Feature ⚑ | [[Barrett Grimmskar]]'s new pick at level 14, from *"third-party classes"*. **Name only, no text read** |
+| **missing persons board** | Location feature *(descriptive)* | At [[The Walled Base (Museum-Castle)]]. Some lockbox-photo victims and the scout from the heart are on it. ⚑ **A description, not a proper noun** |
+| **the giant flesh heart** | Homebrew object ⚑ | The DM's own label: *"I classified it as a giant flesh heart."* *"I don't think it's a creature."* ⚠️ **Probably S19's "nest core" / "beating heart of the hive" (rows above). NOT MERGED** |
+| **Searing Vengeance** | Feature ✅ *(official)* | [[Valerian Hellebore]], new at level 14. Official name, read aloud on the record. Listed for first appearance only |
+| **Power of the Wilds** | Feature ✅ *(official)* | [[Vega Bloodroot]], new at level 14 (Falcon fly speed, Lion, Ram). Official name, read aloud |
+| **Fungal Body** | Feature ✅ *(official)* | [[Eiluned Lulu Denulie\|Lulu]], new at level 14: *"It's a Circle of Spores feature."* 🛑 **The vault records her as Circle of the Wildfire. Subclass question open** |
+| ~~`Lieutenant Hot Daddy` · `Lieutenant Bakery` · `Vamp Pussy` / `Van Pussy` · `Homie` · `Christie` (enemy turn call)~~ | 🛑 **JOKE TOKEN NAMES / TURN CALLS — NOT CANON** | 🛑 **DO NOT ENTER ANY OF THESE AS CREATURES OR NPCs.** `Lieutenant Bakery` (row 9 held) is the token name heard on [[Lt. Hargraven]]'s turn; `Lieutenant Hot Daddy` ⚑ reads as the same token (*"Who changed his name to Hot Daddy?"*), **not stated**. `Vamp Pussy` / `Van Pussy` (row 15 held) and `Homie` are enemy tokens. ⚠️ **`Christie` (*"Christie is gonna move up and go for Val"*) is an ENEMY turn call, not Zelda's player.** Also excluded: `boil bitch`, `spoiled bitch` |
+
 ## From Vega's Character Sheet (backstory canon — not yet seen in play)
 
 Thornshade Forest · Mossmere (home village) · **Varro** (twin brother) · **Harkon Bloodroot** (father) · **Graza** (mother, deceased) · the Siege of Hollowbarrow · **Kael Virethorn** (hostile adventurer, hunting her) · the inherited enchanted greataxe · the moonlit demigod encounter

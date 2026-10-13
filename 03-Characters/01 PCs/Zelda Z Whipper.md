@@ -10,7 +10,7 @@ aliases: ['Zelda "Z" Whipper', "Zelda", "Z"]
 | ------------------- | ---------------------------------------------------- |
 | **Race**            | Halfling                                             |
 | **Class**           | Bard (College of the Moon — ⚑ homebrew/UA, confirm)  |
-| **Level**           | **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
+| **Level**           | **14** as of S20, on the record at session end (party-wide 13 → 14; ⚑ the 12 → 13 step at S18 was never recorded on this page). *(Previously:)* **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature magic** | Starry Wisp · Bane · Thunderwave                     |
 | **Demeanor**        | Relentlessly cheerful — skips, cartwheels, mood ring |
 | User_ID             | 107276273                                            |
@@ -26,6 +26,12 @@ aliases: ['Zelda "Z" Whipper', "Zelda", "Z"]
 Mood ring (graduation item — "Ooh, my mood ring!") · grappling-hook bracers · two light weapons + pistol — see [[Loot Tracker S01-S10]].
 
 ## Key Events
+
+- **S20: GUIDING BOLT, SCORCHING RAY, AND THE BLINDING LIGHT THAT HELPED KILL THE HEART.** ⚔️ Initiative **natural 1**, acting late. Round 1: **Guiding Bolt** on the [[Boilborn]] (25, **20 radiant**); Finger Gun missed (15). Round 2: **Scorching Ray**, four rays (9, 8, 7 fire, the fourth redirected for 6), then Finger Guns 27 for 6 more.
+  ⚑ Searched the ground-floor storage (14 ⚑ on another speaker's label): nothing. **Guest room, natural 20 (24)** with [[Valerian Hellebore]]'s help: a neatly made bed, house slippers, annotated medical textbooks. She **jumped on the bed and messed it up**; Val's Prestidigitation added feathers.
+  ⭐ **The heart:** cast **Blinding Radiance** alongside [[Eiluned Lulu Denulie|Lulu]]'s Daylight and Val's "Aurona's Blessing." *"The heart beats and beats and then just stops, and it withers."*
+  ⭐ **Level 13 → 14.** ⚠️ No level-14 feature read aloud for her in the session note.
+  🛑 **ATTRIBUTION CAVEAT:** speaker map inferred, not confirmed; at least one of her rolls sits on another label.
 
 - **S19: A PRODUCTIVE NIGHT THAT THE TABLE'S BOOKKEEPING KEPT UNDERCUTTING.** ⭐ **She killed feral vampire thrall B with a Guiding Bolt** — **26** to hit, **27 radiant + 4** more from [[Flux]]'s rider — *"All right, he's gone."* ⚑ **The spell name was corrected from a transcribed `lightning bolt` at 80% confidence; see the spell-check log.** In round two she landed a **Starry Wisp (23)** for **16 radiant, doubled**, on the thrall attacking [[Valerian Hellebore]], then **Finger Guns (22)** for 10 more with both radiant riders adding **6**.
   ⚑ **NEW ITEM ON THE RECORD — her custom homebrew short sword.** Described only as *"fire weapon, sword, short sword"*; its card gives **+1 to attack and damage** and a **bonus-action Bright Light that can blind as a reaction.** 🛑 **It has no DDB entry**, so [[Samothy Smith-Wesson]]'s infusion could not be applied mechanically and ⚖️ **the DM ruled it *"infused"* by fiat for an extra 1d4.** ▶ [[House Rules & Rulings]].

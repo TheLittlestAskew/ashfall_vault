@@ -402,3 +402,50 @@
 > We are not finished here. We did not breach the house, we did not clear the inside, and the core is where it was when we got here. Whatever is in there has had all night to hear us working.
 >
 > Deanna's ashes are probably still warm.
+
+> [!note]- S20 — Nobody had ever got this far. (Home Is Where the Heart Is)
+> The door was already broken when we got to it. Two glass doors, one shut, one hanging open, and blood on the ground in front of it and on the shards of the windows. Still wet. Still running.
+>
+> I went in first. I always go in first. I went in slow this time, though, low and quiet, checking every corner the way you check a burrow before you put your hand in it, and I got around the bend without anything hearing me. Two of them, backs to me. One of the ordinary ones, and one of the swollen ones, the kind covered in boils that burst when you cut them and get on you.
+>
+> I backed out and told the others. I wanted us agreed before we went. Lulu said she could turn us all into mist, which I did not know she could do and which I am going to think about later. Someone said send a fighter in first and a caster behind. Fine. I asked for a yes from everybody, and I think I got one, and I was through the door before I heard it.
+>
+> The ordinary one died fast. I have the full set now, the gauntlet and the sword and the shard, all three, and when I hit him the light went into him twice over and he came apart. I am not touching the swollen one. I said so. I asked Lulu for something that reaches, because I am not going to cut a thing that drips.
+>
+> Then something got hold of me. Stabbed, then cut, then it tried to throw me into the wall and mostly managed it. I stayed on my feet. I came in whole tonight, which was luck more than anything, and I left the fight maybe a fifth down and still standing. The second one tried the same throw later and I did not let it.
+>
+> Barrett shot the swollen one to pieces. Lulu finished it. Val, who has a sword made of light now and is not embarrassed about it, cut through everything in front of him. Zelda set things on fire. Flux shot through a window, then climbed in through the same window. The lieutenant hit harder than any of us. Lulu put the last one down with cold hands, and then it was quiet.
+>
+> Then we looked around, and I wish we had not.
+>
+> The kitchen was a butcher's floor: an arm, a foot, maybe an eye in a jar. Bite marks. That part I understood. What I did not understand was the bathroom. It was the only clean room in the house. No ash on the floor. A metal table in the middle of it, shaped to hold a body, with straps for the wrists and the ankles and one across the forehead. Hair in the seams. Old blood. Someone uses that table and cleans up after.
+>
+> Lulu came in behind me and wanted to stay in case someone still needed help. There was nobody to help. I said so. We left.
+>
+> Samothy found the pictures. A box under a bed, full of them, of people strapped to that table and someone in a bird-beaked mask working on them with a knife. Bleeding them. And further in, it was not people on the table. It was vampires. Cut apart a piece at a time to see how long they last. Notes on the back of every picture saying where each one was taken from. One of them was a patrolman who broke off from his patrol.
+>
+> My stomach held. Val's did not. Lulu called up a breeze for him, and Samothy put his hand on his shoulder and made him brave again, and the lieutenant looked at all of it without his face moving at all. Lulu thought she knew some of the faces, from the board of the missing back at the castle.
+>
+> Flux and Barrett both remembered a room like that bathroom. A house near the library, back when we scouted it. A clean room and a table like this one. So it is not one sick man in one house. Or it is one sick man and he gets around.
+>
+> Upstairs you could feel it before you saw it. A pressure, beating, like standing too close to something's chest. Thralls howling somewhere off in the dark outside. In one storeroom Samothy found a metal chest sweating cold, and inside were three vampire heads, blonde and brown and black, each missing one tooth, each taken off while it was still alive. Someone made a box cold enough to keep them. Samothy is carrying it now. I am choosing not to have an opinion about that.
+>
+> Then the heart.
+>
+> It was a ball of rotten red meat the size of a room's worth of trouble, beating. It got inside my head the moment I walked in and squeezed, and I went over at the waist with my hands on my skull. Barrett and Flux too. Nobody knew how to kill it, because nobody had ever got this far into a nest before. That is a thing worth writing down. Nobody had ever got this far.
+>
+> Val called on his goddess. I did not expect that. The room went gold and warm and the squeezing stopped, and there was a woman standing there, the most beautiful thing I have ever seen, annoyed because he had interrupted her doing her hair. She is the sun here. She is his. He flattered her and she told us to stab it until it stopped, and warned us that hearts like this can call things to them.
+>
+> Lulu tried a sickness on it first. It only beat harder and sprayed blood. So we gave it light instead. Lulu made day in that room, Zelda made it blinding, and Val made something I could not look at. The heart beat and beat, and stopped, and shrank down off the thing it had been wrapped around.
+>
+> A chest. Flux opened it. Inside was a man. Bones now, in a man's clothes, with a photograph, and I knew the face from the missing board. A scout. One arm gone, one leg gone, scratches through the socket where the eye was taken. The lieutenant remembered him and could not remember his name. He said a good soldier. He said there was never any blood where he went missing, as if he was just lifted out of the world.
+>
+> The lieutenant says the old story is that these hearts grow where something evil happened, and the worse the evil, the bigger the heart. If that is true, then what happened to that man in that box is the reason the heart was there at all.
+>
+> Flux asked to bury him. The lieutenant said burn him.
+>
+> On the way out Lulu asked about the beast thrall. There was one in the fight, she was sure of it, and where there is one of those there is a master close by. I did not see any weak little vampire I could have broken in half with my hands. Nobody did. The lieutenant did not either. Maybe they lend their animals out. I said that as a joke and I am not sure it is one.
+>
+> We are back at the castle. Something in me is different tonight. The wild in me has more shapes than it did this morning: wings, the lion, the ram. I can feel them waiting.
+>
+> Home is where the heart is. Barrett said that. It is a terrible joke, and tonight it is true.

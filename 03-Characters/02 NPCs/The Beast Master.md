@@ -67,6 +67,20 @@ Read aloud to the table by [[Vega Bloodroot]] after a **natural-20 Perception**,
 
 ⏸ **The house was never breached and the session ended mid-combat. S20 opens with this unresolved.**
 
+## 🛑 S20 — A BEAST THRALL WITHOUT A MASTER ([[Session 20 — Home Is Where the Heart Is]])
+
+> ⚠️ **NOT MERGED with [[The Beast Tamer]].** Nothing in S20 bears on that question.
+
+**A [[Beast Thrall]] fought inside the nest house** (it attacked [[Vega Bloodroot]] in round two and was killed by [[Barrett Grimmskar]] in round three). **No Beast Master was seen by anyone**, before, during or after the fight.
+
+- [[Eiluned Lulu Denulie|Lulu]] raised it on the way out: *"if there's a beast thrall, usually there's a Beast Master not far behind. I don't recall seeing one around here."*
+- [[Vega Bloodroot]]: *"I definitely did not see a weakling vampire. Who I could smash with my bare hands?"* / *"Maybe they can loan out their beasts to other people."* ⚑ Said as a joke; **not lore.**
+- ✅ **Insight on [[Lt. Hargraven]]** (rolled by [[Valerian Hellebore]]'s player, 8 then a better second roll) confirmed he saw none either: *"He has not seen the Beast Master. He's been hanging out with you guys."*
+
+🛑 **This closes the S19 hook in the negative only.** [[Vega Bloodroot]]'s S19 *"She's by the guy, the Beast Master"* is **not supported** by anything in S20; ⚑ the S20 note never revisits it. **Whether a master exists for this nest, and where he is, is open.**
+
+⚑ **Thralls were seen *"scrambling, running away"* outside after the heart died.** That is consistent with S19's *"they will scatter and leave"* lore, but 🛑 **the cause is not stated** (heart, master, or neither). **Not inferred.**
+
 ## 🛑 The S18 Reappearance — UNRESOLVED
 
 **In S18's opening boxed text (00:08:58), the towering figure on top of [[The Cliffside Tower]] is named as the Beast Master:**
@@ -91,7 +105,7 @@ Read aloud to the table by [[Vega Bloodroot]] after a **natural-20 Perception**,
 
 ## Open Threads
 
-- 🛑 **S19: IS THERE A BEAST MASTER AT [[The Ruined Neighborhood (Vampire Nest)|THE NEST]]?** Briefed as *"never far"*, **not found by reconnaissance**, token existence uncertain, **and [[Vega Bloodroot]] is standing next to something her player calls him.** ⏸ **Open into S20.**
+- 🛑 **S19 → S20: IS THERE A BEAST MASTER AT [[The Ruined Neighborhood (Vampire Nest)|THE NEST]]?** Briefed as *"never far"*, **not found by reconnaissance**, token existence uncertain, **and [[Vega Bloodroot]] is standing next to something her player calls him.** **S20: a beast thrall fought with no master present; nobody, including [[Lt. Hargraven]] (Insight-confirmed), saw one.** 🔥 **Where is the master for that beast thrall? Open.**
 - ⚑ **S19: 6 THRALLS PER MASTER (lore) vs 5 SIGHTED (scouts).** Never reconciled at the table.
 - 🛑 **S19: THREE INCOMPATIBLE ACCOUNTS OF WHAT UNBINDS A THRALL** — S16's revolt, S18's *"contract is over"*, S19's *"they don't know what to do anymore."* **Not reconciled.**
 - ⚔️ **S19: THE PARTY NOW HAS ACTIONABLE TACTICAL INTELLIGENCE AND HAS NOT USED IT** — kill the master and the surviving thralls **scatter and leave.**
@@ -105,4 +119,4 @@ Read aloud to the table by [[Vega Bloodroot]] after a **natural-20 Perception**,
 
 ## Related
 
-- [[Session 10 — Never Truly Alone]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[The Ruined Neighborhood (Vampire Nest)]] · [[The Beast Tamer]] · [[The Necromancer]] ⚑ *not merged* · [[The Cloaked Figure]] · [[Beast Thrall]] · [[Feral Vampire Thrall]] · [[Valerian Hellebore]] · [[Vega Bloodroot]] · [[The Grand Library of the Veiled Dawn]] · [[The Cliffside Tower]] · [[Cult of the Pale World]] · [[Names & Terms]] · [[DM Questions — Open]]
+- [[Session 10 — Never Truly Alone]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Session 20 — Home Is Where the Heart Is]] · [[The Ruined Neighborhood (Vampire Nest)]] · [[The Beast Tamer]] · [[The Necromancer]] ⚑ *not merged* · [[The Cloaked Figure]] · [[Beast Thrall]] · [[Feral Vampire Thrall]] · [[Valerian Hellebore]] · [[Vega Bloodroot]] · [[The Grand Library of the Veiled Dawn]] · [[The Cliffside Tower]] · [[Cult of the Pale World]] · [[Names & Terms]] · [[DM Questions — Open]]

@@ -8,10 +8,20 @@
 | **Full name** | Bron Hargraven (⚑ provisional) |
 | **Race / Class** | Human Fighter (Champion) — Lvl 15 |
 | **Role** | Ashwardens / base command — **PERMANENT PARTY MEMBER as of S06** (DM-run: "I got bored of not being a player, so I threw myself in there") |
-| **Status** | **Alive — IN COMBAT (S19).** ⚑ Ruled **prone** for at least two rounds and hit at least once while down; 🛑 **his damage taken was never stated and his current HP is [Unknown/Ambiguous].** ⚑ His sheet is out of date on the DM's side — *"I forgot to update his stuff."* *(Was: 🛑 facing disciplinary review because of the party, S16 — **outcome still never stated**)* |
-| **Last Known Location** | **The street outside the collapsed two-storey house, [[The Ruined Neighborhood (Vampire Nest)]]** — mid-combat, S19 |
+| **Status** | **Alive and unhurt (S20)** — *"They didn't even scratch me."* The nest is destroyed. *(Was: in combat and prone, S19, damage taken never stated. Was: 🛑 facing disciplinary review because of the party, S16 — **outcome still never stated**)* ⚑ His sheet is out of date on the DM's side — *"I forgot to update his stuff."* (S19) |
+| **Last Known Location** | **[[The Walled Base (Museum-Castle)]]** — teleported back with the party at the end of S20 (⚑ method unstated) |
 
 ## History
+
+- **S20 ([[Session 20 — Home Is Where the Heart Is]]): THE NEST IS FINISHED, HE COMES OUT WITHOUT A SCRATCH, AND HE GRIEVES A SOLDIER WHOSE NAME HE CANNOT REMEMBER.** ⭐ **First in the turn order all three rounds** (*"it's his turn first"*).
+  ⚔️ **He hit harder than anyone in the line:** **38** on a thrall in round two (⚑ the figure sits inside the garble *"It's 918. It's 3,938"*) and **19** on the beast thrall in round three. Unshaken by the lockbox photographs: **CON save 26 (advantage).**
+  **Unhurt, by his own account**, to [[Eiluned Lulu Denulie|Lulu]]'s check-in: *"No, I'm all right, thank you. They didn't even scratch me. It's not my first rodeo."* She flirted badly on purpose (*"a Mrs. Hargraven… or a Mr. Hargraven perhaps?"*); he shut it down: *"Don't talk about my private life."* / *"Just put 911."* ⚑ **He guards his private life.** ⚠️ The DM's *"What the fuck was that?"* after Val's Prestidigitation fart may be OOC or Hargraven; **ambiguous, not attributed.**
+  🛑 **THE SCOUT.** Inside the withered heart was a chest holding the skeleton of a scout from the castle's missing persons board, **a soldier who served under him**. He recognised him and **could not recall his name**:
+  > *"Oh yes, I can't remember his name, but he was a great, great soldier. He always got the duty done. Um, his name slips my mind. I, I remember that day though. He went out And never, never found a body. There was no blood anywhere in the area where he was supposed to be… It's almost as if he was just picked up and disappeared."*
+  **He remembers the day, not the name, and there was no blood where the scout vanished.**
+  🔥 **THE HEART RUMOUR (labelled a rumour on the record).** When [[Flux]] offered burial: *"We should probably burn the body. If this is here, then the rumor about hearts growing where something traumatic happens, evil and traumatic happens, is where they form. Then that changes a lot of things around us."* / *"So the rumor is that the hearts grow from Great evil, and the greater the evil, the bigger the heart."* ⚠️ **A rumour, not confirmed lore; the DM does not state causation.** 🛑 **Burn vs bury: no decision recorded.**
+  ✅ **No Beast Master seen.** An Insight check on him (rolled by [[Valerian Hellebore]]'s player) confirmed: *"He has not seen the Beast Master. He's been hanging out with you guys."*
+  ⚑ **Pattern:** he is now the campaign's main oral-history source (the missing persons board, the scout, the heart rumour). ⚑ **His S16 council summons is still never resolved.**
 
 - **S19: HE BRIEFS THE NEST ASSIGNMENT, MARCHES OUT WITH THE PARTY, AND HAS THE WORST NIGHT OF HIS CAMPAIGN.** ⭐ **His second time fighting in the line with the party, and the DM ran his failures honestly and against himself.**
   **The briefing** — delivered in his first person, from a piece of paper, while already seated in the war room *"before the smoke had cleared"* from [[Deanna Smith-Wesson]]'s pyre:
@@ -49,6 +59,11 @@
 > "We need to approach quietly, eliminate the outer thralls, breach the house, clear the interior, and destroy the nest core." *(S19 — 🛑 only step two gets done)*
 > "I mean, if you want to become a vampire, that's fine, but I won't have mercy when I have to kill you." / "And, uh, you're not strong enough to stop me." *(S19 — to [[Vega Bloodroot]], and nobody treats it as hostility)*
 > "Dead, dead, dead, dead, dead." *(S19 — 🛑 five kills asserted, none identified)*
+> "No, I'm all right, thank you. They didn't even scratch me. It's not my first rodeo." *(S20 — to Lulu)*
+> "Don't talk about my private life." … "Just put 911." *(S20)*
+> "Oh yes, I can't remember his name, but he was a great, great soldier. He always got the duty done." *(S20 — the scout)*
+> "We should probably burn the body." *(S20 — 🛑 burn vs bury undecided)*
+> "So the rumor is that the hearts grow from Great evil, and the greater the evil, the bigger the heart." *(S20 — labelled a rumour)*
 
 ## Relationships
 

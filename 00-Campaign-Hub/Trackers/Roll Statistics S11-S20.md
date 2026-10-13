@@ -400,6 +400,91 @@ These come from narrated outcomes, not from counting:
 8. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`) and the column is **`"character"`**, not `character_name`.
 9. ⚠️ **THE BACKLOG IS NOW S11, S16, S18 AND S19** — **four transcript-only blocks in this file, and three of them consecutive.**
 
+## S20 — Home Is Where the Heart Is (rolls keyed 2026-10-12) 🛑 ARCHIVE NOT QUERIED — BLOCKED
+
+> 🛑 **TRANSCRIPT-ONLY BLOCK. NOTHING HERE IS ARCHIVE-VERIFIED.**
+> 🛑 **RE-TESTED IN THIS CONVO 2 RUN AND STILL UNREACHABLE.** `mcp__supabase__execute_sql` (`SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`) → **`Unauthorized. Please provide a valid access token to the MCP server via the --access-token flag or SUPABASE_ACCESS_TOKEN.`** Convo 1 got the same result on both standing queries. **Fourth blocked session in this file (S16, S18, S19, S20) and the third consecutive** (S17 was the last archive-backed block).
+> 🛑 **Neither standing query returned data:** `SELECT * FROM ashfall_session_rolls WHERE session_date = '2026-10-12'` and `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`. **Whether a sync gap exists for 2026-10-12 is UNKNOWN.** An access failure is *not* an empty archive, and **no sync gap is asserted.**
+> ⚠️ **NO ROLL IN THIS SESSION IS MARKED `physical dice roll`**, because that designation requires an archive to be absent from. **No `user_id` resolution was possible.**
+> ⚠️ **EVERYTHING BELOW IS A COUNT OF TRANSCRIPT-AUDIBLE ROLL EVENTS** from the *Full Roll Log* and *Roll trends* in [[Session 20 — Home Is Where the Heart Is]]. **Nothing was invented.** These numbers are a **FLOOR** and are **NOT comparable** to the archive-backed blocks for S13–S15 and S17.
+> 🛑 **THE SPEAKER MAP IS INFERRED, NOT CONFIRMED.** Rows the session note marks ⚑ (label disagrees with inferred owner) are counted under the inferred owner and **flagged in the Notable column.**
+
+### Per-character — transcript-audible d20 events only ⚠️ FLOOR, NOT A CENSUS
+
+"d20s heard" counts log rows with a **stated** d20 total; rows where a d20 was rolled but **no total was said** are given in brackets. Rerolls are counted with their original roll, not separately.
+
+| Character | d20s heard | Nat 20 | Nat 1 | Initiative | Notable |
+|---|---|---|---|---|---|
+| [[Vega Bloodroot]] | **14** *(+1 unstated)* | **2** | 0 | 🛑 **Not stated** — *"Gross, I hate rolling good on initiative"*; **turn order 2** | ⭐ **Both natural 20s were saves that mattered:** the save vs the round-1 slam (not prone) and the **photo CON save**. Hit 3 of 5 attacks (15 for the round-1 kill, 18, 26; missed on 16 and 14). Lost one Strength contest (8 vs 13, advantage, both low), won the other (19 vs 12). **Took ~46 of 48 stated enemy damage.** ⚑ **4 of her 14 sit on other speakers' labels** (Stealth 23 on B, contest 19 also read as 21 on Flux's label, bathroom Investigation 19 on A, photo History 19 on C) |
+| [[Valerian Hellebore]] | **11** *(+2 unstated)* | **1** | 0 | **14** — *"apparently it was a 14"*; **turn order 8** | ⭐ **The session's top d20 total: Rapier 29** (adv, round 2). **6 for 6 on rapier attacks**, all radiant, doubled in round 2. **Natural 20 on his CON save at the heart.** Failed the photo CON save on **21**, then an inspiration reroll came up *"worse"*. 🛑 **The app rolled his dice twice repeatedly** (*"why does it keep rolling twice?"*); initiative was among them. Plus **"Aurona's Blessing" 12d12 = 168 radiant** (damage, not a d20) |
+| [[Samothy Smith-Wesson]] | **10** | **1** | **1** | 🛑 Not stated; **turn order 5** | **Natural 20 on the upstairs-storage Investigation** that found the head chest. **Natural 1 on Arcana → 15** total, still a partial success (*"some kind of Spell"*). Lucky reroll **15 → 17** on shot 2. Psychic blade **24** for max damage and a kill. ⚠️ His lockbox CON *"dirty 20"* is a **total**, not a natural 20 |
+| [[Zelda Z Whipper\|Zelda "Z" Whipper]] | **10** | **1** | **1** | **nat 1**, total not stated; **turn order 10** | **Natural 1 on initiative; natural 20 on the guest-room Investigation (→ 24)** with Val helping. **Scorching Ray 4 for 4** (23, 26, 14, 13) and **Guiding Bolt 25** for 20 radiant on the Boilborn. Finger Gun misses on 15 (r1). ⚑ Storage Investigation 14 sits on the C label |
+| [[Flux]] | **9** | 0 | 0 | 🛑 Not stated; **turn order 7** (inference only: rolled higher than Val's 14) | **Lockpicking 28** opened the scout's chest (⚑ F label). **Investigation 25** in the study (⚑ G label). Failed the heart's INT save on **12**. ⚠️ **A "Sneak Attack 12" row is NOT counted as a d20** (see Discrepancies) |
+| [[Barrett Grimmskar]] | **8** *(+1 unstated)* | 0 | 0 | 🛑 Not stated; **turn order 3** | **5 of 6 shots hit** (16, 28, 19, 24, 23; one miss on 15). **28 is a crit** (crit range 18–20); finished the beast thrall. Failed the heart's INT save on **7**. Risk Die / Maverick Spirit (+d10) on History and Investigation |
+| [[Eiluned Lulu Denulie\|Eiluned "Lulu" Denulie]] | **8** | 0 | 0 | 🛑 Not stated; **turn order 4** | ⭐ **Two kills on two spell attacks:** Bacterial Barrage 24 (the [[Boilborn]]) and Chill Touch 15 (the last enemy, 29 damage). Contagion on the heart was an **auto-fail with no roll**. ⚑ **4 of her 8 sit on other labels** (B, D, E ×2), including a **6 with no stated check** and a **History 27 with a garbled result** |
+| [[Lt. Hargraven]] *(DM-run ally)* | **1** *(+2 unstated)* | 0 | 0 | 🛑 Not stated; **turn order 1** — *"it's his turn first"* | **CON save 26** (adv). Two attack turns with **no to-hit stated**; damage **38** (⚑ garbled) and **19** |
+| ⚑ **DM** (enemies) | **8** *(+1 unstated)* | 0 | 0 | Not stated; enemies at **6** and **11** | Beast thrall hit Vega twice on *"dirty 20"* totals (not naturals). Round-1 attacker hit on **27** and **17**. The *"Christie"* token hit Val on **15 vs AC 15**. 🛑 **Contact Other Plane d20 never stated** (*"Big sus"*) |
+| ⚑ **Unattributed** | **1** | 0 | 0 | — | An **INT save of 15** at the heart, passed. Speaker unknown |
+| [[Mr. Cat]] · [[Blaze]] | **0** | 0 | 0 | Cat with Samothy (5); Blaze **turn order 9** | No roll on the record for either companion |
+
+**Transcript-audible totals: ~80 d20 events with a stated total (~90 including heard-but-unstated) · ~110 total roll events including damage (session note's count) · 5 nat 20s · 2 nat 1s.**
+⚠️ **The archive would almost certainly return more.** Most initiative rolls and several saves (Lulu, Barrett, Zelda on the photos) were never said aloud.
+
+### Session Records
+
+- ⭐ **Five natural 20s, spread across four players:** [[Vega Bloodroot]] ×2 (slam save, photo CON), [[Samothy Smith-Wesson]] ×1 (upstairs Investigation), [[Zelda Z Whipper|Zelda]] ×1 (guest-room Investigation), [[Valerian Hellebore]] ×1 (CON save at the heart). ⚑ **Every one of them was a save or a search; none was an attack.**
+- ⚠️ **Two natural 1s, neither costly:** Zelda's initiative (she acted 10th) and Samothy's Arcana, which still totalled 15 for a partial read.
+- ⭐ **Highest d20 total: [[Valerian Hellebore]]'s Rapier 29** (round 2, advantage). Next: [[Barrett Grimmskar]]'s crit **28**, Val's **28**, [[Flux]]'s Lockpicking **28**.
+- ⭐ **Largest single damage roll in the tracker's S18–S20 transcript blocks: Val's 12d12 "Aurona's Blessing" for 168 radiant** on the heart. ⚑ Name held (spell-check row 29).
+- 🛑 **[[Vega Bloodroot]] took ~46 of the 48 stated enemy damage, the fifth session running as the enemy's main target.** ⚠️ Whether Rage halving was applied is never stated; her own estimate was *"down like 20-something points, but out of 100."*
+- ⚑ **"Dirty 20" is table idiom for a 20 total, not a natural 20.** It appears three times (Samothy's lockbox CON, the beast thrall's two hits) and is **not counted** as a nat 20.
+- ⚑ **No damage leaderboard is published for this block.** Radiant was doubled against vampires (relic set and Val's rapier), so totals are not comparable to pre-S18 sessions.
+
+### Initiative Orders
+
+> 🛑 **Only two initiative values were stated:** Val **14** and Zelda **natural 1** (total unstated). ✅ **Turn ORDER is from the DM's calls and holds for all three rounds.**
+
+| Turn | Character | Roll |
+|---|---|---|
+| 1 | [[Lt. Hargraven]] | 🛑 [Unknown/Ambiguous] — *"it's his turn first"* |
+| 2 | [[Vega Bloodroot]] | 🛑 [Unknown/Ambiguous] — *"I hate rolling good on initiative"* |
+| 3 | [[Barrett Grimmskar]] | 🛑 [Unknown/Ambiguous] — *"Barrett's like right before you"* (to Lulu) |
+| 4 | [[Eiluned Lulu Denulie\|Eiluned "Lulu" Denulie]] | 🛑 [Unknown/Ambiguous] |
+| 5 | [[Samothy Smith-Wesson]] + [[Mr. Cat]] | 🛑 [Unknown/Ambiguous] |
+| 6 | Enemy (beast thrall, per round 2) | Not stated |
+| 7 | [[Flux]] | 🛑 [Unknown/Ambiguous] — *"Jill"* |
+| 8 | [[Valerian Hellebore]] | **14** (*"apparently it was a 14"*; the app rolled twice) |
+| 9 | [[Blaze]] | — familiar; *"Whoever Bat is, it's his turn"* |
+| 10 | [[Zelda Z Whipper\|Zelda "Z" Whipper]] | **natural 1**, total not stated |
+| 11 | Enemy (the *"Christie"* token, ⚑ joke name) | Not stated (round 2) |
+
+> ⚑ **Inference only:** Zelda acting late is consistent with her natural 1; Val at 14 acting after Flux implies Flux rolled higher.
+
+### 🛑 Discrepancies found in the session note itself — FLAGGED, NOT SILENTLY FIXED
+
+1. 🛑 **THE HEART'S INT SAVE DOES NOT RECONCILE.** [[Flux]] **failed on a 12** (6 psychic); [[Samothy Smith-Wesson]] **rolled 12 and is listed as passing.** The DC was never stated and the labels are unreliable. ▶ **One of the two is mis-recorded or mis-attributed; the archive could settle it.**
+2. ⚠️ **[[Valerian Hellebore]]'s INT save: 21 logged, with an 11 also on his label.** Consistent with the app's double-rolling, but which counted is not stated.
+3. ⚠️ **[[Vega Bloodroot]]'s damage is partly unstated** — base damage on her round-1 kill is missing (only the 2d8 radiant **16** is given), and round 2 trails off at *"19 plus—"*. **Her damage dealt cannot be totalled.**
+4. ⚠️ **[[Lt. Hargraven]]'s round-2 damage of 38 sits inside a garble** — *"It's 918. It's 3,938."* **38 is a reading, not a clean statement.**
+5. ⚑ **[[Flux]]'s round-1 "Sneak Attack 12 ✅" row** is logged like a d20 roll, but Sneak Attack is a damage rider. **It is not counted as a d20 here.** Whether 12 is damage or a separate roll is [Unknown/Ambiguous].
+6. ⚑ **Round-2 Strength contest: Vega 19, but a 21 sits on Flux's label.** Outcome (Vega wins) is the same either way.
+7. ⚑ **The round-1 attacker on Vega is never named.** Its three-part attack + slam matches the round-2 beast thrall; **not stated.**
+8. ⚑ **A Lulu-attributed 6 (E label) has no stated check**, and her **History 27's result is garbled.**
+9. ⚑ **Contact Other Plane d20 never stated** and no INT save is narrated for Val.
+10. ⚠️ **Rage halving on Vega's ~46 damage is never stated.** Her *"20-something"* estimate suggests it may have been applied off-mic.
+11. ⚑ **Valerian's dice rolled twice repeatedly** (*"why does it keep rolling twice?"*). ▶ **Check the archive for duplicate rows on his character when the token is restored.**
+
+### To do when the token is restored
+
+1. Add **one line** to the gitignored `.env`: `SUPABASE_ACCESS_TOKEN=sbp_…` — **or** allowlist `mcp__supabase-cutter__execute_sql` in `.claude/settings.local.json`.
+2. Run both standing queries for `2026-10-12`, plus `SELECT MAX(timestamp_iso) FROM ashfall_session_rolls`.
+3. Rebuild the per-character table here in the **S13–S15/S17 format** (Rolls · d20s · Nat 20 · Nat 1 · Avg d20 · To-hit · Damage rolls · Archived damage).
+4. **Settle discrepancy 1** (the INT save at 12) and **discrepancy 11** (Val's double rolls) against the archive.
+5. **Resolve every ⚑ label row by `user_id`**, especially Vega's four and Lulu's four.
+6. **Mark every transcript-only roll with no archive row as `physical dice roll`** — impossible for S20 as it stands.
+7. Remember the two standing gotchas: `individual_values` is a **JSON string** (parse with `(individual_values #>> '{}')::jsonb -> 0`) and the column is **`"character"`**, not `character_name`.
+8. ⚠️ **THE BACKLOG IS NOW S11, S16, S18, S19 AND S20** — **five transcript-only blocks in this file, the last three consecutive.**
+
 ## Related
 
-- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]] · [[DM Questions — Open]]
+- [[Roll Statistics S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Session 20 — Home Is Where the Heart Is]] · [[Vault Sync Status]] · [[DM Questions — Open]]

@@ -168,6 +168,33 @@
 
 **Nothing was looted in S19.** The only acquisition authorised was the potions, and the only item to change state was Vega's sword — which changed by losing a curse, not by changing hands.
 
+## S20 — Home Is Where the Heart Is (10/12/2026)
+
+> 🛑 **Roll archive NOT queried — `mcp__supabase__execute_sql` returned `Unauthorized` again this run.** **Item names are transcript-sourced only and were NOT cross-checked against the archive.** Fourth blocked session (S16, S18, S19, S20); third consecutive.
+> ⭐ **THE BIGGEST HAUL THE PARTY HAS EVER CARRIED OUT OF A SITE.** The nest house was searched room by room: **cut gems in six rooms**, a lockbox of photographs, a freezer chest of vampire heads, a whole library, and a dead scout.
+> ⚖️ **DM ruling on gem value:** *"all the gems you guys are finding right now are cut, so they're gonna be worth more money."* ▶ [[House Rules & Rulings]]. 🛑 **No gem was valued in gold on the record.**
+> 🛑 **MOST GEM HOLDERS WERE NEVER STATED.** Where the session note says *"holder not stated"*, this block says so too. **Do not assign them.**
+
+| Owner | Item | State / Context |
+|---|---|---|
+| [[Vega Bloodroot]] | 🛑 **The full relic set** — per the DM: **gauntlet, sword, shard** | ✅ **SET COMPLETE ON THE RECORD.** DM: *"You have the gauntlet, you have the sword."* … *"And the shard. You have all 3 pieces."* Radiant **2d8, doubled vs vampires.** 🛑 **THREE-WAY CONFLICT, NOT RESOLVED:** the DM's **gauntlet + sword + shard** (S20) vs Vega's player's ***"breastplate"*** (S20) vs the DM's ***"greaves"*** (S19, *"you got the sword, you got the greaves, and you got the—"*). ⚠️ **Recorded, not reconciled. ASK THE DM.** |
+| ⚑ Holder not stated (study) | 🆕 **2 diamonds, 1 ruby** (cut) | ✅ **ACQUIRED S20** — found on [[Flux]]'s Investigation 25 (⚑ G label) |
+| ⚑ Taken? not stated (study) | 🆕 **2 medical scalpels**, unused, wrapped | Found in the study. 🛑 **Whether anyone took them is not stated** |
+| ⚑ Holder not stated (kitchen) | 🆕 **Emerald, jade** (cut) | ✅ **ACQUIRED S20** — found by [[Valerian Hellebore]] (Investigation 15, adv). Holder not stated |
+| ⚑ Holder not stated (master bedroom) | 🆕 **Emerald, amethyst, garnet** (cut) | ✅ **ACQUIRED S20** — found on [[Samothy Smith-Wesson]]'s Investigation 14 (adv). Holder not stated |
+| [[Samothy Smith-Wesson]] → **bag of holding** | 🆕 **Unlocked lockbox of photographs** | ✅ **ACQUIRED S20** (master bedroom). *"We'll put this case in the bag of holding."* The photos show the **plague-doctor-mask figure** torturing humans and vampires. ⚠️ **Content forced CON saves** (Val failed) |
+| [[Eiluned Lulu Denulie\|Lulu]] | 🆕 **Obsidian, onyx** (cut, living room) | ✅ **ACQUIRED S20** — *"I'm gonna put those in my pocket"* |
+| [[Valerian Hellebore]] | 🆕 **Tiger's eye** (cut, living room) | ✅ **ACQUIRED S20 — GIFT, Lulu → Val.** ⭐ *"I thought maybe it could be a peace offering. You seem to be not the biggest fan of me."* Val: *"You have your moments."* |
+| [[Samothy Smith-Wesson]] ⚑ | 🆕 **Insulated metal chest with 3 vampire heads** | ⚑ **TAKEN (IMPLIED, NOT EXPLICITLY STATED)** — from upstairs storage on a **nat-20 Investigation**. A **chest-bound ice spell** (*"Makeshift freezer"*; Arcana via Lulu's assist 18); **~7 lb**, carriable. Samothy: *"Trying to think of some things I can do with it."* |
+| ⚑ Holder not stated (upstairs storage) | 🆕 **Malachite, moonstone, aquamarine** (cut) | ✅ **ACQUIRED S20** — found in the same room as the head chest. Holder not stated |
+| [[Flux]] → her bag of holding | 🆕 **Every book in the library** + the guest-room **medical book(s)** (handed over by Val) | ✅ **ACQUIRED S20.** Includes a book on the **Sisters of Light** (⚑ religious figures, first seen S20; ⚑ the DM first said *"Arona Sisters"*; **no link inferred**). ⚑ **Number of medical books not stated** |
+| ⚑ Holder not stated (heart room) | 🆕 **1 bloodstone, 2 alexandrite, 2 black pearls** (cut) | ✅ **ACQUIRED S20** — from the heart room after the **giant flesh heart** was destroyed. Holder not stated |
+| 🛑 Undecided | 🆕 **The scout's skeleton + a photograph** | Found in the chest **inside the withered heart** (lockpicked by [[Flux]], 28 ⚑ F label). **[[Lt. Hargraven]]'s missing scout** — *"I can't remember his name, but he was a great, great soldier."* Missing arm, leg, eye; on the castle's **missing persons board.** 🛑 **Burn vs bury: undecided.** ⚑ **Whether the skeleton was carried home is not stated** |
+| — (left in place) | Bloody boots, used latex gloves, a crate of teddy bears (bedrooms) | **Not taken** (not stated otherwise). [[Barrett Grimmskar]]: *"Somehow that bothers me more than the used gloves and the bloody boots."* |
+
+**Gem count on the record: 17 cut gems** (2 diamonds, 1 ruby, 2 emeralds, jade, amethyst, garnet, obsidian, tiger's eye, onyx, malachite, moonstone, aquamarine, bloodstone, 2 alexandrite) **+ 2 black pearls.** ⚑ **Only three have a stated holder** (Lulu's obsidian + onyx; Val's tiger's eye). 🛑 **No gold value assigned to any of them.**
+⏸ **Not mentioned in S20:** the 8 enchantable crystal shards (S18), the [[Soulbound Grimoire]] holder, the [[Tattered Robes of the Pale Scholar]], `the goat` (S18), the promised 12d12 custom spell (S18; ⚑ Val's 12d12 *"Aurona's Blessing"* this session **may** be it — **not stated, not merged**), Deanna's shotgun (S19), the gilded ladle (S19), the Greater Healing Potions (S19).
+
 ## Related
 
-- [[Loot Tracker S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]]
+- [[Loot Tracker S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Session 20 — Home Is Where the Heart Is]] · [[Vault Sync Status]]

@@ -329,6 +329,62 @@
 ⚑ **Jill (Flux) remains the lowest count in the campaign by a wide margin (≥11 across nine sessions)** and has now posted zero twice.
 ⚑ **Chase's attribution line stays three-segment** — S15–S17 belong to [[The Doppelganger]]; **S18 and S19 are the real [[Valerian Hellebore]].** Player totals are continuous; **character attribution is not.**
 
+## S20 — Home Is Where the Heart Is (10/12/2026)
+
+> 🛑 **PER-SPEAKER TOTALS ARE PROVISIONAL — THE SPEAKER MAP IS INFERRED, NOT CONFIRMED** (flags §1). Unlike S19, **no label is merged in the session note's record**, so every instance is assigned to a speaker; ⚠️ **but labels A–H were mapped to players by inference, and several lines sit on the wrong label.** Treat each row as a best attribution.
+> ⚠️ **Unit is INSTANCES**, consistent with S11–S15 and S17–S19 — **not** S16's line-count floor.
+> ⚠️ **Counts cover the whole recording including OOC**, matching S19's method, and are drawn from the session note's Profanity Record. **A floor, not a census.**
+> ⚑ **Joke token names containing profanity (`Vamp Pussy` / `Van Pussy` / *"vampussy"*) are counted under the speaker who said them**, per the session note. **They are counted here and excluded from the [[Quote Board S11-S20|Quote Board]].**
+> 🛑 **Roll archive NOT queried** (`Unauthorized` again), so nothing could be cross-checked against roll timing.
+> ⚠️ **Transcript redaction is OUTSTANDING for S20** — see [[Vault Sync Status]].
+
+| Speaker | fuck* | shit | bitch | damn/goddamn | Jesus Christ | other | Session Total |
+|---|---|---|---|---|---|---|---|
+| Chase (Valerian) | **14** | **5** | **3** | **3** | **2** *(Jesus / Jesus Christ)* | **3** *(whore, Oh my God, ass)* | **30** |
+| Taylor (Vega) | **8** | 3 | 1 | 1 | 0 | **8** *(hell ×3, God ×3, ass ×2)* | **21** |
+| Taylor (DM) | 3 | **5** | 1 | 2 | 1 *(Jesus)* | 1 *(pussy, token)* | **13** |
+| Christie (Zelda) | 1 | 2 | 1 | 0 | 0 | **4** *(pussy, token)* | **8** |
+| Doug (Barrett) | 0 | 2 | 0 | **3** | 0 | 3 *(ass, pussy token, hell)* | **8** |
+| Josh (Samothy) | 3 | 2 | 1 | 0 | 1 | 0 | **7** |
+| Jill (Flux) | 0 | 2 | 1 | 0 | 0 | 1 *(hell)* | **4** |
+| Madi (Lulu) | 0 | 1 | 0 | 0 | 0 | 1 *(Oh my God)* | **2** |
+
+\* `fuck` aggregates fuck / fucking / the fuck. ⚑ **`ass`, `hell`, `God`, `whore` and token `pussy` are counted under *other*** for continuity with S17–S19.
+
+**Session total: 93 instances** across 8 attributed speakers. ⚠️ **Nearly double S19's 48 and well above S18's 61.** ⚑ Session length is not stated in the session note, so no per-minute comparison is made.
+
+⭐ **CHASE TOPS THE TABLE AGAIN AT 30** — *"Fuck yeah, bitch"*, *"Why the fuck do vampires have a kitchen?"*, *"a fuck ton of radiant damage"*. ⚠️ **His 14 `fuck`s alone outnumber every other speaker's session total except Vega's.**
+⚠️ **Taylor (Vega) jumps to 21** after 8 (S18) and 6 (S19). ⚑ Much of it is OOC (TV/film chat) plus the level-up (*"Oh hell yes!"* ×2).
+⚑ **The DM's 13** include *"What the fuck was that?"*, which ⚑ **may be [[Lt. Hargraven]] in voice**; it stays under Taylor (DM) either way.
+⚑ **Christie (Zelda) and Madi (Lulu) get individual counts again** after S19's merged SPEAKER A. ⚠️ **Christie's 8 include 4 token-name instances** (`Vamp Pussy` / `Van Pussy`, spell-check row 15 held).
+⚑ **Jill (Flux) posts 4**, ending S19's clean sheet.
+⚠️ **Josh (Samothy) recovers to 7** from S19's 1.
+
+## Running Totals (through S20, attributed only)
+
+> ⚑ **These totals skip Session 12**, which was never processed. They also carry S09's mic-only caveat and S13's provisional attribution.
+> 🛑 **MIXED UNITS REMAIN.** S11–S15 and S17–S20 are instance counts; **only the S16 delta is a line-count floor.** Totals stay **lower bounds** until S16 is re-counted by instance.
+> 🛑 **THE S18, S19 AND S20 DELTAS ARE ALL PROVISIONAL** — merged diarizer labels in S18/S19, an inferred speaker map in S20. **Every increment from those three sessions should be re-derived once the speaker maps are confirmed.**
+> ⚠️ **The *Unattributed pool* receives nothing from S20** — the session note's record assigns every instance. The S19 SPEAKER A block (4) is still parked there.
+
+| Speaker | Total | Δ since S19 |
+|---|---|---|
+| Chase ([[Valerian Hellebore]] → [[The Doppelganger]] → [[Valerian Hellebore]]) | **≥429** | +30 |
+| Taylor (Vega) | **≥296** | +21 |
+| Taylor (DM) | **≥168** | +13 |
+| Josh (Samothy) | **≥127** | +7 |
+| Doug (Barrett) | **≥85** | +8 |
+| Christie (Zelda) | **≥55** | +8 |
+| Madi (Deanna → Lulu) | **≥42** | +2 |
+| Jill (Flux) | **≥15** | +4 |
+| *Unattributed pool* | *≥74* | *+0* |
+
+🛑 **CHASE CROSSES 400** (≥429) and leads Taylor (Vega) by **≥133**.
+🛑 **His campaign single-session record still stands at ≥79 (S16)** and is now five sessions old; S20's 30 does not threaten it.
+⚑ **The order of the table is unchanged from S19.** Doug (Barrett) is the next milestone to watch at ≥85.
+⚑ **Jill (Flux) remains the lowest count in the campaign by a wide margin (≥15).**
+⚑ **Chase's attribution line stays three-segment** — S15–S17 belong to [[The Doppelganger]]; **S18–S20 are the real [[Valerian Hellebore]].**
+
 ## Related
 
-- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Vault Sync Status]]
+- [[Profanity Ledger S01-S10]] · [[Campaign Dashboard]] · [[Session 11 — A Delightful Chase]] · [[Session 13 — The Cartographer of the Underkeep]] · [[Session 14 — An Angel with a Shotgun]] · [[Session 15 — Only Those Who Bleed Fire]] · [[Session 16 — What the Fuck]] · [[Session 17 — Hobo, That's Your Reflection]] · [[Session 18 — I Knew You'd Come]] · [[Session 19 — You Can Let It Go Now]] · [[Session 20 — Home Is Where the Heart Is]] · [[Vault Sync Status]]

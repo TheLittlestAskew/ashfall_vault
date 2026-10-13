@@ -71,8 +71,19 @@
 - ✅ **INT is their dump stat** — two failed **Uncertain Footing** saves at **2 and 5** against DC 17. ⚠️ **But CON is not** — two saves against [[Eiluned Lulu Denulie|Lulu]]'s **Blight** and **Cloudkill** both came back at exactly **18** and beat the DC.
 - 🔥 ⚑ **A variant leaving DIFFERENT TRACKS was identified on the road and never encountered** — *"larger paws with deep claw marks with an unnatural gait… different than the normal beast thralls you've been encountering."* **See [[Beast Thrall]].**
 
+## S20 — inside the nest house ([[Session 20 — Home Is Where the Heart Is]])
+
+⚠️ **Labels stay loose:** the DM's scouting call was *"just a regular vampire thrall"*; tokens included **Vampire Thrall C**, a `feral vampire`, and joke/turn-call names (⚑ not canon). 🛑 **Roll archive unreachable again; record is transcript-only.**
+
+- ☀️ **Vega's relic radiant one-shot.** Round one, [[Vega Bloodroot]] hit the first thrall at **15** with the full relic set's **2d8 radiant, doubled against vampires**, and rolled *"double 8s"*. **Dead in one hit.** ⚑ Her base weapon damage was not stated.
+- ⚔️ **Vampire Thrall C** — killed by [[Samothy Smith-Wesson]]'s returning **psychic blade** (8 slashing + 5 psychic, then a max **10**): *"Oh, he's dead."*
+- 🔥 [[Zelda Z Whipper|Zelda]]'s **Scorching Ray** put 9, 8 and 7 fire into *"a feral vampire"*.
+- ⚔️ **The last one** — [[Eiluned Lulu Denulie|Lulu]]'s **Chill Touch**, 15 to hit, **29**: *"Oh, that's everybody! You guys killed them all!"* One missed token was waved off by the DM.
+- 🐺 **Upstairs, thralls were heard *"off in the distance, uh, howling"*** outside the house, and after the heart died, *"you do see thralls and beast thralls running around outside, scrambling, running away."* ⚑ Consistent with S19's scatter lore; 🛑 **cause not stated.**
+
 ## Record
 
+- **S20:** At least **3** thrall kills inside the nest house at [[The Ruined Neighborhood (Vampire Nest)]] (Vega's one-shot, Vampire Thrall C by [[Samothy Smith-Wesson]], the last by [[Eiluned Lulu Denulie|Lulu]]), plus other tokens killed in the three-round fight (⚑ count not reliable). **Survivors outside scattered after the heart was destroyed.**
 - **S18:** ~9+ encountered at [[The Cliffside Tower]] under [[The Necromancer]] — Vampire Beast Thralls **A** and **B**, **Beast Thrall C**, feral vampire thralls **D, E, F**, plus ~3 unnumbered wall/courtyard thralls. **Confirmed killed:** A ([[Vega Bloodroot]]'s opening arrow), B ([[Barrett Grimmskar]]), F ([[Eiluned "Lulu" Denulie]]'s **Blight**, 37 damage), and C (tackled off the tower for 28 fall damage — ⚑ *not individually confirmed dead*). **The rest fled when their master died.**
 - **S19:** At least **2 feral-labelled kills** at [[The Ruined Neighborhood (Vampire Nest)]] (**feral thrall C** by [[Barrett Grimmskar]]; **feral vampire thrall B** by [[Zelda Z Whipper|Zelda]]), inside a total of **12 counted + 1 unfamiliar type.** 🛑 **The exterior was cleared and the house interior was never entered.** ⚠️ **Vampire Thrall A acted a full round after being killed.**
 - **S01:** 8 slain (wave 1) + 7 slain (wave 2); a third wave was recalled by the Beast Tamer. Kills by: Vega ×3 (incl. two bisections), Valerian ×2 (Moonbeam), Zelda ×3 (Starry Wisp ×2, Thunderwave), Flux ×3 (Finger Guns ×2 incl. crit, longbow finishes), Barrett ×2 (Finger Guns + Risk Die, Magic Missile contributions), Samothy ×1 + Steel Defender ×1.

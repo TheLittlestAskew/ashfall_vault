@@ -27,6 +27,34 @@ tags: [campaign-hub, dm-questions, open-threads]
 
 ---
 
+## S20 (added 2026-10-12)
+
+> 🛑 **QUESTION 1 IS THE ONE THAT GATES VAULT WORK.** It unlocks four spell-check rows, a glossary entry and a page rename.
+
+1. 🛑 **HOW IS VAL'S PATRON SPELLED: `Auriona`, `Arona`, OR `Aurona`?** You said *"Her name is Aurorna— Aurorna— Auriona. Sorry, my bad. Auriona is her name."* The table also said `Arona`, `Orona`, `Ronia`, `Aurona` and `Morona`. ▶ **Unlocks spell-check rows 23, 28, 29, 30 and the [[Arona]] page rename.** Follow-ups: **is she the "Aurona" whose blessing was on [[Deanna Smith-Wesson]] at the [[Old Shrine]]? And how and when did Val's pact with her form?** *(Partly answers S19 Q1.)*
+2. 🛑 **WHAT ARE THE THREE RELICS, BY NAME?** Now three versions: you said *"You have the gauntlet, you have the sword."* … *"And the shard. You have all 3 pieces."*; Vega's player said *"And the breastplate."*; S19 had *"the sword… the greaves… the—"*. *(Supersedes S19 Q2.)*
+3. 🛑 **IS [[Eiluned Lulu Denulie|LULU]] CIRCLE OF SPORES NOW?** She used Halo of Spores and Symbiotic Entity and took Fungal Body (*"It's a Circle of Spores feature"*). **The vault records Circle of the Wildfire.** Since when? *(Madi may be the better person to ask; no synced sheet exists.)*
+4. 🛑 **IS THE "GIANT FLESH HEART" THE S19 "NEST CORE" / "BEATING HEART OF THE HIVE"?** Very likely; never said. **NOT MERGED.** *(Supersedes S19 Q4.)*
+5. ⚑ **ARE THE SISTERS OF LIGHT CONNECTED TO AURIONA?** You first called them *"the Arona Sisters"* before correcting to *"the Sisters of Light."* **Not inferred.**
+6. ⚑ **DID THE PARTY BURN OR BURY THE SCOUT?** [[Flux]] offered burial; [[Lt. Hargraven]]: *"We should probably burn the body."* **No decision on the record.** Does the scout have a name?
+7. ⚑ **HOW DID THE PARTY GET HOME?** *"we will say you just teleport to the castle."* **Method unstated.**
+8. ⚑ **WHAT DID CONTACT OTHER PLANE ROLL, AND WAS THERE AN INT SAVE?** Your d20 wasn't stated (*"Big sus"*) and no save was narrated for Val.
+9. ⚑ **WHAT WAS THE DC ON THE HEART'S INT SAVE?** Flux failed on a 12; Samothy rolled 12 and wasn't listed as failing.
+10. ⚑ **WHO ATTACKED VEGA IN ROUND 1?** A three-part attack plus a slam (15 + 8 + 9). It matches the beast thrall's round-2 routine; **never named.**
+11. ⚑ **WAS HARGRAVEN'S ROUND-2 DAMAGE 38?** It sits inside a garble: *"It's 918. It's 3,938. 38 damage."*
+12. ⚑ **WHICH HOUSE NEAR THE LIBRARY HAD THE OTHER CLEAN ROOM?** *"a very clean room. With a very similar table."* You ruled *"No, regular Val was there."*
+13. ⚑ **WHO IS THE PLAGUE-DOCTOR-MASK FIGURE?** Seen only in the lockbox photos; tortures humans and vampires. **Do they get a name or a page?**
+14. ⚑ **WHERE WAS THE BEAST MASTER?** A beast thrall fought; nobody saw a master, Hargraven included. *(Related to S19 Q9.)*
+
+> ⚠️ **NOT FOR THE DM — needed from the table:**
+> - ⚑ **The speaker map** (flags §1): SPEAKER D answered both "Madi" and "Doug" in the roll call; Jill never answered. **Inferred, not confirmed.** Several rolls sit on the wrong label.
+> - ⚑ **Twelve held spell-check rows** (4, 9, 15, 19, 20, 21, 23, 25, 27, 28, 29, 30). **Rows 9, 19, 20, 21, 25 and 27 need an audio listen**; rows 23, 28, 29, 30 wait on Q1. Details in `Session_Sources/Transcripts/Spell_Check_Logs/101226_Spell_Check_Log.md`.
+> - 🛑 **Redaction of the S20 corrected transcript** before it is pushed: it is **unredacted in a public repo** (a player's full real name plus household detail). Run the S15–S17 redaction pass.
+> - ⚑ **Stale roster:** `Project_Instructions.md` / `Convo_1_Instructions.md` still list **Lvl 8**; the party is **14**.
+> - 🛑 **Roll archive:** Supabase MCP `Unauthorized`, third session running. Fix the token and re-run both queries before Roll Statistics.
+
+---
+
 ## S19 (added 2026-09-24)
 
 > 🛑 **QUESTION 1 IS THE ONE THAT GATES VAULT WORK.** Everything else can wait; that one decides how a PC page gets written.

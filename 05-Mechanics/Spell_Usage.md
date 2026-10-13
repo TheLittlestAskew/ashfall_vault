@@ -273,3 +273,40 @@ This file jumps **S11 → S16**. The three intervening sessions were never logge
 
 🛑 **The GAP above (S13–S15) is still open.** This file now jumps **S11 → S16 → S17 → S18 → S19**.
 🛑 **FOUR of the six blocks in this file are transcript-only** (S11, S16, S18, S19) for want of one line in `.env`.
+
+## S20 — Home Is Where the Heart Is (10/12/2026) 🛑 transcript-only — roll archive NOT queried
+
+> 🛑 **Both required queries returned `Unauthorized` from the Supabase MCP server. Third session running with this failure. Every row below is transcript-sourced and none is archive-verified.** Spell levels were rarely stated; `—` means not stated.
+> ⭐ **The session's climax was spellcasting, not a fight:** the nest heart shrugged off disease and died to **light**: Daylight + Blinding Radiance + Valerian's 168-radiant "Aurona's Blessing" ⚑.
+> ⚠️ **[[Flux]]'s Rite of the Dawning Radiance is not mentioned in the S20 note.** Radiant was still doubled against these vampires; **whether the Rite was cast is [Unknown/Ambiguous].**
+
+| Caster | Spell / Ability | Level | Effect this session |
+|---|---|---|---|
+| [[Valerian Hellebore]] | 🆕 **"Aurona's Blessing"** ⚑ | — | ⭐ **12d12 → 168 radiant** on the giant flesh heart. **The killing blow**, with Daylight and Blinding Radiance. 🛑 **Name held (row 29)**; see [[Homebrew Abilities]] |
+| [[Valerian Hellebore]] | 🆕 **Contact Other Plane** | — | ⭐ **Summoned Auriona**, his patron, *"the goddess of sun for the area."* Light ended the heart's psychic pressure for the scene (*"no one is doubled over in pain anymore"*). ⚑ **DM's d20 not stated (*"Big sus"*); no INT save narrated** |
+| [[Valerian Hellebore]] | **Pact Weapon** (rapier, radiant) + **Vex** | — | Round 1 vs *"Vampire Beast"*: 21/13, hit/10 (Vex advantage), 25/9 radiant. Round 2 vs the beast thrall: 29/**24**, 21/**16**, 28/**20** radiant (doubled) |
+| [[Valerian Hellebore]] | **Prestidigitation** | Cantrip | Flavour only: a fart during Lulu's scene with [[Lt. Hargraven]]; feathers on the guest-room bed |
+| [[Eiluned Lulu Denulie\|Lulu]] | **Halo of Spores** / **Symbiotic Entity** | — | Round 1: failed CON save, 1 doubled to **2**. Round 2: spores moved onto Vampire Thrall C. 🛑 **Circle of Spores features; the vault records her as Wildfire** |
+| [[Eiluned Lulu Denulie\|Lulu]] | 🆕 **Bacterial Barrage** ⚑ | — | **24** to hit → **18** → ✅ **KILLED the [[Boilborn]].** 🛑 **Spelling held (row 4)** |
+| [[Eiluned Lulu Denulie\|Lulu]] | **Chill Touch** | Cantrip | **15** to hit → **29** → ✅ **KILLED the last enemy** |
+| [[Eiluned Lulu Denulie\|Lulu]] | **Contagion** | — | On the heart. ⚖️ **No CON save** (*"It's not a living creature"*). **39 damage, no effect beyond enraging it** (*"Blood shoots out"*) |
+| [[Eiluned Lulu Denulie\|Lulu]] | **Daylight** | — | ⭐ Part of the heart kill |
+| [[Eiluned Lulu Denulie\|Lulu]] | ⏳ **Gaseous form** (offered) | — | 🛑 **NOT CAST.** *"I can turn everybody into gas"*, a touch spell on willing creatures; Vega raged in first. ⚑ Spell name not stated |
+| [[Eiluned Lulu Denulie\|Lulu]] | ⚑ **Unnamed breeze** | — | Called for [[Valerian Hellebore]] after his failed CON save on the photos. **Spell name not stated** |
+| [[Zelda Z Whipper\|Zelda]] | **Guiding Bolt** | — | **25** to hit → **20 radiant** on the [[Boilborn]] |
+| [[Zelda Z Whipper\|Zelda]] | **Scorching Ray** | — | 4 rays: 23/**9**, 26/**8**, 14/**7** fire on a feral vampire; 13/**6** redirected to another token |
+| [[Zelda Z Whipper\|Zelda]] | **Blinding Radiance** | — | ⭐ Part of the heart kill |
+| [[Zelda Z Whipper\|Zelda]] | **Finger Guns** ⚑ | — | Round 1: 15, ❌ miss. Round 2: **27** → **6** |
+| [[Flux]] | **Starry Wisp** | Cantrip | Round 1, through a window: **17** to hit → *"10, so 20"* radiant + **Sneak Attack 12**. Round 2: **15**, ❌ miss |
+| [[Flux]] | **Finger Guns** ⚑ | — | Round 1: **20** → **6**. Round 2: **25** → **12 + Sneak Attack 23** |
+| [[Samothy Smith-Wesson]] | **Heroism** | — | On [[Valerian Hellebore]] after the photos: **4 temp HP**. *"Now you're brave. Be brave, boy."* |
+| [[Samothy Smith-Wesson]] | **Psychic blade** (Returning Weapon) | — | Vs Vampire Thrall C: 18 → 8 slashing + 5 psychic; 24 → **10 (max)** → ✅ **KILL** |
+| [[Samothy Smith-Wesson]] | **Lucky** (feat) | — | Rerolled a missed shot on the Boilborn: 15 → **17**, 14 damage |
+| [[Samothy Smith-Wesson]] | **Hunter's Sense** | — | ⚖️ **Ruled not to apply to the heart** (*"I don't think it's a creature."*) |
+| [[Barrett Grimmskar]] | **Risk Die** / **Maverick Spirit** | — | +d10 on History (recalled the other clean room) and on the bedroom Investigation (**19**). Crit range 18–20 on his guns (*"18 to 20 is a crit for me"*) |
+| [[Vega Bloodroot]] | **Rage** + **relic radiant** | — | Raged on entry. Relic set **2d8 radiant, doubled**: *"double 8s"* (16) on the first kill; 5 → 10 in round 2; 8 in round 3 |
+| ⚑ [Unknown/Ambiguous] | **Bardic Inspiration** | — | Applied to [[Flux]]'s library Investigation (**18**). **Who gave it is not stated** |
+
+🆕 **New at level 14 (read aloud, not used):** [[Valerian Hellebore]] **Searing Vengeance** · [[Vega Bloodroot]] **Power of the Wilds** (Falcon, Lion, Ram) · [[Eiluned Lulu Denulie|Lulu]] **Fungal Body** (*"It's a Circle of Spores feature"*) · [[Barrett Grimmskar]] **Magic Bullet** ⚑ (third-party).
+🛑 **The GAP (S13–S15) is still open.** This file now jumps **S11 → S16 → S17 → S18 → S19 → S20**.
+▶ **Reconcile this block against the archive once the Supabase token is fixed.**

@@ -14,6 +14,11 @@ An old **museum that was once a castle**, so it retains defensive walls. Home ba
 
 ## Events
 
+- **S20 ([[Session 20 — Home Is Where the Heart Is]]) — 🆕 THE MISSING PERSONS BOARD, AND THE PARTY COMES HOME AT LEVEL 14.**
+  🔥 **A MISSING PERSONS BOARD — a feature named here for the first time.** It surfaced at the nest, not at the castle: [[Eiluned Lulu Denulie|Lulu]]'s History 14 on the lockbox photographs, *"Some of them look familiar. You're pretty sure you saw them on the missing persons list. board at the castle"*, and the scout's skeleton in the heart's chest: *"You recognize the man in there as one of the people who is in fact on the missing persons board. He was a scout who went out and never reported back in."* ⚑ **So some of the plague-doctor figure's photo victims, and the scout, are on it.** ⚑ Where in the castle it hangs is not stated.
+  🏠 **The party returns here at the close.** DM: *"we will say you just teleport to the castle."* ⚑ **Teleport method unstated** (DM convenience).
+  ⭐ **Level 14** awarded on arrival: *"Yes, you do get to level up."* ⚑ **The castle is again not described or explored.**
+
 - **S19 — 🛑 [[Deanna Smith-Wesson]] IS CREMATED IN THE COURTYARD, AND THE PARTY IS SENT OUT BEFORE THE SMOKE CLEARS.** ⭐ **The castle finally hosts the funeral it has been deferring since S14.**
   🔥 **THE COURTYARD — a new named use for this location.** The pyre is built here, *"surrounded by guards, scouts, and town folks who knew Deanna, along with her closest friends and comrades."* ⚑ **The flames burn with *"a faint violet hue, a side effect of Deanna's lingering curses"***, and *"a cold wind rolls through the courtyard, carrying ash like falling snow."* ⚠️ **The table deliberately skipped the goodbye scene; there is no in-character funeral dialogue.**
   🗺️ **THE WAR ROOM** — [[Lt. Hargraven]] is *"already sitting down waiting for you"* and delivers the nest assignment off a piece of paper: a vampire nest **outside [[The Dead Zone]]**, *"which is unusual and very dangerous for us"*, a **five-step plan**, **two scout teams** already on the perimeter, and a **two-hour march**. ⚑ **He calls the party in before the pyre has burned down.**

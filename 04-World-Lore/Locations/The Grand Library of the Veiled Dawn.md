@@ -34,6 +34,16 @@ The S10 battle nailed down the restricted section's physical layout, most of it 
 
 The fight was won on **vertical control**, not damage: elevation and separation, with line of sight as the limiting resource.
 
+## S20 — Recalled: a clean room in a house near the library
+
+Not visited. In [[Session 20 — Home Is Where the Heart Is]], after finding a spotless bathroom with a strapped, body-shaped metal table in the nest house at [[The Ruined Neighborhood (Vampire Nest)]], two PCs recalled something similar from the scouting around this library (the S08-era approach):
+
+- [[Flux]] (History 9): *"you saw something that stood out at one of the other houses… there was also a clean Clean room."*
+- [[Barrett Grimmskar]] (History + Risk Die): *"when you guys were scouting out the library and you were in one of the houses close by… a very clean room. With a very similar table."*
+- ⚖️ Asked who was present, the DM: *"No, regular Val was there."* (i.e. [[Valerian Hellebore]] before his S15–S18 captivity.)
+
+🛑 **Which house is unstated.** ⚑ It suggests the plague-doctor-mask figure behind the nest house's body table (or someone using the same equipment) has worked near the library too. **Inference, not record.** 🔥 **Open thread.**
+
 ## Status (after S11 — DEPARTED)
 
 **The party left the library in the first line of [[Session 11 — A Delightful Chase]]** and did not return. DM: *"the heavy doors groan shut behind you as you— and sealing the library's stale air away."*

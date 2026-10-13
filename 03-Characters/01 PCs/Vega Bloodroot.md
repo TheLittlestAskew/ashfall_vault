@@ -6,7 +6,7 @@
 | -------------------- | ------------------------------------------------------------------------------ |
 | **Race**             | Half-Orc                                                                       |
 | **Class**            | **Barbarian (Path of the Wild Heart) — PURE** (Rogue dip dropped on the record, S09) |
-| **Level**            | **13** as of S18 (was 5 at S01; 8 at S09; **8 → 10 in a single award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑; **12 → 13 off-screen between S17 and S18** ⚑ — again un-narrated, surfaced only in pre-session chat: *"What level are we supposed to be?"* / *"13, not 30."*) ⚠️ **S17's conflicting claim (Barrett citing level 11) is still unresolved and now compounds** |
+| **Level**            | **14** as of S20, **on the record** at session end (*"14 is what we will be up to, yes."* / DM: *"Yeah, that's right."*). Previously **13** as of S18 (was 5 at S01; 8 at S09; **8 → 10 in a single award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑; **12 → 13 off-screen between S17 and S18** ⚑ — again un-narrated, surfaced only in pre-session chat: *"What level are we supposed to be?"* / *"13, not 30."*) ⚠️ **S17's conflicting claim (Barrett citing level 11) is still unresolved and now compounds** |
 | **Signature weapon** | Greataxe — ⚑ **contested as of S11**, when she stowed it mid-combat for the brass knuckles |
 | **Animal aspect**    | **BEAR** — stated on the record S11: *"her subclass is the, uh, the Totem Warrior. Um, and she's a bear."* ⚑ "Totem Warrior" is the 2014 name for Path of the Wild Heart; the equivalence is recorded, the quote is not corrected |
 | **AC**               | **17 as of S18**, stated in play — *"with the bracers I'm at 17."* ⚑ This **closes S17's open question** about whether the bracers' **+1** was ever applied to her sheet. (Was 14, +1 bracers = 15, at S01) |
@@ -34,7 +34,16 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 
 **Personality:** small but mighty; a dry sense of humor and a deep love for underdogs and outcasts. **True Neutral**, raised to a modest life. **Bonds:** her ties to Mossmere and to Varro are unshakable; the greataxe binds her to her ancestors. **Flaws:** guilt from the siege makes her question her own judgment, and her pride can goad her into fights when she's underestimated.
 
+**Personality & Quirks (S20, from play):** breaches like *"FBI in medieval times, like checking corners"*; refuses to melee the [[Boilborn]] because *"he's gonna drip on me, it's gross"*; *"Excuse me, sir, I would like to kick your ass."*
+
 ## Inner Life & Evolution
+
+- **S20 — ⭐ LIGHTER, ONE SESSION AFTER THE CURSE LET GO.** After S19's release she fights loose and funny: *"Excuse me, sir, I would like to kick your ass."* ⚑ **Read against S16–S19 (resentment, cruelty, a sword arguing in her palm), this is the first session in five where her tone is light in play.** Her journal still notes the dread of the house, but the voice is steadier: *"I went in slow this time, though, low and quiet, checking every corner the way you check a burrow before you put your hand in it."*
+- **S20 — she led the breach, and asked for a yes she did not wait for.** She scouted alone (*"my closest impression of FBI in medieval times, like checking corners"*), backed out unseen, and asked the party to agree aloud. The DM narrated the rest: *"She turns, rages, and walks in before everybody else says yes."* Her journal owns it: *"I asked for a yes from everybody, and I think I got one, and I was through the door before I heard it."* ⚑ **Going first is still hers; asking first is new, even if the asking is partly ceremony.**
+- **S20 — she refuses the dripping thing on principle.** *"I, I'm not gonna cut this guy, he's gonna drip on me, it's gross."* ⚑ **This rhymes with S18, where she stood beside a [[Boilborn]] all night and was poisoned three times by its bursts.** She learned. Journal: *"I am not going to cut a thing that drips."*
+- **S20 — her stomach held when Val's did not.** A **natural 20** CON save on the lockbox photos while [[Valerian Hellebore]] failed. Journal: *"My stomach held. Val's did not."* ⚑ **The clean bathroom is the part she says she could not understand** (*"That part I understood. What I did not understand was the bathroom"*), and she is the one who ends the search there: *"There was nobody to help. I said so. We left."*
+- **S20 — wings at level 14.** ⭐ **Power of the Wilds** (Falcon fly speed, Lion, Ram). Her player: *"Oh hell yes! Oh, oh hell yes!"* Journal: *"The wild in me has more shapes than it did this morning: wings, the lion, the ram. I can feel them waiting."* ⚑ **The bear aspect (S11) is not mentioned this session; how the new options sit beside it is unstated.**
+- **S20 — still the target.** **~46 stated damage of the enemy's ~48**, fifth session running as the party's damage sponge; ⚠️ Rage halving never stated. She passed every save that mattered (two **natural 20s**). Journal: *"I stayed on my feet."*
 
 - **S19 — ⭐ THE CURSE BREAKS, AND SHE KEEPS THE SWORD ANYWAY. THIS IS THE ENTRY THAT MATTERS.** She has spent two sessions furious that `Voranthyr +2` would not let go of her hand. The DM ends it mid-combat, almost as an aside: *"I forgot to message you. With all 3, the curse is broken, so you, you can let it go now."* ⚠️ **She does not put it down.** Her answer is *"okay, it's the same outcome anyway"* — and she swings it for the rest of the fight. 🛑 **Her journal is where she catches herself:** *"I have spent two sessions of my life furious that this thing would not let go of me, and the moment it did, I kept hold of it. I am going to want to think about that later, when there is a later."* ⭐ **The session title works on her twice over: she was told she could let go, and she declined.**
 - **S19 — she raised the curse herself, which she has never done.** *"Oh, I still have to hold this fucking sword, don't I? We didn't get that resolved yet."* ⚑ **The resolution came because she asked for it**, not because anyone came to help. ⚠️ **And the S17 unnamed-monks thread — the whole plan for fixing this — is retired without ever being used.** The fix was collecting **three relics**: *"you got the sword, you got the greaves, and you got the—"*
@@ -90,6 +99,7 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 - Retconned a **rapier** pickup (finesse) for Sneak Attack synergy with her Rogue level; kept her honest miss rather than rerolling.
 - **Brass knuckles** homebrew pending (diamond-studded suggested); Doug shared the Pugilist class content.
 - Promised: Samothy will infuse her axe with **Returning Weapon** ("If you get to the point where you can infuse my weapon with some sort of haste, I'll give you everything").
+- **S20 — Level 14: Power of the Wilds** (Path of the Wild Heart), read aloud at level-up: **Falcon** (fly speed), **Lion**, **Ram**. *"I got Power of the Wilds, so I have new rage powers."*
 
 ## Items
 
@@ -98,8 +108,15 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 - **Brass knuckles / gauntlets with the [[The Sun Shard|Sun Shard]]** — informally "Solar Fist." ⚑ **Damage profile finally clarified S11:** base **psychic** (DM: *"purple psychic. Purple is psychic"*) **plus an extra d6 radiant** from the Sun Shard, built into the gauntlets by [[Samothy Smith-Wesson]]. Max normal damage stated as **11**. ⚑ The item's canonical name is still unsettled — "Solar Fist" is the S08 glossary label, never used in play since.
 - **Double fist warhammer** — ⏳ *commissioned from [[Bobby]] in S11, NOT acquired.* ⚑ "Double fist" = two-handed, or a paired set? [[Samothy Smith-Wesson]] has offered to infuse it.
 - **161 gp 90 sp** — her share of the S11 split.
+- **The relic set (S20):** DM: *"You should have the complete set now"* / *"You have the gauntlet, you have the sword."* / *"And the shard. You have all 3 pieces."* Radiant **2d8, doubled vs vampires**. 🛑 **CONFLICT, unresolved:** the DM names **gauntlet + sword + shard**; her player said *"And the breastplate"* this session; S19 named *"the sword… the greaves… the—"*. **Ask the DM; not resolved here.**
 
 ## Key Events
+
+- **S20: SHE LED THE BREACH, AND THE NEST'S HEART DIED.** ⭐ Scouted the collapsed house alone (**Perception 19, Stealth 23**), spotted a [[Boilborn]] and a vampire thrall unseen, backed out, asked for a yes, and *"rages, and walks in before everybody else says yes."* ⚔️ **First swing killed the thrall** with the relic set's doubled radiant (*"double 8s"*). Refused to melee the Boilborn: *"he's gonna drip on me, it's gross."* **~46 stated damage taken** (15 + 8 + 9 + 10 + 4), ⚠️ Rage halving unstated; a **natural 20** save kept her off the floor and she won the second slam contest.
+  🛑 **Relic set conflict:** DM says gauntlet + sword + shard (*"all 3 pieces"*); her player said breastplate; S19 said greaves. **Unresolved.**
+  ⚖️ She started at full HP (DM ruling). Searched the **clean bathroom** and found the strapped body table; **natural 20** CON save on the lockbox photos; failed the heart's INT save (**7**, 6 psychic) and crumpled with [[Barrett Grimmskar]] and [[Flux]].
+  ⚑ On the missing [[The Beast Master|Beast Master]]: *"I definitely did not see a weakling vampire. Who I could smash with my bare hands?"* / *"Maybe they can loan out their beasts to other people."*
+  ⭐ **Level 13 → 14** on the record; **Power of the Wilds** (Falcon fly speed, Lion, Ram).
 
 - **S19: THE CURSE IS BROKEN — AND SHE KEEPS THE SWORD.** ⭐ **`Voranthyr +2` lets go of her hand for the first time since S17.** The DM, mid-combat: *"I forgot to message you. With all 3, the curse is broken, so you, you can let it go now."* ⚑ **The mechanism was collecting three relics** — *"you got the sword, you got the greaves, and you got the—"* (cuts off). ⚠️ **She kept swinging it:** *"it's the same outcome anyway."* 🛑 **The S17 unnamed-monks thread is retired without ever being used.**
   ⭐ **She delivered the campaign's fullest [[The Beast Master|Beast Master]] lore** — off [[Samothy Smith-Wesson]]'s History 13, at her own player's request, with the DM's *"Sounds fair."* **Frail, weak, not a beast, telepathically bonded to six trained thralls that scatter if he dies.**
@@ -177,6 +194,13 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 > "the 3 relics. I can't drop it, right? So I have to use it." *(S19)*
 > "Oh, word. Okay, well then, uh, not— okay, it's the same outcome anyway." *(S19 — ⭐ told she can finally let the sword go, and keeping it)*
 > "What's that area of effect spell right there? Is it going to hurt me?" / "can I go in there without being harmed?" *(S19 — walking into [[The Ruined Neighborhood (Vampire Nest)|"the beating heart of the hive"]])*
+> "Nasty. All right, um, Vega gonna do her closest— or my closest impression of FBI in medieval times, like checking corners and stuff when she walks in." *(S20 — the breach)*
+> "Excuse me, sir, I would like to kick your ass." *(S20)*
+> "I, I'm not gonna cut this guy, he's gonna drip on me, it's gross." *(S20 — refusing the [[Boilborn]])*
+> "Let's get the fuck out of here." *(S20 — leaving the clean bathroom)*
+> "I definitely did not see a weakling vampire. Who I could smash with my bare hands?" *(S20)*
+> "Maybe they can loan out their beasts to other people." *(S20 — on the missing [[The Beast Master|Beast Master]])*
+> "Oh hell yes! Oh, oh hell yes! I got Power of the Wilds, so I have new rage powers." *(S20 — player, level 14)*
 
 ## Relationships
 
@@ -191,3 +215,4 @@ And then, in a glade where moonlight pooled like water, she met a **demigod**: a
 - [[Eiluned Lulu Denulie|Lulu]] — **S16:** woke her on watch and got instant tactical competence back; cast **Pass Without Trace** on her for the trap floor. ⚠️ Vega then watched her entangle, disable and Inflict Wounds on a party member, and try to buy him from his employer.
 - The party — **S16:** 🛑 **first real fracture.** She dissented from the interrogation out loud, complied physically anyway, and was ignored. *"I am the fist. I have never once been the one who decides where it lands."*
 - Party — settling into front-line anchor + sass lead.
+- Party — **S20:** she led the breach and asked for a group yes before going in (then went in before hearing it). Lighter in tone than in S16–S19.

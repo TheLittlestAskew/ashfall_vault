@@ -229,17 +229,75 @@ The closing boxed text, which **runs out mid-sentence**:
 
 ⚑ **[[Deanna Smith-Wesson]]'s cremation burned with *"a faint violet hue, a side effect of Deanna's lingering curses."*** 🛑 **The seven fused curses that killed her in S14 were still active in her corpse five sessions later**, and made themselves visible only in fire. ⚠️ **First physical manifestation of a curse in this setting outside of its mechanical effects.** ⚑ **Bears on the standing question of whether purity filters work on a corpse, which the DM still owes a ruling on.**
 
+## ⭐ A sun goddess, named: Auriona ⚑ *(S20)*
+
+⭐ **The DM names [[Valerian Hellebore]]'s patron**, summoned by Contact Other Plane in the nest's heart room:
+
+> *"Her name is Aurorna— Aurorna— Auriona. Sorry, my bad. Auriona is her name. She is the goddess of sun for the area. She is the patron for, uh, Val."*
+
+- 🆕 **The setting's first named sun deity, and the first deity tied to a PC as a patron.** *"the goddess of sun for the area"*: ⚑ **"for the area" implies a regional scope; nothing else about her domain was stated.**
+- 🆕 **She has a personality on the record:** caught *"when she was doing her hair"*, *"not pleased that you have contacted her but is willing to answer your questions anyways."* To Val's flattery: *"Yes, flattery gets you everywhere. What do you need?"*
+- 🆕 **Her advice on the heart:** *"Like you would any heart. Stab your sword through it over and over till it starts— stops beating."* Her warning: *"Just, uh, be careful because it could summon vampires or other creatures. We— with these hearts, they're known to go feral."*
+- 🛑 **SPELLING HELD.** Seven renderings in one session: `Aurorna` (DM), **`Auriona`** (DM, final), `Arona` (Val), `Orona`, `Ronia`, `Aurona's Blessing`, `Morona's`. **The vault page stays at [[Arona]] until the DM rules.**
+- ⚑ **Answers S18's "who is Arona?" and S19's "who is Val's patron?" in part.** 🛑 **How and when the pact formed is still unstated.**
+- ⚑ **[[Old Shrine]] already records an "Aurona", a goddess whose blessing was on [[Deanna Smith-Wesson]].** Possibly the same deity. **NOT MERGED.** The S16 `Book of Varona` link also stays **unassumed**.
+- ⚠️ A garbled line in the middle of the scene (*"I don't know how I feel about this, but contact the imp"*) **is not attributed to her.**
+
+## Nest hearts *(S20)*
+
+⭐ **The nest house held *"a giant flesh heart"*, and the party killed it.** The DM: *"it is just a big Ball of what looks like rotten flesh. It is bright red and it pulsates like a beating heart."*
+
+- 🆕 ⭐ **NOBODY HAD GOT THIS FAR BEFORE.** DM narration: *"no one has actually made it this far into a nest, so no one knows what to do."* **The party's knowledge of nest hearts is now first-hand and unique in the setting.**
+- 🆕 **What it is, per the DM:** *"I don't know, it's homebrew. I classified it as a giant flesh heart."* / *"It's Not like a sentient being… but it is technically alive, but it's stationary."* / *"I don't think it's a creature."* / *"it doesn't have like an official stat sheet for me. I just have notes."* ▶ Mechanics in [[Homebrew Abilities]]; rulings in [[House Rules & Rulings]].
+- 🆕 **Psychic pressure.** Felt through the whole upper floor: *"you can feel the pressure beating around you like it's a heartbeat"*, *"just this Pressure in your brain, just like, like someone's just squeezing it slowly."* In the room, an INT save; three PCs failed: *"it's caused you to crumple over, bend over at the waist, and put your hands on your head… you 3 take 6 psychic damage."*
+- 🆕 **What killed it, and what didn't.** Fire was off the table (*"it's too wet to burn it with fire"*). ⚖️ **It cannot make CON saves** (*"It's not a living creature"*): **Contagion** dealt 39 and only enraged it (*"it starts beating harder and faster… Blood shoots out"*). **Light and radiant finished it**: Daylight, Blinding Radiance and Valerian's 168-radiant "Aurona's Blessing" ⚑. *"The heart beats and beats and then just stops, and it withers… it's wrapped around a chest."*
+- 🆕 **What it was wrapped around:** a chest holding **the skeleton of a missing scout** from [[Lt. Hargraven]]'s command (missing an arm, a leg and an eye).
+- 🛑 **A RUMOUR, NOT A FACT: hearts grow from atrocity.** [[Lt. Hargraven]]: *"If this is here, then the rumor about hearts growing where something traumatic happens, evil and traumatic happens, is where they form. Then that changes a lot of things around us."* / *"So the rumor is that the hearts grow from Great evil, and the greater the evil, the bigger the heart."* ⚠️ **Labelled a rumour on the record. The DM does not state that the scout caused this heart.**
+- ⚑ **After it died, thralls and beast thralls were seen *"running around outside, scrambling, running away."*** Consistent with S19's scatter lore. **Cause and effect not stated.**
+- 🛑 **IS THIS THE S19 *"NEST CORE"* / *"BEATING HEART OF THE HIVE"*?** Very likely. **The DM never says so. NOT MERGED.**
+
+## The plague-doctor-mask figure *(S20)*
+
+🛑 **Someone lives in the nest house who studies how vampires die.** The evidence is all objects; **the occupant is never seen.**
+
+- 🆕 **The lockbox photographs:** *"pictures of people strapped down into a table with someone in a plague doctor mask. With a scalpel. Um, the next pictures are blood being drained from the body… And further in, you know, you find pictures where It is not a human in the table, but a vampire… certain cuts were made, limbs were removed to see how and how long a vampire could live. Very science-y."*
+- 🆕 **The notes on the backs record capture methods:** *"drained blood from victim, found this victim in the street, uh, this victim was part of a patrol but broke off and I subdued him that way."*
+- 🆕 **The house around it:** unused medical scalpels, medical textbooks marked for incisions, *"a big table, big metal body-sized table in there with the straps hanging down on the side"* in the only clean room, and an insulated chest holding **three vampire heads** kept by a chest-bound ice spell (*"Makeshift freezer"*).
+- ⚑ **Motive, per [[Eiluned Lulu Denulie|Lulu]]'s History roll (DM narration):** *"as far as ritualistic shit goes, there's none of that. This looks more like done for pleasure."*
+- 🔥 **Possibly not the only site.** [[Flux]] and [[Barrett Grimmskar]] recall *"a very clean room. With a very similar table."* in a house near [[The Grand Library of the Veiled Dawn|the library]]. ⚑ **Which house is unstated.**
+- 🛑 **No name, no face, no stated motive beyond the History read.** ⚠️ The table's *"vampire sex predator ring"* is **a joke, not a finding.**
+
+## The castle's missing persons board *(S20)*
+
+🆕 **[[The Walled Base (Museum-Castle)]] keeps a missing persons board.** First named this session, via Lulu's History roll on the photos: *"Some of them look familiar. You're pretty sure you saw them on the missing persons list. board at the castle."*
+- ⚑ **The scout in the heart is on it:** *"He was a scout who went out and never reported back in."* [[Lt. Hargraven]]: *"There was no blood anywhere in the area where he was supposed to be… It's almost as if he was just picked up and disappeared."*
+
+## The Sisters of Light ⚑ *(S20)*
+
+🆕 **Religious figures, known only from a book** in the nest house's library. The DM: *"books on like religious figures. Like there's one about the Arona Sisters. Sorry, the Sisters of Light is what they're called."*
+- ⚑ **The slip to "Arona Sisters" is recorded verbatim.** 🛑 **A link to Auriona is NOT inferred.** [[Flux]] took every book in that library, so the text may surface later.
+
 ## Geography (known)
 
-- [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)*
+- [[The Walled Base (Museum-Castle)]] — the party's home base. ⚑ proper name unknown. *(S01)* **S20: has a missing persons board.**
 - [[Ruined City District]] — the city beyond the base's main gate. ⚑ city name unknown. *(S01)*
 - [[The Dead Zone]] — the ruined ground between [[The Grand Library of the Veiled Dawn]] and [[The Walled Base (Museum-Castle)]]. Silent, ash-and-mud, **partly on fire**, patrolled by vampires. Glossary line: *"Where Saint Ardas stands; no one returns."* ⚑ Extent undefined; ⚑ proper name unconfirmed. *(named earlier, first fully traversed S11)* **S18: trees that *"twist like broken ribs"*; crossed on foot to reach the tower.**
-- [[The Ruined Neighborhood (Vampire Nest)]] ⚑ **descriptive name — never named in fiction.** *(S19)* A **destroyed residential block OUTSIDE [[The Dead Zone]]**, a **two-hour march** from the castle. *"Houses are collapsed inward, roofs caved, windows shattered. Overgrown vines and dead brush choke the streets."* At its centre, a **collapsed two-storey house** with **a faint red glow pulsing** from it, containing an area the DM calls ***"the beating heart of the hive."*** 🛑 **The house was never entered. Direction from the castle was never given.**
+- [[The Ruined Neighborhood (Vampire Nest)]] ⚑ **descriptive name — never named in fiction.** *(S19)* A **destroyed residential block OUTSIDE [[The Dead Zone]]**, a **two-hour march** from the castle. *"Houses are collapsed inward, roofs caved, windows shattered. Overgrown vines and dead brush choke the streets."* At its centre, a **collapsed two-storey house** with **a faint red glow pulsing** from it, containing an area the DM calls ***"the beating heart of the hive."*** 🛑 **The house was never entered. Direction from the castle was never given.** **S20: breached, cleared and searched.** Ground floor: study, kitchen, storage, a spotless bathroom with a body table, master bedroom, living room. Upstairs: storage, guest room, library, bedrooms, and the heart room. ✅ **The heart is destroyed.** ⚑ Direction from the castle still never given.
 - [[The Cliffside Tower]] ⚑ **descriptive name — never named in fiction.** *(S18)* A **granite** tower on a cliffside **above the ocean**, reached on foot through [[The Dead Zone]]. Built as a **lighthouse**, repurposed as a **fort outpost tower for defence during war** ⚑ *(which war is not stated)*. **Two levels**, winding staircase, ⚠️ **110 ft stated / 120 ft used**. Held [[Valerian Hellebore]] for three weeks. ⚑ **Direction and distance from the castle were never given.**
 - A north–south axis exists with scouting reports tracking vampire captains "way north." *(S01)*
 
 ## Open Questions
 
+- 🛑 **HOW IS THE PATRON SPELLED: `Auriona`, `Arona`, OR `Aurona`?** Seven renderings in S20; the DM's final was *"Auriona"*. **Gates the [[Arona]] page rename and four spell-check rows.** ⚑ **Is she the [[Old Shrine]]'s "Aurona"?** Not merged. *(S20)*
+- 🛑 **HOW AND WHEN DID [[Valerian Hellebore]] MAKE HIS PACT WITH AURIONA?** The patron is named; the origin is not. *(S20)*
+- 🛑 **IS THE "GIANT FLESH HEART" THE S19 "NEST CORE" / "BEATING HEART OF THE HIVE"?** Very likely; never stated. **NOT MERGED.** *(S20)*
+- 🛑 **WHO IS THE PLAGUE-DOCTOR-MASK FIGURE?** Tortures humans and vampires, studies how long vampires survive dismemberment, keeps photographs. **Unnamed, unseen.** *(S20)*
+- 🛑 **WHICH HOUSE NEAR THE LIBRARY HAD THE OTHER CLEAN ROOM?** *"a very clean room. With a very similar table."* *(S20)*
+- ⚑ **Is the heart-origin rumour true?** *"the greater the evil, the bigger the heart."* Labelled a rumour by [[Lt. Hargraven]]. **Did the scout's death grow this heart?** Not stated. *(S20)*
+- ⚑ **Can a heart really *"summon vampires or other creatures"*?** Auriona's warning; nothing was summoned on the record. *(S20)*
+- ⚑ **Who are the Sisters of Light, and why did the DM first call them *"the Arona Sisters"*?** *(S20)*
+- ⚑ **Where was the Beast Master for the S20 beast thrall?** Nobody saw one, including [[Lt. Hargraven]]. [[Vega Bloodroot]]: *"Maybe they can loan out their beasts to other people."* *(S20)*
+- ⚑ **The three relics, again.** S20 adds a third version: the DM says *"You have the gauntlet, you have the sword."* … *"And the shard. You have all 3 pieces."*; [[Vega Bloodroot]]'s player says *"And the breastplate."* Against S19's *"the sword… the greaves… the—"*. *(S20)*
 - 🛑 **WHAT ARE THE THREE RELICS, BY NAME?** *"you got the sword, you got the greaves, and you got the—"* **cuts off.** Collecting them broke [[Vega Bloodroot]]'s sword curse. ⚠️ **Bears directly on the S16/S17 `Grieveflame` / `Flame Greaves` vs `Gauntlets of Burning Grasp` conflict — three SEPARATE items is now the working read.** **DO NOT RESOLVE THE GLOSSARY FROM THIS ALONE.** *(S19)*
 - 🛑 **IS *"THE BEATING HEART OF THE HIVE"* THE SAME THING AS THE *"NEST CORE"*?** Two phrases, one scene apart, same objective area. **NOT MERGED.** *(S19)*
 - 🛑 **WHAT WAS THE UNEXPLAINED CONSTITUTION CHECK FOR?** *"It's not a save yet."* **The word *"yet"* is the most likely hidden mechanic in the session.** *(S19)*

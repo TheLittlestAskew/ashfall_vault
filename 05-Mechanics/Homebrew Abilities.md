@@ -39,6 +39,17 @@ tags: [mechanics, homebrew, house-rules]
 
 ---
 
+### Added S20
+
+| Ability | Owner | What it does | Source |
+|---|---|---|---|
+| **The giant flesh heart** ⚑ | The nest *(not a creature)* | ⭐ **The DM's own homebrew, no stat block:** *"I don't know, it's homebrew. I classified it as a giant flesh heart."* / *"it doesn't have like an official stat sheet for me. I just have notes."* / *"It's Not like a sentient being… but it is technically alive, but it's stationary."* **Observed:** psychic pressure (INT save; on a fail *"crumple over… you 3 take 6 psychic damage"*, ⚖️ not immobilising); ⚖️ **no CON saves** (*"It's not a living creature"*), so Contagion landed for 39 and only enraged it; *"too wet to burn it with fire"*; died to light and radiant (Daylight, Blinding Radiance, "Aurona's Blessing"). Auriona: *"it could summon vampires or other creatures"* (never observed). ⚑ **Probably S19's "nest core"; not merged.** Lore in [[Setting Primer]] | S20 |
+| **"Aurona's Blessing"** ⚑ | [[Valerian Hellebore]] | 🛑 **NAME HELD (spell-check row 29); spelling follows the patron question.** **12d12 radiant, 168 rolled**, on the heart; the killing blow alongside Daylight and Blinding Radiance. Followed by a CON save he passed on a natural 20 (*"I truly am Morona's chosen"*, row 30 held). ⚑ **Not an official spell name.** ⚠️ **S18 recorded a promised *"12d12"* custom spell, recipient unknown. This matches the dice. NOT ASSUMED to be the same spell; the S20 note records no connection** | S20 |
+| **Bacterial Barrage** ⚑ | [[Eiluned Lulu Denulie\|Lulu]] | 🛑 **SPELLING HELD (row 4); once rendered `Spectral Barrage`.** Attack spell: **24 to hit, 18 damage**, killed the [[Boilborn]]. **Damage type, level and range not stated** | S20 |
+| **Magic Bullet** ⚑ | [[Barrett Grimmskar]] | New at level 14, from *"third-party classes"*. **Name only; no text read on the record** | S20 |
+
+---
+
 ### Added S18
 
 | Ability | Owner | What it does | Source |

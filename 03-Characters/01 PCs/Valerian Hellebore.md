@@ -16,7 +16,7 @@
 | ------------------- | ----------------------------------------------------------- |
 | **Race**            | Elf                                                         |
 | **Class**           | 🛑 **WARLOCK (Celestial Patron) — CHANGED S19.** *"Yeah, I forgot **I'm no longer a druid**."* **Zero druid levels on his synced sheet.** ⚠️ **No in-fiction explanation exists.** *(Was: Druid, Circle of the Land, S01–S18)* |
-| **Level**           | ✅ **13 — CONFIRMED S19** on his synced sheet (Warlock 13), closing a flag open since S16. ⚠️ **How he levelled from 10 to 13 while captive was never narrated.** *(Was: ⚑ [Unknown/Ambiguous] — 10 as of S10; the party reached 12 in S16 and 13 in S18, all while he was held)* |
+| **Level**           | ✅ **14 as of S20**, on the record at session end (party-wide 13 → 14). *(Previously:)* ✅ **13 — CONFIRMED S19** on his synced sheet (Warlock 13), closing a flag open since S16. ⚠️ **How he levelled from 10 to 13 while captive was never narrated.** *(Was: ⚑ [Unknown/Ambiguous] — 10 as of S10; the party reached 12 in S16 and 13 in S18, all while he was held)* |
 | **Status**          | ✅ **ALIVE AND BACK IN THE INITIATIVE ORDER (S19)** — his first turns since S14. 🛑 **CHANGED TWICE OVER:** new appearance, new voice with an accent (S18), and **a different class entirely** (S19). **Unaware anything is different, and nobody has asked him.** *(Was: CAPTIVE S16–S18, held in [[The Cliffside Tower]])* |
 | **Signature magic** | 🛑 **[[Eldritch Blast]]** (120 ft, three beams) · **Pact Weapon** — *"a blazing dawnlit sword"*, **necrotic / psychic / radiant** · **Mage Armor** · **Tasha's Bubbling Cauldron** · ⚑ **[[Blaze]]**, a pseudo-dragon familiar · **Elven Accuracy** · Weapon Mastery (rapiers). *(Was, as a druid: Starry Wisp · Moonbeam · Spiny Shield ⚑ homebrew reaction)* |
 | **Languages**       | Common, Druidic, Elvish, Goblin                             |
@@ -29,10 +29,16 @@
 - **Spiny Shield** (⚑ spelling/source unconfirmed): reaction; ethereal spike barrier; reduces incoming damage by 2d4 and reflects the same to the attacker.
 - Won the boot-camp **Perma Inspiration** ("teacher's pet" — seated alone at graduation); spent it S01 on a DM-prompted d20 (rerolled a 2 into a 4 — "missed the vital organs").
 - Already teasing **Call Lightning** at level 5: "Do you know what happens to a vampire when it's hit by lightning? The same thing that happens to everything else."
+- **S20 — Level 14: Searing Vengeance**, read aloud at level-up. ⚑ A party-wide death-save safety net per the S20 Archivist Notes.
+- **S20 — "Aurona's Blessing"** ⚑ (name held, spell-check row 29; spelling tied to the patron question) — **12d12, 168 radiant** on the flesh heart, the finishing blow alongside Daylight and Blinding Radiance. Followed by a **natural 20** CON save (*"I truly am Morona's chosen"*, ⚑ row 30 held).
+- **S20 — Pact weapon radiant.** His rapier hits deal radiant *"because it's a pact weapon"*, doubled vs vampires; **Vex** mastery for advantage.
 
 ## Items
 
 Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-hook bracers · quarterstaff, pistol — see [[Loot Tracker S01-S10]].
+
+- **Tiger's eye** (cut gem) — **S20**, a gift from [[Eiluned Lulu Denulie|Lulu]], *"a peace offering."* See [[Loot Tracker S11-S20]].
+- ⚑ **S20:** found an **emerald and jade** in the kitchen search; **holder not stated**. Handed the guest-room medical book(s) to [[Flux]].
 
 ## Description / Appearance — 🛑 CHANGED S18
 
@@ -50,6 +56,8 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 - ⭐ **He is the moral centre of the closing scene.** He does not lead with his own three weeks on a rack. He leads with the fact that **nobody has grieved [[Deanna Smith-Wesson]]** — *"I don't think we've even really grieved over it"* — and with sustained horror that her body is in a bag. 🛑 **He is the first character in four sessions to treat the corpse as a person rather than a logistics problem**, and the party is visibly on the back foot for it.
 - ⚑ **He forgives instantly and without performance:** *"Yeah, it did, but you're here now, and I guess that's all that counts."*
 - ⚑ **Minutes off the rack, he asks about flowers.** *"Well, at least you came when you were alive. Where'd you guys get those crowns?"*
+- **S20 — weak stomach.** Failed the CON save on the lockbox photos: *"you feel faint. And maybe a bit queasy."* [[Samothy Smith-Wesson]]: *"someone's got a weak stomach."*
+- **S20 — courtly flatterer to his goddess.** *"Apologies, Lady Arona. Beautiful as ever, even with your hair. Not fully done."* He dismisses her politely to avoid her *"getting upset at me."*
 
 ## 🛑 The Warlock Question — NEW S19, UNRESOLVED
 
@@ -79,12 +87,29 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 
 ▶ **DM questions raised by this, all open:** Is the rebuild diegetic? · Who is the Celestial patron, and is it [[Arona]]? · When and how did the pact happen — during the three weeks in [[The Cliffside Tower]], or off-screen? · Does [[Valerian Hellebore]] know? · **Does the party?**
 
+### ⭐ S20 update — the patron is named (DM-stated)
+
+- **The DM named his patron in play.** Summoned by **Contact Other Plane** in the heart room: *"Her name is Aurorna— Aurorna— Auriona. Sorry, my bad. Auriona is her name. She is the goddess of sun for the area. She is the patron for, uh, Val."*
+- 🛑 **Spelling unresolved:** **Auriona** (DM's final) / **Arona** (Val, S18; vault page [[Arona]]) / **Aurona** (Old Shrine page; "Aurona's Blessing"); seven renderings on the record. **The [[Arona]] page is NOT renamed until the DM rules.** ⚑ Possible tie to the Old Shrine's "Aurona" goddess is **not merged.**
+- ✅ **This answers "Who is the Celestial patron, and is it [[Arona]]?"** in substance: a sun goddess, and Val addresses her as *"Lady Arona."* ⚠️ **Still open:** whether the rebuild is diegetic as a class change, **when and how the pact formed** (still unstated), and whether the party knows what they saw.
+- She was annoyed at being caught doing her hair, answered anyway (*"Yes, flattery gets you everywhere. What do you need?"*), advised stabbing the heart, and warned hearts *"could summon vampires or other creatures."*
+
 ## Family & Backstory (revealed S02)
 
 - Home village: **[[Hampshire]]**, just outside the fort. **Both parents killed in the S01 attack** — found mauled (beast thrall) in his childhood home, S02. Deanna covered the bodies with blankets; Zelda draped one over him and hauled him out by the finger; the grief turned to "seething rage."
 - Won the boot-camp **training competition** ("the magic of loopholes" — teleported through the obstacle course); holder of the **Perma Inspiration**.
+- **S20 — his patron is Auriona, a sun goddess (DM-stated).** *"She is the goddess of sun for the area. She is the patron for, uh, Val."* 🛑 Spelling unresolved (Auriona / Arona / Aurona); see [[Arona]]. ⚠️ **How the pact formed is still unstated**; the class-change question stays in *The Warlock Question* above.
 
 ## Key Events
+
+- **S20: HE CALLED HIS GODDESS, AND THE HEART DIED TO HIS LIGHT.** ⭐ **The DM named his patron: Auriona, *"the goddess of sun for the area."*** 🛑 Spelling unresolved; [[Arona]] page not renamed. **How the pact formed is still unstated.** See *The Warlock Question* (S20 update).
+  ⚔️ Muted for ~3 minutes on his first turn, then **three radiant rapier hits** in round 1 (13, 10, 9) and **three more on the beast thrall** in round 2 (24, 16, 20, doubled). *"As I'm just slicing and dicing, carving and marvin'."* An enemy hit him for **2**.
+  ⚑ Searched the **kitchen** (15, with [[Barrett Grimmskar]]'s help): emerald, jade, remains, *"an eyeball in a jar."*
+  🛑 **Failed the CON save on the lockbox photos** (faint, queasy); [[Eiluned Lulu Denulie|Lulu]] called a breeze and [[Samothy Smith-Wesson]] cast **Heroism** on him (4 temp HP): *"Now you're brave. Be brave, boy."*
+  ⭐ **[[Eiluned Lulu Denulie|Lulu]] gave him the tiger's eye as a peace offering**; he answered *"You have your moments."*
+  ⭐ **The heart:** passed the INT save (21), cast **Contact Other Plane** (DM's d20 not stated), then **"Aurona's Blessing"** ⚑ for **168 radiant** with Lulu's Daylight and [[Zelda Z Whipper|Zelda]]'s Blinding Radiance. *"The heart beats and beats and then just stops, and it withers."* **Natural 20** CON save after.
+  ⚑ Rolled Insight on [[Lt. Hargraven]] (8, then better): *"He has not seen the Beast Master."*
+  ⭐ **Level 13 → 14**; **Searing Vengeance**.
 
 - **S19: BACK IN THE INITIATIVE ORDER FOR THE FIRST TIME SINCE HIS CAPTURE — AS A DIFFERENT CLASS, AND LOUD ABOUT EVERYTHING EXCEPT THAT.** ⭐ **His first turns since S14, and he made more attack rolls than any PC: 9 attacks, 8 hits.**
   🛑 **THE CLASS CHANGE.** See *The Warlock Question* above. **Stated four ways, confirmed on his sheet, remarked on by nobody.**
@@ -154,8 +179,15 @@ Cloak of Fashion — the witch Florence's cloak (graduation item) · grappling-h
 > "That is a horrifying image." *(S18)*
 > "The flower crowns you're wearing, darling. Where'd you pick those up?" *(S18 — asking after his own dissipated magic)*
 > "Before they leave, Eldritch Blast!" *(S18 — his first act as a free man)*
+> "As I'm just slicing and dicing, carving and marvin'." *(S20)*
+> "You have your moments." *(S20 — accepting [[Eiluned Lulu Denulie|Lulu]]'s tiger's eye)*
+> "Apologies, Lady Arona. Beautiful as ever, even with your hair. Not fully done." *(S20 — to his patron, Auriona ⚑ spelling held)*
+> "I'd shield your eyes if I was you." *(S20 — before "Aurona's Blessing")*
 
 ## Relationships
 
 - Table's profanity co-champion and chaos agent (sticker wars with the DM).
 - Clear-eyed about the Beast Tamer threat despite the jokes.
+- [[Eiluned Lulu Denulie|Lulu]] — ⭐ **S20:** she gave him the **tiger's eye as a peace offering**: *"I thought maybe it could be a peace offering. You seem to be not the biggest fan of me."* / *"Who gave you that idea?"* / *"Just call it intuition."* / *"You have your moments."* ⚑ **This is the first real exchange between the two; the S15 hostility was [[The Doppelganger]]'s.** His player, after a Prestidigitation fart at her expense: *"Feel kind of rude about that now."*
+- [[Samothy Smith-Wesson]] — **S20:** cast **Heroism** on him after he failed the photo CON save (*"Now you're brave. Be brave, boy."*), and teased him (*"someone's got a weak stomach"*).
+- **Auriona** ([[Arona]], ⚑ spelling held) — **S20:** his patron, *"the goddess of sun for the area"* (DM). Courtly and flattering with her; she is put out but helpful (*"flattery gets you everywhere"*).

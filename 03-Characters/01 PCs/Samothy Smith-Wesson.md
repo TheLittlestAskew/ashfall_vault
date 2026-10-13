@@ -6,7 +6,7 @@
 | --------------------- | ----------------------------------------------------------------------------------------- |
 | **Race**              | Half-Elf                                                                                  |
 | **Class**             | Artificer (Battle Smith) / Ranger                                                         |
-| **Level**             | **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
+| **Level**             | **14** as of S20, on the record at session end (party-wide 13 → 14; ⚑ the 12 → 13 step at S18 was never recorded on this page). *(Previously:)* **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature weapons** | Pistol (mastery — Vex) · Enspelled semi-automatic · Parlor Gun (⚑ "Peter Pistol"/"Tanya") |
 | **AC**                | 17 ("I can add 5 to my AC at any time, bud. Try me.")                                     |
 | **Family**            | Older twin of [[Deanna Smith-Wesson]]                                                     |
@@ -19,12 +19,26 @@
 - **Infusions** (3 known, 2 active at current level): Returning Weapon (+1, returns after ranged throw — promised to Vega's axe), Repeating Shot (+1, ignores loading), magical-strength armor; **Replicate Magic Item: Bag of Holding** (needs any bag).
 - Infusion logistics ruled S01: item goes to party inventory → he infuses → owner takes it back and attunes.
 - Bonus-action: **Hunter's Mark**.
+- **S20 — psychic blade** with **Returning Weapon**, thrown twice in one turn (8 slashing + 5 psychic; then max 10). ⚖️ **Hunter's Sense** ruled not to apply to the flesh heart (not a creature). **Heroism** on [[Valerian Hellebore]] (4 temp HP). ⚠️ No level-14 feature was read aloud for him in the session note.
+- **S20 — Personality & Quirks (player):** *"My Con is dogshit"*; keeps the head-freezer chest because *"Trying to think of some things I can do with it."*
 
 ## Items
 
 The "Power Pole" (graduation stick) · grappling-hook bracers · Enspelled semi-automatic pistol · Parlor Gun (concealed one-shot) · smith's tools — see [[Loot Tracker S01-S10]].
 
+- **S20 — unlocked lockbox of photographs** (the plague-doctor-mask figure's torture photos, with notes on the backs). In the **bag of holding**: *"We'll put this case in the bag of holding."*
+- **S20 — insulated metal chest with 3 vampire heads.** Chest-bound ice spell (*"Makeshift freezer"*), ~7 lb, carriable. ⚑ **Taken by implication** (*"Trying to think of some things I can do with it"*); not explicitly stated.
+- ⚑ **S20 — gems found on his searches, holder not stated:** emerald, amethyst, garnet (master bedroom); malachite, moonstone, aquamarine (upstairs storage). See [[Loot Tracker S11-S20]].
+
 ## Key Events
+
+- **S20: HE FOUND THE PHOTOS AND THE HEADS, AND KEPT BOTH.** ⚔️ Shot the [[Boilborn]] in round 1 (24 for 11; a **Lucky-point** reroll turned a 15 into 17 for 14). Round 2: **psychic blade** with Returning Weapon into Vampire Thrall C, twice, the second for max **10**: *"Oh, he's dead."*
+  🛑 **Master bedroom** (14, advantage with [[Mr. Cat]]): emerald, amethyst, garnet, and under the bed **an unlocked lockbox** of photos of a plague-doctor-mask figure cutting up humans and then vampires. CON save a *"dirty 20."* Stowed it in the bag of holding.
+  ⭐ **Cast Heroism on [[Valerian Hellebore]]** after Val failed his save: *"Now you're brave. Be brave, boy."*
+  🛑 **Upstairs storage, natural 20:** a sweating metal chest holding **three vampire heads**, each missing one tooth, taken while alive. CON 16; Arcana natural 1 → 15 (*"some kind of Spell"*); [[Eiluned Lulu Denulie|Lulu]] identified the chest-bound ice spell. He kept it: *"Trying to think of some things I can do with it."*
+  ⚖️ **Hunter's Sense** ruled not to apply to the heart. INT save **12** (⚑ not listed as failing; Flux failed on the same total).
+  ⚑ **[[Deanna Smith-Wesson]]'s curses set at 7** by the DM this session (*"That's Madi's favorite number"*).
+  ⭐ **Level 13 → 14.**
 
 - **S19: HE ASKED FOR HIS SISTER'S PYRE AND THEN REFUSED TO PERFORM HIS GRIEF FOR ANYONE.** ⭐ **[[Deanna Smith-Wesson]] is cremated in the castle courtyard at his request** — closing a thread open since S14. The DM's boxed text has him *"stiff, jaw clenched, refusing to cry."*
   🛑 **AND HE REFUSED THE SCENE THREE TIMES, UNDER AN INSPIRATION BRIBE.** The DM offered **table-wide inspiration** if he would play the goodbye (*"Inspiration for everybody if he gets this nailed, right?"*); the answers were *"Good luck getting that roleplay out of me"*, *"Because I refuse to cry"*, and *"Yeah, I don't think I could act out this scene at all."* The DM **withdrew it and inverted it** — *"oh no, everyone gets disinspiration then… No, we'll add a minus d20"* ⚑ **which was never applied to anything.**
@@ -68,8 +82,12 @@ The "Power Pole" (graduation stick) · grappling-hook bracers · Enspelled semi-
 
 > "If you can bleed, you can die." *(S01)*
 > "Oh hell yeah, hell yeah, dead dead. That's what I'm talking about, D-E-D dead." *(S01)*
+> "Now you're brave. Be brave, boy." *(S20 — Heroism on [[Valerian Hellebore]])*
+> "Man who cleans house expects company. That's all I'm gonna say." *(S20 — player, above-table)*
+> "Fuck it, we ball." *(S20 — player)*
 
 ## Relationships
 
 - [[Deanna Smith-Wesson]] — twin; included in the Beast Tamer's harem offer; "Nova Twins" (DM's nickname).
 - Party quartermaster-in-the-making (infusions, future Bag of Holding).
+- [[Valerian Hellebore]] — **S20:** Heroism and *"Be brave, boy"* after Val failed the photo CON save; teasing (*"someone's got a weak stomach"*).

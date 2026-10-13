@@ -43,6 +43,11 @@ For a party at level 10 who have catalogued [[Beast Thrall]]s, [[Feral Vampire T
   ⚔️ **KILLED BY [[Flux]]** — bow (27 to hit, 10 damage) + **Sneak Attack (18)** + **Finger Guns** (20 to hit, 7). She had softened it earlier with **Witch Bolt at 3rd level for 24**, and [[Eiluned "Lulu" Denulie]]'s **Draconic Spirit** breath weapon hit it in round 1 after it **failed a DEX save on a 12**.
   ⚠️ **THE ANTI-TANK FAILED THE SAME WAY TWICE.** Built to punish [[Vega Bloodroot]], it once again did its worst damage to **[[Flux]] and [[Eiluned "Lulu" Denulie]]** — the same two characters it nearly killed in S15. **Vega, raging and resistant, took the least of the three.**
 
+- **S20 ([[Session 20 — Home Is Where the Heart Is]]) — ONE, INSIDE THE NEST HOUSE AT [[The Ruined Neighborhood (Vampire Nest)]], AND IT NEVER GOT TO DO ANYTHING.** ⚠️ **Third location for the species** (relic chamber, tower, now a vampire nest). [[Vega Bloodroot]] spotted it on her scouting pass, back turned beside a vampire thrall: *"one is a Boilborn and the other is just a regular vampire thrall."*
+  🩸 **THE ANTI-TANK WORKED, JUST NOT HOW IT WAS BUILT TO.** Vega **refused to melee it at all:** *"I, I'm not gonna cut this guy, he's gonna drip on me, it's gross."* **No boil burst and no Rupture Burst fired on the record.**
+  🎯 **Focused fire from range by five PCs:** [[Barrett Grimmskar]] (12 piercing + 5 fire; then a crit on his 18–20 range for 22 piercing + 7 fire, and 13 piercing + 9 fire), [[Samothy Smith-Wesson]] (11, then 14 on a lucky-point reroll), [[Zelda Z Whipper|Zelda]] (**Guiding Bolt, 20 radiant**), [[Flux]] (Starry Wisp + Sneak Attack through a window).
+  ⚔️ **KILLED BY [[Eiluned Lulu Denulie|Lulu]] in round two** with **Bacterial Barrage** (⚑ spell name held, S20 spell-check row 4), 24 to hit, **18** damage: *"He's dead. You killed him."*
+
 ## The design intent, on the record
 
 The DM built these to punish a specific player, said so, and then assessed the result honestly:
@@ -55,6 +60,7 @@ The DM built these to punish a specific player, said so, and then assessed the r
 
 ## Open Threads
 
+- ⚑ **S20 — and now one inside a vampire nest**, alongside vampire thralls. **Who fields them?** Still unstated. Nobody in-fiction remarked on it.
 - 🛑 **S18 — WHAT WAS ONE DOING AT [[The Cliffside Tower]], SERVING A NECROMANCER?** They were introduced guarding a **pre-vampire fire relic** two days east; one now turns up **on the far side of [[The Dead Zone]] in a necromancer's thrall pack**. ⚠️ **Nobody in-fiction remarked on it.** ▶ **This is a real continuity question and it is new.**
 - ⚑ **S18 — are they commandable?** When [[The Necromancer]] died, *"Their contract is over"* and the surviving **thralls** fled. ⚑ **The Boilborn was already dead by then**, so whether it was bound the same way is **unknown.**
 - 🛑 **What are they, and where do they come from?** A natural 20 Nature check returned nothing. No lore, no rumour, no name in play except the DM's own.
@@ -65,7 +71,7 @@ The DM built these to punish a specific player, said so, and then assessed the r
 
 ## Related
 
-- **Sessions:** [[Session 15 — Only Those Who Bleed Fire]] · [[Session 18 — I Knew You'd Come]]
-- **Locations:** [[Broken Descent]] · [[Grate of the Veins]] · [[Old Shrine]] · [[The Cliffside Tower]]
+- **Sessions:** [[Session 15 — Only Those Who Bleed Fire]] · [[Session 18 — I Knew You'd Come]] · [[Session 20 — Home Is Where the Heart Is]]
+- **Locations:** [[Broken Descent]] · [[Grate of the Veins]] · [[Old Shrine]] · [[The Cliffside Tower]] · [[The Ruined Neighborhood (Vampire Nest)]]
 - **Creatures & NPCs:** [[Beast Thrall]] · [[Feral Vampire Thrall]] · [[The Massive Thrall]] · [[The Necromancer]]
 - **Hub:** [[Campaign Dashboard]] · [[House Rules & Rulings]] · [[DM Questions — Open]] · [[Names & Terms]]

@@ -6,7 +6,7 @@
 | --------------------- | --------------------------------------------------- |
 | **Race**              | Changeling                                          |
 | **Class**             | Bard / Rogue (Arcane Trickster)                     |
-| **Level**             | **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
+| **Level**             | **14** as of S20, on the record at session end (her player: *"14 is what we will be up to, yes."*; ⚑ the 12 → 13 step at S18 was never recorded on this page). *(Previously:)* **12** as of S16 (5 at S01; 8 at S09; **8 → 10 in one award** ⚑; **10 → 12 off-screen between S15 and S16** ⚑) |
 | **Signature weapons** | Longbow · Finger Guns (force cantrip, bonus action) |
 | User_ID               | 109467614                                           |
 | Character_ID          | 159788044                                           |
@@ -20,7 +20,18 @@
 
 Flux's Fantabulous Flipside Frock (graduation item; worn) · grappling-hook bracers · longbow — see [[Loot Tracker S01-S10]].
 
+- **S20 — every book in the nest house's library** (medical, history, religious texts incl. one on **the Sisters of Light**) **plus the guest-room medical book(s)** handed over by [[Valerian Hellebore]]. In her **bag of holding**. See [[Loot Tracker S11-S20]].
+- ⚑ **S20 — study search:** 2 diamonds, 1 ruby, and 2 unused wrapped scalpels; **holder / whether taken not stated.**
+
 ## Key Events
+
+- **S20: THROUGH THE WINDOW, INTO THE LIBRARY, AND OVER THE SCOUT'S BODY.** ⚔️ Shot through a window in round 1 (**Starry Wisp** 17 for *"10, so 20"* radiant + **Sneak Attack 12**; Finger Guns 6), then **climbed in through the same window** in round 2 (Finger Guns 25 for 12 + **Sneak Attack 23**).
+  ⚑ Declared the **study** search (25 ⚑ on another speaker's label): medical texts *"not dusty, not destroyed"*, 2 diamonds, 1 ruby, 2 unused scalpels. **History 9** half-recalled a second clean room; [[Barrett Grimmskar]] completed it.
+  ⭐ **Library** (Bardic Inspiration, 18): medical, history and religious books, one on **the Sisters of Light**. **She took all of them.**
+  ⚑ Failed the heart's INT save (**12**, 6 psychic). **Picked the chest's lock (28)** and opened it on the **scout's skeleton**.
+  ⚑ **She asked to bury him; [[Lt. Hargraven]] said burn him.** 🛑 **Undecided.**
+  ⚑ Encouraged [[Eiluned Lulu Denulie|Lulu]]'s flirt with Hargraven: *"I think you're wearing them down."*
+  ⭐ **Level 13 → 14.** ⚠️ No level-14 feature read aloud for her in the session note.
 
 - **S19: SHE IS THE DAMAGE ENGINE OF THE WHOLE SESSION AND NOBODY THANKS HER FOR IT.** ⭐ **Her party-wide buff is the load-bearing mechanical fact of S19** — **+1d6 radiant on every attack by every PC**, and the DM doubles radiant against these vampires, so a 4-point rider becomes 8 and a 6 becomes 12. ⚠️ **Any comparison of this session's damage to anything before S18 is invalid without accounting for it.**
   🛑 **AND SHE HAS TO REMIND THE TABLE TO APPLY IT:** *"Every attack, guys, have an extra 1d6 radiant damage."* ⚑ **Second session running that this buff sets the party's damage ceiling, and it is STILL NEVER NAMED IN PLAY.** ▶ It is a verbatim match for **Rite of the Dawning Radiance**, filed from S18 in [[Names & Terms]] and [[Homebrew Abilities]] — **the name was not spoken this session, so it is not written into the transcript.**
@@ -67,3 +78,4 @@ Flux's Fantabulous Flipside Frock (graduation item; worn) · grappling-hook brac
 ## Relationships
 
 - Reads as the party's level head: relayed the Beast Tamer intelligence to command accurately and completely.
+- **The dead scout** (Hargraven's former soldier, unnamed) — **S20:** she offered him a burial; [[Lt. Hargraven]] prefers burning (*"We should probably burn the body"*). ⚑ Unresolved difference.

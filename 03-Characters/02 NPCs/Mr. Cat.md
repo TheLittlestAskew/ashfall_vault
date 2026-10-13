@@ -44,6 +44,8 @@ Summoned via Samothy's smith's tools (S01 house rule). Crossed from equipment to
 - **S19: PRESENT, CARRIED, AND NON-COMBAT.** ⚑ **He took no independent action all session.** He rode [[Samothy Smith-Wesson]]'s shoulder for the round-two 30 ft move — *"can I say that Cat is on my shoulder"* / DM: *"Yeah, that's fine"* — and that is his entire contribution to the record. 🛑 **No attacks, no deflects, no rolls.**
   ⚠️ **Worth noting against S18**, where he won the boss fight: **the session immediately after his promotion to decisive combat asset, he is luggage again.** ⚑ **Not a status change — just a quiet night in a fight that was going well.**
 
+- **S20 ([[Session 20 — Home Is Where the Heart Is]]): THE SEARCH CAT.** Acted on [[Samothy Smith-Wesson]]'s turn in the nest-house fight (⚑ no attack by him is recorded). ✅ **He gave Samothy advantage on the master-bedroom search** (Investigation **14**), which turned up **an emerald, an amethyst, a garnet** and, under the bed, the **unlocked lockbox of photographs**. The table credited him with *"20 passive perception"*. Teleported back to [[The Walled Base (Museum-Castle)]] with the party.
+
 ## House Rules Attached
 
 Summoning costs an action (smith's tools / summoning word); dormant after combat/task; Deflect = outright cancel of one attack in a multiattack.

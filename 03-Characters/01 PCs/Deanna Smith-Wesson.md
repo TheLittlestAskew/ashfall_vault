@@ -53,6 +53,10 @@ Her bones were crushed to dust inside intact skin — *"you go to lift her up an
 
 ## Key Events
 
+- **S20: REMEMBERED, NOT PRESENT.** ⚖️ **The DM set her curse count at the table: *"7. … That's Madi's favorite number, so 7 is what it was."*** ✅ Consistent with the **seven fused curses** recorded since S14; now a stated ruling rather than an inference. ▶ [[House Rules & Rulings]].
+  ⚑ **She is recalled as present at the other clean room** — the house near [[The Grand Library of the Veiled Dawn|the library]] the party scouted pre-Lulu, which [[Flux]] and [[Barrett Grimmskar]] remembered as having *"a very clean room. With a very similar table."* ⚖️ DM, on the same scene: *"No, regular Val was there."* ⚑ **Which house is unstated.**
+  ⚠️ **No level change recorded** (deceased; last recorded level 10 as of S10).
+
 - **S19: 🛑 SHE IS CREMATED — AND THE TABLE SKIPPED THE SCENE.** ⭐ **The thread open since S14 closes.** At [[Samothy Smith-Wesson]]'s request her body is burned on a pyre in the courtyard of [[The Walled Base (Museum-Castle)]]. The DM's boxed text:
   > *"The pyre is built in the castle courtyard, surrounded by guards, scouts, and town folks who knew Deanna, along with her closest friends and comrades. As the flames burn, there's a faint violet hue, **a side effect of Deanna's lingering curses**. A cold wind rolls through the courtyard, carrying ash like falling snow. Samothy stands stiff, jaw clenched, refusing to cry."*
   ⚑ **FIRST MENTION IN THE CAMPAIGN OF LINGERING CURSES ON HER BODY** — and the first physical manifestation of the seven fused curses that killed her in S14. **They were still active at the moment of cremation.**

@@ -9,7 +9,7 @@
 | **Bound to** | [[Valerian Hellebore]] |
 | **Appearance** | *"He's red and orange"* — the only description on the record |
 | **Status** | 🟢 **Active** — summoned, dismissed, and re-summoned in the same session |
-| **Last Known Location** | Airborne around the collapsed two-storey house, [[The Ruined Neighborhood (Vampire Nest)]] |
+| **Last Known Location** | With [[Valerian Hellebore]], [[The Walled Base (Museum-Castle)]] (end of S20). *(Was: airborne around the collapsed two-storey house, [[The Ruined Neighborhood (Vampire Nest)]], S19)* |
 | **First appearance** | [[Session 19 — You Can Let It Go Now]] (09/23/2026) |
 
 ## Description
@@ -27,6 +27,7 @@ Introduced flat, by his own summoner, with no ceremony and no reaction from the 
   > *"you're flying around the house and you're looking for enemies and you see 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, **And you also see an enemy you haven't seen before.** Oh, and you did not find the Beast Master."*
   **12 enemies, one unfamiliar type, and no [[The Beast Master|Beast Master]].** 🛑 **He took no other action all session and was not targeted.**
   ⚠️ **Note the mechanical shape of this:** the party's decisive intelligence this session came from a familiar, not a PC — and [[Zelda Z Whipper|Zelda]] was **talked out** of doing the same job herself in Wild Shape (*"you going in alone got you killed"*). **Blaze did the scouting nobody was willing to risk a body on.**
+- **S20 ([[Session 20 — Home Is Where the Heart Is]]) — IN THE TURN ORDER, MOVEMENT ONLY.** Still in **bat** form, he had his own initiative slot (ninth, after [[Valerian Hellebore]]; the DM: *"Whoever Bat is, it's his turn"*) and **took turns moving** in the ground-floor fight inside the nest house. 🛑 **No attacks, no rolls, not targeted.** Present with Val through the search and the heart room; teleported back to [[The Walled Base (Museum-Castle)]] with the party.
 
 ## Open Threads
 
@@ -39,6 +40,6 @@ Introduced flat, by his own summoner, with no ceremony and no reaction from the 
 
 - Bound to: [[Valerian Hellebore]]
 - Companions: [[Mr. Cat]]
-- Sessions: [[Session 19 — You Can Let It Go Now]]
+- Sessions: [[Session 19 — You Can Let It Go Now]] · [[Session 20 — Home Is Where the Heart Is]]
 - Locations: [[The Ruined Neighborhood (Vampire Nest)]]
 - Reference: [[Campaign Dashboard]] · [[Names & Terms]]
