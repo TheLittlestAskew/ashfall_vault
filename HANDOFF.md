@@ -181,6 +181,21 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-10-26 23:40 ET · Claude Code — S21 Convo 2 halted (no handoff / no session note)
+- **Changed:** no vault content changed. Convo 2 propagate launched for S21 / 2026-10-26, but `_pipeline/S21/handoff.md` and the S21 session note don't exist (Phase B was halted, entry below). Blocker written to `_pipeline/S21/_BLOCKED_convo2.md` (gitignored). Generator, trackers, and Vault Sync Status not run or touched.
+- **Commit:** —
+- **Friction:** re-run: Convo 2 fired even though its upstream Phase B was blocked. The watcher should not advance to propagate without `handoff.md`.
+- **Next:** Unchanged. Resolve the S21/S22 split, fix `state.json`, re-run Phase B, then Convo 2.
+- **Watch out:** still do NOT `git add -A`; the two raw transcripts are untracked on purpose.
+
+### 2026-10-26 23:15 ET · Claude Code — S21 Phase B halted (spell-check / transcript mismatch)
+- **Changed:** no change to tracked files. Phase B was launched for `21-102626` but the approved `_pipeline/S21/spellcheck.md` is the 10/19 (`21-101926`) table; halted before applying anything. Blocker written to `_pipeline/S21/_BLOCKED_phaseB_102626.md` (gitignored).
+- **Commit:** —
+- **Friction:** misread — watcher `state.json` paired the S21 root folder (10/19 table) with the 10/26 transcript after the 10/26 Phase A collided into `_pipeline/S21/102626/`; caught by checking the table header + line refs against the transcript before applying.
+- **Friction:** gen-fail — Supabase MCP still `Unauthorized`; no roll queries for 2026-10-19 or 2026-10-26.
+- **Next:** Unchanged. See the block above this log. (Before re-running Phase B: decide whether 10/26 is S22, then fix `_pipeline/state.json` so transcript/mmddyy/iso match the approved table.)
+- **Watch out:** The two untracked raw transcripts (`21-101926`, `21-102626`) carry privacy flags; do NOT `git add -A`.
+
 ### 2026-10-12 23:55 ET · Claude Code — S20 Convo 2 automated sync
 - **Changed:** Full S20 propagation (4 parallel agents + Dashboard + Vault Sync Status): 0 created, 32 modified, plus the session note and spell-check log. Roll Stats and the website index are both blocked (Supabase `Unauthorized`; `node` gated). The S20 transcripts were deliberately left unstaged for privacy.
 - **Commit:** — (34 files STAGED, not committed: `git commit` required approval in the headless run)
