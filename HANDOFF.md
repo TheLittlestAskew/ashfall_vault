@@ -181,6 +181,21 @@
 ## Log
 <!-- newest first · one entry per logical task/session · timestamp · source · changed · commit · next -->
 
+### 2026-11-23 23:00 ET · Claude Code — S21 Convo 2 halted again (no handoff / no session note)
+- **Changed:** no vault content changed. Convo 2 relaunched for S21 / 2026-11-23; `_pipeline/S21/handoff.md` and any `01-Sessions/Session 21 — …` note still don't exist (Phase B halted, entry below). Appended a dated section to `_pipeline/S21/_BLOCKED_convo2.md` (gitignored). Trackers, journal, pages, index generator, and Vault Sync Status untouched.
+- **Commit:** —
+- **Friction:** misread (pipeline) — Convo 2 was fired without its Phase B inputs a second time; the runner should check for `handoff.md` before launching Convo 2.
+- **Next:** Unchanged. Confirm 10/19 = S21, 10/26 = S22, 11/23 = S23, renumber files/folders, fix `state.json`, approve `112326/spellcheck.md`, then re-run Phase B.
+- **Watch out:** the prompt's `git add -A` would publish the unredacted `21-112326_raw_transcript.md`; it was deliberately left untracked.
+
+### 2026-11-23 23:00 ET · Claude Code — 11/23 Phase B halted (spell-check / transcript mismatch, again)
+- **Changed:** no change to tracked files. Phase B was launched for `21-112326`, but the approved `_pipeline/S21/spellcheck.md` is still the 10/19 (`21-101926`) table (0 of its distinctive strings appear in the 11/23 transcript). The real 11/23 table is `_pipeline/S21/112326/spellcheck.md`, unapproved. Halted before applying anything; no corrected transcript, log, session note, or `handoff.md`. Blocker: `_pipeline/S21/_BLOCKED_phaseB_112326.md` (gitignored).
+- **Commit:** —
+- **Friction:** misread (pipeline) — watcher paired the root S21 table with a new recording for the second time; halting was the only safe move. Fix `state.json` + the collision path in `ashfall_pipeline_watch.js`.
+- **Friction:** gen-fail — `supabase` MCP `Unauthorized` again on both roll queries for 2026-11-23; no rolls fabricated.
+- **Next:** Unchanged. Confirm 10/19 = S21, 10/26 = S22, 11/23 = S23, renumber files/folders, fix `state.json`, approve `112326/spellcheck.md`, then re-run Phase B.
+- **Watch out:** `21-112326_raw_transcript.md` is untracked on purpose (health, politics, household, prison anecdote). Do NOT `git add -A`.
+
 ### 2026-10-26 23:40 ET · Claude Code — S21 Convo 2 halted (no handoff / no session note)
 - **Changed:** no vault content changed. Convo 2 propagate launched for S21 / 2026-10-26, but `_pipeline/S21/handoff.md` and the S21 session note don't exist (Phase B was halted, entry below). Blocker written to `_pipeline/S21/_BLOCKED_convo2.md` (gitignored). Generator, trackers, and Vault Sync Status not run or touched.
 - **Commit:** —
